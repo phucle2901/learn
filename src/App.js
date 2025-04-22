@@ -1,13 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
 import DefaultLayout from './Layout';
-import {MENU_ITEMS_SHARE} from './data/english';
+
+import Question from './component/english/question';
 
 function App() {
-
+  
   return (
     <div className="App">
-      <DefaultLayout items={MENU_ITEMS_SHARE}></DefaultLayout>
+      <DefaultLayout >
+        <Question examId={1}/>
+      </DefaultLayout>
     </div>
   );
 }

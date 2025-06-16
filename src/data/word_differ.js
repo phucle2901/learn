@@ -118,23 +118,262 @@ export const eWORDDIFFER = [
     answer: `1`,
     explanation: `<p><strong>Kiến thức:</strong> Trọng âm từ có 2, 3, 4 âm tiết</p><p><strong>Giải thích:</strong></p><p>A. leisure /ˈleʒər/  B. minority /maɪˈnɒrəti/</p><p>C. exciting /ɪkˈsaɪtɪŋ/  D. traditional /trəˈdɪʃənl/</p><p><strong>Quy tắc:</strong> Những từ có tận cùng là đuôi “-ity” có trọng âm rơi vào âm tiết đứng ngay trước nó.</p><p>Trọng âm đáp án A rơi vào âm tiết thứ nhất, còn lại là âm tiết thứ hai.</p><p><strong>Chọn A.</strong></p>`,
   },
-  // {
-  //   id: 7,
+  {
+    id: 7,
+    question: `
+    `,
+    options: [`A. knitting`, `B. handball`, `C. feather `, `D. machine`],
+    answer: 4,
+    explanation: `<div>
+                            <p>knitting /ˈnɪt.ɪŋ/ =&gt; trọng âm 1</p>
+<p>handball /ˈhænd.bɔːl/ =&gt; trọng âm 1</p>
+<p>feather /ˈfeð.ər/ =&gt; trọng âm 1</p>
+<p>machine /məˈʃiːn/ =&gt; trọng âm 2</p>
+<p>Đáp án D có trọng âm rơi vào âm tiết thứ 2, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ nhất.</p>                        </div>`,
+  },
+  {
+    id: 8,
+    question: `
+    `,
+    options: [`A. answer `, `B. become`, `C. enter `, `D. carry `],
+    answer: 2,
+    explanation: `<div>
+                            <p>answer /ˈɑːn.sər/</p>
+<p>become /bɪˈkʌm/</p>
+<p>enter /ˈen.tər/</p>
+<p>carry /ˈkær.i/</p>
+<p><strong>Giải thích:</strong> Đáp án B có trọng tâm rơi vào âm tiết thứ 2, các phương án còn lại đều có âm tiết rơi vào âm thứ nhất.</p>                        </div>`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`A. recently`, `B. usually`, `C. happily`, `D. exactly`],
+    answer: 4,
+    explanation: `<div>
+                                                        <p>recently /ˈriːsntli/</p>
+<p>usually /ˈjuːʒuəli/</p>
+<p>happily /ˈhæpɪli/</p>
+<p>exactly /ɪɡˈzæktli/</p>
+<p>Phương án D có trọng âm 2, các phương án còn lại có trọng âm 1.&nbsp;</p>                                                    </div>`,
+  },
+   {
+    id: 8,
+    question: `
+    `,
+    options: [`A. easily`, `B. heavily`, `C. correctly`, `D. specially`],
+    answer: 3,
+    explanation: `<div>
+                                                        <p>easily /ˈiːzəli/</p>
+<p>heavily /ˈhevɪli/</p>
+<p>correctly /kəˈrektli/</p>
+<p>specially /ˈspeʃəli/</p>
+<p>Phương án C có trọng âm 2, các phương án còn lại có trọng âm 1.&nbsp;</p>                                                    </div>`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`happy
+'`, `boring
+'`, `helpful
+'`, `alone
+'`],
+    answer: 4,
+    explanation: `<div>
+                                                        <p>happy /ˈhæpi/ =&gt; trọng âm 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>boring /ˈbɔːrɪŋ/ =&gt; trọng âm 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>helpful /ˈhelpfl/ =&gt; trọng âm 1&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>alone /əˈləʊn/ =&gt; trọng âm 2</p>
+<p>Phương án D có trọng âm 2, các phương án còn lại có trọng âm 1.</p>                                                    </div>`,
+  },
+   {
+    id: 9,
+    question: `
+    `,
+    options: [`annoyed
+'`, `curly
+'`, `active
+'`, `skillful
+'`],
+    answer: 1,
+    explanation: `<div>
+                                                        <p>annoyed /əˈnɔɪd/ =&gt; trọng âm 2</p>
+<p>curly /ˈkɜːli/ =&gt; trọng âm 1</p>
+<p>active /ˈæktɪv/ =&gt; trọng âm 1</p>
+<p>skillful /ˈskɪlfl/ =&gt; trọng âm 1</p>
+<p>Phương án A có trọng âm 2, các phương án còn lại có trọng âm 1.</p>                                                    </div>`,
+  },
+   {
+    id: 9,
+    question: `
+    `,
+    options: [`rainy
+`, `
+ashamed
+`, `hopeful
+`, `selfish
+`],
+    answer: 2,
+    explanation: `<div>
+                                                        <p>rainy /ˈreɪni/ =&gt; trọng âm 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>ashamed /əˈʃeɪmd/ =&gt; trọng âm 2</p>
+<p>hopeful /ˈhəʊpfl/ =&gt; trọng âm 1&nbsp;&nbsp;</p>
+<p>selfish /ˈselfɪʃ/ =&gt; trọng âm 1</p>
+<p>Phương án B có trọng âm 2, các phương án còn lại có trọng âm 1.</p>                                                    </div>`,
+  },
+   {
+    id: 9,
+    question: `
+    `,
+    options: [`simultaneous
+`, `
+tournament
+`, `media
+`, `patterned
+`],
+    answer: 1,
+    explanation: `<div>
+                            <p>simultaneous /ˌsɪm.əlˈteɪ.ni.əs/</p>
+<p>tournament /ˈtʊə.nə.mənt/</p>
+<p>media /ˈmiː.di.ə/</p>
+<p>patterned /ˈpæt.ənd/</p>
+<p><strong>Giải thích: </strong>Đáp án A có trọng âm rơi vào âm tiết thứ 3, các phương án còn lại đều là những từ có trọng âm rơi vào âm tiết thứ nhất.</p>                        </div>`,
+  },
+   {
+    id: 9,
+    question: `
+    `,
+    options: [`anosmic
+`, `irregular
+`, `connection
+`, `flavour
+`],
+    answer: 4,
+    explanation: `<div>
+                            <p>anosmic /ænˈɒz.mɪk/</p>
+<p>irregular /ɪˈreɡ.jə.lər/</p>
+<p>connection /kəˈnek.ʃən/</p>
+<p>flavour /ˈfleɪ.vər/</p>
+<p><strong>Giải thích:</strong> Đáp án D có trọng âm rơi vào âm tiết thứ nhất, trong khi các phương án còn lại đều có trọng âm rơi vào âm tiết thứ 2.</p>                        </div>`,
+  },
+   {
+    id: 9,
+    question: `
+    `,
+    options: [`surprise
+`, `amaze
+`, `inspire
+`, `desert
+`],
+    answer: 4,
+    explanation: `<div>
+                            <p>surprise &nbsp;/səˈpraɪz/</p>
+<p>amaze /əˈmeɪz/</p>
+<p>inspire /ɪnˈspaɪər/</p>
+<p>desert /ˈdez.ət/</p>
+<p><strong>Giải thích:</strong> Đáp án D có trọng âm rơi vào âm tiết thứ nhất, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ 2.</p>                        </div>`,
+  },
+   {
+    id: 9,
+    question: `
+    `,
+    options: [`
+extra
+`, `
+hungry
+`, `pollute
+`, `Nordic
+`],
+    answer: 3,
+    explanation: `<div>
+                            <p>extra /ˈek.strə/</p>
+<p>hungry /ˈhʌŋ.ɡri/</p>
+<p>pollute /pəˈluːt/</p>
+<p>Nordic /ˈnɔː.dɪk/</p>
+<p><strong>Giải thích:</strong> Đáp án C có trọng âm rơi vào âm tiết thứ 2, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ nhất.</p>                        </div>`,
+  },
+   // {
+  //   id: 9,
   //   question: `
   //   `,
   //   options: [``, ``, ``, ``],
   //   answer: 4,
   //   explanation: ``,
   // },
-  // {
-  //   id: 8,
+   // {
+  //   id: 9,
   //   question: `
   //   `,
   //   options: [``, ``, ``, ``],
   //   answer: 4,
   //   explanation: ``,
   // },
-  // {
+   // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [``, ``, ``, ``],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+   // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [``, ``, ``, ``],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+   // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [``, ``, ``, ``],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+   // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [``, ``, ``, ``],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+   // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [``, ``, ``, ``],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+   // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [``, ``, ``, ``],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+   // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [``, ``, ``, ``],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+   // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [``, ``, ``, ``],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+   // {
   //   id: 9,
   //   question: `
   //   `,

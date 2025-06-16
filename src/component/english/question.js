@@ -10,6 +10,7 @@ import { eUNDERLINED } from "../../data/underlined";
 import { eVOCABULARY } from "../../data/vocabulary";
 import { eWORDDIFFER } from "../../data/word_differ";
 import { eEXTRACONTENT } from "../../data/extracontent";
+import {eRIGHTTENSE}  from  "../..//data/righttenseorform"
 
 const Question = ({ examId  }) => {
     const defaultArray = [2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0];
@@ -83,16 +84,18 @@ const Question = ({ examId  }) => {
     useEffect(()=>{
      let questionPlan = [];
 
-      // questionPlan.push(...getRandomItems(ePRONOUNCIATION, 2,0));     
-      // questionPlan.push(...getRandomItems(eWORDDIFFER, 2,1));
-      // questionPlan.push(...getRandomItems(eUNDERLINED, 3,2));
-      // questionPlan.push(...getRandomItems(eVOCABULARY, 9,3));
-      // questionPlan.push(...getRandomItems(eSUITABLE, 2,4));
-      // questionPlan.push(...getRandomItems(eCLOSEST, 2,5));
-      // questionPlan.push(...getRandomItems(eOPPOSITE, 2,6));
-      //questionPlan.push(...getReadRandomItems(eREAD, 1,8));
-      //questionPlan.push(...getRandomItems(eREARRANGE, 3,9 ));
-      questionPlan.push(...getRandomItems(eREWRITE, 4,10));
+      questionPlan.push(...getRandomItems(ePRONOUNCIATION, 2,0));     
+      questionPlan.push(...getRandomItems(eWORDDIFFER, 2,1));
+      questionPlan.push(...getRandomItems(eUNDERLINED, 3,2));
+       questionPlan.push(...getRandomItems(eVOCABULARY, 9,10));
+      questionPlan.push(...getRandomItems(eSUITABLE, 2,4));
+      questionPlan.push(...getRandomItems(eCLOSEST, 2,5));
+      questionPlan.push(...getRandomItems(eOPPOSITE, 2,6));
+      
+     questionPlan.push(...getRandomItems(eRIGHTTENSE, 4,7));
+     questionPlan.push(...getReadRandomItems(eREAD, 1,8));
+      questionPlan.push(...getRandomItems(eREARRANGE, 3,9 ));
+     questionPlan.push(...getRandomItems(eREWRITE, 4,10));
 
       console.log(questionPlan);
 
@@ -181,7 +184,7 @@ const Question = ({ examId  }) => {
             : "#ffe0e0" // reddish for incorrect
           : "#f9f9f9"
       }}>
-      {q.answer}      
+      {/* {q.answer}       */}
        {q.extra && q.extra.length > 0 && (
         <div className="extra-content" dangerouslySetInnerHTML={{ __html: q.extra }}></div>
        )}

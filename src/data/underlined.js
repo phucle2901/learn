@@ -195,9 +195,9 @@ export const eUNDERLINED = [
   },
   {
     id: 14,
-    question: `<p><u>Going fishing</u> alone <u>is</u> one of <u>my Dad‘s</u> favorite <u>leisure activity</u>.</p> 
+    question: `<p><u>Going fishing</u> alone <u>is</u> one of <u>my Dad's</u> favorite <u>leisure activity</u>.</p> 
     `,
-    options: [`A. <u>Going fishing</u>`, `B. <u>is</u>`, `C. <u>my Dad‘s</u>`, `D. <u>leisure activity</u>`],
+    options: [`A. <u>Going fishing</u>`, `B. <u>is</u>`, `C. <u>my Dad's</u>`, `D. <u>leisure activity</u>`],
     answer: 4,
     explanation: ``,
   },
@@ -217,14 +217,17 @@ export const eUNDERLINED = [
     answer: 2,
     explanation: ``,
   },
-  // {
-  //   id: 15,
-  //   question: `
-  //   `,
-  //   options: [`A. `, `B. `, `C. `, `D. `],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
+  {
+    id: 15,
+    question: `How much <u>damage</u> <u>did</u> <u>the avalanche</u> <u>caused</u>? 
+    `,
+    options: [`A. <u>damage</u>`, `B. <u>did</u>`, `C. <u>the avalanche</u>`, `D. <u>caused</u>`],
+    answer: 4,
+    explanation: `<div>
+                            <p style="text-align: justify;"><strong>Giải thích:</strong> Trong câu hỏi, khi đã có sự xuất hiện của trợ động từ thì động từ chính trong câu quay về dạng nguyên thể.</p>
+<p style="text-align: justify;"><strong>Sửa:</strong> How much damage did the avalanche <strong>cause</strong>?</p>
+<p style="text-align: justify;"><em>(Vụ lở tuyết đã gây ra bao nhiêu thiệt hại vậy?)</em></p>                        </div>`,
+  },
   // {
   //   id: 15,
   //   question: `

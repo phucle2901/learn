@@ -1,7 +1,8 @@
-.App {
-  text-align: center;
-}
 
+.App{
+  padding:20px 20%;
+
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +36,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+span p{
+  display: inline-block;
+  margin: 0;
+  padding-top:10px ;
+}
+.rewrite{width: 60%;
+  
+} 
+.question p{
+  margin: 0;
+  
 }

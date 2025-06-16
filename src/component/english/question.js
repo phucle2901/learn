@@ -92,8 +92,9 @@ const Question = ({ examId  }) => {
       questionPlan.push(...getRandomItems(eCLOSEST, 2,5));
       questionPlan.push(...getRandomItems(eOPPOSITE, 2,6));
       
-     questionPlan.push(...getRandomItems(eRIGHTTENSE, 4,7));
+     
      questionPlan.push(...getReadRandomItems(eREAD, 1,8));
+     questionPlan.push(...getRandomItems(eRIGHTTENSE, 4,7));
       questionPlan.push(...getRandomItems(eREARRANGE, 3,9 ));
      questionPlan.push(...getRandomItems(eREWRITE, 4,10));
 

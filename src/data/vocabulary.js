@@ -2631,9 +2631,9 @@ Who
   `,
     options: [`a`, `an`, `the`, `none`],
     answer: `2`,
-    explanation: `- Dùng a/an trước danh từ lần đầu tiên nhắc đến với mục đích giới thiệu, đánh giá.<br\>
+    explanation: `- Dùng a/an trước danh từ lần đầu tiên nhắc đến với mục đích giới thiệu, đánh giá.<br>
 
-- Dùng “an” trước danh từ (có tính từ) bắt đầu phiên âm là 1 nguyên âm:<br\>
+- Dùng “an” trước danh từ (có tính từ) bắt đầu phiên âm là 1 nguyên âm:<br>
 
 interesting book: /ˈɪntrɪstɪŋ/ /bʊk/
 `,

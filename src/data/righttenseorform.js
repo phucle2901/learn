@@ -231,7 +231,7 @@ garden.
         ],
     answer: `the
 `,
-  explanation: `Đây là câu gợi ý nên người nghe và người đọc đều biết về ngữ cảnh cuộc thoại<br\>
+  explanation: `Đây là câu gợi ý nên người nghe và người đọc đều biết về ngữ cảnh cuộc thoại<br>
 
 => the + danh từ đã được xác định do cả người nghe và người nói đều biết đến “the garden”.
 `,
@@ -246,7 +246,7 @@ most expensive restaurant in town.
         ],
     answer: `the
 `,
-  explanation: `Dùng "the" trong cấu trúc so sánh hơn nhất<br\>
+  explanation: `Dùng "the" trong cấu trúc so sánh hơn nhất<br>
 
 Cấu trúc: the + most + adj (dài)/ the + adj-est
 `,

@@ -1,6 +1,3 @@
-{
-  /* <p><strong><em>Mark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.</em></strong> */
-}
 export const eWORDDIFFER = [
   {
     id: 1,
@@ -157,7 +154,7 @@ export const eWORDDIFFER = [
 <p>exactly /ɪɡˈzæktli/</p>
 <p>Phương án D có trọng âm 2, các phương án còn lại có trọng âm 1.&nbsp;</p>                                                    </div>`,
   },
-   {
+  {
     id: 8,
     question: `
     `,
@@ -174,11 +171,16 @@ export const eWORDDIFFER = [
     id: 9,
     question: `
     `,
-    options: [`happy
-'`, `boring
-'`, `helpful
-'`, `alone
-'`],
+    options: [
+      `happy
+'`,
+      `boring
+'`,
+      `helpful
+'`,
+      `alone
+'`,
+    ],
     answer: 4,
     explanation: `<div>
                                                         <p>happy /ˈhæpi/ =&gt; trọng âm 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
@@ -187,15 +189,20 @@ export const eWORDDIFFER = [
 <p>alone /əˈləʊn/ =&gt; trọng âm 2</p>
 <p>Phương án D có trọng âm 2, các phương án còn lại có trọng âm 1.</p>                                                    </div>`,
   },
-   {
+  {
     id: 9,
     question: `
     `,
-    options: [`annoyed
-'`, `curly
-'`, `active
-'`, `skillful
-'`],
+    options: [
+      `annoyed
+'`,
+      `curly
+'`,
+      `active
+'`,
+      `skillful
+'`,
+    ],
     answer: 1,
     explanation: `<div>
                                                         <p>annoyed /əˈnɔɪd/ =&gt; trọng âm 2</p>
@@ -204,16 +211,21 @@ export const eWORDDIFFER = [
 <p>skillful /ˈskɪlfl/ =&gt; trọng âm 1</p>
 <p>Phương án A có trọng âm 2, các phương án còn lại có trọng âm 1.</p>                                                    </div>`,
   },
-   {
+  {
     id: 9,
     question: `
     `,
-    options: [`rainy
-`, `
+    options: [
+      `rainy
+`,
+      `
 ashamed
-`, `hopeful
-`, `selfish
-`],
+`,
+      `hopeful
+`,
+      `selfish
+`,
+    ],
     answer: 2,
     explanation: `<div>
                                                         <p>rainy /ˈreɪni/ =&gt; trọng âm 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
@@ -222,16 +234,21 @@ ashamed
 <p>selfish /ˈselfɪʃ/ =&gt; trọng âm 1</p>
 <p>Phương án B có trọng âm 2, các phương án còn lại có trọng âm 1.</p>                                                    </div>`,
   },
-   {
+  {
     id: 9,
     question: `
     `,
-    options: [`simultaneous
-`, `
+    options: [
+      `simultaneous
+`,
+      `
 tournament
-`, `media
-`, `patterned
-`],
+`,
+      `media
+`,
+      `patterned
+`,
+    ],
     answer: 1,
     explanation: `<div>
                             <p>simultaneous /ˌsɪm.əlˈteɪ.ni.əs/</p>
@@ -240,15 +257,20 @@ tournament
 <p>patterned /ˈpæt.ənd/</p>
 <p><strong>Giải thích: </strong>Đáp án A có trọng âm rơi vào âm tiết thứ 3, các phương án còn lại đều là những từ có trọng âm rơi vào âm tiết thứ nhất.</p>                        </div>`,
   },
-   {
+  {
     id: 9,
     question: `
     `,
-    options: [`anosmic
-`, `irregular
-`, `connection
-`, `flavour
-`],
+    options: [
+      `anosmic
+`,
+      `irregular
+`,
+      `connection
+`,
+      `flavour
+`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>anosmic /ænˈɒz.mɪk/</p>
@@ -257,15 +279,20 @@ tournament
 <p>flavour /ˈfleɪ.vər/</p>
 <p><strong>Giải thích:</strong> Đáp án D có trọng âm rơi vào âm tiết thứ nhất, trong khi các phương án còn lại đều có trọng âm rơi vào âm tiết thứ 2.</p>                        </div>`,
   },
-   {
+  {
     id: 9,
     question: `
     `,
-    options: [`surprise
-`, `amaze
-`, `inspire
-`, `desert
-`],
+    options: [
+      `surprise
+`,
+      `amaze
+`,
+      `inspire
+`,
+      `desert
+`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>surprise &nbsp;/səˈpraɪz/</p>
@@ -274,17 +301,22 @@ tournament
 <p>desert /ˈdez.ət/</p>
 <p><strong>Giải thích:</strong> Đáp án D có trọng âm rơi vào âm tiết thứ nhất, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ 2.</p>                        </div>`,
   },
-   {
+  {
     id: 9,
     question: `
     `,
-    options: [`
+    options: [
+      `
 extra
-`, `
+`,
+      `
 hungry
-`, `pollute
-`, `Nordic
-`],
+`,
+      `pollute
+`,
+      `Nordic
+`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>extra /ˈek.strə/</p>
@@ -293,7 +325,7 @@ hungry
 <p>Nordic /ˈnɔː.dɪk/</p>
 <p><strong>Giải thích:</strong> Đáp án C có trọng âm rơi vào âm tiết thứ 2, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ nhất.</p>                        </div>`,
   },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,
@@ -301,7 +333,7 @@ hungry
   //   answer: 4,
   //   explanation: ``,
   // },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,
@@ -309,7 +341,7 @@ hungry
   //   answer: 4,
   //   explanation: ``,
   // },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,
@@ -317,7 +349,7 @@ hungry
   //   answer: 4,
   //   explanation: ``,
   // },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,
@@ -325,7 +357,7 @@ hungry
   //   answer: 4,
   //   explanation: ``,
   // },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,
@@ -333,7 +365,7 @@ hungry
   //   answer: 4,
   //   explanation: ``,
   // },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,
@@ -341,7 +373,7 @@ hungry
   //   answer: 4,
   //   explanation: ``,
   // },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,
@@ -349,7 +381,7 @@ hungry
   //   answer: 4,
   //   explanation: ``,
   // },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,
@@ -357,7 +389,7 @@ hungry
   //   answer: 4,
   //   explanation: ``,
   // },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,
@@ -365,7 +397,7 @@ hungry
   //   answer: 4,
   //   explanation: ``,
   // },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,
@@ -373,7 +405,7 @@ hungry
   //   answer: 4,
   //   explanation: ``,
   // },
-   // {
+  // {
   //   id: 9,
   //   question: `
   //   `,

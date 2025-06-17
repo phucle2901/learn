@@ -1,6 +1,3 @@
-{
-  /* <p><strong><em>Rewrite the following sentences without changing their original meanings, using the words given</em></strong></p> */
-}
 export const eREWRITE = [
   {
     id: 1,
@@ -398,66 +395,70 @@ export const eREWRITE = [
     answer: `My younger brother enjoys watching historical films.`,
     explanation: ``,
   },
-  {id:31,
-  question: `“He’s not at home.”, his father said.
+  {
+    id: 31,
+    question: `“He’s not at home.”, his father said.
 '
-  `, options:[
-      ],
-  rewrite:`His father said that
+  `,
+    options: [],
+    rewrite: `His father said that
 '`,
-  answer:`he was not at home hoặc he wasn't at home
+    answer: `he was not at home hoặc he wasn't at home
 '`,
-  explanation:`<div>
+    explanation: `<div>
                             <p>Các bước biến đổi:</p>
 <p>- chuyển thì hiện tại đơn ở câu trực tiếp thành thì quá khứ đơn ở câu gián tiếp</p>
 <p>- giữ nguyên các thành phần khác trong câu chủ động</p>
 <p>=&gt; His father said that <strong>he was not at home.</strong></p>
-<p><strong>Tạm dịch:</strong><em>&nbsp;Cha anh nói rằng anh không có ở nhà.</em></p>                        </div>`
+<p><strong>Tạm dịch:</strong><em>&nbsp;Cha anh nói rằng anh không có ở nhà.</em></p>                        </div>`,
   },
-   {id:31,
-  question: `Thu said: "All the students will have a meeting next week".
+  {
+    id: 31,
+    question: `Thu said: "All the students will have a meeting next week".
 '
-  `, options:[
-      ],
-  rewrite:`Thu said that
+  `,
+    options: [],
+    rewrite: `Thu said that
 '`,
-  answer:`all the students would have a meeting the following week
+    answer: `all the students would have a meeting the following week
 '`,
-  explanation:`<div>
+    explanation: `<div>
                             <p>Các bước biến đổi:</p>
 <p>- chuyển động từ khuyết thiếu “will” hiện tại đơn ở câu chủ động thành “would” ở câu bị động</p>
 <p>- next week =&gt; the following week/ the next week/ the week after</p>
 <p>- giữ nguyên các thành phần khác trong câu chủ động</p>
 <p>=&gt; Thu said that <strong>all the students would have a meeting the following week.</strong></p>
-<p><strong>Tạm dịch:&nbsp;</strong><em>Cô Thu nói rằng tất cả học sinh sẽ có một buổi họp vào tuần sau.</em></p>                        </div>`
+<p><strong>Tạm dịch:&nbsp;</strong><em>Cô Thu nói rằng tất cả học sinh sẽ có một buổi họp vào tuần sau.</em></p>                        </div>`,
   },
-   {id:31,
-  question: `Her father said to her: "You can go to the movie with your friend".
+  {
+    id: 31,
+    question: `Her father said to her: "You can go to the movie with your friend".
 '
-  `, options:[
-      ],
-  rewrite:`Her father told her that
+  `,
+    options: [],
+    rewrite: `Her father told her that
 '`,
-  answer:`she could go to the movie with her friend
+    answer: `she could go to the movie with her friend
 '`,
-  explanation:`<div>
+    explanation: `<div>
                             <p>Các bước biến đổi:</p>
 <p>- chuyển động từ khuyết thiếu “can” hiện tại đơn ở câu chủ động thành “could” ở câu bị động</p>
 <p>- chuyển đại từ you =&gt; she, your =&gt; her</p>
 <p>- giữ nguyên các thành phần khác trong câu chủ động</p>
 <p>=&gt; Her father told her that <strong>she could go to the movie with her friend.</strong></p>
-<p><strong>Tạm dịch:</strong>&nbsp;<em>Cha cô ấy nói với cô ấy rằng cô ấy có thể đi xem phim với bạn mình.</em></p>                        </div>`
+<p><strong>Tạm dịch:</strong>&nbsp;<em>Cha cô ấy nói với cô ấy rằng cô ấy có thể đi xem phim với bạn mình.</em></p>                        </div>`,
   },
-   {id:31,
-  question: `Linh said, "If my father repairs the bike now, I will ride the bike to school."
+  {
+    id: 31,
+    question: `Linh said, "If my father repairs the bike now, I will ride the bike to school."
 '
-  `, options:[
-      ],
-  rewrite:`Linh said
+  `,
+    options: [],
+    rewrite: `Linh said
 '`,
-  answer:`if her father repaired the bike then, she would ride the bike to school 
+    answer: `if her father repaired the bike then, she would ride the bike to school 
 '`,
-  explanation:`<div>
+    explanation: `<div>
                             <p>Các bước biến đổi:</p>
 <p>- chuyển động từ khuyết thiếu “will” hiện tại đơn ở câu chủ động thành “would” ở câu bị động</p>
 <p>- chuyển thì hiện tại đơn ở câu chủ động thành thì quá khứ đơn ở câu bị động</p>
@@ -465,51 +466,54 @@ export const eREWRITE = [
 <p>- my =&gt; her, I =&gt; she</p>
 <p>- giữ nguyên các thành phần khác trong câu chủ động</p>
 <p>=&gt; Lan said <strong>if her father repaired the bike then, she would ride the bike to school.</strong></p>
-<p><strong>Tạm dịch:&nbsp;</strong><em>Lan nói nếu lúc đó bố cô sửa xe đạp thì cô sẽ đạp xe đi học.</em></p>                        </div>`
+<p><strong>Tạm dịch:&nbsp;</strong><em>Lan nói nếu lúc đó bố cô sửa xe đạp thì cô sẽ đạp xe đi học.</em></p>                        </div>`,
   },
-   {id:31,
-  question: `"Which planet do you like best, Tim?", Nam asked.
+  {
+    id: 31,
+    question: `"Which planet do you like best, Tim?", Nam asked.
 
-  `, options:[
-      ],
-  rewrite:`Nam asked Tim 
+  `,
+    options: [],
+    rewrite: `Nam asked Tim 
 `,
-  answer:`which planet he liked best
+    answer: `which planet he liked best
 `,
-  explanation:`<div>
+    explanation: `<div>
                             <p>Cấu trúc: S+ asked (+ O) +&nbsp; Wh-question+ S + V.</p>
 <p><strong>Biến đổi các thành phần trong câu:</strong></p>
 <p><strong>- Đại từ: you =&gt; he</strong></p>
 <p>- Thì động từ ở câu trực tiếp là thì hiện tại đơn nên khi chuyển sang câu gián tiếp, ta phải chia động từ ở thì quá khứ đơn</p>
 <p>S + V(s,es) =&gt; S + Ved</p>
 <p>=&gt; <strong>Nam asked Tim which planet he liked best.</strong></p>
-<p>Tạm dịch: Nam hỏi Tim thích hành tinh nào nhất.</p>                        </div>`
+<p>Tạm dịch: Nam hỏi Tim thích hành tinh nào nhất.</p>                        </div>`,
   },
-   {id:31,
-  question: `“Do the aliens eat the same types of foods and drinks like humans?”, the little boy. (whether)
+  {
+    id: 31,
+    question: `“Do the aliens eat the same types of foods and drinks like humans?”, the little boy. (whether)
 
-  `, options:[
-      ],
-  rewrite:`The little boy asked his teacher
+  `,
+    options: [],
+    rewrite: `The little boy asked his teacher
 `,
-  answer:`whether the aliens ate the same types of foods and drinks like humans.
+    answer: `whether the aliens ate the same types of foods and drinks like humans.
 `,
-  explanation:`<div>
+    explanation: `<div>
                             <p>Cấu trúc tường thuật câu hỏi Yes/No: S1 + asked + O + whether + S2 + V(lùi thì)</p>
 <p>Biến đổi các thành phần trong câu:&nbsp;</p>
 <p>do ... eat =&gt; ate</p>
 <p>=&gt; The little boy asked his teacher <strong>if /&nbsp;whether the aliens ate the same types of foods and drinks like humans.</strong></p>
-<p><span style="color: #808080;"><em>(Cậu bé hỏi giáo viên của mình rằng liệu người ngoài hành tinh có ăn những loại thức ăn và đồ uống giống như con người không.)</em></span></p>                        </div>`
+<p><span style="color: #808080;"><em>(Cậu bé hỏi giáo viên của mình rằng liệu người ngoài hành tinh có ăn những loại thức ăn và đồ uống giống như con người không.)</em></span></p>                        </div>`,
   },
-   {id:31,
-  question: `“When did you last dream about going into the space?” Mrs Van asked her son.
+  {
+    id: 31,
+    question: `“When did you last dream about going into the space?” Mrs Van asked her son.
 
-  `, options:[
-      ],
-  rewrite:``,
-  answer:`Mrs Van asked her son when he had last dreamt about going into the space.
+  `,
+    options: [],
+    rewrite: ``,
+    answer: `Mrs Van asked her son when he had last dreamt about going into the space.
 `,
-  explanation:`<div>
+    explanation: `<div>
                             <p><strong>Biến đổi các thành phần trong câu:</strong></p>
 <p>- Đại từ: you =&gt; he</p>
 <p>- Thì động từ ở câu trực tiếp là thì quá khứ đơn nên khi chuyển sang câu gián tiếp, ta phải chia động từ ở thì quá khứ hoàn thành</p>
@@ -517,67 +521,71 @@ export const eREWRITE = [
 <p>“When did you last dream about going into the space?” Mrs Van asked her son.</p>
 <p><span style="color: #808080;"><em>(<span class="HwtZe" lang="vi"><span class="jCAhz ChMk0b"><span class="ryNqvb">Bà Vân hỏi con trai: "Lần cuối cùng con mơ thấy mình được bay vào vũ trụ là khi nào?")</span></span></span></em></span></p>
 <p>=&gt; <strong>Mrs Van asked her son when he had last dreamt about going into the space.</strong></p>
-<p><span style="color: #808080;"><em>(Bà Vân hỏi con trai lần cuối mơ thấy mình đi vào vũ trụ là khi nào.)</em></span></p>                        </div>`
+<p><span style="color: #808080;"><em>(Bà Vân hỏi con trai lần cuối mơ thấy mình đi vào vũ trụ là khi nào.)</em></span></p>                        </div>`,
   },
-   {id:31,
-  question: `My friend said to me, “Will you present about Mars tomorrow?” (whether)
+  {
+    id: 31,
+    question: `My friend said to me, “Will you present about Mars tomorrow?” (whether)
 
-  `, options:[
-      ],
-  rewrite:``,
-  answer:`My friend asked me whether I would present about Mars the next day.
+  `,
+    options: [],
+    rewrite: ``,
+    answer: `My friend asked me whether I would present about Mars the next day.
 `,
-  explanation:`<div>
+    explanation: `<div>
                             <p><strong>Biến đổi các thành phần trong câu:</strong></p>
 <p>- Đại từ: you =&gt; I</p>
 <p>- Thì động từ ở câu trực tiếp là thì tương lai đơn nên khi chuyển sang câu gián tiếp, ta phải chia động từ ở thì tương lai trong quá khứ</p>
 <p>S + will + V nguyên thể =&gt; S + would + V nguyên thể</p>
 <p>- trạng từ thời gian: tomorrow =&gt; the next day/ the following day/ the day after</p>
 <p>=&gt; <strong>My friend asked me whether I would present about Mars the next day/ the following day/ the day after.</strong></p>
-<p>Tạm dịch: Bạn tôi hỏi tôi liệu tôi có trình bày về sao Hỏa vào ngày hôm sau không.</p>                        </div>`
+<p>Tạm dịch: Bạn tôi hỏi tôi liệu tôi có trình bày về sao Hỏa vào ngày hôm sau không.</p>                        </div>`,
   },
-   {id:31,
-  question: `“He’s not at home.”, his father said.
+  {
+    id: 31,
+    question: `“He’s not at home.”, his father said.
 
-  `, options:[
-      ],
-  rewrite:`His father said that
+  `,
+    options: [],
+    rewrite: `His father said that
 `,
-  answer:`he was not at home hoặc he wasn't at home
+    answer: `he was not at home hoặc he wasn't at home
 `,
-  explanation:`<div>
+    explanation: `<div>
                             <p>Các bước biến đổi:</p>
 <p>- chuyển thì hiện tại đơn ở câu trực tiếp thành thì quá khứ đơn ở câu gián tiếp</p>
 <p>- giữ nguyên các thành phần khác trong câu chủ động</p>
 <p>=&gt; His father said that <strong>he was not at home.</strong></p>
-<p><strong>Tạm dịch:</strong><em>&nbsp;Cha anh nói rằng anh không có ở nhà.</em></p>                        </div>`
+<p><strong>Tạm dịch:</strong><em>&nbsp;Cha anh nói rằng anh không có ở nhà.</em></p>                        </div>`,
   },
-   {id:31,
-  question: `Thu said: "All the students will have a meeting next week".
+  {
+    id: 31,
+    question: `Thu said: "All the students will have a meeting next week".
 
-  `, options:[
-      ],
-  rewrite:` Thu said that
+  `,
+    options: [],
+    rewrite: ` Thu said that
 `,
-  answer:`all the students would have a meeting the following week
+    answer: `all the students would have a meeting the following week
 `,
-  explanation:`<div>
+    explanation: `<div>
                             <p>Các bước biến đổi:</p>
 <p>- chuyển động từ khuyết thiếu “will” hiện tại đơn ở câu chủ động thành “would” ở câu bị động</p>
 <p>- next week =&gt; the following week/ the next week/ the week after</p>
 <p>- giữ nguyên các thành phần khác trong câu chủ động</p>
 <p>=&gt; Thu said that <strong>all the students would have a meeting the following week.</strong></p>
-<p><strong>Tạm dịch:&nbsp;</strong><em>Cô Thu nói rằng tất cả học sinh sẽ có một buổi họp vào tuần sau.</em></p>                        </div>`
+<p><strong>Tạm dịch:&nbsp;</strong><em>Cô Thu nói rằng tất cả học sinh sẽ có một buổi họp vào tuần sau.</em></p>                        </div>`,
   },
-   {id:31,
-  question: `
-  `, options:[
-      ],
-  rewrite:``,
-  answer:``,
-  explanation:``
+  {
+    id: 31,
+    question: `
+  `,
+    options: [],
+    rewrite: ``,
+    answer: ``,
+    explanation: ``,
   },
-   // {id:31,
+  // {id:31,
   // question: `
   // `, options:[
   //     ],
@@ -585,7 +593,7 @@ export const eREWRITE = [
   // answer:``,
   // explanation:``
   // },
-   // {id:31,
+  // {id:31,
   // question: `
   // `, options:[
   //     ],
@@ -593,7 +601,7 @@ export const eREWRITE = [
   // answer:``,
   // explanation:``
   // },
-   // {id:31,
+  // {id:31,
   // question: `
   // `, options:[
   //     ],

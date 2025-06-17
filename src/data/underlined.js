@@ -1,6 +1,3 @@
-{
-  /* <p><strong><em>Mark the letter A, B, C or D on your answer sheet to indicate the underlined part that needs correction in each of the following questions.</em></strong></p> */
-}
 export const eUNDERLINED = [
   {
     id: 1,
@@ -189,7 +186,12 @@ export const eUNDERLINED = [
     id: 13,
     question: `<p>All the <u>girls</u> in my class <u>are</u> <u>a big fan</u> of SNSD <u>girl-band.</u></p>
     `,
-    options: [`A. <u>girls</u>`, `B. <u>are</u>`, `C. <u>a big fan</u>`, `D. <u>girl-band.</u>`],
+    options: [
+      `A. <u>girls</u>`,
+      `B. <u>are</u>`,
+      `C. <u>a big fan</u>`,
+      `D. <u>girl-band.</u>`,
+    ],
     answer: 3,
     explanation: ``,
   },
@@ -197,7 +199,12 @@ export const eUNDERLINED = [
     id: 14,
     question: `<p><u>Going fishing</u> alone <u>is</u> one of <u>my Dad's</u> favorite <u>leisure activity</u>.</p> 
     `,
-    options: [`A. <u>Going fishing</u>`, `B. <u>is</u>`, `C. <u>my Dad's</u>`, `D. <u>leisure activity</u>`],
+    options: [
+      `A. <u>Going fishing</u>`,
+      `B. <u>is</u>`,
+      `C. <u>my Dad's</u>`,
+      `D. <u>leisure activity</u>`,
+    ],
     answer: 4,
     explanation: ``,
   },
@@ -205,7 +212,12 @@ export const eUNDERLINED = [
     id: 15,
     question: `<p>She <u>sings</u> that song <u>much</u> <u>more better</u> than I <u>do</u>.</p>
     `,
-    options: [`A. <u>sings</u>`, `B. <u>much</u>`, `C. <u>more better</u>`, `D. <u>do</u>`],
+    options: [
+      `A. <u>sings</u>`,
+      `B. <u>much</u>`,
+      `C. <u>more better</u>`,
+      `D. <u>do</u>`,
+    ],
     answer: 3,
     explanation: ``,
   },
@@ -213,7 +225,12 @@ export const eUNDERLINED = [
     id: 15,
     question: `<p>I think that she <u>wouldn’t mind</u> <u>to go</u> to the <u>night party</u> with you, <u>surely</u>.</p>
   `,
-    options: [`A. <u>wouldn’t mind</u>`, `B. <u>to go</u>`, `C. <u>night party</u>`, `D. <u>surely</u>`],
+    options: [
+      `A. <u>wouldn’t mind</u>`,
+      `B. <u>to go</u>`,
+      `C. <u>night party</u>`,
+      `D. <u>surely</u>`,
+    ],
     answer: 2,
     explanation: ``,
   },
@@ -221,7 +238,12 @@ export const eUNDERLINED = [
     id: 15,
     question: `How much <u>damage</u> <u>did</u> <u>the avalanche</u> <u>caused</u>? 
     `,
-    options: [`A. <u>damage</u>`, `B. <u>did</u>`, `C. <u>the avalanche</u>`, `D. <u>caused</u>`],
+    options: [
+      `A. <u>damage</u>`,
+      `B. <u>did</u>`,
+      `C. <u>the avalanche</u>`,
+      `D. <u>caused</u>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p style="text-align: justify;"><strong>Giải thích:</strong> Trong câu hỏi, khi đã có sự xuất hiện của trợ động từ thì động từ chính trong câu quay về dạng nguyên thể.</p>

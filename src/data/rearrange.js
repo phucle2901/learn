@@ -1,6 +1,3 @@
-{
-  /* <p><strong><em>Rearrange the words to make complete sentences</em></strong></p> */
-}
 export const eREARRANGE = [
   {
     id: 1,
@@ -42,212 +39,212 @@ export const eREARRANGE = [
     explanation: `<p><strong>Kiến thức:</strong> Từ vựng</p><p><strong>Giải thích:</strong></p><p>way of life: lối sống</p><p><strong>Tạm dịch:</strong> Một số dân tộc thiểu số ở miền núi vẫn giữ lối sống truyền thống của họ.</p><p><strong>Đáp án: Some minorities in the mountains still keep their traditional way of life.</strong></p> `,
   },
 
-//   {
-//     id: 9,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 10,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 11,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 12,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 13,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 14,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 15,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 16,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 17,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 18,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 19,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 20,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 21,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 22,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 23,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 24,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 25,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 26,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 27,
-//     question: `
-//     `,
-//     options: [],
+  //   {
+  //     id: 9,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 10,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 11,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 12,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 13,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 14,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 15,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 16,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 17,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 18,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 19,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 20,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 21,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 22,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 23,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 24,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 25,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 26,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 27,
+  //     question: `
+  //     `,
+  //     options: [],
 
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 28,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 29,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 30,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
-//   {
-//     id: 31,
-//     question: `
-//     `,
-//     options: [],
-//     rewrite: ``,
-//     answer: ``,
-//     explanation: ``,
-//   },
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 28,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 29,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 30,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 31,
+  //     question: `
+  //     `,
+  //     options: [],
+  //     rewrite: ``,
+  //     answer: ``,
+  //     explanation: ``,
+  //   },
 ];

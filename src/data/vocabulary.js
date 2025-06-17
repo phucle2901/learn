@@ -1,6 +1,3 @@
-{
-  /* <p><strong><em>Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.</em></strong><strong><em></em></strong></p> */
-}
 export const eVOCABULARY = [
   {
     id: 1,
@@ -333,7 +330,7 @@ export const eVOCABULARY = [
       <strong>Chọn C.</strong>
     </p>`,
   },
-  
+
   {
     id: 21,
     question: `<p><span style="color: #000000;"> The _______ on display in Da Nang Museum of Cham Sculpture are very interesting.</span></p> `,
@@ -898,12 +895,17 @@ export const eVOCABULARY = [
     question: `______ much do you weigh?
 
   `,
-    options: [`A. Which
-`, `B. Who
-`, `C. What
-`, `D. 
+    options: [
+      `A. Which
+`,
+      `B. Who
+`,
+      `C. What
+`,
+      `D. 
 How
-`],
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p style="text-align: justify;">Câu hỏi về cân nặng nên ta phải dùng từ để hỏi “how much” <span style="color: #808080;"><em>(bao nhiêu)</em></span></p>
@@ -915,11 +917,16 @@ How
     question: `_____ do you expect to have the work completed?
 
   `,
-    options: [`A. When
-`, `B. What
-`, `C. Who
-`, `D. How far
-`],
+    options: [
+      `A. When
+`,
+      `B. What
+`,
+      `C. Who
+`,
+      `D. How far
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p>Câu hỏi về thời gian nên phải sử dụng từ để hỏi “when” (khi nào)</p>
@@ -931,28 +938,38 @@ How
     question: `In the mid-19 th century, scientists discovered that Mars had some similarities _____________ Earth.
 
   `,
-    options: [`A. to
-`, `B. with
-`, `C. of
-`, `D. from
-`],
+    options: [
+      `A. to
+`,
+      `B. with
+`,
+      `C. of
+`,
+      `D. from
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>Cấu trúc<strong>: have similarities with N</strong>: có sự tương đồng, giống nhau với</p>
 <p>=&gt; In the mid-19th century, scientists discovered that Mars had some similarities <strong>with</strong> Earth.</p>
 <p><em>Tạm dịch: </em><em>Vào giữa thế kỷ 19, các nhà khoa học phát hiện ra rằng sao Hỏa có một số điểm tương đồng với Trái đất.</em></p>                        </div>`,
-  },  
+  },
   {
     id: 41,
     question: `The prerequisite condition for a/an _______ planet is water supplies, appropriate temperatures and breathable air.
 
   `,
-    options: [`A. habit
-`, `B. inhabitable
-`, `C. 
+    options: [
+      `A. habit
+`,
+      `B. inhabitable
+`,
+      `C. 
 inhabitant
-`, `D. habitant
-`],
+`,
+      `D. habitant
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>habit (n): <em>thói quen</em></p>
@@ -968,11 +985,16 @@ inhabitant
     question: `The scientists believe that there might be some planets to .................. human life.
 
   `,
-    options: [`A. provide
-`, `B. accommodate
-`, `C. replace
-`, `D. support
-`],
+    options: [
+      `A. provide
+`,
+      `B. accommodate
+`,
+      `C. replace
+`,
+      `D. support
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p>provide (v): <em>cung cấp</em></p>
@@ -987,10 +1009,14 @@ inhabitant
     question: `I promise that I (not/ come)____________________ late.
 
   `,
-    options: [`A. won't be coming
-`, `B. won't come
-`, `C. am going to come
-`],
+    options: [
+      `A. won't be coming
+`,
+      `B. won't come
+`,
+      `C. am going to come
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>Dấu hiệu: <strong>I promise</strong> =&gt; sử dụng thì tương lai đơn để diễn tả hành động mang tính chủ quan, đưa ra quan điểm</p>
@@ -1003,12 +1029,17 @@ inhabitant
     question: `When I ____ breakfast, the phone suddenly _____.
 
   `,
-    options: [`A. 
+    options: [
+      `A. 
 was having/rang
-`, `B. was having/rings
-`, `C. were having/rang
-`, `D. were having/rings
-`],
+`,
+      `B. was having/rings
+`,
+      `C. were having/rang
+`,
+      `D. were having/rings
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">Câu trên diễn tả một hành động đang xảy ra thì có hành động khác xen vào trong quá khứ =&gt; hành động đang xảy ra dùng thì quá khứ tiếp diễn, hành động xen vào dùng thì quá khứ đơn</p>
@@ -1020,11 +1051,16 @@ was having/rang
     question: `This isn't your chairs. It's ....................
 
   `,
-    options: [`A. my
-`, `me
-`, `I
-`, `mine
-`],
+    options: [
+      `A. my
+`,
+      `me
+`,
+      `I
+`,
+      `mine
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p><strong>my</strong> <em>(của tôi)</em> đóng vai trò tính từ sở hữu, phải đi kèm với danh từ&nbsp;</p>
@@ -1041,11 +1077,16 @@ was having/rang
     question: `My jacket is on the chair, ______ is on the table.
 
   `,
-    options: [`she
-`, `her
-`, `hers
-`, `she's
-`],
+    options: [
+      `she
+`,
+      `her
+`,
+      `hers
+`,
+      `she's
+`,
+    ],
     answer: `3`,
     explanation: `<div>
                             <p><strong>her</strong> <em>(của cô ấy) đóng</em>&nbsp;=&gt; vai trò tính từ sở hữu, phải đi kèm với danh từ</p>
@@ -1063,12 +1104,17 @@ was having/rang
     question: `Does the Yao have a rich ______ of folk literature and art?
 
   `,
-    options: [`recognisation
-`, `culture
-`, `costume
-`, `
+    options: [
+      `recognisation
+`,
+      `culture
+`,
+      `costume
+`,
+      `
 diversity
-`],
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>recognition (n): sự thừa nhận</p>
@@ -1083,11 +1129,16 @@ diversity
     question: `The new drug has great _______ for the treatment of this disease.
 
   `,
-    options: [`significance
-`, `significant
-`, `significantly
-`, `insignificant
-`],
+    options: [
+      `significance
+`,
+      `significant
+`,
+      `significantly
+`,
+      `insignificant
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">significance (n): sự có ý nghĩa</p>
@@ -1103,12 +1154,17 @@ diversity
     question: `The typical house type of the ethnic minority peoples is the ______ house.
 
   `,
-    options: [`steel
-`, `concrete
-`, `cottage
-`, `
+    options: [
+      `steel
+`,
+      `concrete
+`,
+      `cottage
+`,
+      `
 stilt
-`],
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p style="text-align: justify;">steel (n): thép</p>
@@ -1123,11 +1179,16 @@ stilt
     question: `People often grow other crops on _________ land.
 
   `,
-    options: [`burnt-down
-`, `burnt-out
-`, `burnt-up
-`, `burnt-in
-`],
+    options: [
+      `burnt-down
+`,
+      `burnt-out
+`,
+      `burnt-up
+`,
+      `burnt-in
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p style="text-align: justify;">- Cụm từ: burn out <em><span style="color: #808080;">(cháy sạch)</span></em></p>
@@ -1136,15 +1197,19 @@ stilt
 <p style="text-align: justify;">=&gt; People often grow other crops on <strong>burnt-out</strong> land.</p>
 <p style="text-align: justify;"><span style="color: #808080;">(<em>Con người trồng cây trên những cánh đồng <span style="text-decoration: underline;">đã được đốt cháy</span>.)&nbsp;</em></span>&nbsp;</p>                        </div>`,
   },
-   {
+  {
     id: 41,
     question: `She asked us if we had had any space exploration.
 
   `,
-    options: [`"Have you had any space exploration?", she asked.
-`, `"Have you made any space exploration?", she asked.
-`, `"Did you had any space exploration?", she asked.
-`],
+    options: [
+      `"Have you had any space exploration?", she asked.
+`,
+      `"Have you made any space exploration?", she asked.
+`,
+      `"Did you had any space exploration?", she asked.
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p>Kiến thức: Câu tường thuật của câu hỏi yes/no</p>
@@ -1155,12 +1220,17 @@ stilt
     question: `Jean really loves wearing silk, especially _______ silk.
 
   `,
-    options: [`obvious    
-`, `absolute
-`, `
+    options: [
+      `obvious    
+`,
+      `absolute
+`,
+      `
 apparent
-`, `patterned
-`],
+`,
+      `patterned
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p>obvious (adj): rõ ràng</p>
@@ -1170,16 +1240,21 @@ apparent
 <p>Jean really loves wearing silk, especially <strong>patterned </strong>silk.</p>
 <p><em>(Jane rất thích mặc vải lụa, đặc biệt là vải lụa có hoạ tiết.)</em></p>                        </div>`,
   },
-   {
+  {
     id: 41,
     question: `I _______ my friends in Sapa this time last year. The weather was really cold.
 
   `,
-    options: [`to visit
-`, `visit
-`, `visited
-`, `was visiting
-`],
+    options: [
+      `to visit
+`,
+      `visit
+`,
+      `visited
+`,
+      `was visiting
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p><strong>Giải thích:</strong> “this time last year” là một dấu hiệu của thì quá khứ tiếp diễn, nên câu này cần được chia ở thì quá khứ tiếp diễn.</p>
@@ -1193,11 +1268,16 @@ apparent
     question: `They saw a robbery while they were shopping _______  the market.
 
   `,
-    options: [`in
-`, `on
-`, `for
-`, `at
-`],
+    options: [
+      `in
+`,
+      `on
+`,
+      `for
+`,
+      `at
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p>in: ở bên trong vật, địa điẻm nào đó</p>
@@ -1207,16 +1287,21 @@ apparent
 <p>They saw a robbery while they were shopping <strong>at </strong>the market.</p>
 <p><em>(Họ thấy một tên trộm khi học đang mua sắm ở siêu thị.)</em></p>                        </div>`,
   },
-   {
+  {
     id: 41,
     question: `I _____ in this city for five years.
 
   `,
-    options: [`had lived 
-`, `lived 
-`, `live
-`, `have lived
-`],
+    options: [
+      `had lived 
+`,
+      `lived 
+`,
+      `live
+`,
+      `have lived
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p>for + khoảng thời gian (for five years) là một dấu hiệu của thì hiện tại hoàn thành, nên câu này cần được chia ở thì hiện tại hoàn thành.</p>
@@ -1229,11 +1314,16 @@ apparent
     question: `An ______ is someone who works actively to bring about social or political change.
 
   `,
-    options: [`activist
-`, `anosmic
-`, `alpaca
-`, `blind
-`],
+    options: [
+      `activist
+`,
+      `anosmic
+`,
+      `alpaca
+`,
+      `blind
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">activist (n): nhà hoạt động chính trị</p>
@@ -1243,18 +1333,23 @@ apparent
 <p style="text-align: justify;">An <strong>activist</strong> is someone who works actively to bring about social or political change.</p>
 <p style="text-align: justify;"><em>(Một nhà hoạt động chính trị là một người tích cực tạo ra những thay đổi về xã hội hoặc chính trị.)</em></p>                        </div>`,
   },
-   {
+  {
     id: 41,
     question: `I _____ my keys. Can you help me look for them?
 
   `,
-    options: [`have lost 
-`, `
+    options: [
+      `have lost 
+`,
+      `
 lost
-`, `was losing
-`, `
+`,
+      `was losing
+`,
+      `
 had lost 
-`],
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">Thì hiện tại hoàn thành diễn tả một hành động vừa mới xảy ra và có liên quan đến thời điểm hiện tại, nên câu này cần được chia ở thì hiện tại hoàn thành.</p>
@@ -1266,12 +1361,17 @@ had lost 
     question: `We explored a ___________ on our hike and it was amazing!
 
   `,
-    options: [`opponent
-`, `
+    options: [
+      `opponent
+`,
+      `
 adventure
-`, `cave
-`, `desert
-`],
+`,
+      `cave
+`,
+      `desert
+`,
+    ],
     answer: `3`,
     explanation: `<div>
                             <p>opponent (n): đối thủ</p>
@@ -1282,16 +1382,21 @@ adventure
 <p><em>(Chúng tôi đã khám phá ra một hang động trong lúc đi bộ và nó thật đáng kinh ngạc!)</em></p>
 <p>Chọn C</p>                        </div>`,
   },
-   {
+  {
     id: 41,
     question: `They saw beautiful landscapes, ______?
 
   `,
-    options: [`didn't they
-`, `have they
-`, `haven't they
-`, `did they
-`],
+    options: [
+      `didn't they
+`,
+      `have they
+`,
+      `haven't they
+`,
+      `did they
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">Vế đầu của câu là thì quá khứ đơn và là câu khẳng định, nên phần câu hỏi đuôi sẽ phải ở thì quá khứ đơn và ở thể phủ định.</p>
@@ -1303,11 +1408,16 @@ adventure
     question: `Recycling programs help us ________ valuable resources. 
 
   `,
-    options: [`recycle
-`, `pollute
-`, `throw away
-`, `provide
-`],
+    options: [
+      `recycle
+`,
+      `pollute
+`,
+      `throw away
+`,
+      `provide
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p>recycle (v): tái chế</p>
@@ -1317,16 +1427,21 @@ adventure
 <p>Recycling programs help us <strong>recycle</strong> valuable resources.</p>
 <p><em>(Chương trình tái chế giúp chúng tôi tái chế những nguồn tài nguyên quý giá.)</em></p>                        </div>`,
   },
-   {
+  {
     id: 41,
     question: `We’ll get wet if we ______ out.
 
   `,
-    options: [`go
-`, `did go
-`, `went
-`, `had gone
-`],
+    options: [
+      `go
+`,
+      `did go
+`,
+      `went
+`,
+      `had gone
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">Cấu trúc câu điều kiện loại I: If + S + V(chia theo thì hiện tại đơn), S + will + V</p>
@@ -1337,27 +1452,37 @@ adventure
     question: `All the aquatic plants and animals will die if the factory _______ dumping poison into the lake.
 
   `,
-    options: [`will keep 
-`, `to keep
-`, `kept
-`, `keeps
-`],
+    options: [
+      `will keep 
+`,
+      `to keep
+`,
+      `kept
+`,
+      `keeps
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">Cấu trúc câu điều kiện loại I: If + S + V(chia theo thì hiện tại đơn), S + will + V</p>
 <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">hoặc đảo vế câu: S + will + V if + S + V (chia theo hiện tại đơn)</p>                        </div>`,
   },
-   {
+  {
     id: 41,
     question: `If he _________ to the new job well, he will get promotion soon.
 
   `,
-    options: [`adapts
-`, `alters
-`, `picks
-`, `
+    options: [
+      `adapts
+`,
+      `alters
+`,
+      `picks
+`,
+      `
 bends
-`],
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                                                         <p>adapt (v): thích nghi <strong>&nbsp; </strong></p>
@@ -1372,12 +1497,17 @@ bends
     question: `We should _______ a sport such as badminton, soccer or jogging to keep us fit and healthy.
 
   `,
-    options: [`take over
-`, `take up
-`, `take after
-`, `
+    options: [
+      `take over
+`,
+      `take up
+`,
+      `take after
+`,
+      `
 take off
-`],
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                                                         <p>take over (phr.v): tiếp quản</p>
@@ -1387,16 +1517,21 @@ take off
 <p>We should <strong>take up</strong> a sport such as badminton, soccer or jogging to keep us fit and healthy.</p>
 <p><em>(</em><em>Chúng ta nên tham gia một môn thể thao như cầu lông, bóng đá hoặc chạy bộ để giữ cho chúng ta khỏe mạnh.)</em></p>                                                    </div>`,
   },
-   {
+  {
     id: 41,
     question: `They'd like to see their daughter __________, get married, and have kids.
 
   `,
-    options: [`stay down
-`, `slow down
-`, `settle down
-`, `sit down
-`],
+    options: [
+      `stay down
+`,
+      `slow down
+`,
+      `settle down
+`,
+      `sit down
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                                                         <p>stay down =&gt; không tồn tại cụm động từ này <strong>&nbsp; </strong></p>
@@ -1411,27 +1546,37 @@ take off
     question: `Tim decided to get involved _______ the project to help street children.
 
   `,
-    options: [`with
-`, `of
-`, `at
-`, `to
-`],
+    options: [
+      `with
+`,
+      `of
+`,
+      `at
+`,
+      `to
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                                                         <p>Cụm từ: involve with (tham gia vào)</p>
 <p>Tim decided to get involved <strong>with</strong> the project to help street children.</p>
 <p><em>(Tim quyết định tham gia vào dự án giúp đỡ trẻ em đường phố.)</em></p>                                                    </div>`,
   },
-   {
+  {
     id: 41,
     question: `Keep quiet. You _______ talk so loudly in here. Everybody is working.
 
   `,
-    options: [`may
-`, `must
-`, `might
-`, `mustn't
-`],
+    options: [
+      `may
+`,
+      `must
+`,
+      `might
+`,
+      `mustn't
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p>may: có thể</p>
@@ -1446,11 +1591,16 @@ take off
     question: `The car is too expensive so we're trying to find a cheaper _____________.
 
   `,
-    options: [`subtitle
-`, `alternative
-`, `difference
-`, `flip side
-`],
+    options: [
+      `subtitle
+`,
+      `alternative
+`,
+      `difference
+`,
+      `flip side
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                                                         <p>subtitle (n): phụ đề&nbsp;&nbsp; <strong>&nbsp; </strong></p>
@@ -1460,16 +1610,21 @@ take off
 <p>The car is too expensive so we're trying to find a cheaper <strong>alternative</strong>.</p>
 <p><em>(</em><em>Chiếc xe quá đắt nên chúng tôi đang cố gắng tìm một chiếc thay thế rẻ hơn.)</em></p>                                                    </div>`,
   },
-   {
+  {
     id: 41,
     question: `Readers of the magazine said they wanted more stories about _____________ people and fewer stories about the rich and famous.
 
   `,
-    options: [`ordinary
-`, `unknown
-`, `extraordinary
-`, `unusual
-`],
+    options: [
+      `ordinary
+`,
+      `unknown
+`,
+      `extraordinary
+`,
+      `unusual
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                                                         <p>ordinary (adj): bình thường <strong>&nbsp; </strong></p>
@@ -1484,11 +1639,16 @@ take off
     question: `All the citizens must _____________ the traffic rules to protect themselves and the others.
 
   `,
-    options: [`break
-`, `listen
-`, `obey
-`, `distract
-`],
+    options: [
+      `break
+`,
+      `listen
+`,
+      `obey
+`,
+      `distract
+`,
+    ],
     answer: `c`,
     explanation: `<div>
                                                         <p>break (v): phá vỡ <strong>&nbsp; </strong></p>
@@ -1498,16 +1658,21 @@ take off
 <p>All the citizens must <strong>obey</strong> the traffic rules to protect themselves and the others.</p>
 <p><em>(</em><em>Mọi công dân phải tuân thủ luật lệ giao thông để bảo vệ bản thân và những người khác.)</em></p>                                                    </div>`,
   },
-   {
+  {
     id: 41,
     question: `More and more teenagers are _____________ about the protection of the environment. It’s a good sign.
 
   `,
-    options: [`uncared
-`, `distracting
-`, `neglected
-`, `concerned
-`],
+    options: [
+      `uncared
+`,
+      `distracting
+`,
+      `neglected
+`,
+      `concerned
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                                                         <p>uncared (adj): không được chăm sóc&nbsp; <strong>&nbsp; </strong></p>
@@ -1522,11 +1687,16 @@ take off
     question: `A ___________ school is a school equipped with rooms where its students live instead of living in their own homes.
 
   `,
-    options: [`formal
-`, `primary
-`, `mixed
-`, `boarding
-`],
+    options: [
+      `formal
+`,
+      `primary
+`,
+      `mixed
+`,
+      `boarding
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                                                         <p>formal (adj): trang trọng<strong>&nbsp; </strong></p>
@@ -1536,16 +1706,21 @@ take off
 <p>A <strong>boarding</strong> school is a school equipped with rooms where its students live instead of living in their own homes.</p>
 <p><em>(</em><em>Trường nội trú là trường được trang bị phòng học để học sinh ở thay vì sống ở nhà riêng của mình.)</em></p>                                                    </div>`,
   },
-   {
+  {
     id: 41,
     question: `Many people would be out of work if that factory_____ down.
 
   `,
-    options: [`closes
-`, `closed
-`, `had closed
-`, `would close
-`],
+    options: [
+      `closes
+`,
+      `closed
+`,
+      `had closed
+`,
+      `would close
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p style="text-align: justify;">Ta thấy vế trước có dạng would+V_infi =&gt; cấu trúc câu điều kiện II (không có thật ở hiện tại): S+would+V_infi + if + S+ V (V chia ở thì quá khứ đơn)</p>
@@ -1558,29 +1733,39 @@ take off
     question: `If I didn’t work for an accounting firm, I _______ in a bank now.
 
   `,
-    options: [`work
-`, `will work
-`, `have worked
-`, `
+    options: [
+      `work
+`,
+      `will work
+`,
+      `have worked
+`,
+      `
 would work
-`],
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p style="text-align: justify;">Ta thấy mệnh đề If chia ở thì quá khứ đơn =&gt; câu điều kiện loại 2 =&gt; mệnh đề chính có dạng:<strong> would+V_infi </strong></p>
 <p style="text-align: justify;"><strong>=&gt;&nbsp;</strong>If I didn’t work for an accounting firm, I&nbsp;<strong><em><u>would work</u></em></strong>&nbsp;in a bank now.&nbsp;</p>
 <p style="text-align: justify;">Tạm dịch:&nbsp;Nếu tôi không làm việc cho một công ty kế toán, tôi sẽ làm việc trong một ngân hàng bây giờ.</p>                        </div>`,
   },
-   {
+  {
     id: 41,
     question: `Many people have gathered ______ to force the company to stop releasing waste into the river.
 
   `,
-    options: [`signatures
-`, `accounts
-`, `
+    options: [
+      `signatures
+`,
+      `accounts
+`,
+      `
 names
-`, `nicknames
-`],
+`,
+      `nicknames
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                                                         <p>Many people have gathered <strong>signatures</strong> to force the company to stop releasing waste into the river.</p>
@@ -1591,12 +1776,17 @@ names
     question: `They have urged people to _________ products which do harm to the wildlife.
 
   `,
-    options: [`assist
-`, `help
-`, `support
-`, `
+    options: [
+      `assist
+`,
+      `help
+`,
+      `support
+`,
+      `
 boycott
-`],
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                                                         <p>assist (v): trợ giúp&nbsp; <strong>&nbsp; </strong></p>
@@ -1606,16 +1796,21 @@ boycott
 <p>They have urged people to <strong>boycott</strong> products which do harm to the wildlife.</p>
 <p><em>(</em><em>Họ kêu gọi mọi người tẩy chay các sản phẩm gây hại cho động vật hoang dã.)</em></p>                                                    </div>`,
   },
-   {
+  {
     id: 41,
     question: `This campaign ______ to protect the environment.
 
   `,
-    options: [`wants
-`, `avoids
-`, `aims
-`, `misses
-`],
+    options: [
+      `wants
+`,
+      `avoids
+`,
+      `aims
+`,
+      `misses
+`,
+    ],
     answer: `3`,
     explanation: `<div>
                                                         <p>wants (v): muốn&nbsp; <strong>&nbsp; </strong></p>
@@ -1630,13 +1825,18 @@ boycott
     question: `Someone invented a machine providing free rice for the poor during the COVID 19 _____.
 
   `,
-    options: [`shelter
-`, `
+    options: [
+      `shelter
+`,
+      `
 lockdown
-`, `
+`,
+      `
 stay
-`, `ending
-`],
+`,
+      `ending
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                                                         <p>shelter (n): chỗ ẩn nấp&nbsp;&nbsp; <strong>&nbsp; </strong></p>
@@ -1646,16 +1846,21 @@ stay
 <p>Someone invented a machine providing free rice for the poor during the COVID 19 <strong>lockdown</strong>.</p>
 <p><em>(Ai đó đã phát minh ra chiếc máy phát gạo miễn phí cho người nghèo trong thời gian phong tỏa vì Covid 19.)</em></p>                                                    </div>`,
   },
-   {
+  {
     id: 41,
     question: `We joined a charity to _________ the poor people in our neighborhood last week.
 
   `,
-    options: [`support
-`, `miss
-`, `ignore
-`, `neglect
-`],
+    options: [
+      `support
+`,
+      `miss
+`,
+      `ignore
+`,
+      `neglect
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                                                         <p>support (v): ủng hộ&nbsp;&nbsp; <strong>&nbsp; </strong></p>
@@ -1670,11 +1875,16 @@ stay
     question: `Some tents  ___ so that children and old people could sleep in.
 
   `,
-    options: [`was set up
-`, `were set up
-`, `set up
-`, `setted up
-`],
+    options: [
+      `was set up
+`,
+      `were set up
+`,
+      `set up
+`,
+      `setted up
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">Cấu trúc câu bị động: S + to be + Vp2</p>
@@ -1682,17 +1892,22 @@ stay
 <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">to be: chia theo thì của câu</p>
 <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">Vp2: động từ chia theo phân từ 2.</p>                        </div>`,
   },
-    {
+  {
     id: 41,
     question: `Vast of woodland ______by fire every year.
 
   `,
-    options: [`
+    options: [
+      `
 is destroyed
-`, `will be destroyed
-`, `have been destroyed
-`, `are destroyed
-`],
+`,
+      `will be destroyed
+`,
+      `have been destroyed
+`,
+      `are destroyed
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">Cấu trúc câu bị động: S + to be + Vp2</p>
@@ -1705,30 +1920,40 @@ is destroyed
     question: `Beethoven’s Fifth Symphony _______next weekend.
 
   `,
-    options: [`is going to be performed
-`, `has been performed
-`, `
+    options: [
+      `is going to be performed
+`,
+      `has been performed
+`,
+      `
 will be performing
-`, `will have performed
-`],
+`,
+      `will have performed
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p>Dựa vào "next week" để xác định thì cần sử dụng. Dựa vào nghĩa của câu để áp dụng cấu trúc câu bị động.&nbsp;</p>
 <p><strong>Beethoven’s Fifth Symphony _______next weekend.</strong></p>
 <p><em><span style="color: #808080;">(Bản giao hưởng số 5 của Beethoven _______cuối tuần tới.)</span></em></p>                        </div>`,
   },
-    {
+  {
     id: 41,
     question: `It is __________ that our team won the match despite lacking players.
 
   `,
-    options: [`
+    options: [
+      `
 classical
-`, `incredible
-`, `
+`,
+      `incredible
+`,
+      `
 believable
-`, `comedic
-`],
+`,
+      `comedic
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                                                         <p>classical (adj): cổ điển <strong>&nbsp; </strong></p>
@@ -1743,12 +1968,17 @@ believable
     question: `Students should read the stories that __________ happiness and hope throughout society.
 
   `,
-    options: [`
+    options: [
+      `
 share
-`, `communicate
-`, `donate
-`, `collect
-`],
+`,
+      `communicate
+`,
+      `donate
+`,
+      `collect
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                                                         <p>share (v): chia sẻ <strong>&nbsp; </strong></p>
@@ -1758,18 +1988,23 @@ share
 <p>Students should read the stories that <strong>share</strong> happiness and hope throughout society.</p>
 <p><em>(Học sinh nên đọc những câu chuyện chia sẻ hạnh phúc và hy vọng trong toàn xã hội.)</em></p>                                                    </div>`,
   },
-    {
+  {
     id: 41,
     question: `Sometimes we make __________ mistakes, but we can always learn from them.
 
   `,
-    options: [`fantastic
-`, `
+    options: [
+      `fantastic
+`,
+      `
 terrible
-`, `
+`,
+      `
 terrific
-`, `awesome
-`],
+`,
+      `awesome
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                                                         <p>fantastic (adj): thú vị</p>
@@ -1784,11 +2019,16 @@ terrific
     question: `It took an __________ amount of work to build this monument.
 
   `,
-    options: [`unnormal
-`, `extraordinary
-`, `unremarkable
-`, `usual
-`],
+    options: [
+      `unnormal
+`,
+      `extraordinary
+`,
+      `unremarkable
+`,
+      `usual
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                                                         <p>unnormal (adj): không bình thường <strong>&nbsp; </strong></p>
@@ -1798,16 +2038,21 @@ terrific
 <p>It took an&nbsp;<strong>extraordinary</strong> amount of work to build this monument.</p>
 <p><em>(Phải mất một khối lượng công việc phi thường để xây dựng tượng đài này.)</em></p>                                                    </div>`,
   },
-    {
+  {
     id: 41,
     question: `Where ____ the 1988 Olympic Games___?
 
   `,
-    options: [`was/ hold
-`, `were/ held
-`, `was/ held
-`, `did/hold
-`],
+    options: [
+      `was/ hold
+`,
+      `were/ held
+`,
+      `was/ held
+`,
+      `did/hold
+`,
+    ],
     answer: `3`,
     explanation: `<div>
                             <p>Bị động câu nghi vấn: Từ để hỏi + was/ were + S + Ved/V3?</p>                        </div>`,
@@ -1819,30 +2064,40 @@ terrific
 => A computer _______ that job nowadays.
 
   `,
-    options: [`uses to do
-`, `
+    options: [
+      `uses to do
+`,
+      `
 is used to do
-`, `is used to doing
-`, `
+`,
+      `is used to doing
+`,
+      `
 is being used to do
-`],
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>Cách chuyển sang câu bị động của thì HTĐ:&nbsp;</p>
 <p>+ Lấy tân ngữ “a computer” lên làm chủ ngữ</p>
 <p>+ Dạng bị động của thì HTĐ:&nbsp; is/ am/ are + Ved/V3</p>                        </div>`,
   },
-    {
+  {
     id: 41,
     question: `The technology has enabled development of an online ______ library.
 
   `,
-    options: [`
+    options: [
+      `
 virtual
-`, `real
-`, `funny
-`, `fast
-`],
+`,
+      `real
+`,
+      `funny
+`,
+      `fast
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">virtual (adj): ảo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
@@ -1858,11 +2113,16 @@ virtual
     question: `Ann finds books _____ because she can learn many things from them.
 
   `,
-    options: [`are useful
-`, `be useful
-`, `useful
-`, `being useful
-`],
+    options: [
+      `are useful
+`,
+      `be useful
+`,
+      `useful
+`,
+      `being useful
+`,
+    ],
     answer: `3`,
     explanation: `<div>
                             <p><strong>Cấu trúc: find st + adj (nhận thấy thứ gì như thế nào)</strong></p>
@@ -1870,16 +2130,21 @@ virtual
 <p>=&gt;&nbsp;Ann finds books&nbsp;<strong><em><u>useful</u></em></strong>&nbsp;because she can learn many things from them.</p>
 <p><em>Tạm dịch: Ann thấy sách hữu ích vì cô có thể học được nhiều điều từ chúng.</em></p>                        </div>`,
   },
-    {
+  {
     id: 41,
     question: `Nick’s keen _____ climbing mountains in the summer.
 
   `,
-    options: [`on
-`, `at
-`, `with
-`, `in
-`],
+    options: [
+      `on
+`,
+      `at
+`,
+      `with
+`,
+      `in
+`,
+    ],
     answer: `1`,
     explanation: `<div class="loigiai">
             <p><b style="color: #000000">Đáp án : A</b></p>
@@ -1903,27 +2168,37 @@ virtual
     question: `My mother loves _______ food for my family.
 
   `,
-    options: [`preparing
-`, `to prepare
-`, `prepare
-`, `A&B are correct
-`],
+    options: [
+      `preparing
+`,
+      `to prepare
+`,
+      `prepare
+`,
+      `A&B are correct
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p style="text-align: justify;">love <em>(yêu thích)</em> có thể đi cùng với cả động từ dạng V_ing và to+V_infi.</p>
 <p style="text-align: justify;">Câu hoàn chỉnh:&nbsp;My mother loves <strong>to prepare/ preparing</strong> food for my family.</p>
 <p style="text-align: justify;"><span style="color: #808080;"><em>(Mẹ tôi thích <span style="text-decoration: underline;">chuẩn bị</span> thức ăn cho gia đình.)</em></span></p>                        </div>`,
   },
-    {
+  {
     id: 41,
     question: `Henry doesn’t mind ________ up early in the morning.
 
   `,
-    options: [`waking
-`, `to wake
-`, `wake
-`, `will wake
-`],
+    options: [
+      `waking
+`,
+      `to wake
+`,
+      `wake
+`,
+      `will wake
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">Cụm từ: doesn’t mind + V_ing <em>(không phiền làm việc gì)</em></p>
@@ -1935,18 +2210,23 @@ virtual
     question: `My father is fond of ________ a lot of trees and vegetables.
 
   `,
-    options: [`growing
-`, `grow
-`, `grew
-`, `grows
-`],
+    options: [
+      `growing
+`,
+      `grow
+`,
+      `grew
+`,
+      `grows
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">Cụm từ: be fond of+V_ing (yêu thích làm gì)</p>
 <p style="text-align: justify;"><strong>=&gt; </strong>My father is fond of <strong><em><u>growing</u></em></strong> a lot of trees and vegetables.</p>
 <p style="text-align: justify;">Tạm dịch: Bố tôi thích trồng nhiều cây và rau.</p>                        </div>`,
   },
- 
+
   {
     id: 41,
     question: `My sister doesn't mind to look after my cat.
@@ -1960,7 +2240,7 @@ virtual
 <p style="text-align: justify;"><span style="color: #808080;"><em>(Chị tôi không phiền trông những con mèo của tôi.)</em></span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Đáp án: False</span></p>`,
   },
-    {
+  {
     id: 41,
     question: `Jim dislikes going to the library because he likes reading books. 
 
@@ -1990,7 +2270,7 @@ virtual
 <p style="text-align: justify;"><span style="color: #808080;"><em>(Tôi không thích ra ngoài hôm nay.)</em></span></p>
 <p style="text-align: justify;">Đáp án: False</p>`,
   },
-    {
+  {
     id: 41,
     question: ` I used to like watching cartoons on TV. 
 
@@ -2016,12 +2296,12 @@ virtual
 <p style="text-align: justify;"><span style="color: #808080;"><em>(Bà Smith có thích nấu ăn không?)</em></span></p>
 <p style="text-align: justify;">Đáp án: False</p>    `,
   },
-    {
+  {
     id: 41,
     question: ` Mary hates doing the housework and take after her baby sister. 
 
   `,
-   options: [`True`, `False`],
+    options: [`True`, `False`],
     answer: `2`,
     explanation: `<p style="text-align: justify;">Cấu trúc: hate + V_ing <em>(ghét làm gì)</em></p>
 <p style="text-align: justify;">- Vì <em>take</em> và <em>doing</em> phải đồng dạng với nhau nên&nbsp; take =&gt; taking</p>
@@ -2034,19 +2314,19 @@ virtual
     question: ` In my free time, I love to do DIY with my sister. 
 
   `,
-  options: [`True`, `False`],
+    options: [`True`, `False`],
     answer: `1`,
     explanation: `<p style="text-align: justify;">Cấu trúc: love to + V_infi <em>(thích làm gì)</em></p>
 <p style="text-align: justify;">In my free time, I love <strong>to do</strong> DIY with my sister.</p>
 <p style="text-align: justify;">Tạm dịch: <em>Tronh thời gian rảnh rỗi, tôi thích làm DIY với chị gái.</em></p>
 <p><strong>Đáp án: True</strong></p>`,
   },
-    {
+  {
     id: 41,
     question: `Josh detests to socialise with his co-workers.
 
   `,
-   options: [`True`, `False`],
+    options: [`True`, `False`],
     answer: `2`,
     explanation: `<p style="text-align: justify;">Cấu trúc: detest + V_ing<em> (ghét làm gì)</em></p>
 <p style="text-align: justify;">Sửa lại: to socialize =&gt; socializing</p>
@@ -2067,7 +2347,7 @@ virtual
 <p style="text-align: justify;">Tạm dịch: <em>Anh ấy thích xem bộ phim nào?</em></p>
 <p><strong>Đáp án: False</strong></p>`,
   },
-    {
+  {
     id: 41,
     question: `I prefer hanging out with friends to playing computer games. 
 
@@ -2084,11 +2364,16 @@ virtual
     question: `Nam helped his parents _____ the rice onto the ox-drawn cart.
 
   `,
-    options: [`load
-`, `collect
-`, `dry
-`, `ride
-`],
+    options: [
+      `load
+`,
+      `collect
+`,
+      `dry
+`,
+      `ride
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;"><strong>Load:&nbsp;</strong>Tải</p>
@@ -2099,16 +2384,21 @@ virtual
 <p style="text-align: justify;">Tạm dịch:</p>
 <p style="text-align: justify;">Nam giúp bố mẹ tải gạo lên xe bò kéo.&nbsp;</p>                        </div>`,
   },
-    {
+  {
     id: 41,
     question: `I wasn’t _____ enough to tell her truth that her mother’s gone.
 
   `,
-    options: [`young
-`, `brave
-`, `generous
-`, `convenient
-`],
+    options: [
+      `young
+`,
+      `brave
+`,
+      `generous
+`,
+      `convenient
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>Young (adj): Trẻ&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
@@ -2124,11 +2414,16 @@ virtual
     question: `______ people in the countryside are not rich, they often have a peaceful and happy life.
 
   `,
-    options: [`Because
-`, `Although
-`, `Despite
-`, `When
-`],
+    options: [
+      `Because
+`,
+      `Although
+`,
+      `Despite
+`,
+      `When
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>Because: Bởi vì&nbsp; &nbsp;</p>
@@ -2138,16 +2433,21 @@ virtual
 <p>=&gt;&nbsp;<strong><em><u>Although</u></em></strong>&nbsp;people in the countryside are not rich, they often have a peaceful and happy life.</p>
 <p><em>Tạm dịch:&nbsp;<strong><u>Mặc dù</u></strong>&nbsp;người ở nông thôn không giàu có nhưng họ thường có một cuộc sống bình yên và hạnh phúc.</em></p>                        </div>`,
   },
-    {
+  {
     id: 41,
     question: `In Vietnam, farmers start ______ in the spring.
 
   `,
-    options: [`ploughing
-`, `herding
-`, `harvesting
-`, `exploring
-`],
+    options: [
+      `ploughing
+`,
+      `herding
+`,
+      `harvesting
+`,
+      `exploring
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">Plough (v):&nbsp;cày</p>
@@ -2162,12 +2462,17 @@ virtual
     question: `This kind of music is really ______. I hardly listen to it.
 
   `,
-    options: [`interesting
-`, `
+    options: [
+      `interesting
+`,
+      `
 disturbing
-`, `disturbed
-`, `interested
-`],
+`,
+      `disturbed
+`,
+      `interested
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p style="text-align: justify;">Interesting: Thú vị&nbsp; &nbsp; &nbsp;</p>
@@ -2178,15 +2483,19 @@ disturbing
 <p style="text-align: justify;">Tạm dịch:&nbsp;</p>
 <p style="text-align: justify;">Thể loại nhạc này thực sự phiền. Tôi hầu như không nghe nó.<strong>&nbsp;</strong></p>                        </div>`,
   },
-    {
+  {
     id: 41,
     question: `The teacher asked me to speak _______.
 
   `,
-    options: [`loud
-`, `louder
-`, `more loud
-`],
+    options: [
+      `loud
+`,
+      `louder
+`,
+      `more loud
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>Loud (to) là tính từu/trạng từ ngắn =&gt; hình thức so sánh hơn: thêm "er"&nbsp;</p>                        </div>`,
@@ -2196,27 +2505,36 @@ disturbing
     question: `You need to work ________ , or you will make a lot of mistakes.
 
   `,
-    options: [`more careful
-`, `more carefully
-`, `carefully
-`],
+    options: [
+      `more careful
+`,
+      `more carefully
+`,
+      `carefully
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>- careful (adj): cẩn thận</p>
 <p>- carefullly (adv)</p>
 <p>Chỗ trống cần điền 1 trạng từ</p>                        </div>`,
   },
-    {
+  {
     id: 41,
     question: `They live _______ with their family in a small cottage.
 
   `,
-    options: [`happy
-`, `happily
-`, `
+    options: [
+      `happy
+`,
+      `happily
+`,
+      `
 unhappy
-`, `happiness
-`],
+`,
+      `happiness
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p style="text-align: justify;">Sau live <em>(sống)</em> là một trạng từ để bổ sung ý nghĩa</p>
@@ -2231,11 +2549,16 @@ unhappy
     question: `Jim jumped __________ than Peter.
 
   `,
-    options: [`more fartherly
-`, `far
-`, `farther
-`, `farrer
-`],
+    options: [
+      `more fartherly
+`,
+      `far
+`,
+      `farther
+`,
+      `farrer
+`,
+    ],
     answer: `3`,
     explanation: `Far (xa) là tính từ có dạng so sánh hơn đặc biệt: farther (xa hơn)
 `,
@@ -2245,11 +2568,16 @@ unhappy
     question: ` As children move toward ______, they are less likely to ask for advice.
 
   `,
-    options: [`dependent
-`, `dependence
-`, ` independent
-`, `independence
-`],
+    options: [
+      `dependent
+`,
+      `dependence
+`,
+      ` independent
+`,
+      `independence
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p style="text-align: left;">dependent (adj):<em> phụ thuộc</em></p>
@@ -2266,11 +2594,16 @@ unhappy
     question: `My parents asked me to figure out ______ gave me so much trouble.
 
   `,
-    options: [`what
-`, `which
-`, `how many
-`, `where
-`],
+    options: [
+      `what
+`,
+      `which
+`,
+      `how many
+`,
+      `where
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p>what: cái gì&nbsp;&nbsp;</p>
@@ -2284,11 +2617,16 @@ unhappy
     question: ` We need to prepare food, do laundry and chores at home. It’s _______.
 
   `,
-    options: [`social skills
-`, `self-care skills
-`, `housekeeping skills
-`, ` cognitive skills
- `],
+    options: [
+      `social skills
+`,
+      `self-care skills
+`,
+      `housekeeping skills
+`,
+      ` cognitive skills
+ `,
+    ],
     answer: `3`,
     explanation: `<div>
                             <p style="text-align: left;">social skills (n): <em>kỹ năng xã hội&nbsp;</em></p>
@@ -2304,11 +2642,16 @@ unhappy
     question: ` _______ and young adults, both male and female, benefit from physical activity
 
   `,
-    options: [`Adolescence
-`, `Adolescents
-`, `Frustrations
-`, `Newborns
-`],
+    options: [
+      `Adolescence
+`,
+      `Adolescents
+`,
+      `Frustrations
+`,
+      `Newborns
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p style="text-align: justify;">adolescence (n): thời kỳ vị thành niên&nbsp;&nbsp;</p>
@@ -2321,11 +2664,16 @@ unhappy
     question: `Question 11.  Our teacher broke the final project ______ three separate parts.
 
   `,
-    options: [`in   
-`, `into
-`, `away
-`, `down
-`],
+    options: [
+      `in   
+`,
+      `into
+`,
+      `away
+`,
+      `down
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p style="text-align: justify;">break in (v): ngắt lời&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
@@ -2338,11 +2686,16 @@ unhappy
     question: `I have stomach ache, ______  I don't want to eat anything.
 
   `,
-    options: [`but
-`, `so
-`, `because
-`, `or
-`],
+    options: [
+      `but
+`,
+      `so
+`,
+      `because
+`,
+      `or
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p style="text-align: justify;">but: <em>nhưng</em></p>
@@ -2357,12 +2710,17 @@ unhappy
     question: `I have flu, ______  I don't feel very tired.
 
   `,
-    options: [`but
-`, `
+    options: [
+      `but
+`,
+      `
 or
-`, `so
-`, `and
-`],
+`,
+      `so
+`,
+      `and
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p>but: nhưng</p>
@@ -2375,11 +2733,16 @@ or
     question: `The Da Nang International Fireworks Festival is very famous and amazing. _____, it has attracted thousands of foreign and domestic visitors.
 
   `,
-    options: [`Therefore
-`, `Because
-`, `While
-`, `When
-`],
+    options: [
+      `Therefore
+`,
+      `Because
+`,
+      `While
+`,
+      `When
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">therefore: vì thế</p>
@@ -2395,11 +2758,16 @@ or
     question: `There _____  more than 300 steps up the hill to Hung Kinh Temple.
 
   `,
-    options: [`has
-`, `have
-`, `are
-`, `is
-`],
+    options: [
+      `has
+`,
+      `have
+`,
+      `are
+`,
+      `is
+`,
+    ],
     answer: `3`,
     explanation: `Cấu trúc giới thiệu đưa ra số liệu có bao nhiêu thứ gì => There are + number + Danh từ đếm được số nhiều
 `,
@@ -2409,11 +2777,16 @@ or
     question: `Does the Yao have a rich ______ of folk literature and art?
 
   `,
-    options: [`recognisation
-`, `culture
-`, `costume
-`, `diversity
-`],
+    options: [
+      `recognisation
+`,
+      `culture
+`,
+      `costume
+`,
+      `diversity
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>recognition (n): sự thừa nhận</p>
@@ -2428,11 +2801,16 @@ or
     question: `The new drug has great _______ for the treatment of this disease.
 
   `,
-    options: [`significance
-`, `significant
-`, `significantly
-`, `insignificant
-`],
+    options: [
+      `significance
+`,
+      `significant
+`,
+      `significantly
+`,
+      `insignificant
+`,
+    ],
     answer: `1`,
     explanation: `Từ cần điền đứng sau tính từ “great” (adj) phải là một danh từ
 `,
@@ -2442,11 +2820,16 @@ or
     question: `The typical house type of the ethnic minority peoples is the ______ house.
 
   `,
-    options: [`steel
-`, `concrete
-`, `cottage
-`, `stilt
-`],
+    options: [
+      `steel
+`,
+      `concrete
+`,
+      `cottage
+`,
+      `stilt
+`,
+    ],
     answer: `4`,
     explanation: `- 1 từ có thể đi cùng với house để tạo thành một cụm danh từ
 
@@ -2458,11 +2841,16 @@ or
     question: `What a pity! I don’t remember the _______ step of cooking this dish.
 
   `,
-    options: [`finally
-`, `lastly
-`, `last
-`, `ending
-`],
+    options: [
+      `finally
+`,
+      `lastly
+`,
+      `last
+`,
+      `ending
+`,
+    ],
     answer: `3`,
     explanation: `Từ cần điền đứng trước danh từ “step” và sau mạo từ “the” nên phải là một tính từ
 `,
@@ -2472,11 +2860,16 @@ or
     question: `People often grow other crops on _________ land.
 
   `,
-    options: [`burnt-down    
-`, `burnt-out
-`, `burnt-up
-`, `burnt-in
-`],
+    options: [
+      `burnt-down    
+`,
+      `burnt-out
+`,
+      `burnt-up
+`,
+      `burnt-in
+`,
+    ],
     answer: `2`,
     explanation: ` Cụm từ: burn out (cháy sạch)<br/>
 
@@ -2488,11 +2881,16 @@ or
     question: `Do you know ______ language is spoken in Kenya?
 
   `,
-    options: [`Which
-`, `Who
-`, `What
-`, `How
-`],
+    options: [
+      `Which
+`,
+      `Who
+`,
+      `What
+`,
+      `How
+`,
+    ],
     answer: `3`,
     explanation: `Đây là câu hỏi về chủ ngữ của hành động => phải dùng từ để hỏi “What”
 `,
@@ -2504,11 +2902,16 @@ or
 - For exercise.
 
   `,
-    options: [`Why
-`, `Who
-`, `What
-`, `How
-`],
+    options: [
+      `Why
+`,
+      `Who
+`,
+      `What
+`,
+      `How
+`,
+    ],
     answer: `1`,
     explanation: `- Câu trả lời là đưa ra lý do cho câu hỏi.<br/>
 
@@ -2520,12 +2923,17 @@ Câu hỏi về lý do nên phải dùng từ để hỏi “why”
     question: `______  much do you weigh?
 
   `,
-    options: [`Which  
-`, `
+    options: [
+      `Which  
+`,
+      `
 Who
-`, `What
-`, `How
-`],
+`,
+      `What
+`,
+      `How
+`,
+    ],
     answer: `4`,
     explanation: `Câu hỏi về cân nặng nên ta phải dùng từ để hỏi “how much” (bao nhiêu)
 `,
@@ -2535,11 +2943,16 @@ Who
     question: `_____ do you expect to have the work completed?
 
   `,
-    options: [`When
-`, `What
-`, `Who
-`, `How far
-`],
+    options: [
+      `When
+`,
+      `What
+`,
+      `Who
+`,
+      `How far
+`,
+    ],
     answer: `1`,
     explanation: `Câu hỏi về thời gian nên phải sử dụng từ để hỏi “when” (khi nào)
 `,
@@ -2551,12 +2964,17 @@ Who
 Nhat: The Odu farmers are going home.
 
   `,
-    options: [`When
-`, `
+    options: [
+      `When
+`,
+      `
 Who
-`, `Whom
-`, `Where
-`],
+`,
+      `Whom
+`,
+      `Where
+`,
+    ],
     answer: `4`,
     explanation: `Câu hỏi về nơi chốn nên ta sử dụng từ để hỏi “where”
 `,
@@ -2566,11 +2984,16 @@ Who
     question: `I am on night duty. When you go to ________ bed, I go to ________ work.
 
   `,
-    options: [`none/none
-`, `a/a
-`, `the/the
-`, `a/the
-`],
+    options: [
+      `none/none
+`,
+      `a/a
+`,
+      `the/the
+`,
+      `a/the
+`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p>Kiến thức: Mạo từ</p>
@@ -2583,11 +3006,16 @@ Who
     question: `We are looking for _______ place to spend ________ night.
 
   `,
-    options: [`the/the 
-`, `a/the
-`, `a/a  
-`, `the/a
-`],
+    options: [
+      `the/the 
+`,
+      `a/the
+`,
+      `a/a  
+`,
+      `the/a
+`,
+    ],
     answer: `3`,
     explanation: `Dùng a đứng trước danh từ được đề cập lần đầu mà người nghe không biết, danh từ chung chung chưa được xác định, bắt đầu bằng phụ âm.
 `,
@@ -2597,11 +3025,16 @@ Who
     question: `Please turn off ________ lights when you leave ________ room.
 
   `,
-    options: [`the/the 
-`, `a/a 
-`, `the/a 
-`, `a/the
-`],
+    options: [
+      `the/the 
+`,
+      `a/a 
+`,
+      `the/a 
+`,
+      `a/the
+`,
+    ],
     answer: `1`,
     explanation: `Đây là câu mệnh lệnh, yêu cầu => Cả người nói và người nghe đều biết tình huống và ngữ cảnh cuộc hội thoại.
 
@@ -2613,11 +3046,16 @@ Who
     question: `You’ll get ________shock if you touch ________ line wire with that screwdriver.
 
   `,
-    options: [`an/the
-`, `none/the
-`, `a/a
-`, `a/the
-`],
+    options: [
+      `an/the
+`,
+      `none/the
+`,
+      `a/a
+`,
+      `a/the
+`,
+    ],
     answer: `4`,
     explanation: `- get a shock: bị sốc <br>
 
@@ -2637,6 +3075,24 @@ Who
 
 interesting book: /ˈɪntrɪstɪŋ/ /bʊk/
 `,
+  },
+  {
+    id: 5,
+    question: `<p> Minh: We’re going to the countryside this weekend.</p> `,
+    options: [
+      `<p><strong>A.</strong> No, thanks. </p>`,
+      `<p><strong>B.</strong> You’re welcome. </p>`,
+      `<p><strong>C.</strong> How interesting! </p>`,
+      `<p><strong>D.</strong> Thank you.</p>`,
+    ],
+    answer: `3`,
+    explanation: `<p>
+      <strong>Kiến thức:</strong> Ngôn ngữ giao tiếp
+    </p><p>
+      <strong>Giải thích: </strong>
+    </p><p>Minh: Cuối tuần này chúng ta sẽ về quê.</p><p>Tuấn: _________________.</p><p>A. Không, cảm ơn. </p><p>B. Không có gì. </p><p>C. Thật thú vị! </p><p>D. Cảm ơn bạn.</p><p>Các phản hồi A, B, D không phù hợp với ngữ cảnh.</p><p>
+      <strong>Chọn C.</strong>
+    </p>`,
   },
   // {
   //   id: 20,

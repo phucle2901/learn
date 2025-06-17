@@ -1,6 +1,3 @@
-{
-  /* <p><strong><em>Mark the letter A, B, C or D on your answer sheet to indicate the word(s) OPPOSITE in meaning to the underlined word(s) in each of the following questions. </em></strong></p> */
-}
 export const eOPPOSITE = [
   {
     id: 1,
@@ -80,24 +77,6 @@ export const eOPPOSITE = [
       <strong>Chọn B.</strong>
     </p>`,
   },
-  {
-    id: 5,
-    question: `<p> Minh: We’re going to the countryside this weekend.</p> `,
-    options: [
-      `<p><strong>A.</strong> No, thanks. </p>`,
-      `<p><strong>B.</strong> You’re welcome. </p>`,
-      `<p><strong>C.</strong> How interesting! </p>`,
-      `<p><strong>D.</strong> Thank you.</p>`,
-    ],
-    answer: `3`,
-    explanation: `<p>
-      <strong>Kiến thức:</strong> Ngôn ngữ giao tiếp
-    </p><p>
-      <strong>Giải thích: </strong>
-    </p><p>Minh: Cuối tuần này chúng ta sẽ về quê.</p><p>Tuấn: _________________.</p><p>A. Không, cảm ơn. </p><p>B. Không có gì. </p><p>C. Thật thú vị! </p><p>D. Cảm ơn bạn.</p><p>Các phản hồi A, B, D không phù hợp với ngữ cảnh.</p><p>
-      <strong>Chọn C.</strong>
-    </p>`,
-  },
 
   {
     id: 7,
@@ -115,8 +94,10 @@ export const eOPPOSITE = [
     id: 7,
     question: `<p><span style="color: #000000;"> Gathering and hunting still play an <strong><u>important</u></strong> role in the economy of the Laha.</span></p> `,
     options: [
-      `<p><span style="color: #000000;">A. traditional          </span>B.major            C.insignificant       D. inconvenient</p>`,
-      `<p><em><strong>C. READING: (8pts)</strong></em><span style="color: #000000;"></span></p>`,
+      `A. traditional`,
+      `B. major `,
+      `C. insignificant `,
+      `D. inconvenient`,
     ],
     answer: `3`,
     explanation: `<p><strong>Kiến thức: </strong>Từ trái nghĩa</p><p><strong>Giải thích:</strong></p><p>important (adj): quan trọng</p><p>A. traditional (adj): truyền thống</p><p>B. major (adj): chủ yếu, chính</p><p>C. insignificant (adj): không đáng kể, không quan trọng</p><p>D. inconvenient (adj): bất tiện</p><p>=&gt; important (adj): quan trọng &gt;&lt; insignificant (adj): không đáng kể, không quan trọng</p><p><strong>Tạm dịch: </strong>Thu lượm và săn bắn vẫn đóng một vai trò quan trọng trong nền kinh tế của người Laha.</p><p><strong>Chọn C.</strong></p>`,
@@ -147,132 +128,132 @@ export const eOPPOSITE = [
     answer: `3`,
     explanation: `<p><strong>Kiến thức:</strong> Từ trái nghĩa</p><p><strong>Giải thích:</strong></p><p>dangerous (adj): nguy hiểm</p><p>A. suitable (adj): phù hợp           B. interesting (adj): thú vị</p><p>C. safe (adj): an toàn              D. expensive (adj): đắt đỏ</p><p>=&gt; dangerous (adj): nguy hiểm &gt;&lt; safe (adj): an toàn</p><p><strong>Tạm dịch:</strong> Trẻ nhỏ không hiểu rằng nhiều đồ vật trong nhà rất nguy hiểm.</p><p><strong>Chọn C.</strong></p>`,
   },
-//   {
-//     id: 9,
-//     question: `
-//       `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-// `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-// `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//   `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//     `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//       `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//         `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//           `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//             `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//               `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//                 `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//                   `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//                     `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//                       `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//                         `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
-//   {
-//     id: 9,
-//     question: `
-//                           `,
-//     options: [``, ``, ``, ``],
-//     answer: 4,
-//     explanation: ``,
-//   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //       `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  // `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  // `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //   `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //     `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //       `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //         `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //           `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //             `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //               `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //                 `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //                   `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //                     `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //                       `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //                         `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
+  //   {
+  //     id: 9,
+  //     question: `
+  //                           `,
+  //     options: [``, ``, ``, ``],
+  //     answer: 4,
+  //     explanation: ``,
+  //   },
 ];

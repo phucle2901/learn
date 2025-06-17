@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState,useRef } from "react";
 import {ePRONOUNCIATION} from '../../data/pronunciation';
 import { eCLOSEST } from "../../data/closest";
 import { eOPPOSITE } from "../../data/opposite";
@@ -13,7 +13,8 @@ import { eEXTRACONTENT } from "../../data/extracontent";
 import {eRIGHTTENSE}  from  "../..//data/righttenseorform"
 
 const Question = ({ examId  }) => {
-    const defaultArray = [2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+  const scrollRef = useRef(null);
+    const defaultArray = [2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,0,0];
     const [questions, setQuestions] = useState([]);
     const [answers, setAnswers] = useState({});
     const [submitted, setSubmitted] = useState(false);
@@ -21,131 +22,191 @@ const Question = ({ examId  }) => {
       const saved = localStorage.getItem("myArray");
       return saved ? JSON.parse(saved) : defaultArray;
     });
-    const [result, setResult] = useState(null);
-
-
-
-    function getRandomItems(array, count,extraIndex) {
-      let copy = [...array]; // Make a copy to avoid mutating the original
-      const result = [];
-      const extraContent = eEXTRACONTENT[extraIndex];
-      let index = savecocckies[extraIndex];
-     
-      console.log('index',index,savecocckies,copy.length);
-      while (result.length < count && copy.length > 0 ) {
-      //   //const index = Math.floor(Math.random() * copy.length);        
-         if(index >= copy.length) index = 0; // Reset index if it exceeds the array length
-      //   if( index > 0 && copy[index].explanation === '') continue; // Skip if the id matches newindex        
-        
-      //   //const item = copy.splice(index, 1)[0]; 
-        const item = copy[index];       
-        const extraValue = result.length===0 ? extraContent: '';
-        result.push({
-          ...item,
-          extra: extraValue
-        });  
-         index= index + 1; // Increment index and wrap around if it exceeds the length
-       
-        
-      }
-      
-      handleLocalStorage(extraIndex,(index+1)>array.length?0:index); // Save the updated index to localStorage
-      return result;
-    }
-
-    function getReadRandomItems(array, count,extraIndex) {
-      const copy = [...array]; // Make a copy to avoid mutating the original
-      const result = [];
-      const extraContent = eEXTRACONTENT[extraIndex];
-      let index = savecocckies[extraIndex];
-     
-      while (result.length < count && copy.length > 0) {
-        //const index = Math.floor(Math.random() * copy.length);
-        if(index >= copy.length) index = 0;
-        if( copy[index].content === '') continue; // Skip if the id matches newindex
-        //result.push(copy.splice(index, 1)[0]);
-        const items = copy[index]; 
-
-        items.questions.forEach((item, sindex) => {
-          const extraValue = result.length===0 && sindex===0 ? extraContent + items.content : '';
-          result.push({
-            ...item,
-            extra: extraValue
-          });
-        });
-        index= index + 1;
-      }
-      handleLocalStorage(extraIndex,(index+1)>array.length?0:index); // Save the updated index to localStorage
-      return result;
-    }
+    const [results, setResults] = useState({});
+    const [refeshData,setRefeshData]=useState(true);
+    const [isScroll, setIsScroll]=useState(false);
     
 
     
     useEffect(()=>{
-     let questionPlan = [];
+      if (refeshData){
+        setRefeshData(false);
+        const tempCookies = [...savecocckies];
+        function getRandomItems(array, count,extraIndex) {
+          let copy = [...array]; // Make a copy to avoid mutating the original
+          const result = [];
+          const extraContent = eEXTRACONTENT[extraIndex];
+        
+          const startIndex = savecocckies[extraIndex] || 0;
+          let index = startIndex;
+    
+          let itemsAdded = 0;
+        
+          //console.log('index',index,savecocckies,extraIndex);
+          while (itemsAdded < count && count && copy.length > 0 ) {
+          //   //const index = Math.floor(Math.random() * copy.length);        
+            if(index >= copy.length) index = 0; // Reset index if it exceeds the array length
+          //   if( index > 0 && copy[index].explanation === '') continue; // Skip if the id matches newindex        
+            
+          //   //const item = copy.splice(index, 1)[0]; 
+            const item = copy[index];       
+            const extraValue = result.length===0 ? extraContent: '';
+            result.push({
+              ...item,
+              extra: extraValue
+            });  
+            index= index + 1; // Increment index and wrap around if it exceeds the length
+            itemsAdded=itemsAdded+1;
+            
+          }
+          const newIndex = (startIndex + itemsAdded) % array.length;
+          //console.log('save',newIndex);
+          //handleLocalStorage(extraIndex,newIndex); // Save the updated index to localStorage
+          tempCookies[extraIndex] = newIndex;
+          return result;
+        }
+    
+        function getReadRandomItems(array, count,extraIndex) {
+          const copy = [...array]; // Make a copy to avoid mutating the original
+          const result = [];
+          const extraContent = eEXTRACONTENT[extraIndex];
+          const startIndex = savecocckies[extraIndex] || 0;
+          let index = startIndex;
+          let itemsAdded = 0;
+    
+          //console.log('index',index,savecocckies,extraIndex);
+          while (itemsAdded < count && copy.length > 0) {
+            //const index = Math.floor(Math.random() * copy.length);
+            if(index >= copy.length) index = 0;
+            if( copy[index].content === '') continue; // Skip if the id matches newindex
+            //result.push(copy.splice(index, 1)[0]);
+            const items = copy[index]; 
+    
+            items.questions.forEach((item, sindex) => {
+              const extraValue = result.length===0 && sindex===0 ? extraContent + items.content : '';
+              result.push({
+                ...item,
+                extra: extraValue
+              });
+            });
+            index= index + 1;
+            itemsAdded=itemsAdded+1;
+          }
+          const newIndex = (startIndex + itemsAdded) % array.length;
+          //console.log('save',newIndex);
+          //handleLocalStorage(extraIndex,newIndex); // Save the updated index to localStorage
+          tempCookies[extraIndex] = newIndex;
+          return result;
+        }
 
-      questionPlan.push(...getRandomItems(ePRONOUNCIATION, 2,0));     
-      questionPlan.push(...getRandomItems(eWORDDIFFER, 2,1));
-      questionPlan.push(...getRandomItems(eUNDERLINED, 3,2));
-       questionPlan.push(...getRandomItems(eVOCABULARY, 9,10));
-      questionPlan.push(...getRandomItems(eSUITABLE, 2,4));
-      questionPlan.push(...getRandomItems(eCLOSEST, 2,5));
-      questionPlan.push(...getRandomItems(eOPPOSITE, 2,6));
+        let questionPlan = [];
+
+        questionPlan.push(...getRandomItems(ePRONOUNCIATION, 2,0));     
+        questionPlan.push(...getRandomItems(eWORDDIFFER, 2,1));
+        questionPlan.push(...getRandomItems(eUNDERLINED, 3,2));
+        questionPlan.push(...getRandomItems(eVOCABULARY, 9,3));
+        questionPlan.push(...getRandomItems(eSUITABLE, 2,4));
+        questionPlan.push(...getRandomItems(eCLOSEST, 2,5));
+        questionPlan.push(...getRandomItems(eOPPOSITE, 2,6));
+        questionPlan.push(...getReadRandomItems(eREAD, 1,8));
+        questionPlan.push(...getRandomItems(eRIGHTTENSE, 4,7));
+        questionPlan.push(...getRandomItems(eREARRANGE, 3,9 ));
+        questionPlan.push(...getRandomItems(eREWRITE, 4,10));
+
+        console.log(questionPlan);
+
+        questionPlan = questionPlan.map((item, index) => ({
+          ...item,
+          id: index + 1
+        }));
+
+        
+
+        // Save all updates at once
+        setSaveCookies(tempCookies);
+        localStorage.setItem("myArray", JSON.stringify(tempCookies));
+
+        setQuestions(questionPlan);
+        setTimeout(() => {
+          if (scrollRef.current) {
+            console.log('ssssss');
+            scrollRef.current.scrollTo({ top: 0, behavior: "smooth" });
+          }
+        }, 0);
+    }
       
+    }, [refeshData])
+    const handleRefesh=()=>{  
+       
+      setAnswers({});
+      setSubmitted(false);
+      setResults({});
+      setRefeshData(true);
+      //scrollToTop(); 
      
-     questionPlan.push(...getReadRandomItems(eREAD, 1,8));
-     questionPlan.push(...getRandomItems(eRIGHTTENSE, 4,7));
-      questionPlan.push(...getRandomItems(eREARRANGE, 3,9 ));
-     questionPlan.push(...getRandomItems(eREWRITE, 4,10));
+    }
+    const handleScroll=(e)=>{
+      const scrollTop = e.target.scrollTop;
+      if(scrollTop>500){
+        setIsScroll(true);
+      }else{
+        setIsScroll(false);
+      }
+    
+     // You can also get scrollHeight, clientHeight, etc. from e.target
 
-      console.log(questionPlan);
-
-      questionPlan = questionPlan.map((item, index) => ({
-        ...item,
-        id: index + 1
-      }));
-      console.log(questionPlan);
-
-      setQuestions(questionPlan);
-    }, [examId])
+    }
+    
+    const scrollToTop = () => {
+      console.log("scrollToTop");
+      if (scrollRef.current) {        
+        scrollRef.current.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    };
     const handleChange=(questionId,value)=>{
-        // setAnswers(prev => ({ ...prev, [qid]: value }));
         setAnswers(prev=>({...prev,[questionId]:value}));
     }
     const handleRewrite=(questionId,value)=>{
         setAnswers(prev => ({ ...prev, [questionId]:value }));
     }
     const handleSubmit=()=>{
-        setSubmitted(true);
-        console.log(questions);
-        console.log(answers);
+      let count=0;
+      questions.forEach(q => {
+        if(compareAnswer(q.answer,answers[q.id],q.options && q.options.length) ){
+          count=count+1;
+        }
+      });
+      
+      setResults({score:count,total:questions.length});
+
+      setSubmitted(true);
+      scrollToTop();
+        
     }
-    const handleLocalStorage = (index,value) => {
-      const newArray = [...savecocckies];
-      newArray[index] = value;
-      console.log('newArray',newArray);
-      setSaveCookies(newArray);
-      localStorage.setItem("myArray", JSON.stringify(newArray));
-    }
+    // const handleLocalStorage = (index,value) => {
+    //   const newArray = [...savecocckies];
+    //   newArray[index] = value;
+    //   console.log('newArray',newArray);
+    //   setSaveCookies(newArray);
+    //   localStorage.setItem("myArray", JSON.stringify(newArray));
+    // }
     
-    const answerSttring= (val) => {
-        if(val? typeof val === 'string' : false) {
+    const answerSttring= (val,isnum) => {
+     
+        if(!isnum) {
             return val;
         }else{
-           if(val===1){
+           if(val?.toString()==="1"){
             return 'A';
-           }else if(val===2){
+           }else if(val?.toString()==="2"){
             return 'B';
-           }else if(val===3){
+           }else if(val?.toString()==="3"){
             return 'C';
-           }else if(val===4){
+           }else if(val?.toString()==="4"){
             return 'D';
            }
         }
-    }
-    const isNumeric = (str) => {
-      return typeof str === "string" && str.trim() !== "" && !isNaN(str);
-    };
+    }    
     const cleanSpace = (text) => {
       if (typeof text === "undefined") {
         return '';
@@ -156,10 +217,11 @@ const Question = ({ examId  }) => {
       if(cleanSpace(str)==='') return str;
       return str.replace(/[^a-zA-Z]$/, "");
     };
-    const compareAnswer = (result,answer) => {
-     if(isNumeric(result) && isNumeric(answer)) {
-        return parseFloat(result) === parseFloat(answer);
-     }else{        
+    const compareAnswer = (result,answer,isnum) => {     
+     if(isnum) {
+       return parseFloat(result) === (parseFloat(answer)+1);
+     }else{   
+        if (typeof text === "undefined") return false;     
         const cleaned = cleanSpace(answer);
         if(cleanLastChar(result).toString().toLowerCase() === cleanLastChar(cleaned)?.toString().toLowerCase()) {
           return true;
@@ -173,17 +235,22 @@ const Question = ({ examId  }) => {
       // background: submitted
       // ? ((q.options.length>0 && answers[q.id]?.toString()=== (q.answer-1).toString())|| (q.options.length===0 && answers[q.id]=== q.answer))
         <>
+        <div class="wrap-question" ref={scrollRef} onScroll={handleScroll}>
+        {isScroll && (
+          <div class="scrolltop" onClick={(e)=>scrollToTop()}></div>
+        )}        
         {questions.map(q => (
         <div key={q.id} style={{
         marginBottom: "1em",
+       
         padding: "0.8em",
         border: "1px solid #ccc",
-        borderRadius: "8px",
+        borderRadius: "5px",
         background: submitted
-          ? (compareAnswer(q.answer,answers[q.id]) )
+          ? (compareAnswer(q.answer,answers[q.id],q.options && q.options.length) )
             ? "#e0ffe0" // greenish for correct
             : "#ffe0e0" // reddish for incorrect
-          : "#f9f9f9"
+          : "#fff9f9"//#f9f9f9
       }}>
       {/* {q.answer}       */}
        {q.extra && q.extra.length > 0 && (
@@ -208,29 +275,30 @@ const Question = ({ examId  }) => {
         ) : (
         <><span dangerouslySetInnerHTML={{ __html: q.rewrite }}></span> <input class='rewrite' onChange={(e)=>handleRewrite(q.id,e.target.value)}  /> </>)}
        {submitted && (
-                <div key={`${q.id}-exp`}><p ><strong>Tra lời:</strong> {answerSttring(q.answer)}</p>
+                <div key={`${q.id}-exp`}><p ><strong>Trả lời:</strong> {answerSttring(q.answer,q.options && q.options.length)}</p>
                 <p dangerouslySetInnerHTML={{ __html: q.explanation }}></p>
                 </div>
             )
         }
         </div>
         ))}
-        {!submitted && (
+        {!submitted ? (
           <>
-        <button onClick={handleSubmit} style={{ padding: "0.5em 1em" }}>
-          Submit
+        <button onClick={handleSubmit} style={{ padding: "0.5em 1em" }} class="btn-shadow">
+          <strong>Submit</strong>
         </button>        
         </>
+         ):(
+          <button onClick={handleRefesh} style={{ padding: "0.5em 1em" }} class="btn-shadow">
+          <strong>Refesh</strong>
+        </button>  
          )}
+         </div>
+         
          {submitted && (
-          <><p>{answers[40]?.toString()}</p>
-
-          </>
-         )}
-         {submitted && result && (
-        <div style={{ marginTop: "1em" }}>
-          <h3>Result</h3>
-          <p>You scored <strong>{result.score}</strong> out of <strong>{result.total}</strong>.</p>
+        <div style={{ marginTop: "0.5em",color:"#fff" }}>
+          <h3>Kết quả</h3>
+          <p>Số câu trả lời đúng <strong>{results.score}</strong> trên tổng <strong>{results.total}</strong> câu.</p>
         </div>
         )}
 

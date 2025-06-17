@@ -1,6 +1,3 @@
-{
-  /* <p><strong><em>Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.</em></strong></p> */
-}
 export const ePRONOUNCIATION = [
   {
     id: 1,
@@ -271,7 +268,12 @@ export const ePRONOUNCIATION = [
     id: 19,
     question: `
       `,
-    options: [`<p>A. map<u>s</u>&nbsp;&nbsp;</p>`, `<p>B. map<u>s</u>&nbsp;&nbsp;</p>`, `<p>C. truck<u>s</u>&nbsp;&nbsp;</p>`, `<p>D. roof<span style="text-decoration: underline;">s</span></p>`],
+    options: [
+      `<p>A. map<u>s</u>&nbsp;&nbsp;</p>`,
+      `<p>B. map<u>s</u>&nbsp;&nbsp;</p>`,
+      `<p>C. truck<u>s</u>&nbsp;&nbsp;</p>`,
+      `<p>D. roof<span style="text-decoration: underline;">s</span></p>`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>maps /mæp<strong>s</strong>/</p>
@@ -284,7 +286,12 @@ export const ePRONOUNCIATION = [
     id: 20,
     question: `
       `,
-    options: [`<p>A. whi<u>ch</u></p>`, `<p>B. whi<u>ch</u></p>`, `<p>C. wat<u>ch</u></p>`, `<p>D. <u>ch</u>eese</p>`],
+    options: [
+      `<p>A. whi<u>ch</u></p>`,
+      `<p>B. whi<u>ch</u></p>`,
+      `<p>C. wat<u>ch</u></p>`,
+      `<p>D. <u>ch</u>eese</p>`,
+    ],
     answer: 2,
     explanation: `<div class="solution-detail">
                         <div class="solution-detail-title">Lời giải chi tiết : </div>
@@ -300,7 +307,12 @@ export const ePRONOUNCIATION = [
     id: 21,
     question: `
       `,
-    options: [`<p>A. hear<u>t</u></p>`, `<p>B. ca<u>t</u>ch</p>`, `<p>C. wa<u>t</u>ch</p>`, `<p>D. ques<u>t</u>ion</p>`],
+    options: [
+      `<p>A. hear<u>t</u></p>`,
+      `<p>B. ca<u>t</u>ch</p>`,
+      `<p>C. wa<u>t</u>ch</p>`,
+      `<p>D. ques<u>t</u>ion</p>`,
+    ],
     answer: 1,
     explanation: `<div>
                             <p>heart /hɑ:<strong>t</strong>/</p>
@@ -312,8 +324,13 @@ export const ePRONOUNCIATION = [
   {
     id: 22,
     question: `
-      `,   
-    options: [`<p>A. m<u>o</u>nth</p>`, `<p>B. m<u>o</u>nth</p>`, `<p>C. st<u>o</u>mach&nbsp;&nbsp;</p>`, `<p>D. m<u>o</u>ve</p>`],
+      `,
+    options: [
+      `<p>A. m<u>o</u>nth</p>`,
+      `<p>B. m<u>o</u>nth</p>`,
+      `<p>C. st<u>o</u>mach&nbsp;&nbsp;</p>`,
+      `<p>D. m<u>o</u>ve</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>month /mʌnθ/</p>
@@ -326,7 +343,12 @@ export const ePRONOUNCIATION = [
     id: 23,
     question: `
       `,
-    options: [`<p>A. tr<u>a</u>in</p>`, `<p>B. pl<u>a</u>y</p>`, `<p>C. l<u>a</u>ke</p>`, `<p>D. d<u>a</u>nce</p>`],
+    options: [
+      `<p>A. tr<u>a</u>in</p>`,
+      `<p>B. pl<u>a</u>y</p>`,
+      `<p>C. l<u>a</u>ke</p>`,
+      `<p>D. d<u>a</u>nce</p>`,
+    ],
     answer: 4,
     explanation: `<div class="solution-detail">
                         <div class="solution-detail-title">Lời giải chi tiết : </div>
@@ -342,7 +364,12 @@ export const ePRONOUNCIATION = [
     id: 24,
     question: `
       `,
-    options: [`<p>A. l<u>a</u>ne</p>`, `<p>B. st<u>a</u>y&nbsp;</p>`, `<p>C. tr<u>a</u>in</p>`, `<p><u>D. a</u>nyone&nbsp;</p>`],
+    options: [
+      `<p>A. l<u>a</u>ne</p>`,
+      `<p>B. st<u>a</u>y&nbsp;</p>`,
+      `<p>C. tr<u>a</u>in</p>`,
+      `<p><u>D. a</u>nyone&nbsp;</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>lane /l<strong>eɪ</strong>n/&nbsp;&nbsp;</p>
@@ -355,7 +382,12 @@ export const ePRONOUNCIATION = [
     id: 25,
     question: `
       `,
-    options: [`<p>A. r<u>a</u>ilway</p>`, `<p>B. s<u>a</u>il</p>`, `<p>C. m<u>a</u>ny&nbsp;</p>`, `<p>D. s<u>a</u>fe&nbsp;</p>`],
+    options: [
+      `<p>A. r<u>a</u>ilway</p>`,
+      `<p>B. s<u>a</u>il</p>`,
+      `<p>C. m<u>a</u>ny&nbsp;</p>`,
+      `<p>D. s<u>a</u>fe&nbsp;</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p><strong>railway: </strong>/'reɪlweɪ/</p>
@@ -368,8 +400,13 @@ export const ePRONOUNCIATION = [
     id: 26,
     question: `
       `,
-    options: [`<p>A. st<u>a</u>rt</p>`, `<p>B. st<u>a</u>rt</p>`, `<p>C. st<u>a</u>tion</p>`, `<p>D. c<u>a</u>me&nbsp;&nbsp;</p>`],
-    answer:1,
+    options: [
+      `<p>A. st<u>a</u>rt</p>`,
+      `<p>B. st<u>a</u>rt</p>`,
+      `<p>C. st<u>a</u>tion</p>`,
+      `<p>D. c<u>a</u>me&nbsp;&nbsp;</p>`,
+    ],
+    answer: 1,
     explanation: `<div>
                             <p><strong>start:&nbsp;&nbsp;</strong>/stɑ:t/<strong>&nbsp; &nbsp;&nbsp;</strong></p>
 <p><strong>pave:&nbsp;</strong>/peɪv/<strong>&nbsp; &nbsp;&nbsp;</strong></p>
@@ -381,7 +418,12 @@ export const ePRONOUNCIATION = [
     id: 27,
     question: `
       `,
-    options: [`<p>A. st<u>a</u>tion&nbsp;</p>`, `<p>B. st<u>a</u>tion&nbsp;</p>`, `<p>C. l<u>a</u>ne</p>`, `<p>D. m<u>a</u>ny</p>`],
+    options: [
+      `<p>A. st<u>a</u>tion&nbsp;</p>`,
+      `<p>B. st<u>a</u>tion&nbsp;</p>`,
+      `<p>C. l<u>a</u>ne</p>`,
+      `<p>D. m<u>a</u>ny</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>st<span style="text-decoration: underline;">a</span>tion&nbsp;/'st<strong>eɪ</strong>ʃn/<strong>&nbsp;&nbsp;  </strong></p>
@@ -394,7 +436,12 @@ export const ePRONOUNCIATION = [
     id: 28,
     question: `
       `,
-    options: [`<p>A. r<u>ea</u>dy&nbsp;</p>`, `<p>B. br<u>ea</u>k</p>`, `<p>C. ah<u>ea</u>d</p>`, `<p>D. d<u>ea</u>d</p>`],
+    options: [
+      `<p>A. r<u>ea</u>dy&nbsp;</p>`,
+      `<p>B. br<u>ea</u>k</p>`,
+      `<p>C. ah<u>ea</u>d</p>`,
+      `<p>D. d<u>ea</u>d</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>&nbsp;r<span style="text-decoration: underline;">ea</span>dy /'r<strong>e</strong>di/<strong>&nbsp;&nbsp; </strong></p>
@@ -407,7 +454,12 @@ export const ePRONOUNCIATION = [
     id: 29,
     question: `
       `,
-    options: [`<p>A. tr<u>a</u>ffic&nbsp;</p>`, `<p>B. p<u>a</u>vement</p>`, `<p>C. p<u>a</u>vement</p>`, `<p>D. st<u>a</u>tion</p>`],
+    options: [
+      `<p>A. tr<u>a</u>ffic&nbsp;</p>`,
+      `<p>B. p<u>a</u>vement</p>`,
+      `<p>C. p<u>a</u>vement</p>`,
+      `<p>D. st<u>a</u>tion</p>`,
+    ],
     answer: 1,
     explanation: `<div>
                             <p>traffic /'tr<strong>æ</strong>fɪk/</p>
@@ -420,7 +472,12 @@ export const ePRONOUNCIATION = [
     id: 30,
     question: `
       `,
-    options: [`<p>A. fr<u>ei</u>ght</p>`, `<p>B. v<u>ei</u>n</p>`, `<p>C. c<u>ei</u>ling</p>`, `<p>D. c<u>ei</u>ling</p>`],
+    options: [
+      `<p>A. fr<u>ei</u>ght</p>`,
+      `<p>B. v<u>ei</u>n</p>`,
+      `<p>C. c<u>ei</u>ling</p>`,
+      `<p>D. c<u>ei</u>ling</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p><strong>freight: </strong>/freɪt/<strong>  </strong></p>
@@ -433,7 +490,12 @@ export const ePRONOUNCIATION = [
     id: 31,
     question: `
       `,
-    options: [`<p>mach<u>i</u>ne</p>`, `<p><u>i</u>f</p>`, `<p>pol<u>i</u>ce</p>`, `<p>p<u>i</u>zza</p>`],
+    options: [
+      `<p>mach<u>i</u>ne</p>`,
+      `<p><u>i</u>f</p>`,
+      `<p>pol<u>i</u>ce</p>`,
+      `<p>p<u>i</u>zza</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>mach<u>i</u>ne /mə'ʃ<strong>i:</strong>n/</p>
@@ -446,7 +508,12 @@ export const ePRONOUNCIATION = [
     id: 32,
     question: `
       `,
-    options: [`<p>p<u>i</u>cture</p>`, `<p>t<u>i</u>cket</p>`, `<p>l<u>i</u>tre</p>`, `<p>c<u>i</u>nema</p>`],
+    options: [
+      `<p>p<u>i</u>cture</p>`,
+      `<p>t<u>i</u>cket</p>`,
+      `<p>l<u>i</u>tre</p>`,
+      `<p>c<u>i</u>nema</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>p<u>i</u>cture /'pɪktʃə(r)/</p>
@@ -459,7 +526,12 @@ export const ePRONOUNCIATION = [
     id: 33,
     question: `
       `,
-    options: [`<p>lov<u>ed </u>&nbsp;</p>`, `<p>lov<u>ed </u>&nbsp;</p>`, `<p>wish<u>ed</u> &nbsp;</p>`, `<p>gripp<u>ed</u></p>`],
+    options: [
+      `<p>lov<u>ed </u>&nbsp;</p>`,
+      `<p>lov<u>ed </u>&nbsp;</p>`,
+      `<p>wish<u>ed</u> &nbsp;</p>`,
+      `<p>gripp<u>ed</u></p>`,
+    ],
     answer: 1,
     explanation: `<div>
                             <p>Phát âm là /t/ sau các âm: /p/, /k/, /f/, /s/, /sh/, /ch/, /gh/</p>
@@ -475,7 +547,12 @@ export const ePRONOUNCIATION = [
     id: 34,
     question: `
       `,
-    options: [`<p>bor<u>ed</u></p>`, `<p>bor<u>ed</u></p>`, `<p>excit<u>ed</u></p>`, `<p>enjoy<u>ed</u> &nbsp;&nbsp;</p>`],
+    options: [
+      `<p>bor<u>ed</u></p>`,
+      `<p>bor<u>ed</u></p>`,
+      `<p>excit<u>ed</u></p>`,
+      `<p>enjoy<u>ed</u> &nbsp;&nbsp;</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>Phát âm là /t/ sau các âm: /p/, /k/, /f/, /s/, /sh/, /ch/, /gh/</p>
@@ -491,7 +568,12 @@ export const ePRONOUNCIATION = [
     id: 35,
     question: `
       `,
-    options: [`<p>reach<u>ed</u>&nbsp;</p>`, `<p>play<u>ed</u></p>`, `<p>work<u>ed </u>&nbsp;</p>`, `<p>fix<u>ed</u></p>`],
+    options: [
+      `<p>reach<u>ed</u>&nbsp;</p>`,
+      `<p>play<u>ed</u></p>`,
+      `<p>work<u>ed </u>&nbsp;</p>`,
+      `<p>fix<u>ed</u></p>`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">reached /ri:tʃt/</p>
@@ -504,7 +586,12 @@ export const ePRONOUNCIATION = [
     id: 36,
     question: `
       `,
-    options: [`<p>mov<u>ed</u>&nbsp;</p>`, `<p>look<u>ed</u></p>`, `<p>miss<u>ed</u>&nbsp;&nbsp;</p>`, `<p>relax<u>ed</u></p>`],
+    options: [
+      `<p>mov<u>ed</u>&nbsp;</p>`,
+      `<p>look<u>ed</u></p>`,
+      `<p>miss<u>ed</u>&nbsp;&nbsp;</p>`,
+      `<p>relax<u>ed</u></p>`,
+    ],
     answer: 1,
     explanation: `<div>
                             <p>moved /mu:vd/</p>
@@ -517,7 +604,12 @@ export const ePRONOUNCIATION = [
     id: 37,
     question: `
       `,
-    options: [`<p>lift<u>ed</u></p>`, `<p>robb<u>ed</u></p>`, `<p>chang<u>ed</u></p>`, `<p>mention<u>ed</u>&nbsp; &nbsp;<strong>&nbsp;</strong></p>`],
+    options: [
+      `<p>lift<u>ed</u></p>`,
+      `<p>robb<u>ed</u></p>`,
+      `<p>chang<u>ed</u></p>`,
+      `<p>mention<u>ed</u>&nbsp; &nbsp;<strong>&nbsp;</strong></p>`,
+    ],
     answer: 1,
     explanation: `<div>
                             <p>lifted /lɪftɪd/</p>
@@ -530,7 +622,12 @@ export const ePRONOUNCIATION = [
     id: 38,
     question: `
       `,
-    options: [`<p>lov<u>ed</u></p>`, `<p>walk<u>ed</u></p>`, `<p>travell<u>ed</u></p>`, `<p>cri<u>ed </u>&nbsp;</p>`],
+    options: [
+      `<p>lov<u>ed</u></p>`,
+      `<p>walk<u>ed</u></p>`,
+      `<p>travell<u>ed</u></p>`,
+      `<p>cri<u>ed </u>&nbsp;</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>lov<span style="text-decoration: underline;">ed</span> /lʌv<strong>d</strong>/</p>
@@ -538,17 +635,22 @@ export const ePRONOUNCIATION = [
 <p>travell<span style="text-decoration: underline;">ed</span> /'trævl<strong>d</strong>/</p>
 <p>cri<span style="text-decoration: underline;">ed</span> /kraɪ<strong>d</strong>/</p>
 <p>Câu B đuôi –ed phát âm là /t/, còn lại phát âm là /d/.</p>                        </div>`,
-  },  
+  },
   {
     id: 40,
     question: `As children move toward ______, they are less likely to ask for advice.
 '
       `,
-    options: [` dependent
-'`, `dependence
-'`, `independent
-'`, `independence
-'`],
+    options: [
+      ` dependent
+'`,
+      `dependence
+'`,
+      `independent
+'`,
+      `independence
+'`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p style="text-align: left;">dependent (adj):<em> phụ thuộc</em></p>
@@ -565,11 +667,16 @@ export const ePRONOUNCIATION = [
     question: `We need to prepare food, do laundry and chores at home. It’s _______.
 '
       `,
-    options: [`social skills
-'`, `self-care skills
-'`, `housekeeping skills
-'`, `cognitive skills
-'`],
+    options: [
+      `social skills
+'`,
+      `self-care skills
+'`,
+      `housekeeping skills
+'`,
+      `cognitive skills
+'`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p style="text-align: left;">social skills (n): <em>kỹ năng xã hội&nbsp;</em></p>
@@ -585,11 +692,16 @@ export const ePRONOUNCIATION = [
     question: ` _______ and young adults, both male and female, benefit from physical activity.
 '
       `,
-    options: [`Adolescence
-'`, `Adolescents
-'`, `Frustrations
-'`, `Newborns
-'`],
+    options: [
+      `Adolescence
+'`,
+      `Adolescents
+'`,
+      `Frustrations
+'`,
+      `Newborns
+'`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p style="text-align: justify;">adolescence (n): thời kỳ vị thành niên&nbsp;&nbsp;</p>
@@ -605,11 +717,16 @@ export const ePRONOUNCIATION = [
     question: `Our teacher broke the final project ______ three separate parts.
 '
       `,
-    options: [`in   
-'`, `into
-'`, `away
-'`, `down
-'`],
+    options: [
+      `in   
+'`,
+      `into
+'`,
+      `away
+'`,
+      `down
+'`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p style="text-align: justify;">break in (v): <em>ngắt lời</em></p>
@@ -627,11 +744,16 @@ export const ePRONOUNCIATION = [
 => She said she ______ to him the day before.
 '
       `,
-    options: [`goes
-'`, `had gone
-'`, `went
-'`, `has gone
-'`],
+    options: [
+      `goes
+'`,
+      `had gone
+'`,
+      `went
+'`,
+      `has gone
+'`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p style="text-align: justify;">Động từ chuyển tiếp “said” ở thì quá khứ nên động từ trong câu trực tiếp ở thì quá khứ đơn phải lùi về quá khứ hoàn thành.</p>
@@ -644,7 +766,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p><strong>A.</strong>&nbsp;c<u>o</u>me</p>`, `<p><strong>B.</strong>&nbsp;m<u>o</u>nth</p>`, `<p><strong>C.</strong>&nbsp;m<u>o</u>ther </p>`, `<p><strong>D.</strong>&nbsp;<u>o</u>pen<strong></strong></p>`],
+    options: [
+      `<p><strong>A.</strong>&nbsp;c<u>o</u>me</p>`,
+      `<p><strong>B.</strong>&nbsp;m<u>o</u>nth</p>`,
+      `<p><strong>C.</strong>&nbsp;m<u>o</u>ther </p>`,
+      `<p><strong>D.</strong>&nbsp;<u>o</u>pen<strong></strong></p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>c<u>o</u>me /k<strong>ʌ</strong>m/</p>
@@ -659,7 +786,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p><strong>A.</strong>&nbsp;h<u>o</u>pe</p>`, `<p><strong>B.</strong>&nbsp;h<u>o</u>mework</p>`, `<p><strong>C.</strong>&nbsp;<u>o</u>ne </p>`, `<p><strong>D.</strong>&nbsp;p<u>o</u>st<strong></strong></p>`],
+    options: [
+      `<p><strong>A.</strong>&nbsp;h<u>o</u>pe</p>`,
+      `<p><strong>B.</strong>&nbsp;h<u>o</u>mework</p>`,
+      `<p><strong>C.</strong>&nbsp;<u>o</u>ne </p>`,
+      `<p><strong>D.</strong>&nbsp;p<u>o</u>st<strong></strong></p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>h<u>o</u>pe /h<strong>əʊ</strong>p/</p>
@@ -673,7 +805,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p><strong>A.</strong>&nbsp;br<u>o</u>ther </p>`, `<p><strong>B.</strong>&nbsp;Jud<u>o</u></p>`, `<p><strong>C.</strong>&nbsp;g<u>o</u>ing&nbsp;</p>`, `<p><strong>D.</strong>&nbsp;r<u>o</u>de</p>`],
+    options: [
+      `<p><strong>A.</strong>&nbsp;br<u>o</u>ther </p>`,
+      `<p><strong>B.</strong>&nbsp;Jud<u>o</u></p>`,
+      `<p><strong>C.</strong>&nbsp;g<u>o</u>ing&nbsp;</p>`,
+      `<p><strong>D.</strong>&nbsp;r<u>o</u>de</p>`,
+    ],
     answer: 1,
     explanation: `<div>
                             <p>br<u>o</u>ther&nbsp; /'br<strong>ʌ</strong>ðə(r)/</p>
@@ -687,7 +824,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p><strong>A.</strong>&nbsp;ph<u>o</u>to</p>`, `<p><strong>B.</strong>&nbsp;g<u>o</u>ing</p>`, `<p><strong>C.</strong>&nbsp;br<u>o</u>ther</p>`, `<p><strong>D.</strong>&nbsp;h<u>o</u>me</p>`],
+    options: [
+      `<p><strong>A.</strong>&nbsp;ph<u>o</u>to</p>`,
+      `<p><strong>B.</strong>&nbsp;g<u>o</u>ing</p>`,
+      `<p><strong>C.</strong>&nbsp;br<u>o</u>ther</p>`,
+      `<p><strong>D.</strong>&nbsp;h<u>o</u>me</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>&nbsp;Ph<u>o</u>to:&nbsp;/ˈfəʊtəʊ/</p>
@@ -701,7 +843,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p><strong>A.&nbsp;</strong>p<u>o</u>st</p>`, `<p><strong>B.</strong>&nbsp;s<span style="text-decoration: underline;">u</span>n&nbsp; </p>`, `<p><strong>C.</strong>&nbsp;s<u>o</u>me&nbsp;</p>`, `<p><strong>D.</strong>&nbsp;&nbsp;m<u>o</u>nth &nbsp;</p>`],
+    options: [
+      `<p><strong>A.&nbsp;</strong>p<u>o</u>st</p>`,
+      `<p><strong>B.</strong>&nbsp;s<span style="text-decoration: underline;">u</span>n&nbsp; </p>`,
+      `<p><strong>C.</strong>&nbsp;s<u>o</u>me&nbsp;</p>`,
+      `<p><strong>D.</strong>&nbsp;&nbsp;m<u>o</u>nth &nbsp;</p>`,
+    ],
     answer: 1,
     explanation: `<div>
                             <p>p<u>o</u>st /pəʊst/</p>
@@ -715,7 +862,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p><strong>A.</strong>&nbsp;c<u>o</u>me </p>`, `<p><strong>B.</strong>&nbsp;s<u>o</u>meone&nbsp;</p>`, `<p><strong>B.</strong>&nbsp;s<u>o</u>meone</p>`, `<p><strong>D.</strong>&nbsp;v<u>o</u>lleyball&nbsp;&nbsp;</p>`],
+    options: [
+      `<p><strong>A.</strong>&nbsp;c<u>o</u>me </p>`,
+      `<p><strong>B.</strong>&nbsp;s<u>o</u>meone&nbsp;</p>`,
+      `<p><strong>B.</strong>&nbsp;s<u>o</u>meone</p>`,
+      `<p><strong>D.</strong>&nbsp;v<u>o</u>lleyball&nbsp;&nbsp;</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>c<u>o</u>me&nbsp; /k<strong>ʌ</strong>m/</p>
@@ -729,7 +881,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>f<u>oo</u>d</p>`, `<p>s<u>ui</u>t</p>`, `<p>p<u>u</u>t</p>`, `<p>r<u>u</u>le</p>`],
+    options: [
+      `<p>f<u>oo</u>d</p>`,
+      `<p>s<u>ui</u>t</p>`,
+      `<p>p<u>u</u>t</p>`,
+      `<p>r<u>u</u>le</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>food /fu:d/</p>
@@ -742,7 +899,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>&nbsp;act<u>i</u>vist</p>`, `<p>mus<u>i</u>c</p>`, `<p>&nbsp;anosm<u>i</u>c</p>`, `<p>bl<u>i</u>nd</p>`],
+    options: [
+      `<p>&nbsp;act<u>i</u>vist</p>`,
+      `<p>mus<u>i</u>c</p>`,
+      `<p>&nbsp;anosm<u>i</u>c</p>`,
+      `<p>bl<u>i</u>nd</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>activist &nbsp;/ˈæk.tɪ.vɪst/</p>
@@ -755,7 +917,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p><u>a</u>dventure</p>`, `<p>l<u>a</u>sagne</p>`, `<p>c<u>a</u>rry</p>`, `<p>yog<u>a</u></p>`],
+    options: [
+      `<p><u>a</u>dventure</p>`,
+      `<p>l<u>a</u>sagne</p>`,
+      `<p>c<u>a</u>rry</p>`,
+      `<p>yog<u>a</u></p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>adventure /ədˈven.tʃər/</p>
@@ -768,7 +935,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>d<u>a</u>mage&nbsp;</p>`, `<p><u>a</u>way</p>`, `<p>b<u>a</u>nk</p>`, `<p>ch<u>a</u>rity</p>`],
+    options: [
+      `<p>d<u>a</u>mage&nbsp;</p>`,
+      `<p><u>a</u>way</p>`,
+      `<p>b<u>a</u>nk</p>`,
+      `<p>ch<u>a</u>rity</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>damage /ˈdæm.ɪdʒ/</p>
@@ -781,7 +953,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>fas<u>t</u>en</p>`, `<p>Chris<u>t</u>mas</p>`, `<p>whis<u>t</u>le</p>`, `<p>brigh<u>t</u>en</p>`],
+    options: [
+      `<p>fas<u>t</u>en</p>`,
+      `<p>Chris<u>t</u>mas</p>`,
+      `<p>whis<u>t</u>le</p>`,
+      `<p>brigh<u>t</u>en</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                                                         <p>fasten /ˈfɑː.sən/ (v): <em>buộc chặt, trói chặt</em></p>
@@ -794,7 +971,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>mus<u>c</u>le</p>`, `<p>s<u>c</u>atter</p>`, `<p>s<u>c</u>atter</p>`, `<p>as<u>c</u>ent</p>`],
+    options: [
+      `<p>mus<u>c</u>le</p>`,
+      `<p>s<u>c</u>atter</p>`,
+      `<p>s<u>c</u>atter</p>`,
+      `<p>as<u>c</u>ent</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                                                         <p>muscle /ˈmʌsl/ (n): <em>cơ bắp</em></p>
@@ -807,7 +989,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>can<u>d</u>le</p>`, `<p>san<u>d</u>wich</p>`, `<p>We<u>d</u>nesday</p>`, `<p>han<u>d</u>some</p>`],
+    options: [
+      `<p>can<u>d</u>le</p>`,
+      `<p>san<u>d</u>wich</p>`,
+      `<p>We<u>d</u>nesday</p>`,
+      `<p>han<u>d</u>some</p>`,
+    ],
     answer: 1,
     explanation: `<div>
                                                         <p>candle /ˈkændl/ (n): <em>nến</em></p>
@@ -820,7 +1007,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p><u>K</u>orea</p>`, `<p><u>k</u>umquat</p>`, `<p><u>k</u>nowledge</p>`, `<p><u>k</u>angaroo</p>`],
+    options: [
+      `<p><u>K</u>orea</p>`,
+      `<p><u>k</u>umquat</p>`,
+      `<p><u>k</u>nowledge</p>`,
+      `<p><u>k</u>angaroo</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                                                         <p>Korea/kəˈriːə/ (n): <em>nước Hàn Quốc</em></p>
@@ -833,7 +1025,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>pe<u>n</u>cil</p>`, `<p>ki<u>n</u>der</p>`, `<p>autum<u>n</u></p>`, `<p>sig<u>n</u>al</p>`],
+    options: [
+      `<p>pe<u>n</u>cil</p>`,
+      `<p>ki<u>n</u>der</p>`,
+      `<p>autum<u>n</u></p>`,
+      `<p>sig<u>n</u>al</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                                                         <p>penci /ˈpensl/ (n): <em>bút chì</em></p>
@@ -846,7 +1043,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>tr<u>a</u>in</p>`, `<p>pl<u>a</u>y</p>`, `<p>l<u>a</u>ke</p>`, `<p>d<u>a</u>nce</p>`],
+    options: [
+      `<p>tr<u>a</u>in</p>`,
+      `<p>pl<u>a</u>y</p>`,
+      `<p>l<u>a</u>ke</p>`,
+      `<p>d<u>a</u>nce</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>train&nbsp;/tr<strong>eɪ</strong>n/&nbsp;</p>
@@ -859,7 +1061,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>l<u>a</u>ne</p>`, `<p>st<u>a</u>y&nbsp;</p>`, `<p>tr<u>a</u>in</p>`, `<p><u>a</u>nyone&nbsp;</p>`],
+    options: [
+      `<p>l<u>a</u>ne</p>`,
+      `<p>st<u>a</u>y&nbsp;</p>`,
+      `<p>tr<u>a</u>in</p>`,
+      `<p><u>a</u>nyone&nbsp;</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>lane /l<strong>eɪ</strong>n/&nbsp;&nbsp;</p>
@@ -872,7 +1079,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>r<u>a</u>ilway</p>`, `<p>s<u>a</u>il</p>`, `<p>m<u>a</u>ny&nbsp;</p>`, `<p>s<u>a</u>fe&nbsp;</p>`],
+    options: [
+      `<p>r<u>a</u>ilway</p>`,
+      `<p>s<u>a</u>il</p>`,
+      `<p>m<u>a</u>ny&nbsp;</p>`,
+      `<p>s<u>a</u>fe&nbsp;</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p><strong>railway: </strong>/ˈreɪlweɪ/</p>
@@ -885,7 +1097,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p><strong>A.</strong>&nbsp;c<u>o</u>me</p>`, `<p><strong>B.</strong>&nbsp;m<u>o</u>nth</p>`, `<p><strong>C.</strong>&nbsp;m<u>o</u>ther &nbsp;</p>`, `<p><strong>D.</strong>&nbsp;<u>o</u>pen<strong></strong></p>`],
+    options: [
+      `<p><strong>A.</strong>&nbsp;c<u>o</u>me</p>`,
+      `<p><strong>B.</strong>&nbsp;m<u>o</u>nth</p>`,
+      `<p><strong>C.</strong>&nbsp;m<u>o</u>ther &nbsp;</p>`,
+      `<p><strong>D.</strong>&nbsp;<u>o</u>pen<strong></strong></p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>c<u>o</u>me /k<strong>ʌ</strong>m/</p>
@@ -900,7 +1117,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p><strong>A.</strong>&nbsp;h<u>o</u>pe</p>`, `<p><strong>B.</strong>&nbsp;h<u>o</u>mework&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>`, `<p><strong>C.</strong>&nbsp;<u>o</u>ne </p>`, `<p><strong>D.</strong>&nbsp;p<u>o</u>st<strong>&nbsp;&nbsp;</strong></p>`],
+    options: [
+      `<p><strong>A.</strong>&nbsp;h<u>o</u>pe</p>`,
+      `<p><strong>B.</strong>&nbsp;h<u>o</u>mework&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>`,
+      `<p><strong>C.</strong>&nbsp;<u>o</u>ne </p>`,
+      `<p><strong>D.</strong>&nbsp;p<u>o</u>st<strong>&nbsp;&nbsp;</strong></p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>h<u>o</u>pe /h<strong>əʊ</strong>p/</p>
@@ -914,7 +1136,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p><strong>A.</strong>&nbsp;br<u>o</u>ther &nbsp;&nbsp;</p>`, `<p><strong>B.</strong>&nbsp;Jud<u>o</u></p>`, `<p><strong>C.</strong>&nbsp;g<u>o</u>ing&nbsp;</p>`, `<p><strong>D.</strong>&nbsp;r<u>o</u>de&nbsp;&nbsp;</p>`],
+    options: [
+      `<p><strong>A.</strong>&nbsp;br<u>o</u>ther &nbsp;&nbsp;</p>`,
+      `<p><strong>B.</strong>&nbsp;Jud<u>o</u></p>`,
+      `<p><strong>C.</strong>&nbsp;g<u>o</u>ing&nbsp;</p>`,
+      `<p><strong>D.</strong>&nbsp;r<u>o</u>de&nbsp;&nbsp;</p>`,
+    ],
     answer: 1,
     explanation: `<div>
                             <p>br<u>o</u>ther&nbsp; /ˈbr<strong>ʌ</strong>ðə(r)/</p>
@@ -928,7 +1155,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>sm<span style="text-decoration: underline;">i</span>le&nbsp;</p>`, `<p>f<span style="text-decoration: underline;">i</span>ne&nbsp;&nbsp;</p>`, `<p>k<span style="text-decoration: underline;">i</span>te</p>`, `<p>c<span style="text-decoration: underline;">i</span>ty&nbsp;&nbsp;</p>`],
+    options: [
+      `<p>sm<span style="text-decoration: underline;">i</span>le&nbsp;</p>`,
+      `<p>f<span style="text-decoration: underline;">i</span>ne&nbsp;&nbsp;</p>`,
+      `<p>k<span style="text-decoration: underline;">i</span>te</p>`,
+      `<p>c<span style="text-decoration: underline;">i</span>ty&nbsp;&nbsp;</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>smile /smaɪl/</p>
@@ -941,7 +1173,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>elb<u>ow</u></p>`, `<p>narr<u>ow</u></p>`, `<p>fl<u>ow</u>er</p>`, `<p>sn<u>ow</u></p>`],
+    options: [
+      `<p>elb<u>ow</u></p>`,
+      `<p>narr<u>ow</u></p>`,
+      `<p>fl<u>ow</u>er</p>`,
+      `<p>sn<u>ow</u></p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>ell<u>ow </u>/ˈɛlbəʊ/</p>
@@ -954,7 +1191,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>t<u>ow</u>n</p>`, `<p>d<u>ow</u>n</p>`, `<p>kn<u>ow</u></p>`, `<p>br<u>ow</u>n</p>`],
+    options: [
+      `<p>t<u>ow</u>n</p>`,
+      `<p>d<u>ow</u>n</p>`,
+      `<p>kn<u>ow</u></p>`,
+      `<p>br<u>ow</u>n</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>t<u>ow</u>n /t<strong>aʊ</strong>n/</p>
@@ -967,7 +1209,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>tomorr<u>ow</u></p>`, `<p>thr<u>ow</u>away</p>`, `<p><u>ow</u>nership</p>`, `<p>p<u>ow</u>erful</p>`],
+    options: [
+      `<p>tomorr<u>ow</u></p>`,
+      `<p>thr<u>ow</u>away</p>`,
+      `<p><u>ow</u>nership</p>`,
+      `<p>p<u>ow</u>erful</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>tomorr<u>ow</u> /təˈmɒr<strong>əʊ</strong>/</p>
@@ -981,7 +1228,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p><strong><em><u>g</u></em></strong>eneral</p>`, `<p><strong><em><u>g</u></em></strong>ambling</p>`, `<p><strong><em><u>g</u></em></strong>eography</p>`, `<p>gor<strong><em><u>g</u></em></strong>erous</p>`],
+    options: [
+      `<p><strong><em><u>g</u></em></strong>eneral</p>`,
+      `<p><strong><em><u>g</u></em></strong>ambling</p>`,
+      `<p><strong><em><u>g</u></em></strong>eography</p>`,
+      `<p>gor<strong><em><u>g</u></em></strong>erous</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                                                         <p><u>g</u>eneral /ˈdʒenrəl/ (adj): <em>chung, toàn thể</em></p>
@@ -994,7 +1246,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>massa<u>ge</u></p>`, `<p>mana<u>ge</u></p>`, `<p>colle<u>ge</u></p>`, `<p>stora<u>ge</u></p>`],
+    options: [
+      `<p>massa<u>ge</u></p>`,
+      `<p>mana<u>ge</u></p>`,
+      `<p>colle<u>ge</u></p>`,
+      `<p>stora<u>ge</u></p>`,
+    ],
     answer: 1,
     explanation: `<div>
                                                         <p>massage /ˈmæsɑːʒ/ (v): mát xa</p>
@@ -1007,7 +1264,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>ver<u>d</u>ure</p>`, `<p>sol<u>d</u>ier</p>`, `<p>sche<u>d</u>ule</p>`, `<p>en<u>d</u>ure</p>`],
+    options: [
+      `<p>ver<u>d</u>ure</p>`,
+      `<p>sol<u>d</u>ier</p>`,
+      `<p>sche<u>d</u>ule</p>`,
+      `<p>en<u>d</u>ure</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                                                         <p>verdure /ˈvɜːrdʒər/ (n): <em>bụi cỏ xanh tươi</em></p>
@@ -1020,7 +1282,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>en<u>d</u>anger</p>`, `<p>deman<u>d</u>ing</p>`, `<p>proce<u>d</u>ure</p>`, `<p>me<u>d</u>icine</p>`],
+    options: [
+      `<p>en<u>d</u>anger</p>`,
+      `<p>deman<u>d</u>ing</p>`,
+      `<p>proce<u>d</u>ure</p>`,
+      `<p>me<u>d</u>icine</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                                                         <p>endanger /ɪnˈdeɪndʒə(r)/ (v): <em>gây nguy hiểm</em></p>
@@ -1033,7 +1300,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p><strong><u>g</u></strong>uess</p>`, `<p>man<strong><u>g</u></strong>a</p>`, `<p><strong><u>g</u></strong>enerosity</p>`, `<p><strong><u>g</u></strong>ame</p>`],
+    options: [
+      `<p><strong><u>g</u></strong>uess</p>`,
+      `<p>man<strong><u>g</u></strong>a</p>`,
+      `<p><strong><u>g</u></strong>enerosity</p>`,
+      `<p><strong><u>g</u></strong>ame</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                                                         <p><strong><u>g</u></strong>uess /ɡes/&nbsp; <strong>&nbsp; </strong></p>
@@ -1046,7 +1318,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>lar<strong><u>g</u></strong>est</p>`, `<p><strong><u>g</u></strong>ather</p>`, `<p>ori<strong><u>g</u></strong>inal</p>`, `<p>intelli<strong><u>g</u></strong>ent</p>`],
+    options: [
+      `<p>lar<strong><u>g</u></strong>est</p>`,
+      `<p><strong><u>g</u></strong>ather</p>`,
+      `<p>ori<strong><u>g</u></strong>inal</p>`,
+      `<p>intelli<strong><u>g</u></strong>ent</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                                                         <p>lar<strong><u>g</u></strong>est /lɑːdʒɪst/ <strong>&nbsp; </strong></p>
@@ -1059,7 +1336,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>jud<u>o</u></p>`, `<p>h<u>o</u>mework</p>`, `<p><u>o</u>pen</p>`, `<p><u>o</u>pen</p>`],
+    options: [
+      `<p>jud<u>o</u></p>`,
+      `<p>h<u>o</u>mework</p>`,
+      `<p><u>o</u>pen</p>`,
+      `<p><u>o</u>pen</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                                                         <p>judo /ˈdʒuːd<strong>əʊ</strong>/</p>
@@ -1072,7 +1354,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>M<u>o</u>nday</p>`, `<p>m<u>o</u>ther</p>`, `<p>m<u>o</u>nth</p>`, `<p>g<u>o</u>ing</p>`],
+    options: [
+      `<p>M<u>o</u>nday</p>`,
+      `<p>m<u>o</u>ther</p>`,
+      `<p>m<u>o</u>nth</p>`,
+      `<p>g<u>o</u>ing</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                                                         <p>Monday /ˈm<strong>ʌ</strong>ndeɪ/</p>
@@ -1085,7 +1372,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>fl<u>oo</u>d</p>`, `<p>sch<u>oo</u>l</p>`, `<p>sh<u>oo</u>t</p>`, `<p>m<u>oo</u>d</p>`],
+    options: [
+      `<p>fl<u>oo</u>d</p>`,
+      `<p>sch<u>oo</u>l</p>`,
+      `<p>sh<u>oo</u>t</p>`,
+      `<p>m<u>oo</u>d</p>`,
+    ],
     answer: 1,
     explanation: `<div>
                                                         <p>flood /fl<strong>ʌ</strong>d/</p>
@@ -1098,7 +1390,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>b<u>u</u>g&nbsp;</p>`, `<p>b<u>u</u>g&nbsp;</p>`, `<p>p<u>u</u>t</p>`, `<p>l<u>u</u>nch</p>`],
+    options: [
+      `<p>b<u>u</u>g&nbsp;</p>`,
+      `<p>b<u>u</u>g&nbsp;</p>`,
+      `<p>p<u>u</u>t</p>`,
+      `<p>l<u>u</u>nch</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                                                         <p>bug /b<strong>ʌ</strong>ɡ/&nbsp;</p>
@@ -1111,7 +1408,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>c<u>ou</u>sin</p>`, `<p>c<u>ou</u>pon</p>`, `<p>tr<u>ou</u>ble</p>`, `<p>y<u>ou</u>nger</p>`],
+    options: [
+      `<p>c<u>ou</u>sin</p>`,
+      `<p>c<u>ou</u>pon</p>`,
+      `<p>tr<u>ou</u>ble</p>`,
+      `<p>y<u>ou</u>nger</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                                                         <p>cousin /'k<strong>ʌ</strong>zn/</p>
@@ -1124,7 +1426,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>t<u>o</u>mb</p>`, `<p>c<u>o</u>mb</p>`, `<p>d<u>o</u>me</p>`, `<p>d<u>o</u>me</p>`],
+    options: [
+      `<p>t<u>o</u>mb</p>`,
+      `<p>c<u>o</u>mb</p>`,
+      `<p>d<u>o</u>me</p>`,
+      `<p>d<u>o</u>me</p>`,
+    ],
     answer: 1,
     explanation: `<div>
                                                         <p>tomb /t<strong>uː</strong>m/</p>
@@ -1138,7 +1445,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>h<u>u</u>man</p>`, `<p>l<u>u</u>nar</p>`, `<p>c<u>u</u>teness</p>`, `<p>d<u>u</u>ty</p>`],
+    options: [
+      `<p>h<u>u</u>man</p>`,
+      `<p>l<u>u</u>nar</p>`,
+      `<p>c<u>u</u>teness</p>`,
+      `<p>d<u>u</u>ty</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                                                         <p>human /ˈhjuːmən/ (n): <em>con người</em></p>
@@ -1151,7 +1463,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>sch<span style="text-decoration: underline;">oo</span>l</p>`, `<p>sp<u>oo</u>n</p>`, `<p>b<u>oo</u>k</p>`, `<p>t<u>oo</u>l</p>`],
+    options: [
+      `<p>sch<span style="text-decoration: underline;">oo</span>l</p>`,
+      `<p>sp<u>oo</u>n</p>`,
+      `<p>b<u>oo</u>k</p>`,
+      `<p>t<u>oo</u>l</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                                                         <p>school /skuːl/ (n): <em>trường học</em></p>
@@ -1164,7 +1481,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>b<u>ou</u>gh</p>`, `<p>c<u>ou</u>ch</p>`, `<p>h<u>ou</u>nd</p>`, `<p>h<u>ou</u>nd</p>`],
+    options: [
+      `<p>b<u>ou</u>gh</p>`,
+      `<p>c<u>ou</u>ch</p>`,
+      `<p>h<u>ou</u>nd</p>`,
+      `<p>h<u>ou</u>nd</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                                                         <p>bough /baʊ/ (n): <em>nhánh cây</em></p>
@@ -1177,7 +1499,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>g<u>ui</u>de</p>`, `<p>fr<u>ui</u>t</p>`, `<p>j<u>ui</u>ce</p>`, `<p>cr<u>ui</u>se</p>`],
+    options: [
+      `<p>g<u>ui</u>de</p>`,
+      `<p>fr<u>ui</u>t</p>`,
+      `<p>j<u>ui</u>ce</p>`,
+      `<p>cr<u>ui</u>se</p>`,
+    ],
     answer: 1,
     explanation: `<div>
                                                         <p>guide /ɡaɪd/ (v): <em>hướng dẫn</em></p>
@@ -1190,8 +1517,13 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>memb<u>e</u>r</p>`, `<p>memb<u>e</u>r</p>`, `<p>wat<u>e</u>r</p>`, `<p>dinn<u>e</u>r</p>`],
-    answer:2,
+    options: [
+      `<p>memb<u>e</u>r</p>`,
+      `<p>memb<u>e</u>r</p>`,
+      `<p>wat<u>e</u>r</p>`,
+      `<p>dinn<u>e</u>r</p>`,
+    ],
+    answer: 2,
     explanation: `<div>
                             <p style="text-align: left;">memb<span style="text-decoration: underline;">e</span>r /ˈmemb<em><strong>ə</strong></em>(r)/</p>
 <p style="text-align: left;">l<span style="text-decoration: underline;">ea</span>rn /l<em><strong>ɜː</strong></em>n/</p>
@@ -1204,7 +1536,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>butt<u>e</u>r &nbsp;&nbsp;</p>`, `<p>foc<u>u</u>s</p>`, `<p>s<u>u</u>ggest</p>`, `<p>s<u>u</u>ggest</p>`],
+    options: [
+      `<p>butt<u>e</u>r &nbsp;&nbsp;</p>`,
+      `<p>foc<u>u</u>s</p>`,
+      `<p>s<u>u</u>ggest</p>`,
+      `<p>s<u>u</u>ggest</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>butt<u>e</u>r /ˈbʌt<strong>ə</strong>(r)/</p>
@@ -1217,7 +1554,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>b<u>u</u>rn</p>`, `<p>ret<u>u</u>rn</p>`, `<p>p<u>u</u>rple</p>`, `<p>cult<u>u</u>re</p>`],
+    options: [
+      `<p>b<u>u</u>rn</p>`,
+      `<p>ret<u>u</u>rn</p>`,
+      `<p>p<u>u</u>rple</p>`,
+      `<p>cult<u>u</u>re</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>b<span style="text-decoration: underline;">u</span>rn /b<em><strong>ɜː</strong></em>n/</p>
@@ -1231,7 +1573,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>b<u>ea</u>r</p>`, `<p>t<u>ea</u>r</p>`, `<p>b<u>ea</u>rd</p>`, `<p>h<u>ai</u>r <strong>&nbsp;</strong></p>`],
+    options: [
+      `<p>b<u>ea</u>r</p>`,
+      `<p>t<u>ea</u>r</p>`,
+      `<p>b<u>ea</u>rd</p>`,
+      `<p>h<u>ai</u>r <strong>&nbsp;</strong></p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>bear /b<strong>eə</strong>(r)/&nbsp;&nbsp;</p>
@@ -1244,7 +1591,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>mach<u>i</u>ne</p>`, `<p><u>i</u>f</p>`, `<p>pol<u>i</u>ce</p>`, `<p>p<u>i</u>zza</p>`],
+    options: [
+      `<p>mach<u>i</u>ne</p>`,
+      `<p><u>i</u>f</p>`,
+      `<p>pol<u>i</u>ce</p>`,
+      `<p>p<u>i</u>zza</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>mach<u>i</u>ne /məˈʃ<strong>iː</strong>n/</p>
@@ -1257,7 +1609,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>p<u>i</u>cture</p>`, `<p>t<u>i</u>cket</p>`, `<p>l<u>i</u>tre</p>`, `<p>c<u>i</u>nema</p>`],
+    options: [
+      `<p>p<u>i</u>cture</p>`,
+      `<p>t<u>i</u>cket</p>`,
+      `<p>l<u>i</u>tre</p>`,
+      `<p>c<u>i</u>nema</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>p<u>i</u>cture /ˈpɪktʃə(r)/</p>
@@ -1270,7 +1627,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>m<u>ee</u>t</p>`, `<p>pr<u>e</u>tty</p>`, `<p>s<u>ee</u>n</p>`, `<p>sh<u>ee</u>p</p>`],
+    options: [
+      `<p>m<u>ee</u>t</p>`,
+      `<p>pr<u>e</u>tty</p>`,
+      `<p>s<u>ee</u>n</p>`,
+      `<p>sh<u>ee</u>p</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>M<u>ee</u>t:&nbsp;/miːt/</p>
@@ -1283,7 +1645,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p>w<u>i</u>fe</p>`, `<p>f<u>i</u>ne</p>`, `<p>w<u>i</u>ne</p>`, `<p>r<u>i</u>ch</p>`],
+    options: [
+      `<p>w<u>i</u>fe</p>`,
+      `<p>f<u>i</u>ne</p>`,
+      `<p>w<u>i</u>ne</p>`,
+      `<p>r<u>i</u>ch</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>w<u>i</u>fe /waɪf/</p>
@@ -1296,7 +1663,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p>marri<u>a</u>ge</p>`, `<p>ex<u>a</u>m</p>`, `<p>f<u>a</u>mily</p>`, `<p>n<u>a</u>tional</p>`],
+    options: [
+      `<p>marri<u>a</u>ge</p>`,
+      `<p>ex<u>a</u>m</p>`,
+      `<p>f<u>a</u>mily</p>`,
+      `<p>n<u>a</u>tional</p>`,
+    ],
     answer: 1,
     explanation: `<div>
                             <p>marri<u>a</u>ge /ˈmærɪʤ/</p>
@@ -1309,7 +1681,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p><strong><span style="text-decoration: underline;">g</span></strong>eneration</p>`, `<p><strong><u>g</u></strong>oose</p>`, `<p><strong><u>g</u></strong>inger</p>`, `<p>en<strong><u>g</u></strong>ineer</p>`],
+    options: [
+      `<p><strong><span style="text-decoration: underline;">g</span></strong>eneration</p>`,
+      `<p><strong><u>g</u></strong>oose</p>`,
+      `<p><strong><u>g</u></strong>inger</p>`,
+      `<p>en<strong><u>g</u></strong>ineer</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>generation /ˌdʒenəˈreɪʃn/</p>
@@ -1322,7 +1699,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p><u>k</u>ite</p>`, `<p>coo<u>k</u>ie</p>`, `<p>hi<u>k</u>e&nbsp;</p>`, `<p><u>k</u>nit</p>`],
+    options: [
+      `<p><u>k</u>ite</p>`,
+      `<p>coo<u>k</u>ie</p>`,
+      `<p>hi<u>k</u>e&nbsp;</p>`,
+      `<p><u>k</u>nit</p>`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>kite /kaɪt/</p>
@@ -1335,7 +1717,12 @@ export const ePRONOUNCIATION = [
     id: 39,
     question: `
       `,
-    options: [`<p><u>ch</u>urch</p>`, `<p>ar<u>ch</u>itect</p>`, `<p><u>ch</u>ildren</p>`, `<p>arm<u>ch</u>air</p>`],
+    options: [
+      `<p><u>ch</u>urch</p>`,
+      `<p>ar<u>ch</u>itect</p>`,
+      `<p><u>ch</u>ildren</p>`,
+      `<p>arm<u>ch</u>air</p>`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>church /tʃɜːtʃ/</p>
@@ -1348,7 +1735,12 @@ export const ePRONOUNCIATION = [
     id: 40,
     question: `
       `,
-    options: [`<p><u>c</u>alories</p>`, `<p><u>c</u>arve</p>`, `<p><u>c</u>entre</p>`, `<p><u>c</u>ollage</p>`],
+    options: [
+      `<p><u>c</u>alories</p>`,
+      `<p><u>c</u>arve</p>`,
+      `<p><u>c</u>entre</p>`,
+      `<p><u>c</u>ollage</p>`,
+    ],
     answer: 3,
     explanation: `<div>
                             <p>calories /ˈkæləriz/</p>
@@ -1361,7 +1753,12 @@ export const ePRONOUNCIATION = [
     id: 41,
     question: `
   `,
-    options: [`<p>me<u>ch</u>anic &nbsp;&nbsp;</p>`, `<p>stomacha<u>ch</u>e</p>`, `<p><u>ch</u>ristmas</p>`, `<p><u>ch</u>ristmas</p>`],
+    options: [
+      `<p>me<u>ch</u>anic &nbsp;&nbsp;</p>`,
+      `<p>stomacha<u>ch</u>e</p>`,
+      `<p><u>ch</u>ristmas</p>`,
+      `<p><u>ch</u>ristmas</p>`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p>me<u>ch</u>anic /məˈkænɪk/</p>
@@ -1375,13 +1772,18 @@ export const ePRONOUNCIATION = [
     question: `Xoe dance is a spiritual _____ of Thai ethnic people.
 
   `,
-    options: [`
+    options: [
+      `
 customs
-`, `
+`,
+      `
 tradition
-`, `habit
-`, `dance
-`],
+`,
+      `habit
+`,
+      `dance
+`,
+    ],
     answer: `2`,
     explanation: `<div>
                             <p>Customs: &nbsp;Phong tục (n)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -1394,11 +1796,16 @@ tradition
     question: `Do you know the _____ way to welcome people in Tibet?
 
   `,
-    options: [`custom
-`, `customer
-`, `customary
-`, `tradition
-`],
+    options: [
+      `custom
+`,
+      `customer
+`,
+      `customary
+`,
+      `tradition
+`,
+    ],
     answer: `3`,
     explanation: `<div>
                             <p style="text-align: justify;">Custom: Phong tục (n)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
@@ -1414,11 +1821,16 @@ tradition
     question: `We have to _____ our shoes when we go inside a pagoda.
 
   `,
-    options: [`put on
-`, `give off
-`, `turn off
-`, `take off
-`],
+    options: [
+      `put on
+`,
+      `give off
+`,
+      `turn off
+`,
+      `take off
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p style="text-align: justify;">Put on: Đặt lên&nbsp;(v) &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -1433,12 +1845,17 @@ tradition
     question: `In Australia, you shouldn’t ____ on a person’s accent.
 
   `,
-    options: [`dislike
-`, `criticize
-`, `
+    options: [
+      `dislike
+`,
+      `criticize
+`,
+      `
 hate
-`, `comment
-`],
+`,
+      `comment
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p style="text-align: justify;">Dislike:&nbsp; Không thích&nbsp;(v) &nbsp; &nbsp; &nbsp; &nbsp;</p>
@@ -1456,11 +1873,16 @@ hate
 - What? You _____!
 
   `,
-    options: [`be kidding
-`, `are kid
-`, `must be kidding
-`, `must kidding
-`],
+    options: [
+      `be kidding
+`,
+      `are kid
+`,
+      `must be kidding
+`,
+      `must kidding
+`,
+    ],
     answer: `3`,
     explanation: `Cách nói dự đoán, thể hiện quan điểm của mình (you must+V_infi)
 `,
@@ -1470,12 +1892,17 @@ hate
     question: `In some Vietnamese primary schools, pupils are _____ to write with their left hands. In that case, teachers will ask them to change the hand.
 
   `,
-    options: [`not agreed
-`, `
+    options: [
+      `not agreed
+`,
+      `
 not permitted
-`, `not allowed
-`, `both B&C
-`],
+`,
+      `not allowed
+`,
+      `both B&C
+`,
+    ],
     answer: `4`,
     explanation: `<div>
                             <p>Agree: Đồng ý (v)</p>
@@ -1485,7 +1912,12 @@ not permitted
     id: 41,
     question: `
   `,
-    options: [`<p>thi<u>n</u>k</p>`, `<p>ha<u>n</u>d</p>`, `<p>ha<u>n</u>d</p>`, `<p>pla<u>n</u>t</p>`],
+    options: [
+      `<p>thi<u>n</u>k</p>`,
+      `<p>ha<u>n</u>d</p>`,
+      `<p>ha<u>n</u>d</p>`,
+      `<p>pla<u>n</u>t</p>`,
+    ],
     answer: `1`,
     explanation: `<div class="solution-detail">
                                                     <div class="solution-detail-title">Lời giải chi tiết : </div>
@@ -1502,7 +1934,12 @@ not permitted
     id: 41,
     question: `
   `,
-    options: [`<p>thi<u>n</u></p>`, `<p>la<u>n</u>d</p>`, `<p>tha<u>n</u>k</p>`, `<p>mi<u>n</u>t</p>`],
+    options: [
+      `<p>thi<u>n</u></p>`,
+      `<p>la<u>n</u>d</p>`,
+      `<p>tha<u>n</u>k</p>`,
+      `<p>mi<u>n</u>t</p>`,
+    ],
     answer: `3`,
     explanation: `<div>
                                                         <p>thi<u>n</u> /θɪn/</p>
@@ -1516,7 +1953,12 @@ not permitted
     id: 41,
     question: `
   `,
-    options: [`<p>ma<em><span style="text-decoration: underline;"><strong>ng</strong></span></em>o</p>`, `<p>si<em><strong><u>ng</u></strong></em>le</p>`, `<p>la<em><strong><u>ng</u></strong></em>uage</p>`, `<p>lo<em><strong><u>ng</u></strong></em>evity</p>`],
+    options: [
+      `<p>ma<em><span style="text-decoration: underline;"><strong>ng</strong></span></em>o</p>`,
+      `<p>si<em><strong><u>ng</u></strong></em>le</p>`,
+      `<p>la<em><strong><u>ng</u></strong></em>uage</p>`,
+      `<p>lo<em><strong><u>ng</u></strong></em>evity</p>`,
+    ],
     answer: `4`,
     explanation: `<div>
                                                         <p>ma<em><span style="text-decoration: underline;">ng</span></em>o /ˈmæ<strong>ŋɡ</strong>əʊ/</p>
@@ -1530,7 +1972,12 @@ not permitted
     id: 41,
     question: `
   `,
-    options: [`<p>offeri<em><strong><u>ng</u></strong></em></p>`, `<p>da<em><strong><u>ng</u></strong></em>er</p>`, `<p>ba<em><strong><u>ng</u></strong></em>er</p>`, `<p>si<em><strong><span style="text-decoration: underline;">ng</span></strong></em>er</p>`],
+    options: [
+      `<p>offeri<em><strong><u>ng</u></strong></em></p>`,
+      `<p>da<em><strong><u>ng</u></strong></em>er</p>`,
+      `<p>ba<em><strong><u>ng</u></strong></em>er</p>`,
+      `<p>si<em><strong><span style="text-decoration: underline;">ng</span></strong></em>er</p>`,
+    ],
     answer: `2`,
     explanation: `<div>
                                                         <p>offeri<em><u>ng</u></em> /ˈɒfərɪ<strong>ŋ</strong>/</p>
@@ -1544,7 +1991,12 @@ not permitted
     id: 41,
     question: `
   `,
-    options: [`<p>bra<u>n</u>ch</p>`, `<p>a<u>n</u>kle</p>`, `<p>a<u>n</u>kle</p>`, `<p>de<u>n</u>y</p>`],
+    options: [
+      `<p>bra<u>n</u>ch</p>`,
+      `<p>a<u>n</u>kle</p>`,
+      `<p>a<u>n</u>kle</p>`,
+      `<p>de<u>n</u>y</p>`,
+    ],
     answer: `2`,
     explanation: `<div>
                                                         <p>bra<u>n</u>ch /brɑːntʃ/</p>
@@ -1554,22 +2006,22 @@ not permitted
 <p>Phần được gạch chân ở phương án B được phát âm /ŋ/, các phương án còn lại phát âm /n/.</p>
 <p>Chọn B.</p>                                                    </div>`,
   },
-  {
-    id: 41,
-    question: `
-  `,
-    options: [``, ``, ``, ``],
-    answer: ``,
-    explanation: ``,
-  },
-  {
-    id: 41,
-    question: `
-  `,
-    options: [``, ``, ``, ``],
-    answer: ``,
-    explanation: ``,
-  },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
   // {
   //   id: 41,
   //   question: `

@@ -585,6 +585,232 @@ export const eREWRITE = [
     answer: ``,
     explanation: ``,
   },
+  {id:31,
+  question: `“He’s not at home.”, his father said.
+
+  `, options:[
+      ],
+  rewrite:`His father said that
+`,
+  answer:`he was not at home hoặc he wasn't at home
+`,
+  explanation:`<div>
+                            <p>Các bước biến đổi:</p>
+<p>- chuyển thì hiện tại đơn ở câu trực tiếp thành thì quá khứ đơn ở câu gián tiếp</p>
+<p>- giữ nguyên các thành phần khác trong câu chủ động</p>
+<p>=&gt; His father said that <strong>he was not at home.</strong></p>
+<p><strong>Tạm dịch:</strong><em>&nbsp;Cha anh nói rằng anh không có ở nhà.</em></p>                        </div>`
+  },
+  {id:31,
+  question: `Thu said: "All the students will have a meeting next week".
+
+  `, options:[
+      ],
+  rewrite:`Thu said that
+`,
+  answer:`all the students would have a meeting the following week
+`,
+  explanation:`<div>
+                            <p>Các bước biến đổi:</p>
+<p>- chuyển động từ khuyết thiếu “will” hiện tại đơn ở câu chủ động thành “would” ở câu bị động</p>
+<p>- next week =&gt; the following week/ the next week/ the week after</p>
+<p>- giữ nguyên các thành phần khác trong câu chủ động</p>
+<p>=&gt; Thu said that <strong>all the students would have a meeting the following week.</strong></p>
+<p><strong>Tạm dịch:&nbsp;</strong><em>Cô Thu nói rằng tất cả học sinh sẽ có một buổi họp vào tuần sau.</em></p>                        </div>`
+  },
+  {id:31,
+  question: `Her father said to her: "You can go to the movie with your friend".
+
+  `, options:[
+      ],
+  rewrite:`Her father told her that
+`,
+  answer:`she could go to the movie with her friend
+`,
+  explanation:`<div>
+                            <p>Các bước biến đổi:</p>
+<p>- chuyển động từ khuyết thiếu “can” hiện tại đơn ở câu chủ động thành “could” ở câu bị động</p>
+<p>- chuyển đại từ you =&gt; she, your =&gt; her</p>
+<p>- giữ nguyên các thành phần khác trong câu chủ động</p>
+<p>=&gt; Her father told her that <strong>she could go to the movie with her friend.</strong></p>
+<p><strong>Tạm dịch:</strong>&nbsp;<em>Cha cô ấy nói với cô ấy rằng cô ấy có thể đi xem phim với bạn mình.</em></p>                        </div>`
+  },
+  {id:31,
+  question: `Linh said, "If my father repairs the bike now, I will ride the bike to school."
+
+  `, options:[
+      ],
+  rewrite:`Linh said
+`,
+  answer:`if her father repaired the bike then, she would ride the bike to school 
+`,
+  explanation:`<div>
+                            <p>Các bước biến đổi:</p>
+<p>- chuyển động từ khuyết thiếu “will” hiện tại đơn ở câu chủ động thành “would” ở câu bị động</p>
+<p>- chuyển thì hiện tại đơn ở câu chủ động thành thì quá khứ đơn ở câu bị động</p>
+<p>- now =&gt; then</p>
+<p>- my =&gt; her, I =&gt; she</p>
+<p>- giữ nguyên các thành phần khác trong câu chủ động</p>
+<p>=&gt; Lan said <strong>if her father repaired the bike then, she would ride the bike to school.</strong></p>
+<p><strong>Tạm dịch:&nbsp;</strong><em>Lan nói nếu lúc đó bố cô sửa xe đạp thì cô sẽ đạp xe đi học.</em></p>                        </div>`
+  },
+  {id:31,
+  question: `"Which planet do you like best, Tim?", Nam asked.
+
+  `, options:[
+      ],
+  rewrite:`Nam asked Tim
+`,
+  answer:`which planet he liked best
+`,
+  explanation:`<div>
+                            <p>Cấu trúc: S+ asked (+ O) +&nbsp; Wh-question+ S + V.</p>
+<p><strong>Biến đổi các thành phần trong câu:</strong></p>
+<p><strong>- Đại từ: you =&gt; he</strong></p>
+<p>- Thì động từ ở câu trực tiếp là thì hiện tại đơn nên khi chuyển sang câu gián tiếp, ta phải chia động từ ở thì quá khứ đơn</p>
+<p>S + V(s,es) =&gt; S + Ved</p>
+<p>=&gt; <strong>Nam asked Tim which planet he liked best.</strong></p>
+<p>Tạm dịch: Nam hỏi Tim thích hành tinh nào nhất.</p>                        </div>`
+  },
+  {id:31,
+  question: `“When did you last dream about going into the space?” Mrs Van asked her son.
+
+  `, options:[
+      ],
+  rewrite:`Mrs Van asked her son
+`,
+  answer:`when he had last dreamt about going into the space.
+`,
+  explanation:`<div>
+                            <p><strong>Biến đổi các thành phần trong câu:</strong></p>
+<p>- Đại từ: you =&gt; he</p>
+<p>- Thì động từ ở câu trực tiếp là thì quá khứ đơn nên khi chuyển sang câu gián tiếp, ta phải chia động từ ở thì quá khứ hoàn thành</p>
+<p>S + Ved =&gt; S + had Ved</p>
+<p>“When did you last dream about going into the space?” Mrs Van asked her son.</p>
+<p><span style="color: #808080;"><em>(<span class="HwtZe" lang="vi"><span class="jCAhz ChMk0b"><span class="ryNqvb">Bà Vân hỏi con trai: "Lần cuối cùng con mơ thấy mình được bay vào vũ trụ là khi nào?")</span></span></span></em></span></p>
+<p>=&gt; <strong>Mrs Van asked her son when he had last dreamt about going into the space.</strong></p>
+<p><span style="color: #808080;"><em>(Bà Vân hỏi con trai lần cuối mơ thấy mình đi vào vũ trụ là khi nào.)</em></span></p>                        </div>`
+  },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
+  // {id:31,
+  // question: `
+  // `, options:[
+  //     ],
+  // rewrite:``,
+  // answer:``,
+  // explanation:``
+  // },
   // {id:31,
   // question: `
   // `, options:[

@@ -1400,7 +1400,7 @@ adventure
     answer: `1`,
     explanation: `<div>
                             <p style="text-align: justify;">Vế đầu của câu là thì quá khứ đơn và là câu khẳng định, nên phần câu hỏi đuôi sẽ phải ở thì quá khứ đơn và ở thể phủ định.</p>
-<p style="text-align: justify;">They saw beautiful landscapes, <strong>didn’t they</strong>?</p>
+<p style="text-align: justify;">They saw beautiful landscapes, <strong>didn't they</strong>?</p>
 <p style="text-align: justify;"><em>(Họ đã nhìn thấy những phòng cảnh tuyệt đẹp, phải không?)</em></p>                        </div>`,
   },
   {
@@ -1429,7 +1429,7 @@ adventure
   },
   {
     id: 41,
-    question: `We’ll get wet if we ______ out.
+    question: `We'll get wet if we ______ out.
 
   `,
     options: [
@@ -1582,7 +1582,7 @@ take off
                             <p>may: có thể</p>
 <p>must: phải</p>
 <p>might: có thể</p>
-<p>mustn’t: không được phép</p>
+<p>mustn't: không được phép</p>
 <p>=&gt;&nbsp;Keep quiet. You <strong><span style="text-decoration: underline;">mustn't</span></strong> talk so loudly in here. Everybody is working.</p>
 <p><strong>Tạm dịch</strong>: Giữ yên lặng đi. Bạn không được phép nói quá to ở đây. Mọi người đang làm việc.</p>                        </div>`,
   },
@@ -1660,7 +1660,7 @@ take off
   },
   {
     id: 41,
-    question: `More and more teenagers are _____________ about the protection of the environment. It’s a good sign.
+    question: `More and more teenagers are _____________ about the protection of the environment. It's a good sign.
 
   `,
     options: [
@@ -1679,7 +1679,7 @@ take off
 <p>distracting (adj): làm mất tập trung</p>
 <p>neglected (adj): bị bỏ quên <strong>&nbsp; </strong></p>
 <p>concerned (adj): lo lắng, quan tâm</p>
-<p>More and more teenagers are <strong>concerned</strong> about the protection of the environment. It’s a good sign.</p>
+<p>More and more teenagers are <strong>concerned</strong> about the protection of the environment. It's a good sign.</p>
 <p><em>(</em><em>Ngày càng có nhiều thanh thiếu niên quan tâm đến việc bảo vệ môi trường. Đó là một dấu hiệu tốt.)</em></p>                                                    </div>`,
   },
   {
@@ -1730,7 +1730,7 @@ take off
   },
   {
     id: 41,
-    question: `If I didn’t work for an accounting firm, I _______ in a bank now.
+    question: `If I didn't work for an accounting firm, I _______ in a bank now.
 
   `,
     options: [
@@ -1747,7 +1747,7 @@ would work
     answer: `4`,
     explanation: `<div>
                             <p style="text-align: justify;">Ta thấy mệnh đề If chia ở thì quá khứ đơn =&gt; câu điều kiện loại 2 =&gt; mệnh đề chính có dạng:<strong> would+V_infi </strong></p>
-<p style="text-align: justify;"><strong>=&gt;&nbsp;</strong>If I didn’t work for an accounting firm, I&nbsp;<strong><em><u>would work</u></em></strong>&nbsp;in a bank now.&nbsp;</p>
+<p style="text-align: justify;"><strong>=&gt;&nbsp;</strong>If I didn't work for an accounting firm, I&nbsp;<strong><em><u>would work</u></em></strong>&nbsp;in a bank now.&nbsp;</p>
 <p style="text-align: justify;">Tạm dịch:&nbsp;Nếu tôi không làm việc cho một công ty kế toán, tôi sẽ làm việc trong một ngân hàng bây giờ.</p>                        </div>`,
   },
   {
@@ -1917,7 +1917,7 @@ is destroyed
   },
   {
     id: 41,
-    question: `Beethoven’s Fifth Symphony _______next weekend.
+    question: `Beethoven's Fifth Symphony _______next weekend.
 
   `,
     options: [
@@ -1934,7 +1934,7 @@ will be performing
     answer: `1`,
     explanation: `<div>
                             <p>Dựa vào "next week" để xác định thì cần sử dụng. Dựa vào nghĩa của câu để áp dụng cấu trúc câu bị động.&nbsp;</p>
-<p><strong>Beethoven’s Fifth Symphony _______next weekend.</strong></p>
+<p><strong>Beethoven's Fifth Symphony _______next weekend.</strong></p>
 <p><em><span style="color: #808080;">(Bản giao hưởng số 5 của Beethoven _______cuối tuần tới.)</span></em></p>                        </div>`,
   },
   {
@@ -2132,7 +2132,7 @@ virtual
   },
   {
     id: 41,
-    question: `Nick’s keen _____ climbing mountains in the summer.
+    question: `Nick's keen _____ climbing mountains in the summer.
 
   `,
     options: [
@@ -2157,7 +2157,7 @@ virtual
                         <div class="solution-detail-title">Lời giải chi tiết : </div>
                         <div>
                             <p>Cụm từ:<strong>&nbsp;be keen on+V_ing/N&nbsp;</strong><em>(yêu thích điều gì/làm gì)</em></p>
-<p>=&gt;&nbsp;Nick’s keen&nbsp;<strong><em><u>on</u></em></strong>&nbsp;climbing mountains in the summer.</p>
+<p>=&gt;&nbsp;Nick's keen&nbsp;<strong><em><u>on</u></em></strong>&nbsp;climbing mountains in the summer.</p>
 <p><strong>Tạm dịch:</strong> <em>Nick yêu thích leo núi vào mùa hè.</em></p>                        </div>
                     </div>
                     
@@ -2186,7 +2186,7 @@ virtual
   },
   {
     id: 41,
-    question: `Henry doesn’t mind ________ up early in the morning.
+    question: `Henry doesn't mind ________ up early in the morning.
 
   `,
     options: [
@@ -2201,8 +2201,8 @@ virtual
     ],
     answer: `1`,
     explanation: `<div>
-                            <p style="text-align: justify;">Cụm từ: doesn’t mind + V_ing <em>(không phiền làm việc gì)</em></p>
-<p style="text-align: justify;"><strong>=&gt; </strong>Henry doesn’t mind <strong><em><u>waking</u></em></strong> up early in the morning.</p>
+                            <p style="text-align: justify;">Cụm từ: doesn't mind + V_ing <em>(không phiền làm việc gì)</em></p>
+<p style="text-align: justify;"><strong>=&gt; </strong>Henry doesn't mind <strong><em><u>waking</u></em></strong> up early in the morning.</p>
 <p style="text-align: justify;"><strong>Tạm dịch:</strong> <em>Henry không phiền thức dậy vào sáng sớm.</em></p>                        </div>`,
   },
   {
@@ -2234,7 +2234,7 @@ virtual
     options: [`True`, `False`],
     answer: `2`,
     explanation: `<p>My sister doesn't <span style="text-decoration: underline;">mind to look</span> after my cat.</p>
-<p style="text-align: justify;">Cấu trúc: doesn’t mind+V_ing <span style="color: #333333;"><em>(không phiền làm gì)</em></span></p>
+<p style="text-align: justify;">Cấu trúc: doesn't mind+V_ing <span style="color: #333333;"><em>(không phiền làm gì)</em></span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Sửa lại: to look =&gt; looking</span></p>
 <p style="text-align: justify;">Câu hoàn chỉnh:&nbsp;My sister doesn't <span style="color: #000000;"><strong>mind looking</strong></span> after my cat.</p>
 <p style="text-align: justify;"><span style="color: #808080;"><em>(Chị tôi không phiền trông những con mèo của tôi.)</em></span></p>
@@ -2386,7 +2386,7 @@ virtual
   },
   {
     id: 41,
-    question: `I wasn’t _____ enough to tell her truth that her mother’s gone.
+    question: `I wasn't _____ enough to tell her truth that her mother's gone.
 
   `,
     options: [
@@ -2405,7 +2405,7 @@ virtual
 <p>Brave (adj): Dũng cảm&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p>Generous (adj): Hào phóng&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p>Convenient (adj): Tiện lợi</p>
-<p>=&gt;&nbsp;I wasn’t&nbsp;<strong><em><u>brave</u></em></strong>&nbsp;enough to tell her truth that her mother’s gone.</p>
+<p>=&gt;&nbsp;I wasn't&nbsp;<strong><em><u>brave</u></em></strong>&nbsp;enough to tell her truth that her mother's gone.</p>
 <p>Tạm dịch:</p>
 <p>Tôi không đủ can đảm để nói sự thật rằng mẹ cô đã ra đi.<strong>&nbsp;</strong></p>                        </div>`,
   },
@@ -2614,7 +2614,7 @@ unhappy
   },
   {
     id: 41,
-    question: ` We need to prepare food, do laundry and chores at home. It’s _______.
+    question: ` We need to prepare food, do laundry and chores at home. It's _______.
 
   `,
     options: [
@@ -2633,7 +2633,7 @@ unhappy
 <p style="text-align: left;">self-care skills (n): <em>kỹ năng tự chăm sóc</em></p>
 <p style="text-align: left;">housekeeping skills (n): <em>kỹ năng nội trợ&nbsp;</em></p>
 <p style="text-align: left;">cognitive skills (n): <em>kỹ năng nhận thức</em></p>
-<p style="text-align: justify;">=&gt; We need to prepare food, do laundry and chores at home. It’s <strong>housekeeping skills</strong>.</p>
+<p style="text-align: justify;">=&gt; We need to prepare food, do laundry and chores at home. It's <strong>housekeeping skills</strong>.</p>
 <p style="text-align: justify;"><span style="color: #808080;"><em>(Chúng ta cần chuẩn bị thức ăn, giặt ủi và những việc vặt ở nhà. Đó là những <span style="text-decoration: underline;">kỹ năng nội trợ</span>.)</em></span></p>
 <p style="text-align: justify;">Đáp án: C</p>                        </div>`,
   },
@@ -2838,7 +2838,7 @@ or
   },
   {
     id: 41,
-    question: `What a pity! I don’t remember the _______ step of cooking this dish.
+    question: `What a pity! I don't remember the _______ step of cooking this dish.
 
   `,
     options: [
@@ -3043,7 +3043,7 @@ Who
   },
   {
     id: 41,
-    question: `You’ll get ________shock if you touch ________ line wire with that screwdriver.
+    question: `You'll get ________shock if you touch ________ line wire with that screwdriver.
 
   `,
     options: [
@@ -3078,10 +3078,10 @@ interesting book: /ˈɪntrɪstɪŋ/ /bʊk/
   },
   {
     id: 5,
-    question: `<p> Minh: We’re going to the countryside this weekend.</p> `,
+    question: `<p> Minh: We're going to the countryside this weekend.</p> `,
     options: [
       `<p><strong>A.</strong> No, thanks. </p>`,
-      `<p><strong>B.</strong> You’re welcome. </p>`,
+      `<p><strong>B.</strong> You're welcome. </p>`,
       `<p><strong>C.</strong> How interesting! </p>`,
       `<p><strong>D.</strong> Thank you.</p>`,
     ],
@@ -3094,38 +3094,932 @@ interesting book: /ˈɪntrɪstɪŋ/ /bʊk/
       <strong>Chọn C.</strong>
     </p>`,
   },
-  // {
-  //   id: 20,
-  //   question: `
-  //       `,
-  //   options: [``, ``, ``, ``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
+  {
+    id: 20,
+    question: `I find it hard to understand that foreigner because of his _______.
+
+        `,
+    options: [`voice
+`, `sound
+`, `accent
+`, `volume
+`],
+    answer: 3,
+    explanation: `<div>
+                            <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">voice (n): tiếng nói</p>
+<p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">sound (n): âm thanh</p>
+<p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">accent (n): giọng điệu, ngữ điệu</p>
+<p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">volume (n): âm lượng</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `New Zealand is ______ for its _______ beauty.
+
+  `,
+    options: [`known/nature
+`, `known/natural
+`, `famous/natural
+`, `famous/nature
+`],
+    answer: `3`,
+    explanation: `<div>
+                            <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">- to be famous for: nổi tiếng về (cái gì)</p>
+<p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">- Trước danh từ beauty là một tính từ</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `Niagara Falls is a great ______ on the border of the USA and Canada.
+
+  `,
+    options: [`tradition
+`, `
+evacuation
+`, `spectacle
+`, `
+relaxation
+`],
+    answer: `3`,
+    explanation: `<div>
+                            <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">tradition (n): truyền thống</p>
+<p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">evacuation (n): sự di tán</p>
+<p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">spectacle (n): quang cảnh, cảnh tượng</p>
+<p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in; background: white;">relaxation (n): sự nghỉ ngơi, sự thư giãn</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `I promise that I (not/ come)____________________ late.
+
+  `,
+    options: [`won’t be coming
+`, `won't come
+`, `am going to come
+`],
+    answer: `2`,
+    explanation: `<div>
+                            <p>Dấu hiệu: <strong>I promise</strong> =&gt; sử dụng thì tương lai đơn để diễn tả hành động mang tính chủ quan, đưa ra quan điểm</p>
+<p>Cấu trúc: S + will + v nguyên thể</p>
+<p>=&gt; I promise that I <strong>won't come</strong> late.</p>
+<p><strong>Tạm dịch:</strong> <em>Tôi hứa rằng tôi sẽ không đến muộn.</em></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `We’ll get wet if we ______ out.
+
+  `,
+    options: [`go
+`, `did go
+`, `went
+`, `had gone
+`],
+    answer: `1`,
+    explanation: `<div>
+                            <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">Cấu trúc câu điều kiện loại I: If + S + V(chia theo thì hiện tại đơn), S + will + V</p>
+<p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">hoặc đảo vế câu: S + will + V if + S + V (chia theo hiện tại đơn)</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `All the aquatic plants and animals will die if the factory _______ dumping poison into the lake.
+
+  `,
+    options: [`
+will keep 
+`, `
+to keep
+`, `kept
+`, `
+keeps
+`],
+    answer: `4`,
+    explanation: `<div>
+                            <p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">Cấu trúc câu điều kiện loại I: If + S + V(chia theo thì hiện tại đơn), S + will + V</p>
+<p style="margin: 0in; margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph; line-height: 150%; tab-stops: 2.5in 4.0in 5.5in;">hoặc đảo vế câu: S + will + V if + S + V (chia theo hiện tại đơn)</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `Water pollution has _______ many diseases for plants, animals and especially people.
+
+  `,
+    options: [`led
+`, `made
+`, `caused
+`, `done
+`],
+    answer: `3`,
+    explanation: `<div>
+                            <p>Led: quá khứ phân từ của lead =&gt; lead to sth (v) dẫn đến</p>
+<p>Made: quá khứ phân từ của make (v) tạo ra</p>
+<p>Caused:&nbsp;quá khứ phân từ của cause (v) gây ra</p>
+<p>Done: quá khứ phân từ của do (v): làm</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `According to scientists, exhaust fumes are _________ our hometown.
+
+  `,
+    options: [`treating
+'poisoning`, ``, `
+radiating
+`, `measuring
+`],
+    answer: `2`,
+    explanation: `<div>
+                            <p>treat:&nbsp;điều trị &nbsp; &nbsp; &nbsp; &nbsp; (v)&nbsp; &nbsp;</p>
+<p>poison:&nbsp;ngộ độc &nbsp; &nbsp;(v)</p>
+<p>radiate:&nbsp;bức xạ &nbsp; &nbsp; &nbsp;&nbsp;(v)&nbsp;</p>
+<p>measure:&nbsp;đo lường&nbsp; (v)&nbsp;</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `Fish and many other animals are killed by ________ in their habitat.
+
+  `,
+    options: [`
+polluted
+`, `unpolluted
+`, `pollutants
+`, `polluting
+`],
+    answer: `3`,
+    explanation: `<div>
+                            <p>polluted:&nbsp;ô nhiễm &nbsp; &nbsp;(adj) &nbsp;</p>
+<p>unpolluted: không ô nhiễm&nbsp; &nbsp; (adj)</p>
+<p>pollutants:&nbsp;chất ô nhiễm &nbsp; &nbsp; (n) &nbsp;</p>
+<p>polluting:&nbsp;dạng V_ing của pollute (gây ô nhiễm) (v)</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `_______ are things that make the air, water, and soil unclean or contaminated.
+
+  `,
+    options: [`Radiation
+`, `Losses
+`, `Pollution
+`, `
+Pollutants
+`],
+    answer: `4`,
+    explanation: `<div>
+                            <p>Radiation:&nbsp;Sự bức xạ &nbsp;(n)&nbsp;</p>
+<p>Losses:&nbsp;Lỗ vốn &nbsp; &nbsp;(n)</p>
+<p>Pollution: Sự ô nhiễm&nbsp; &nbsp; (n)</p>
+<p>Pollutants:&nbsp;Chất ô nhiễm (n) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ''&nbsp;</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `____ the seventh lunar month comes, Vietnamese people often celebrate Vu Lan festival (or Mother's day).
+
+  `,
+    options: [`
+Because
+`, `Although
+`, `Whether
+`, `When
+`],
+    answer: `4`,
+    explanation: `<div>
+                            <p>Because:&nbsp; bởi vì&nbsp;</p>
+<p>Although: mặc dù</p>
+<p>Whether: liệu, nếu</p>
+<p>When: khi</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `The teacher asked for his homework ____ she noticed it was missing.
+
+  `,
+    options: [`before
+`, `after
+`, `
+thanks to
+`, `due to
+`],
+    answer: `2`,
+    explanation: `<div>
+                            <p style="text-align: justify;">before: trước khi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify;">after : sau khi&nbsp;</p>
+<p style="text-align: justify;">thanks to: nhờ có &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify;">due to: bởi vì</p>
+<p style="text-align: justify;">Theo trật tự diễn ra hành động thì vế sau xảy ra trước =&gt; dùng”after” (sau khi)</p>
+<p style="text-align: justify;">=&gt; The teacher asked for his homework <strong><em><u>after</u></em></strong> she noticed it was missing.</p>
+<p style="text-align: justify;"><span style="color: #808080;"><em>(Giáo viên yêu cầu anh ấy nộp bài tập về nhà của mình <span style="text-decoration: underline;">sau khi</span> cô nhận thấy nó bị mất.)</em></span></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `______ Quan Ho is the traditional folk song of Bac Ninh, only this kind of singing is allowed at the Lim Festival.
+
+  `,
+    options: [`When
+`, `However
+`, `
+Although
+`, `Because
+`],
+    answer: `4`,
+    explanation: `Vế thứ nhất là nguyên nhân dẫn đến hành động sự việc ở vế sau
+`,
+  },
+  {
+    id: 41,
+    question: `They’re selling jeans with a 50% ___________.
+
+  `,
+    options: [`bargain
+`, `discount
+`, `refund 
+`],
+    answer: `2`,
+    explanation: `<div>
+                            <p>bargain (n): <em>trả giá/ mặc cả</em></p>
+<p>discount (n): <em>giảm giá</em></p>
+<p>refund (n):<em> hoàn tiền lại</em></p>
+<p>They’re selling jeans with a 50% <strong>discount</strong>.</p>
+<p><span style="color: #808080;"><em>(Họ đang bán quần jeans <span style="text-decoration: underline;">giảm giá</span> 50%.)</em></span></p>
+<p>Đáp án: discount</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: ` Oh no! I've forgotten it's Mother's Day. I'll have to go to the _____
+
+
+and buy some flowers.
+
+  `,
+    options: [`florist's 
+`, `clothes shop
+`, `pet shop 
+`, ` health centre 
+`],
+    answer: `1`,
+    explanation: `florist's (n): cửa hàng bán hoa<br>
+
+clothes shop (n): cửa hàng quần áo<br>
+
+pet shop (n): cửa hàng thú cưng<br>
+
+health centre (n): trung tâm y tế
+`
+,
+  },
+  {
+    id: 41,
+    question: ` Where can I buy new shoes, a book, and a board game for my little sister? Oh, I know. At the _____
+
+
+. They sell everything there.
+
+  `,
+    options: [`department store
+`, `bank
+`, `sports shop
+`, `jeweller's
+`],
+    answer: `1`,
+    explanation: `department store (n): cửa hàng bách hóa
+<br>
+`,
+  },
+  {
+    id: 41,
+    question: ` Ms. Nhung bought those beautiful gold earrings in the ______
+
+
+on Lê Duẩn Street.
+
+  `,
+    options: [`clothes shop
+`, `jeweller's
+`, `health centre 
+`, `sports shop
+`],
+    answer: `2`,
+    explanation: `jeweller's (n): cửa hàng trang sức
+`,
+  },
+  {
+    id: 41,
+    question: `The flight to New Zealand _______  at 9 a.m. tomorrow, so you have to come an hour earlier.  
+
+  `,
+    options: [`left
+`, `leaves
+`, `
+leave
+`, `is leaving
+`],
+    answer: `2`,
+    explanation: `Thì hiện tại đơn
+`,
+  },
+  {
+    id: 41,
+    question: `I (not/fancy) ________ making a collage of postcards because it is really time-consuming.
+
+  `,
+    options: [`won't fancy
+`, `don't fancy
+`, `doesn't fancy
+`, `is not fancying
+`],
+    answer: `2`,
+    explanation: `Câu trên diễn tả một hành động diễn ra trong thời gian hiện tại, một thói quen hoặc hành động lặp đi lặp lại trong hiện tại nên ta dùng thì hiện tại đơn.
+`,
+  },
+  {
+    id: 41,
+    question: `"We have run out of milk." – "I _______ to the supermarket to buy some."
+
+  `,
+    options: [`is going to go
+`, `go
+`, `will go
+`, `is going
+`],
+    answer: `3`,
+    explanation: `Câu trên diễn tả một hành động quyết định ngay tại thời điểm nói nên ta dùng thì tương lai đơn
+`,
+  },
+  {
+    id: 41,
+    question: `By the time you _______ to England, I _______ there for two days.
+
+  `,
+    options: [`come/was  
+`, `
+came/was
+`, `came/had been
+`, `had come/was
+`],
+    answer: `3`,
+    explanation: `By the time: vào thời gian<br>
+
+Khi sử dụng cấu trúc này thì: By the time + S + V(quá khứ đơn), S + had + VpII (Quá khứ hoàn thành)
+`,
+  },
+  {
+    id: 41,
+    question: `Peter and Lana ________ to the theatre to see the Black Swan play at 8 pm. They bought the tickets this morning
+
+  `,
+    options: [`goes
+`, `go
+`, `will go
+`, `are going
+`],
+    answer: `4`,
+    explanation: `Câu trên diễn tả một hành động đã được sắp xếp để thực hiện nên ta dùng thì hiện tại tiếp diễn với nghĩa tương lai
+`,
+  },
+  {
+    id: 41,
+    question: `A drought occurs when a region receives consistently below average _____.
+
+  `,
+    options: [`falling rain
+`, `rain falling
+`, `rainfall
+`, `fallrain
+`],
+    answer: `3`,
+    explanation: `rainfall (n): lượng mưa
+`,
+  },
+  {
+    id: 41,
+    question: `Areas of Africa were _____ by drought.
+
+  `,
+    options: [`done
+`, `affected
+`, `
+suffered
+`, `caused
+`],
+    answer: `2`,
+    explanation: `<div>
+                            <p style="text-align: justify;">do - done (v): <em>làm, hoàn thành</em></p>
+<p style="text-align: justify;">affect - affected (v): <em>ảnh hưởng</em></p>
+<p style="text-align: justify;">suffer from sth - suffered (v): <em>chịu đựng</em></p>
+<p style="text-align: justify;">cause - caused (v): <em>gây ra</em></p>
+<p style="text-align: justify;">=&gt; Areas of Africa were <strong><u>affected</u></strong> by drought.</p>
+<p style="text-align: justify;"><span style="color: #808080;"><em>(Các khu vực của Châu Phi bị <span style="text-decoration: underline;">ảnh hưởng</span> bởi hạn hán.)</em></span></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `A ______ is sudden flooding that occurs when water rises quickly within several hours of a heavy rain.
+
+  `,
+    options: [`quick flood
+`, `
+rapid flood
+`, `flash flood
+`, `
+hot flood
+`],
+    answer: `3`,
+    explanation: `flash flood (n): lũ quét
+`,
+  },
+  {
+    id: 41,
+    question: `After the typhoon, they had to move into ____ accommodation where they would stay in 10 or 15 days.
+
+  `,
+    options: [`permanent
+`, `
+temporary
+`, `quick
+`, `
+personal
+`],
+    answer: `2`,
+    explanation: `<div>
+                            <p style="text-align: justify;">permanent (adj): <em>lâu dài, thường xuyên</em></p>
+<p style="text-align: justify;">temporary (adj): <em>tạm thời</em></p>
+<p style="text-align: justify;">quick (adj): <em>nhanh</em></p>
+<p style="text-align: justify;">personal (adj): <em>cá nhân</em></p>
+<p style="text-align: justify;">=&gt; After the typhoon, the had to move into <strong>temporary</strong> accommodation where they would stay in 10 or 15 days.</p>
+<p style="text-align: justify;"><span style="color: #333333;"><em>(Sau cơn bão, họ phải chuyển đến chỗ ở <span style="text-decoration: underline;">tạm thời</span> nơi họ sẽ ở trong 10 hoặc 15 ngày.)&nbsp;</em></span> &nbsp;&nbsp;</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `What _____ at that time yesterday?
+
+  `,
+    options: [`were you doing
+`, `are you doing
+`, `did you do
+`, `were you do
+`],
+    answer: `1`,
+    explanation: `Cấu trúc hỏi: Wh-q + were/was + S + V-ing?
+`,
+  },
+  {
+    id: 41,
+    question: `When the cock ______ food in the garden, he saw a big jewelry box.
+
+  `,
+    options: [`was found  
+`, `
+finds  
+`, `found
+`, `was finding
+`],
+    answer: `4`,
+    explanation: `<div>
+                            <p style="text-align: justify;">Câu trên diễn tả một hành động đang xảy ra thì có hành động khác xen vào trong quá khứ =&gt; hành động đang xảy ra dùng thì quá khứ tiếp diễn</p>
+<p style="text-align: justify;">=&gt; When the cock <strong>was finding</strong> food in the garden, he saw a big jewelry box.</p>
+<p style="text-align: justify;">Tạm dịch: Khi con gà trống đang tìm thức ăn trong vườn, nó thấy một hộp trang sức lớn.</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `I cannot contact her by mobile phone – the network ________is so weak here.
+
+  `,
+    options: [`channel
+`, `sign
+`, `signal
+`, `site
+`],
+    answer: `3`,
+    explanation: `<div>
+                            <p>channel (n): <em>kênh</em></p>
+<p>sign (n): <em>biển hiệu, kí hiệu</em></p>
+<p>signal (n): <em>tín hiệu</em></p>
+<p>site (n): <em>điểm, khu vực</em></p>
+<p>Dựa vào ngữ cảnh của câu thì đáp án signal là phù hợp nhất (network signal: tín hiệu mạng)</p>
+<p>=&gt; I cannot contact her by mobile phone – the network <strong><u>signal</u></strong> is so weak here.</p>
+<p><span style="color: #808080;"><em>(Tôi không thể liên lạc với cô ấy bằng điện thoại di động - <span style="text-decoration: underline;">tín hiệu</span> mạng ở đây rất yếu.)</em></span></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `In a message board you can ___________messages or post questions.
+
+  `,
+    options: [`raise
+`, `put
+`, `upload
+`, `text
+`],
+    answer: `4`,
+    explanation: `<p>raise (v): <em>nâng lên, đưa lên</em></p>
+<p>put (v): <em>đặt để</em></p>
+<p>upload (v): <em>tải lên</em></p>
+<p>text (v):<em> nhắn, nhập, soạn thảo =&gt;&nbsp;</em>text messages: <em>nhắn tin</em></p>
+<p>=&gt; In a message board you can <strong>text</strong> messages or post questions.</p>
+<p><span style="color: #808080;"><em>(Trong bảng tin, bạn có thể <span style="text-decoration: underline;">nhắn tin</span> hoặc đăng câu hỏi.)</em></span></p>`,
+  },
+  {
+    id: 41,
+    question: `Email and chat rooms help children __________ with friends and family members.
+
+  `,
+    options: [`speak
+`, `
+talk
+`, `communicate
+`, `say
+`],
+    answer: `3`,
+    explanation: `<div>
+                            <p>speak (v): <em>nói</em></p>
+<p>talk + to (v): <em>nói chuyện</em></p>
+<p>communicate + with (v): <em>giao tiếp với</em></p>
+<p>say + to (v): <em>nói chuyện</em></p>
+<p>=&gt; Email and chat rooms help children <strong>communicate</strong> with friends and family members.</p>
+<p><span style="color: #808080;"><em>(Phòng email và trò chuyện giúp trẻ <span style="text-decoration: underline;">giao tiếp</span> với bạn bè và các thành viên trong gia đình.)</em></span></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `Tom isn't here _________ the moment. He'll be back _________five minutes.
+
+  `,
+    options: [`in/ on
+`, `at/ on
+`, `in/ in
+`, `at/ in
+`],
+    answer: `4`,
+    explanation: `<div>
+                            <p style="text-align: justify;">at the moment: <em>ngay lúc này</em></p>
+<p style="text-align: justify;">in five minutes: <em>trong 5 phút nữa</em></p>
+<p style="text-align: justify;">=&gt; Tom isn't here <strong><u>at</u></strong> the moment. He'll be back <strong><u>in</u></strong> five minutes.</p>
+<p style="text-align: justify;"><span style="color: #808080;"><em>(Ngay lúc này, Tom không ở đây. Anh ấy sẽ quay lại trong 5 phút nữa.)</em></span></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `Our family stays _____ a villa.
+
+  `,
+    options: [` in  
+`, `on
+`, `in front of  
+`],
+    answer: `1`,
+    explanation: `<div>
+                            <p>in: <em>trong</em></p>
+<p>on: <em>trên</em></p>
+<p>in front of: <em>ở đằng trước</em></p>
+<p>Our family stays<strong> <u>in</u></strong> a villa.</p>
+<p><span style="color: #808080;"><em>(Gia đình chúng tôi ở trong một biệt thự.)</em></span></p>
+<p>Đáp án: A</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `There are four students at each table. My friend Justine sits_____ me.
+
+  `,
+    options: [`in front of
+`, `near to
+`, `opposite
+`],
+    answer: `1`,
+    explanation: `<div>
+                            <p>near: <em>gần</em> (không có near to)</p>
+<p>opposite: <em>đối diện</em></p>
+<p>in front of: <em>đằng trước</em></p>
+<p>There are four students at each table. My friend Justine sits <strong><u>in front of </u></strong>&nbsp;me.</p>
+<p><span style="color: #808080;"><em>(Có bốn học sinh ở mỗi bàn. Bạn tôi Justine ngồi đằng trước tôi.)</em></span></p>
+<p>Đáp án: A</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `Tom sits______ Lucy and James.
+
+  `,
+    options: [`between
+`, `in front
+`, `near to  
+`],
+    answer: `1`,
+    explanation: `<div>
+                            <p>Between … and …: giữa … và …</p>
+<p>In front of: ở đằng trước</p>
+<p>Near: gần (không có near to)</p>
+<p><strong>=&gt; </strong>Tom sits <strong><em><u>between</u></em></strong> Lucy and James.</p>
+<p>Tạm dịch: Tom ngồi giữa Lucy và James.</p>
+<p><strong>Đáp án:&nbsp; A</strong></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `We have posters _______ the walls.
+
+  `,
+    options: [`on
+`, `above
+`, `under
+`],
+    answer: `1`,
+    explanation: `<div>
+                            <p>On: bên trên (ngay bên trên )</p>
+<p>Above: bên trên (không phải ngay ở bên trên bề mặt, có thể cao lên bên trên)</p>
+<p>Under: bên dưới</p>
+<p><strong>=&gt; </strong>We have posters <strong><em><u>on</u></em></strong> the walls.</p>
+<p>Tạm dịch: Chúng tôi có những tấm áp phích trên tường.</p>
+<p><strong>Đáp án: A</strong></p>
+<p><br><br></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `There's a waste paper basket _____ her desk.
+
+  `,
+    options: [`above
+`, `under
+`, `between
+`],
+    answer: `2`,
+    explanation: `<div>
+                            <p>above: <em>phía trên (không tiếp xúc bề mặt)</em></p>
+<p>under:<em> bên dưới</em></p>
+<p>between: <em>ở giữa</em></p>
+<p><strong>=&gt; </strong>There's a waste paper basket <strong><u>under</u></strong> her desk.<br><strong>Tạm dịch:</strong> <em>Có một cái thùng rác đựng giấy ở bên dưới bàn của cô ấy</em></p>
+<p><strong>Đáp án: B</strong></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `We had sandwiches ______ a pretty fountain.
+
+  `,
+    options: [`by
+`, `on
+`, `in 
+`],
+    answer: `1`,
+    explanation: `<div>
+                            <p>by: <em>bên cạnh</em></p>
+<p>on: <em>trên</em></p>
+<p>in: <em>trong</em></p>
+<p><strong>=&gt; </strong>We had sandwiches <strong><em><u>by</u></em></strong> a pretty fountain.</p>
+<p><span style="color: #808080;"><em>(Chúng tôi đã ăn bánh sandwich <span style="text-decoration: underline;">bên cạnh</span> một đài phun nước đẹp.)</em></span></p>
+<p>Đáp án:&nbsp; A</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `You need to walk _____ this road quickly. There’s lots of traffic.
+
+  `,
+    options: [`across
+`, `by
+`, `out
+`],
+    answer: `1`,
+    explanation: `<div>
+                            <p>across<strong>: </strong><em>băng qua</em></p>
+<p>by: <em>bên cạnh</em></p>
+<p>out: ra ngoài</p>
+<p><strong>=&gt; </strong>You need to walk <strong>across</strong>&nbsp;this road quickly. There’s lots of traffic.</p>
+<p><strong>Tạm dịch:</strong> <em>Bạn cần <span style="text-decoration: underline;">băng qua</span> con đường này một cách nhanh chóng. Có rất nhiều phương tiện giao thông.</em></p>
+<p><strong>Đáp án: A</strong></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `This isn‘t your chairs. It’s ....................
+
+  `,
+    options: [`my
+`, `me
+`, `I
+`, `mine`],
+    answer: `4`,
+    explanation: `<div>
+                            <p><strong>my</strong> <em>(của tôi)</em> đóng vai trò tính từ sở hữu, phải đi kèm với danh từ&nbsp;</p>
+<p><strong>me</strong> <em>(tôi)</em> đóng vai trò tân ngữ, đi sau động từ</p>
+<p><strong>I</strong> <em>(tôi)</em> đóng vai trò chủ ngữ, đứng đầu câu</p>
+<p><strong>mine</strong> <em>(của tôi)</em> đóng vai trò đại từ sở hữu, dùng để thay thế tính từ sở hữu và danh từ đã đề cập trước đó</p>
+<p>Vị trí cần điền đứng ở cuối câu nên loại C và vị trí trống không có danh từ đi kèm nên loại A</p>
+<p>Dựa vào ngữ cảnh câu, chọn đáp án D vì người nói muốn dùng <em>mine</em> để thay thế cho cách nói <em>my chairs.</em></p>
+<p>=&gt; This isn‘t your chairs. It’s <strong>mine</strong>.</p>
+<p><span style="color: #808080;"><em>(Đây không phải là ghế của bạn. Nó là <span style="text-decoration: underline;">của tôi</span>.)</em></span></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `My jacket is on the chair, ______ is on the table.
+
+  `,
+    options: [`she
+`, `her`, `hers`, `she's`],
+    answer: `3`,
+    explanation: `<div>
+                            <p><strong>her</strong> <em>(của cô ấy) đóng</em>&nbsp;=&gt; vai trò tính từ sở hữu, phải đi kèm với danh từ</p>
+<p><strong>she</strong> <em>(cô ấy)</em>&nbsp;=&gt; đóng vai trò chủ ngữ, đứng trước động từ</p>
+<p><strong>she’s</strong> = <em>She is</em> =&gt; loại vì trong câu đã có động từ tobe</p>
+<p><strong>hers</strong> <em>(của cô ấy)</em>&nbsp;=&gt; đóng vai trò đại từ sở hữu, dùng để thay thế tính từ sở hữu và danh từ đã đề cập trước đó.</p>
+<p>Trước động từ "is" cần chủ ngữ =&gt; loại <em>her</em> và <em>she's</em>.</p>
+<p>Dựa vào ngữ cảnh, hers = her jacket</p>
+<p>=&gt; My jacket is on the chair, <strong>hers</strong> is on the table.</p>
+<p><span style="color: #808080;"><em>(Áo khoác của tôi ở trên ghế, <span style="text-decoration: underline;">của cô ấy</span> ở trên bàn.)</em></span></p>
+<p>Chọn C</p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `……………… will present my idea to the company tomorrow.
+
+  `,
+    options: [`mine
+`, `my`, `me`, `I`],
+    answer: `4`,
+    explanation: `<div>
+                            <p>my (của tôi) đóng vai trò tính từ sở hữu, phải đi kèm với danh từ&nbsp;</p>
+<p>me (tôi) đóng vai trò tân ngữ, đi sau động từ</p>
+<p>I(tôi) đóng vai trò chủ ngữ, đứng đầu câu</p>
+<p>mine (của tôi) đóng vai trò đại từ sở hữu, dùng để thay thế tính từ sở hữu và danh từ đã đề cập trước đó</p>
+<p>Vị trí cần điền đứng đầu câu làm chủ ngữ nên đáp án phù hợp là I</p>
+<p>=&gt; <strong>I</strong> will present my idea to the company tomorrow.</p>
+<p><em>Tạm dịch: Tôi sẽ trình bày ý tưởng của mình với công ty vào ngày mai.</em></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `This is Mr and Mrs Simth, those are .................... children.
+
+  `,
+    options: [`they
+`, `them`, `theirs`, `their`],
+    answer: `4`,
+    explanation: `<div>
+                            <p>their<em> (của họ)</em> đóng vai trò tính từ sở hữu, phải đi kèm với danh từ&nbsp;</p>
+<p>them <em>(họ)</em> đóng vai trò tân ngữ, đi sau động từ</p>
+<p>they<em> (họ)</em> đóng vai trò chủ ngữ, đứng đầu câu</p>
+<p>theirs <em>(của họ)</em> đóng vai trò đại từ sở hữu, dùng để thay thế tính từ sở hữu và danh từ</p>
+<p>Vị trí cần điền là một tính từ sở hữu vì phía sau nó là một danh từ (children).</p>
+<p>=&gt; &nbsp;This is Mr and Mrs Simth, those are <strong>their</strong> children.</p>
+<p><span style="color: #808080;"><em>(Đây là ông bà Smith, đó là những đứa con <span style="text-decoration: underline;">của họ</span>.)</em></span></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `My brother is very good at natural_______ subjects such as Chemistry and Physics.
+
+  `,
+    options: [`art
+`, `science
+`, `language
+`, `craft
+`],
+    answer: `2`,
+    explanation: `<div>
+                            <p>art (n):<em> nghệ thuật</em></p>
+<p>science (n): <em>khoa học </em>=&gt; natural science: <em>khoa học tự nhiên</em></p>
+<p>language (n): <em>ngôn ngữ</em></p>
+<p>craft (n):<em> thủ công</em></p>
+<p>=&gt; My brother is very good at natural <strong>science</strong> subjects such as Chemistry and Physics.</p>
+<p><span style="color: #808080;"><em>(Em trai tôi rất giỏi các môn <span style="text-decoration: underline;">khoa học</span> tự nhiên như Hóa học và Vật lý.)</em></span></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `Simply speaking, ____ is the tools and machines that help to solve problems.
+
+  `,
+    options: [`technology 
+`, `technological
+`, `technique
+`, `technical
+`],
+    answer: `1`,
+    explanation: `<div>
+                            <p>technology (n): <em>công nghệ</em></p>
+<p>technological (adj): <em>thuộc về công nghệ</em></p>
+<p>technique (n):<em> kĩ thuật</em></p>
+<p>technical (adj): <em>thuộc về kỹ thuật</em></p>
+<p>Vị trí cần điền trong câu là danh từ đứng làm chủ ngữ nên đáp án phù hợp nhất là <em>technology</em>.</p>
+<p>=&gt; Simply speaking, <strong>technology</strong> is the tools and machines that help to solve problems.</p>
+<p><strong>Tạm dịch:</strong> <em>Nói một cách đơn giản, <span style="text-decoration: underline;">công nghệ</span> là những công cụ và máy móc giúp giải quyết vấn đề.</em></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `Scientists are planning ___________ Mars in the near future.
+
+  `,
+    options: [`explore
+`, `exploring
+`, `explored
+`, `to explore
+`],
+    answer: `4`,
+    explanation: `<div>
+                            <p>Cấu trúc:<strong> plan to V</strong> (lên kế hoạch làm gì)</p>
+<p>=&gt; Scientists are planning <strong>to explore</strong> Mars in the near future.</p>
+<p><strong>Tạm dịch:</strong> <em>Các nhà khoa học đang có kế hoạch khám phá sao Hỏa trong thời gian tới.</em></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `Many people believe that robots have made workers jobless, __________ that is not necessarily true.
+
+  `,
+    options: [`and
+`, `or`, `so`, `but`],
+    answer: `4`,
+    explanation: `Ta thấy 2 vế mệnh đề mang nghĩa tương phản nhau nên ta sử dụng từ nối but
+`,
+  },
+  {
+    id: 41,
+    question: `The scientists believe that there might be some planets to .................. human life.
+
+  `,
+    options: [`provide
+`, `accommodate
+`, `replace
+`, `support
+`],
+    answer: `4`,
+    explanation: `<div>
+                            <p>provide (v): <em>cung cấp</em></p>
+<p>accommodate (v):&nbsp;<em>thích nghi</em></p>
+<p>replace (v): <em>thay thế</em></p>
+<p>support (v): <em>hỗ trợ</em></p>
+<p>=&gt; The scientists believe that there might be some planets to <strong>support</strong> human life.</p>
+<p><em>Tạm dịch: Các nhà khoa học tin rằng có thể có một số hành tinh hỗ trợ sự sống của con người.</em></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `The prerequisite condition for a/an _______ planet is water supplies, appropriate temperatures and breathable air.
+
+  `,
+    options: [`habit
+`, `inhabitable
+`, `inhabitant
+`, `habitant
+`],
+    answer: `2`,
+    explanation: `<div>
+                            <p>habit (n): <em>thói quen</em></p>
+<p>inhabitable (adj): <em>có thể ở được</em></p>
+<p>inhabit (v): <em>cư trú</em></p>
+<p>inhabitant (n): <em>cư dân</em></p>
+<p>Vị trí cần điền là một tính từ vì phía sau nó là danh từ <em>(planet).</em></p>
+<p>=&gt; The prerequisite condition for an <strong>inhabitable</strong> planet is water supplies, appropriate temperatures and breathable air.</p>
+<p><span style="color: #808080;"><em>(Điều kiện tiên quyết để một hành tinh <span style="text-decoration: underline;">có thể sinh sống</span> là nguồn cung cấp nước, nhiệt độ thích hợp và không khí thoáng khí.)</em></span></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `Mercury is very close to the sun, and it is very hot. Therefore, there .................. not be life on it.
+
+  `,
+    options: [`might
+`, `
+could
+`, `can
+`, `will
+`],
+    answer: `3`,
+    explanation: `<div>
+                            <p>Động từ “could” dùng cho phỏng đoán ở quá khứ, will dùng cho tương lai, can và might dùng cho hiện tại (can có mức độ chắc chắn cao hơn might)</p>
+<p>Dưa vào ngữ cảnh câu, người nói muốn phỏng đoán một điều không thể xảy ra mang tính chắc chắn ở hiện tại. Vì vậy ta phải dùng động từ khuyết thiếu “can”</p>
+<p>=&gt; Mercury is very close to the sun, and it is very hot. Therefore, there <strong>can</strong>not be life on it.</p>
+<p><em>Tạm dịch: Sao Thủy rất gần mặt trời, và nó rất nóng. Do đó, không thể có sự sống trên đó.</em></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `An astronaut has to wear a spacesuit ___________it may be very cold in space.
+
+  `,
+    options: [`so
+`, `but
+`, `because
+`, `because of
+`],
+    answer: `3`,
+    explanation: `<div>
+                            <p>Ta có: so: vì vậy</p>
+<p>but: nhưng</p>
+<p>because: bởi vì</p>
+<p>because of + N: bởi vì</p>
+<p>Sau vị trí cần điền là một mệnh đề nên đáp án D loại</p>
+<p>Dựa vào ngữ cảnh câu, đáp án C phù hợp nhất</p>
+<p>=&gt; An astronaut has to wear a spacesuit <strong>because</strong> it may be very cold in space.</p>
+<p><em>Tạm dịch: Một phi hành gia phải mặc một bộ đồ vũ trụ vì nó có thể rất lạnh trong không gian.</em></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `In the mid-19 th century, scientists discovered that Mars had some similarities _____________ Earth.
+
+  `,
+    options: [`to
+`, `with
+`, `of
+`, `from`],
+    answer: `2`,
+    explanation: `<div>
+                            <p>Cấu trúc<strong>: have similarities with N</strong>: có sự tương đồng, giống nhau với</p>
+<p>=&gt; In the mid-19th century, scientists discovered that Mars had some similarities <strong>with</strong> Earth.</p>
+<p><em>Tạm dịch: </em><em>Vào giữa thế kỷ 19, các nhà khoa học phát hiện ra rằng sao Hỏa có một số điểm tương đồng với Trái đất.</em></p>                        </div>`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [``, ``, ``, ``],
+    answer: ``,
+    explanation: ``,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [``, ``, ``, ``],
+    answer: ``,
+    explanation: ``,
+  },
   // {
   //   id: 41,
   //   question: `

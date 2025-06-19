@@ -2006,14 +2006,19 @@ not permitted
 <p>Phần được gạch chân ở phương án B được phát âm /ŋ/, các phương án còn lại phát âm /n/.</p>
 <p>Chọn B.</p>                                                    </div>`,
   },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [`<p>r<u>e</u>cycle &nbsp;</p>`, `<p>m<u>e</u>dical</p>`, `<p>ch<u>e</u>mical</p>`, `<p>athl<u>e</u>tic&nbsp;</p>`],
+    answer: `1`,
+    explanation: `<div>
+                            <p>recycle:&nbsp;/ˌriːˈsaɪkl/</p>
+<p>medical:&nbsp;/ˈmedɪkl/&nbsp;&nbsp; &nbsp;&nbsp;</p>
+<p>chemical:&nbsp;/ˈkemɪkl/&nbsp; &nbsp;&nbsp;&nbsp;</p>
+<p>athletic:&nbsp;/æθˈletɪk/</p>
+<p>Câu A phát âm là /i/ còn lại là /e/</p>                        </div>`,
+  },
   // {
   //   id: 41,
   //   question: `

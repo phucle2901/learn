@@ -280,6 +280,210 @@ Cấu trúc: the + most + adj (dài)/ the + adj-est
     answer: ``,
     explanation: ``,
   },
+  {id:41,
+    question: `he maple tree is one of the most_____
+
+
+images of Canada. (icon)
+
+    `, options:[
+        ],
+    answer: `iconic
+`,
+  explanation: `Sau the most và trước danh từ images phải là một tính từ dài theo cấu trúc so sánh nhất: the most + tính từ dài + danh từ
+`,
+  },
+  {id:41,
+    question: `The river is seriously ______
+
+
+by the factory’s waste. (contaminate)
+
+    `, options:[
+        ],
+    answer: `contaminated
+`,
+  explanation: `Cấu trúc câu bị động: S+be+V_PII+by+O
+`,
+  },
+  {id:41,
+    question: `At this time last year, I (attend) _______
+
+
+an English course.
+
+    `, options:[
+        ],
+    answer: `was attending
+`,
+  explanation: `<div>
+                            <p style="text-align: justify;">Câu trên diễn tả một hành động đang xảy ra tại một thời điểm trong quá khứ tiếp diễn nên ta dùng thì quá khứ tiếp diễn</p>
+<p style="text-align: justify;">attend =&gt; was attending</p>
+<p style="text-align: justify;">=&gt; At this time last year, I <strong>was attending</strong> an English course.</p>
+<p style="text-align: justify;">Tạm dịch: Vào thời điểm này năm ngoái, tôi đang tham gia một khóa học tiếng Anh.</p>
+<p style="text-align: justify;"><strong>Đáp án: </strong>was attending</p>                        </div>`,
+  },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
+  // {id:41,
+  //   question: `
+  //   `, options:[
+  //       ],
+  //   answer: ``,
+  // explanation: ``,
+  // },
   // {id:41,
   //   question: `
   //   `, options:[

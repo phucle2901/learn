@@ -122,16 +122,28 @@ export const eCLOSEST = [
     answer: `2`,
     explanation: `<p><strong>Kiến thức:</strong> Từ đồng nghĩa<strong> </strong></p><p><strong>Giải thích:</strong></p><p>ought to: nên làm gì</p><p>A. will: sẽ                       B. should: nên</p><p>C. must: phải                    D. have to: phải</p><p>=&gt; ought to = should: nên</p><p><strong>Tạm dịch:</strong> Học sinh nên học bài cẩn thận trước khi thi.</p><p><strong>Chọn B.</strong></p>`,
   },
-  // {id:7,
-  // question: `
-  // `, options:[
-  //     ``,
-  //     ``,
-  //     ``,
-  //     ``],
-  // answer:4,
-  // explanation:``
-  // },
+  {id:7,
+  question: `Scientific <b>progress</b> brings us many conveniences and advanced machines, such as computers, automobiles, and so on.
+
+  `, options:[
+      `job
+`,
+      `achievement
+`,
+      `failure
+`,
+      `responsibility
+`],
+  answer:2,
+  explanation:`<div>
+                            <p>Scientific <strong>progress</strong> brings us many conveniences and advanced machines, such as computers, automobiles, and so on.</p>
+<p><span style="color: #808080;"><em>(<span style="text-decoration: underline;">Tiến bộ</span> khoa học mang lại cho chúng ta nhiều tiện ích và máy móc tiên tiến như máy vi tính, ô tô, v.v.)</em></span></p>
+<p>job (n): <em>công việc</em></p>
+<p>achievement (n):<em> thành tựu</em></p>
+<p>failure (n): <em>thất bại</em></p>
+<p>responsibility (n):<em> trách nhiệm</em></p>
+<p>=&gt; progress = achievement</p>                        </div>`
+  },
   // {id:8,
   // question: `
   // `, options:[

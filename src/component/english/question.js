@@ -113,7 +113,7 @@ const Question = ({ examId  }) => {
         questionPlan.push(...getRandomItems(eREARRANGE, 3,9 ));
         questionPlan.push(...getRandomItems(eREWRITE, 4,10));
 
-        console.log(questionPlan);
+        //console.log(questionPlan);
 
         questionPlan = questionPlan.map((item, index) => ({
           ...item,
@@ -217,11 +217,12 @@ const Question = ({ examId  }) => {
       if(cleanSpace(str)==='') return str;
       return str.replace(/[^a-zA-Z]$/, "");
     };
-    const compareAnswer = (result,answer,isnum) => {     
+    const compareAnswer = (result,answer,isnum) => {    
+     
      if(isnum) {
        return parseFloat(result) === (parseFloat(answer)+1);
      }else{   
-        if (typeof text === "undefined") return false;     
+        if (typeof answer === "undefined") return false;     
         const cleaned = cleanSpace(answer);
         if(cleanLastChar(result).toString().toLowerCase() === cleanLastChar(cleaned)?.toString().toLowerCase()) {
           return true;

@@ -325,62 +325,130 @@ hungry
 <p>Nordic /ˈnɔː.dɪk/</p>
 <p><strong>Giải thích:</strong> Đáp án C có trọng âm rơi vào âm tiết thứ 2, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ nhất.</p>                        </div>`,
   },
-  // {
-  //   id: 9,
-  //   question: `
-  //   `,
-  //   options: [``, ``, ``, ``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 9,
-  //   question: `
-  //   `,
-  //   options: [``, ``, ``, ``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 9,
-  //   question: `
-  //   `,
-  //   options: [``, ``, ``, ``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 9,
-  //   question: `
-  //   `,
-  //   options: [``, ``, ``, ``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 9,
-  //   question: `
-  //   `,
-  //   options: [``, ``, ``, ``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 9,
-  //   question: `
-  //   `,
-  //   options: [``, ``, ``, ``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 9,
-  //   question: `
-  //   `,
-  //   options: [``, ``, ``, ``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`medical
+`, `hospital 
+`, `politic
+`, `electric
+`],
+    answer: 4,
+    explanation: `<div>
+                            <p>medical /ˈmedɪkl/ =&gt; trọng âm 1</p>
+<p>hospital /ˈhɒspɪtl/ =&gt; trọng âm 1&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>politic /ˈpɒlətɪk/ =&gt; trọng âm 1&nbsp;&nbsp;&nbsp;</p>
+<p>electric /ɪˈlektrɪk/ =&gt; trọng âm 2&nbsp;&nbsp;</p>
+<p>Câu D trọng âm rơi vào âm 2 còn lại là 1.</p>                        </div>`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`national
+`, `grammatical
+`, `medical
+`, `
+chemical
+`],
+    answer: 2,
+    explanation: `<div>
+                            <p>national:&nbsp;/ˈnæʃnəl/&nbsp;&nbsp;</p>
+<p>grammatical: /ɡrəˈmætɪkl/ &nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>medical:&nbsp;/ˈmedɪkl/&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>chemical: /ˈkemɪkl/</p>
+<p>Câu B trọng âm rơi vào âm 2 còn lại là 1</p>                        </div>`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`dangerous
+`, `humorous
+`, `marvellous
+`, `enormous
+`],
+    answer: 4,
+    explanation: `<div>
+                                                        <p>dangerous /ˈdeɪndʒərəs/ =&gt; trọng âm 1</p>
+<p>humorous /ˈhjuːmərəs/ =&gt; trọng âm 1</p>
+<p>marvellous /ˈmɑːvələs/ =&gt; trọng âm 1</p>
+<p>enormous /ɪˈnɔːməs/ =&gt; trọng âm 2</p>
+<p>Phương án D có trọng âm 2, các phương án còn lại có trọng âm 1.</p>
+<p>Chọn D.</p>                                                    </div>`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`tremendous
+`, `spacious
+`, `numerous
+`, `generous
+`],
+    answer: 1,
+    explanation: `<div>
+                                                        <p>tremendous /trəˈmendəs/ =&gt; trọng âm 2</p>
+<p>spacious /ˈspeɪʃəs/ =&gt; trọng âm 1</p>
+<p>numerous /ˈnjuːmərəs/ =&gt; trọng âm 1</p>
+<p>generous /ˈdʒenərəs/ =&gt; trọng âm 1</p>
+<p>Phương án A có trọng âm 2, các phương án còn lại có trọng âm 1.</p>
+<p>Chọn A.</p>                                                    </div>`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`infamous
+`, `glorious
+`, `delicious
+`, `
+populous
+`],
+    answer: 3,
+    explanation: `<div>
+                                                        <p>infamous /ˈɪnfəməs/ =&gt; trọng âm 1</p>
+<p>glorious /ˈɡlɔːriəs/ =&gt; trọng âm 1</p>
+<p>delicious /dɪˈlɪʃəs/ =&gt; trọng âm 2</p>
+<p>populous /ˈpɒpjələs/ =&gt; trọng âm 1</p>
+<p>Phương án C có trọng âm 2, các phương án còn lại có trọng âm 1.</p>
+<p>Chọn C.</p>                                                    </div>`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`guarantee
+`, `cheetah
+`, `Japanese
+`, `pioneer
+`],
+    answer: 2,
+    explanation: `<div>
+                            <p>guarantee /ˌɡærənˈtiː/ =&gt; trọng âm 3</p>
+<p>cheetah /ˈtʃiːtə/&nbsp;=&gt; trọng âm 1</p>
+<p>Japanese /ˌdʒæpəˈniːz/&nbsp;=&gt; trọng âm 3</p>
+<p>pioneer /ˌpaɪəˈnɪə(r)/&nbsp;=&gt; trọng âm 3</p>
+<p>Câu B trọng âm rơi vào âm tiết 1, còn lại rơi vào âm tiết 3.</p>                        </div>`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`refugee
+`, `committee
+`, `absentee
+`, `Taiwanese
+`],
+    answer: 2,
+    explanation: `<div>
+                            <p>refugee /ˌrefjuˈdʒiː/</p>
+<p>committee /kəˈmɪti/</p>
+<p>absentee /ˌæbsənˈtiː/</p>
+<p>Taiwanese /ˌtaɪ.wəˈniːz/</p>
+<p>Câu B trọng âm rơi vào âm tiết 2, còn lại rơi vào âm tiết 3&nbsp;&nbsp;&nbsp;</p>                        </div>`,
+  },
   // {
   //   id: 9,
   //   question: `

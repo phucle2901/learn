@@ -14,7 +14,7 @@ export const eREAD = [
           `<p><strong>D.</strong> easy</p>`,
         ],
         answer: 4,
-        explanation: `<p><strong>Kiến thức:</strong> Từ vựng</p><p><strong>Giải thích:</strong></p><p>A. simple (adj): đơn giản             </p><p>B. difficult (adj): khó khăn</p><p>C. happy (adj): vui vẻ                </p><p>D. easy (adj): dễ dàng</p><p>Firstly, remember that it is <strong>(23) <u>easy</u></strong> to lie online</p><p><strong>Tạm dịch:</strong> Thứ nhất, hãy nhớ rằng việc nói dối trên mạng rất dễ dàng</p><p><strong>Chọn D. </strong></p>`,
+        explanation: `<p>A. simple (adj): đơn giản             </p><p>B. difficult (adj): khó khăn</p><p>C. happy (adj): vui vẻ                </p><p>D. easy (adj): dễ dàng</p><p>Firstly, remember that it is <strong>(23) <u>easy</u></strong> to lie online</p><p><strong>Tạm dịch:</strong> Thứ nhất, hãy nhớ rằng việc nói dối trên mạng rất dễ dàng</p><p><strong>Chọn D. </strong></p>`,
       },
 
       {
@@ -30,7 +30,7 @@ export const eREAD = [
         answer: 2,
         explanation: `<p><strong>Kiến thức:</strong> Đại từ quan hệ</p>
 
-<p><strong>Giải thích:</strong></p><p>Trong mệnh đề quan hệ:</p><p>- what: cái gì</p><p>- who: thay cho danh từ chỉ người đóng vai trò làm chủ ngữ</p><p>- whom: thay cho danh từ chỉ người đóng vai trò làm tân ngữ </p><p>- whose + N: thay thế cho tính từ sở hữu</p><p>Firstly, remember that it is easy to lie online and some of these “ online friends” maybe adults <strong>(24) <u>who</u></strong> want to harm you.</p>
+<p>Trong mệnh đề quan hệ:</p><p>- what: cái gì</p><p>- who: thay cho danh từ chỉ người đóng vai trò làm chủ ngữ</p><p>- whom: thay cho danh từ chỉ người đóng vai trò làm tân ngữ </p><p>- whose + N: thay thế cho tính từ sở hữu</p><p>Firstly, remember that it is easy to lie online and some of these “ online friends” maybe adults <strong>(24) <u>who</u></strong> want to harm you.</p>
 
 <p><strong>Tạm dịch:</strong> Thứ nhất, hãy nhớ rằng việc nói dối trên mạng rất dễ dàng và một số “bạn bè trực tuyến” này có thể là người lớn muốn hãm hại bạn.</p><p><strong>Chọn B.</strong></p>`,
       },
@@ -45,7 +45,7 @@ export const eREAD = [
           `<p><strong>D.</strong> updates</p>`,
         ],
         answer: 1,
-        explanation: `<p><strong>Kiến thức:</strong> Từ loại</p><p><strong>Giải thích:</strong></p><p>A. updated (adj): phiên bản mới nhất       </p><p>B. update (v): cập nhật</p><p>C. updating (v): cập nhật                </p><p>D. updates (v): cập nhật</p><p>Trước danh từ “software” (phần mềm) cần một tính từ</p><p>Thirdly, only play online games when you have <strong>(25) <u>updated</u></strong> antivirus software.</p>
+        explanation: `<p><strong>Kiến thức:</strong> Từ loại</p><p>A. updated (adj): phiên bản mới nhất       </p><p>B. update (v): cập nhật</p><p>C. updating (v): cập nhật                </p><p>D. updates (v): cập nhật</p><p>Trước danh từ “software” (phần mềm) cần một tính từ</p><p>Thirdly, only play online games when you have <strong>(25) <u>updated</u></strong> antivirus software.</p>
 
 <p><strong>Tạm dịch:</strong> Thứ ba, chỉ chơi game trực tuyến khi bạn đã cập nhật phần mềm diệt virus.</p><p><strong>Chọn A.</strong></p>`,
       },
@@ -60,7 +60,7 @@ export const eREAD = [
           `<p><strong>D.</strong> with</p>`,
         ],
         answer: 3,
-        explanation: `<p><strong>Kiến thức:</strong> Giới từ</p><p><strong>Giải thích:</strong></p><p>A. in: ở, tại, trong (nơi chốn, không gian...)</p><p>B. to: theo hướng, hướng tới, đến</p><p>C. about: về </p><p>D. with: với, cùng, cùng với</p><p>In addition, tell your parents what games you are playing and what you love <strong>(26) <u>about</u></strong> them.</p>
+        explanation: `<p><strong>Kiến thức:</strong> Giới từ</p><p>A. in: ở, tại, trong (nơi chốn, không gian...)</p><p>B. to: theo hướng, hướng tới, đến</p><p>C. about: về </p><p>D. with: với, cùng, cùng với</p><p>In addition, tell your parents what games you are playing and what you love <strong>(26) <u>about</u></strong> them.</p>
 
 <p><strong>Tạm dịch:</strong> Ngoài ra, hãy nói cho bố mẹ biết bạn đang chơi những trò chơi gì và bạn yêu thích chúng.</p><p><strong>Chọn C.</strong></p>`,
       },
@@ -75,7 +75,7 @@ export const eREAD = [
           `<p><strong>D.</strong> playing</p>`,
         ],
         answer: 4,
-        explanation: `<p><strong>Kiến thức:</strong> Rút gọn mệnh đề đồng ngữ</p><p><strong>Giải thích:</strong></p><p>Khi hai mệnh đề có cùng chủ ngữ (you) có thể rút gọn một mệnh đề về dạng:</p><p>- Ving: khi mệnh đề dạng chủ động và hai hành động xảy ra liên tiếp</p><p>- Having Ved/V3: khi mệnh đề dạng chủ động, hành động được rút gọn xảy ra trước và là nguyên nhân dẫn đến hành động còn lại</p>
+        explanation: `<p><strong>Kiến thức:</strong> Rút gọn mệnh đề đồng ngữ</p><p>Khi hai mệnh đề có cùng chủ ngữ (you) có thể rút gọn một mệnh đề về dạng:</p><p>- Ving: khi mệnh đề dạng chủ động và hai hành động xảy ra liên tiếp</p><p>- Having Ved/V3: khi mệnh đề dạng chủ động, hành động được rút gọn xảy ra trước và là nguyên nhân dẫn đến hành động còn lại</p>
 
 <p>- Ved/V3: khi mệnh đề dạng bị động</p><p><strong>Câu đầy đủ:</strong> In short, just like in the real world, you need to be careful when you play with strangers.</p><p>In short, just like in the real world, you need to be careful when <strong>(27) <u>playing</u></strong> with strangers.</p><p><strong>Tạm dịch:</strong> Tóm lại, cũng giống như trong thế giới thực, bạn cần phải cẩn thận khi chơi với người lạ.</p><p><strong>Chọn D.</strong></p><p><strong><u>Tạm dịch bài đọc:</u></strong></p><p style="text-align: justify;">Khi bạn chơi trò chơi trực tuyến, hãy cẩn thận khi bạn “kết bạn” với người lạ. Bạn nên làm những gì? Thứ nhất, hãy nhớ rằng việc nói dối trên mạng rất dễ dàng và một số “bạn bè trực tuyến” này có thể là người lớn muốn hãm hại bạn. Thứ hai, không bao giờ cung cấp thông tin cá nhân của bạn như họ tên hoặc quê quán của bạn. Thứ ba, chỉ chơi game trực tuyến khi bạn đã cập nhật phần mềm diệt virus. Ngoài ra, hãy nói cho bố mẹ biết bạn đang chơi những trò chơi gì và bạn yêu thích chúng. Tóm lại, cũng giống như trong thế giới thực, bạn cần phải cẩn thận khi chơi với người lạ.</p>`,
       },
@@ -166,7 +166,7 @@ export const eREAD = [
   },
   {
     id: 3,
-    content: `<p>Jill: _________________.</p><p><strong>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks.</strong></p><p style="text-align: justify;">A recent survey conducted by TIRA, a Vietnamese research company, highlights (23) ________ about the lifestyles of Vietnamese teenagers in urban areas. There is an imbalance in their consumption of time for studying and recreational activities. On average, these teenagers spend 9.5 hours a day (24) ________ studies at school and at home. They only have about four hours for (25) ________. Most of this time is spent on watching television and the internet, where they chat through social networks. The teenagers admit that they use computers to play games and to chat with friends much more than using it for studying purposes. The survey also shows that during summer months, (26) ________ having much more free time than during school years, these teenagers still fail to manage their time properly. They stay in bed longer and then get (27) ________ to games and TV. The time for computers and TV increases significantly to about five or six hours a day, while there is almost no time for physical outdoor activities.</p>`,
+    content: `<p style="text-align: justify;">A recent survey conducted by TIRA, a Vietnamese research company, highlights (23) ________ about the lifestyles of Vietnamese teenagers in urban areas. There is an imbalance in their consumption of time for studying and recreational activities. On average, these teenagers spend 9.5 hours a day (24) ________ studies at school and at home. They only have about four hours for (25) ________. Most of this time is spent on watching television and the internet, where they chat through social networks. The teenagers admit that they use computers to play games and to chat with friends much more than using it for studying purposes. The survey also shows that during summer months, (26) ________ having much more free time than during school years, these teenagers still fail to manage their time properly. They stay in bed longer and then get (27) ________ to games and TV. The time for computers and TV increases significantly to about five or six hours a day, while there is almost no time for physical outdoor activities.</p>`,
     questions: [
       {
         id: 1,
@@ -501,7 +501,7 @@ export const eREAD = [
           `<p><span style="color: #000000;"><strong>D.</strong> divide</span></p>`,
         ],
         answer: `3`,
-        explanation: `<p><strong>Kiến thức: </strong>Từ vựng</p><p><strong>Giải thích:</strong></p><p>A. cut (v): cắt   B. have (v): có  C. share (v): chia sẻ   D. divide (v): chia</p><p>The Muong <strong>(1) <u>share</u></strong> ethnic roots with the Vietnamese people and their language is classified in the Vietnamese-Muong language branch.</p><p><strong>Tạm dịch: </strong>Người Mường có chung nguồn gốc dân tộc với người Việt và ngôn ngữ của họ được xếp vào nhánh ngôn ngữ Việt - Mường.</p><p><strong>Chọn C.</strong></p>`,
+        explanation: `<p><strong>Kiến thức: </strong>Từ vựng</p><p>A. cut (v): cắt   B. have (v): có  C. share (v): chia sẻ   D. divide (v): chia</p><p>The Muong <strong>(1) <u>share</u></strong> ethnic roots with the Vietnamese people and their language is classified in the Vietnamese-Muong language branch.</p><p><strong>Tạm dịch: </strong>Người Mường có chung nguồn gốc dân tộc với người Việt và ngôn ngữ của họ được xếp vào nhánh ngôn ngữ Việt - Mường.</p><p><strong>Chọn C.</strong></p>`,
       },
 
       {
@@ -515,7 +515,7 @@ export const eREAD = [
           `<p><span style="color: #000000;"><strong>D.</strong> putting</span></p>`,
         ],
         answer: `3`,
-        explanation: `<p><strong>Kiến thức: </strong>Từ vựng</p><p><strong>Giải thích:</strong></p><p>A. raise (v): nâng lên, đỡ dậy       B. harvest (v): gặt hái, thu hoạch</p><p>C. grow (v): trồng               D. put (v): đặt, để</p><p>The Muong live in mountainous areas which have abundant land for <strong>(2) <u>growing</u></strong> wet rice.</p><p><strong>Tạm dịch: </strong>Người Mường sống ở những vùng núi có nhiều đất để trồng lúa nước.</p><p><strong>Chọn C.</strong></p>`,
+        explanation: `<p><strong>Kiến thức: </strong>Từ vựng</p><p>A. raise (v): nâng lên, đỡ dậy       B. harvest (v): gặt hái, thu hoạch</p><p>C. grow (v): trồng               D. put (v): đặt, để</p><p>The Muong live in mountainous areas which have abundant land for <strong>(2) <u>growing</u></strong> wet rice.</p><p><strong>Tạm dịch: </strong>Người Mường sống ở những vùng núi có nhiều đất để trồng lúa nước.</p><p><strong>Chọn C.</strong></p>`,
       },
       {
         id: 3,
@@ -528,7 +528,7 @@ export const eREAD = [
           `<p><span style="color: #000000;"><strong>D.</strong> costume</span></p>`,
         ],
         answer: `4`,
-        explanation: `<p><strong>Kiến thức: </strong>Từ vựng</p><p><strong>Giải thích:</strong></p><p>A. material (n): chất liệu           B. costumes (n): những trang phục</p><p>C. cloth (n): vải                 D. costume (n): trang phục</p><p>The Muong's <strong>(3) <u>costume</u></strong> is special.</p><p><strong>Tạm dịch: </strong>Trang phục của người Mường rất đặc biệt.</p><p><strong>Chọn D.</strong></p>`,
+        explanation: `<p><strong>Kiến thức: </strong>Từ vựng</p><p>A. material (n): chất liệu           B. costumes (n): những trang phục</p><p>C. cloth (n): vải                 D. costume (n): trang phục</p><p>The Muong's <strong>(3) <u>costume</u></strong> is special.</p><p><strong>Tạm dịch: </strong>Trang phục của người Mường rất đặc biệt.</p><p><strong>Chọn D.</strong></p>`,
       },
       {
         id: 4,
@@ -554,7 +554,7 @@ export const eREAD = [
           `<p><span style="color: #000000;"><strong>D.</strong> two string</span></p>`,
         ],
         answer: `2`,
-        explanation: `<p><strong>Kiến thức: </strong>Từ vựng</p><p><strong>Giải thích:</strong></p><p>two-string: hai dây</p><p>The gong is the most popular musical instrument along with the flute, the <strong>(4) <u>two-string</u></strong> violin, the drum, and the panpipe.</p><p><strong>Tạm dịch: </strong>Cồng chiêng là loại nhạc cụ phổ biến nhất cùng với sáo, vĩ cầm hai dây, trống và kèn pí lè.</p><p><strong>Chọn B.</strong></p><p><strong><u>Tạm dịch bài đọc:</u></strong></p><p>Người Mường có chung nguồn gốc dân tộc với người Việt và ngôn ngữ của họ được xếp vào nhánh ngôn ngữ Việt - Mường. Người Mường sống ở những vùng núi có nhiều đất để trồng lúa nước.</p><p>Ở một bản Mường, những ngôi nhà sàn nằm dưới bóng cây to, tựa lưng vào núi, nhìn ra cánh đồng lúa bạt ngàn. Một ngôi nhà Mường được thiết kế để tối đa hóa công năng sử dụng thuận tiện và thông gió để chống lại khí hậu miền núi ẩm ướt.</p><p>Trang phục của người Mường rất đặc biệt. Nam giới thường mặc áo sơ mi cổ tròn mở phía trước và có hai túi. Quần của họ có ống quần lớn. Phụ nữ Mường mặc áo dài đen, áo sơ mi trắng hoặc nâu có hàng cúc phía trước và dài tay. Họ quấn một chiếc khăn trùm đầu màu trắng hoặc màu chàm quanh đầu.</p><p>Người Mường có nghệ thuật dân gian đa dạng bao gồm các bài hát và thơ dân gian, hát thờ cúng thầy mo, truyện kể và câu đố. Cồng chiêng là loại nhạc cụ phổ biến nhất cùng với sáo, vĩ cầm hai dây, trống và kèn pí lè.</p>`,
+        explanation: `<p><strong>Kiến thức: </strong>Từ vựng</p><p>two-string: hai dây</p><p>The gong is the most popular musical instrument along with the flute, the <strong>(4) <u>two-string</u></strong> violin, the drum, and the panpipe.</p><p><strong>Tạm dịch: </strong>Cồng chiêng là loại nhạc cụ phổ biến nhất cùng với sáo, vĩ cầm hai dây, trống và kèn pí lè.</p><p><strong>Chọn B.</strong></p><p><strong><u>Tạm dịch bài đọc:</u></strong></p><p>Người Mường có chung nguồn gốc dân tộc với người Việt và ngôn ngữ của họ được xếp vào nhánh ngôn ngữ Việt - Mường. Người Mường sống ở những vùng núi có nhiều đất để trồng lúa nước.</p><p>Ở một bản Mường, những ngôi nhà sàn nằm dưới bóng cây to, tựa lưng vào núi, nhìn ra cánh đồng lúa bạt ngàn. Một ngôi nhà Mường được thiết kế để tối đa hóa công năng sử dụng thuận tiện và thông gió để chống lại khí hậu miền núi ẩm ướt.</p><p>Trang phục của người Mường rất đặc biệt. Nam giới thường mặc áo sơ mi cổ tròn mở phía trước và có hai túi. Quần của họ có ống quần lớn. Phụ nữ Mường mặc áo dài đen, áo sơ mi trắng hoặc nâu có hàng cúc phía trước và dài tay. Họ quấn một chiếc khăn trùm đầu màu trắng hoặc màu chàm quanh đầu.</p><p>Người Mường có nghệ thuật dân gian đa dạng bao gồm các bài hát và thơ dân gian, hát thờ cúng thầy mo, truyện kể và câu đố. Cồng chiêng là loại nhạc cụ phổ biến nhất cùng với sáo, vĩ cầm hai dây, trống và kèn pí lè.</p>`,
       },
     ],
   },
@@ -642,7 +642,7 @@ export const eREAD = [
           `<strong>D.</strong> festival`,
         ],
         answer: `2`,
-        explanation: `<p><strong>Kiến thức:</strong> Từ vựng</p><p><strong>Giải thích:</strong></p><p>A. minor (adj): nhỏ, thứ yếu         B. cultural (adj): thuộc văn hóa</p><p>C. custom (n) phong tục, tục lệ       D. festival (n): lễ hội</p><p>It is typical of the <strong>(23) <u>cultural</u></strong> life of the Thai people.</p><p><strong>Tạm dịch:</strong> Đó là nét đặc trưng trong đời sống văn hóa của dân tộc Thái.</p><p><strong>Chọn B.</strong></p>`,
+        explanation: `<p>A. minor (adj): nhỏ, thứ yếu         B. cultural (adj): thuộc văn hóa</p><p>C. custom (n) phong tục, tục lệ       D. festival (n): lễ hội</p><p>It is typical of the <strong>(23) <u>cultural</u></strong> life of the Thai people.</p><p><strong>Tạm dịch:</strong> Đó là nét đặc trưng trong đời sống văn hóa của dân tộc Thái.</p><p><strong>Chọn B.</strong></p>`,
       },
 
       {
@@ -656,7 +656,7 @@ export const eREAD = [
           `<strong>D.</strong> runs`,
         ],
         answer: `1`,
-        explanation: `<p><strong>Kiến thức:</strong> Từ vựng</p><p><strong>Giải thích:</strong></p><p>A. gets: được, có được              B. goes: đi</p><p>C. comes: đến                   D. runs: chạy</p><p>In the second lunar month of the year, when it <strong>(24) <u>gets</u></strong> warmer</p><p><strong>Tạm dịch:</strong> Vào tháng 2 âm lịch hàng năm, khi trời ấm hơn</p><p><strong>Chọn A.</strong></p>`,
+        explanation: `<p>A. gets: được, có được              B. goes: đi</p><p>C. comes: đến                   D. runs: chạy</p><p>In the second lunar month of the year, when it <strong>(24) <u>gets</u></strong> warmer</p><p><strong>Tạm dịch:</strong> Vào tháng 2 âm lịch hàng năm, khi trời ấm hơn</p><p><strong>Chọn A.</strong></p>`,
       },
       {
         id: 3,
@@ -669,7 +669,7 @@ export const eREAD = [
           `<strong>D.</strong> celebrated`,
         ],
         answer: `4`,
-        explanation: `<p><strong>Kiến thức:</strong> Từ vựng</p><p><strong>Giải thích:</strong></p><p>A. seen: được nhìn thấy        B. arranged: được sắp xếp</p><p>C. observed: được quan sát     D. celebrated: được kỷ niệm</p><p>Hoa Ban Festival is <strong>(25)</strong><strong> </strong><strong><u>celebrated</u></strong>.</p><p><strong>Tạm dịch:</strong> Lễ hội Hoa ban được tổ chức.</p><p><strong>Chọn D.</strong></p>`,
+        explanation: `<p>A. seen: được nhìn thấy        B. arranged: được sắp xếp</p><p>C. observed: được quan sát     D. celebrated: được kỷ niệm</p><p>Hoa Ban Festival is <strong>(25)</strong><strong> </strong><strong><u>celebrated</u></strong>.</p><p><strong>Tạm dịch:</strong> Lễ hội Hoa ban được tổ chức.</p><p><strong>Chọn D.</strong></p>`,
       },
       {
         id: 4,
@@ -682,7 +682,7 @@ export const eREAD = [
           `<strong>D.</strong> typically`,
         ],
         answer: `2`,
-        explanation: `<p><strong>Kiến thức:</strong> Từ vựng</p><p><strong>Giải thích:</strong></p><p>A. largely (adv): phần lớn  B. (adv): đặc biệt </p><p>C. generally (adv): nói chung   D. typically (adv): điển hình</p><p>This is a great time for everyone, <strong>(26) <u>especially</u></strong> for boys and girls.</p><p><strong>Tạm dịch:</strong> Đây là khoảng thời gian tuyệt vời cho tất cả mọi người, đặc biệt là đối với các nam thanh nữ tú. <strong>Chọn B.</strong></p>`,
+        explanation: `<p>A. largely (adv): phần lớn  B. (adv): đặc biệt </p><p>C. generally (adv): nói chung   D. typically (adv): điển hình</p><p>This is a great time for everyone, <strong>(26) <u>especially</u></strong> for boys and girls.</p><p><strong>Tạm dịch:</strong> Đây là khoảng thời gian tuyệt vời cho tất cả mọi người, đặc biệt là đối với các nam thanh nữ tú. <strong>Chọn B.</strong></p>`,
       },
       {
         id: 5,
@@ -695,7 +695,7 @@ export const eREAD = [
           `<strong>D.</strong> call`,
         ],
         answer: `3`,
-        explanation: `<p><strong>Kiến thức:</strong> Từ vựng</p><p><strong>Giải thích:</strong></p><p>A. ask for: đòi hỏi, yêu cầu        B. look for: tìm kiếm</p><p>C. pray for: cầu nguyện cho       D. call for: yêu cầu, đòi hỏi</p><p>This is not only a time for love but also for the Thai people to <strong>(27) <u>pray</u></strong> for good crops, for happiness, and express their special thanks to the Gods and ancestors.</p><p><strong>Tạm dịch:</strong> Đây không chỉ là thời điểm cầu tình duyên mà người Thái còn cầu cho mùa màng tươi tốt, hạnh phúc và bày tỏ lòng biết ơn đặc biệt đến các vị thần, tổ tiên.</p><p><strong>Chọn C.</strong></p><p><strong><u>Tạm dịch bài đọc:</u></strong></p><p>Mùa xuân là thời điểm diễn ra rất nhiều lễ hội ở nước ta. Trong số đó, lễ hội Hoa Ban đẹp là thú vị nhất diễn ra ở Lai Châu. Đó là nét đặc trưng trong đời sống văn hóa của dân tộc Thái. Vào tháng 2 âm lịch hàng năm, khi trời ấm hơn và Hoa Ban - một loại hoa đẹp của vùng núi Tây Bắc - nở rộ, Lễ hội Hoa Ban được tổ chức. Đây là khoảng thời gian tuyệt vời cho tất cả mọi người, đặc biệt là đối với các nam thanh nữ tú. Chàng trai chọn bông hoa đẹp nhất tặng bạn gái. Đây không chỉ là thời điểm cầu tình duyên mà người Thái còn cầu cho mùa màng tươi tốt, hạnh phúc và bày tỏ lòng biết ơn đặc biệt đến các vị thần, tổ tiên. Lễ hội luôn có đầy đủ các bài hát và lời cầu nguyện.</p>`,
+        explanation: `<p>A. ask for: đòi hỏi, yêu cầu        B. look for: tìm kiếm</p><p>C. pray for: cầu nguyện cho       D. call for: yêu cầu, đòi hỏi</p><p>This is not only a time for love but also for the Thai people to <strong>(27) <u>pray</u></strong> for good crops, for happiness, and express their special thanks to the Gods and ancestors.</p><p><strong>Tạm dịch:</strong> Đây không chỉ là thời điểm cầu tình duyên mà người Thái còn cầu cho mùa màng tươi tốt, hạnh phúc và bày tỏ lòng biết ơn đặc biệt đến các vị thần, tổ tiên.</p><p><strong>Chọn C.</strong></p><p><strong><u>Tạm dịch bài đọc:</u></strong></p><p>Mùa xuân là thời điểm diễn ra rất nhiều lễ hội ở nước ta. Trong số đó, lễ hội Hoa Ban đẹp là thú vị nhất diễn ra ở Lai Châu. Đó là nét đặc trưng trong đời sống văn hóa của dân tộc Thái. Vào tháng 2 âm lịch hàng năm, khi trời ấm hơn và Hoa Ban - một loại hoa đẹp của vùng núi Tây Bắc - nở rộ, Lễ hội Hoa Ban được tổ chức. Đây là khoảng thời gian tuyệt vời cho tất cả mọi người, đặc biệt là đối với các nam thanh nữ tú. Chàng trai chọn bông hoa đẹp nhất tặng bạn gái. Đây không chỉ là thời điểm cầu tình duyên mà người Thái còn cầu cho mùa màng tươi tốt, hạnh phúc và bày tỏ lòng biết ơn đặc biệt đến các vị thần, tổ tiên. Lễ hội luôn có đầy đủ các bài hát và lời cầu nguyện.</p>`,
       },
     ],
   },
@@ -837,7 +837,1637 @@ export const eREAD = [
         explanation: ``,
       },
     ],
-  },
+  },//https://vietjack.com/trac-nghiem-tieng-anh/250-cau-trac-nghiem-dien-tu-tieng-anh-co-dap-an-co-ban.jsp
+  {    id:10,
+      content:`<p>Background, in relation to computers, on the screen, the color on which characters are displayed. (1) _______, a white background may be used for black characters. In a windowing environment in which more than one program or document can be available to the user, open but currently inactive (2) _______ are said to be in the background.
+In the context of operating systems and program execution, background refers to a process, or task, assigned a lower priority in the microprocessor's share of time to tasks other than the task running in the (3) _______. A background process thus often performs (4)_____________ work, such as printing or checking for arriving messages on an electronic mail network, invisibly unless the user requests an update or brings the task to the foreground. (5) _______, only multitasking operating systems are able to support background processing. 
+</p>`,
+      questions: [
+      {id:1, question: ``,
+          options:[
+             `For sure `,
+          `In fact `,
+          `For example`,
+          `In general`
+          ],
+          answer:3,
+          explanation:`for exampke: ví dụ như` },
+
+      {id:2,
+      question: `
+      `,
+      options:[
+           `windows`,
+          `systems`,
+          `tasks`,
+          `characters`],
+      answer:1,
+      explanation:`windows: cửa sổ (ở giao diện máy tính)` },
+      {id:3,
+      question: `
+      `,
+      options:[
+          `background`,
+          `foreground`,
+          `computer`,
+          `program`],
+      answer:1,
+      explanation:`background: màn hình nền`
+      },
+      {id:4,
+      question: `
+      `,
+      options:[
+          `its`,
+          `their`,
+          `his`,
+          `her`],
+      answer:1,
+      explanation:`its là tính từ sở hữu của “a background”`
+      },
+      {id:5,
+      question: `
+      `,
+      options:[
+          `Really `,
+          `Similarly`,
+          `Generally `,
+          `Hopefully`],
+      answer:2,
+      explanation:` minilarly: tương tự như thế`
+      },
+  ]
+  }   ,
+
+  {    id:10,
+      content:`<p>For Nigel Portman, a love of travelling began with what’s called a ‘gap year’. In common with many other British teenagers, he chose to take a year out before (1)____ to study for his degree. After doing various jobs to raise some money, he left home to gain some experience of life in different cultures, visiting America and Asia. The more adventurous the young person, the (2)_____ the challenge they are likely to set themselves for the gap year, and for some, like Nigel, it can result in a thirst for adventure. Now that his university course has (3)______ to an end, Nigel is just about to leave on a three-year trip that will take him all around the world. What’s more, he plans to make the whole journey using only means of transport which are powered by natural energy. In other words, he’ll be (4)______ mostly on bicycles and his own legs; and when there’s an ocean to cross, he won’t be taking a short cut by climbing aboard a plane, he’ll be joining the crew of a sailing ship instead. As well as doing some mountain climbing and other outdoor pursuits along the way, Nigel hopes to (5)______ on to the people he meets the environmental message that lies behind the whole idea. </p>`,
+      questions: [
+      {id:1, question: ``,
+          options:[
+             `settling down`,
+          `getting up`,
+          `taking over`,
+          `holding back`
+          ],
+          answer:1,
+          explanation:`settle down: ổn đinh` },
+
+      {id:2,
+      question: `
+      `,
+      options:[
+           `stronger`,
+          `wider`,
+          `greater`,
+          `deeper`],
+      answer:3,
+      explanation:`greater challenge: thách thức lớn hơn` },
+      {id:3,
+      question: `
+      `,
+      options:[
+          `come`,
+          `get`,
+          `become`,
+          `make`],
+      answer:1,
+      explanation:`come to an end: chấm dứt`
+      },
+      {id:4,
+      question: `
+      `,
+      options:[
+          `relying`,
+          `using`,
+          `attempting`,
+          `trying`],
+      answer:1,
+      explanation:`rely on: dựa vào`
+      },
+      {id:5,
+      question: `
+      `,
+      options:[
+          `leave`,
+          `keep     `,
+          `pass     `,
+          `give`],
+      answer:3,
+      explanation:`pass on to st: truyền tải cái gì`
+      },
+  ]
+  }   ,
+
+
+
+  {    id:10,
+      content:`<p>Bonfire Night is (1)______ all over Britain on November 5th. The festival dates from 1605 when a man called Guy Fawkes tried to blow up the Houses of Parliament. He was caught and hanged, (2)______ the other conspirators. 
+Preparations for Bonfire Night usually start weeks before the event itself .Children go from house to house (3)_______ old furniture, newspapers and anything else which will burn for their bonfires. They make a “guy”, a figure which (4)______ Guy Fawkes, from an old sack and wheel it round the streets asking for money which they use to buy fireworks. 
+On the day itself, as soon as it is dark, the guy is put on top of bonfire, which is then lit. Fireworks are set off and everyone enjoys the display as they stand round the fire (5)______ warm and eating baked potatoes and hot dogs.
+</p>`,
+      questions: [
+      {id:1, question: ``,
+          options:[
+             `celebrated`,
+          `opened`,
+          `organizing`,
+          `held`
+          ],
+          answer:1,
+          explanation:`be celebrated: được tổ chức` },
+
+      {id:2,
+      question: `
+      `,
+      options:[
+           `related to`,
+          `together     `,
+          `associated with `,
+          `along with`],
+      answer:4,
+      explanation:`along with: cùng với` },
+      {id:3,
+      question: `
+      `,
+      options:[
+          `gathered`,
+          `collecting`,
+          `bringing`,
+          `carrying`],
+      answer:2,
+      explanation:`collect: thu nhặt`
+      },
+      {id:4,
+      question: `
+      `,
+      options:[
+          `symbolizes`,
+          `signals`,
+          `represents`,
+          `resembles`],
+      answer:4,
+      explanation:`resemble: giống với`
+      },
+      {id:5,
+      question: `
+      `,
+      options:[
+          `keeping    `,
+          `remaining     `,
+          `to stay`,
+          `to hold`],
+      answer:1,
+      explanation:`keep warm: giữ ấm`
+      },
+  ]
+  }   ,
+
+
+  {    id:10,
+      content:`<p>The growth of population has its problems as we shall see. As there are more and more mouths (1)_____, there comes a great strain (2)_____ the resources of a country; this is real in the case of developing countries with the result they are unable to push ahead economically. As food is not sufficient there is chronic malnutrition in these countries especially in women and children resulting in weaker population (3)_____ would only economically be a drain on the country as their productive years will be short. As health and education are the State's (4)_____, they affect the country's finances. So in developing countries health and illiteracy continue to be the problem. The unwieldy growth of population leads to the problem of housing and sanitation. In many countries the slums are a (5)_____ to the eyes. Slums grow round big cities and are found with all the drawbacks. These are the areas of disease, filth and crime.</p>`,
+      questions: [
+      {id:1, question: ``,
+          options:[
+             `to be fed`,
+          `to feed`,
+          `for feeding`,
+          `fed`
+          ],
+          answer:1,
+          explanation:`câu bị động với động từ nguyên mẫu` },
+
+      {id:2,
+      question: `
+      `,
+      options:[
+           `to `,
+          `for`,
+          `down`,
+          `on`],
+      answer:3,
+      explanation:`a strain on st: căng thẳng đối với` },
+      {id:3,
+      question: `
+      `,
+      options:[
+          `which     `,
+          `what     `,
+          `who     `,
+          `those`],
+      answer:2,
+      explanation:`Đại từ quan hệ thay thế cho danh từ chỉ người`
+      },
+      {id:4,
+      question: `
+      `,
+      options:[
+          `problem     `,
+          `job     `,
+          `affair     `,
+          `work`],
+      answer:3,
+      explanation:`affair: vấn đề, công việc (chính trị)`
+      },
+      {id:5,
+      question: `
+      `,
+      options:[
+          `pain    `,
+          `sore     `,
+          `hurt     `,
+          `wound`],
+      answer:3,
+      explanation:` a sore to st: nỗi thương tâm đối với`
+      },
+  ]
+  }   ,
+
+
+  {    id:10,
+      content:`<p>Many people have forgotten what the world was like before TV. But today it has become an integral part of our lives. No medium can compare with TV as a means of information, entertainment and education. TV now plays such an important role in so many people’s lives that it is essential for us to try to decide (1)_______ it is bad or good. 
+First of all, TV is not only a convenient source of entertainment, but also a (2)_______ cheap one. For a family of 4, for example, it is more convenient as well as cheaper to sit comfortably at home than to go out. They don’t have to pay for expensive tickets. All they have to do is to turn on TV and they can see films, political discussions and the latest exciting football matches. Some people say that this is fist where the danger lies. The TV viewers need do nothing: they (3)______ no choices, they’re completely passive and don’t even use their legs. 
+TV, people often say, informs about current events and the latest developments in science and politics. A lot of good films, music programs have appeared recently on TV. (4)_______ here again there is a danger. We get to like watching TV so much that it begins to dominate our lives. A friend of mine told me that when his TV set broke he and his family suddenly found that they had much more time to do things. 
+The most important thing which is really criticizing is poor quality of the programs and its harmful effect on children. For example the film “Natural Born Killers” teaches children to kill and there was one accident in France when a group of teenagers kill their parents. 
+There are many arguments for and against TV. I think we must understand that TV in itself is neither good (5)______ bad. TV is as good or as bad as we make it.
+</p>`,
+      questions: [
+      {id:1, question: ``,
+          options:[
+             `somehow     `,
+          `whether     `,
+          `why     `,
+          `how`
+          ],
+          answer:2,
+          explanation:`whether...or...: liệu...` },
+
+      {id:2,
+      question: `
+      `,
+      options:[
+           `comparatively`,
+          `conceitedly`,
+          `competitively`,
+          `casually`],
+      answer:1,
+      explanation:`comparatively: khá, tương đối` },
+      {id:3,
+      question: `
+      `,
+      options:[
+          `bring`,
+          `take     `,
+          `make     `,
+          `do`],
+      answer:3,
+      explanation:`make choices: đưa ra lựa chọn`
+      },
+      {id:4,
+      question: `
+      `,
+      options:[
+          `Yet`,
+          `So     `,
+          `For     `,
+          `If only`],
+      answer:1,
+      explanation:` yet = but: tuy nhiên`
+      },
+      {id:5,
+      question: `
+      `,
+      options:[
+          `too     `,
+          `and     `,
+          `or     `,
+          `nor`],
+      answer:4,
+      explanation:`neither... nor...: không...mà cũng không....`
+      },
+  ]
+  }   ,
+
+
+  {    id:10,
+      content:`<p>How men first learnt to creat words is unknown; in other words, the origin of language is a (1) _____ . All we really know is that men, unlike animals, somehow invented certain sounds to express thoughts and feelings, actions and things so that they could communicate with each other; and that later they agreed (2) _____ certain signs, called letters, which could be combined to represent those sounds, and which could be written down. These sounds, whether spoken or written in letters, are called words. Great writers are those who not only have great thoughts but also express these thoughts in words that appeal powerfully to our minds and emotions. This charming and telling use of words is what we call literary style. Above all, the real poet is a master of words. He can (3) _____ his meaning in words which sing like music, and which by their position and association can (4) _____ men to tears. We should, therefore, learn to choose our words carefully, (5) _____ they will make our speech silly and vulgar.</p>`,
+      questions: [
+      {id:1, question: ``,
+          options:[
+             `story     `,
+          `secret     `,
+          `mystery     `,
+          `legend`
+          ],
+          answer:3,
+          explanation:`mystery: điều bí ẩn` },
+
+      {id:2,
+      question: `
+      `,
+      options:[
+           `at`,
+          `upon     `,
+          `with     `,
+          `to`],
+      answer:2,
+      explanation:`agree upon st: đồng tình ấn đề gì` },
+      {id:3,
+      question: `
+      `,
+      options:[
+          `carry     `,
+          `convey     `,
+          `transfer     `,
+          `transmit`],
+      answer:2,
+      explanation:`coney: truyền tải`
+      },
+      {id:4,
+      question: `
+      `,
+      options:[
+          `take`,
+          `send     `,
+          `break     `,
+          `move`],
+      answer:4,
+      explanation:`move sb to tear: làm ai cảm động rơi nước mắt`
+      },
+      {id:5,
+      question: `
+      `,
+      options:[
+          `or    `,
+          `so     `,
+          `although     `,
+          `because`],
+      answer:1,
+      explanation:` or: hoặc`
+      },
+  ]
+  }   ,
+
+
+
+  {    id:10,
+      content:`<p>Probably the most famous film commenting on twentieth-century technology is Modem Times, (1)_______ in 1936. Charlie Chaplin was motivated to make the film by a reporter who, while interviewing him, happened to describe working conditions in industrial Detroit. Chaplin was told that healthy young farm boys were lured to the city to work on automotive assembly lines. Within four or five years, these young men’s health was ruined by the stress of work in the factories. 
+Scenes of factory interiors account for only about (2)______ of the footage of Modern Times, but they contain some of the most pointed social commentary as well as the most comic situations. No one who has seen the film can ever forget Chaplin vainly trying to keep pace with the fast-moving conveyor belt, almost losing his mind in the process. Another popular scene involves an automatic feeding machine brought to the assembly line (3)_______ workers need not interrupt their labor to eat. The feeding machine malfunctions, hurling food at Chaplin who is strapped into his position on the assembly line and cannot escape. This serves to illustrate people’s utter (4)______ in the face of machines that are meant to serve their basic needs. Clearly, Modern Times has its faults, but it remains the best film treating technology within a social context. It does not offer a radical social message, but it does (5)______ reflect the sentiments of many who feel they are victims of an over-mechanized world.</p>`,
+      questions: [
+      {id:1, question: ``,
+          options:[
+             `make    `,
+          `making     `,
+          `made     `,
+          `to make`
+          ],
+          answer:3,
+          explanation:`giản lược câu bị động thời quá khứ đơn` },
+
+      {id:2,
+      question: `
+      `,
+      options:[
+           `first third`,
+          `first three`,
+          `one three`,
+          `one third`],
+      answer:4,
+      explanation:`one third: 1/3` },
+      {id:3,
+      question: `
+      `,
+      options:[
+          `so that`,
+          `therefore `,
+          `in order to`,
+          `thus`],
+      answer:1,
+      explanation:`so that: để mà...`
+      },
+      {id:4,
+      question: `
+      `,
+      options:[
+          `meaninglessness     `,
+          `meaningfulness`,
+          `helplessness     `,
+          `helpfulness`],
+      answer:3,
+      explanation:`helplessness: sự bất lực`
+      },
+      {id:5,
+      question: `
+      `,
+      options:[
+          `exactly    `,
+          `accurately    `,
+          `nearly    `,
+          `approximately`],
+      answer:2,
+      explanation:`accurately reflect: phản ảnh một cách chính xác`
+      },
+  ]
+  }   ,
+
+
+  {    id:10,
+      content:`<p>MANY KINDS OF MICROBES</p><p>There are thousands of different kinds of microbes. Microbes called (1) _______ are the smallest living things. Bacteria live almost everywhere: on land, in water, and even (2) _______ you.
+Some microscopic life forms are like plants. Tiny diatoms are microbes that live in lakes and the ocean. Diatoms soak up (3) _______ and use its energy to make food, just like plants.
+Some microscopic life forms are more (4) _______ animals. Protozoa such as the amoeba and paramecium are animal-like microorganisms. An amoeba can move (5) _______ changing the shape of its body. It sticks out a pseudo pod, or false foot. A paramecium is covered with tiny hairs. It waves its hairs rapidly to swim.</p>`,
+      questions: [
+      {id:1, question: ``,
+          options:[
+             `animals     `,
+          `bacteria    `,
+          `plants     `,
+          `viruses`
+          ],
+          answer:2,
+          explanation:`bacteria: vi khuẩn` },
+
+      {id:2,
+      question: `
+      `,
+      options:[
+           `in    `,
+          `out    `,
+          `outside    `,
+          `inside`],
+      answer:4,
+      explanation:`inside: nội, bên trong` },
+      {id:3,
+      question: `
+      `,
+      options:[
+          `sunlight     `,
+          `water    `,
+          `air     `,
+          `lightning`],
+      answer:1,
+      explanation:`sunlight: ánh sáng mặt trời`
+      },
+      {id:4,
+      question: `
+      `,
+      options:[
+          `as    `,
+          `same    `,
+          `like`,
+          `similar`],
+      answer:4,
+      explanation:`more + adj, similar: giống`
+      },
+      {id:5,
+      question: `
+      `,
+      options:[
+          `by    `,
+          `after     `,
+          `before    `,
+          `during`],
+      answer:1,
+      explanation:`by Ving: bằng cách nào`
+      },
+  ]
+  }   ,
+
+
+  {    id:10,
+      content:`<p>With approximately 2.96 billion users as of 2022, Facebook is undoubtedly one of the favoured social networking sites in the globe. As for students, they use Facebook for different purposes, including entertainment or academic learning. First, it is a relaxing channel where students comfortably tend to vent their negative thoughts on their school life via a status, share unforgettable memories, or watch multiple funny clips to relieve stress. Additionally, they can easily connect with those who have the same interests through various Facebook pages where they enjoy reading top comments or discussing hot topics with each other. Second, Facebook, regarded as the biggest knowledge platform, enables learners to get access to an array of free learning materials and even ask for specialised knowledge from other friendly users. Besides, it’s very convenient for students to create a Facebook group chat on Facebook Messenger to upload and share lectures, prepare for class presentations as well as do assignments together. In short, Facebook can contribute to students’ academic achievements if they take full advantage of it in an appropriate way.       </p>`,
+      questions: [
+      {id:1, question: `What is the passage mainly about?`,
+          options:[
+             `The drawbacks of Facebook in student’s learning.`,
+          `The benefits of Facebook in student’s learning.`,
+          `The development of Facebook in student’s learning.`,          
+          ],
+          answer:2,
+          explanation:`` },
+
+      {id:2,
+      question: `What does the word it  in line 4 mean?
+      `,
+      options:[
+           `Facebook`,
+          `Entertainment`,
+          `School life`],
+      answer:`1`,
+      explanation:`` },
+      {id:3,
+      question: `According to the passage, where can students find like-minded ones?
+      `,
+      options:[
+          `Facebook Messenger`,
+          `Facebook comments`,
+          `Facebook pages`
+          ],
+      answer:3,
+      explanation:``
+      },
+      {id:4,
+      question: `Why is Facebook called the biggest knowledge platform?
+      `,
+      options:[
+          `Because students can gain a large number of free learning materials.`,
+          `Because students can enjoy a large number of English videos.`,
+          `Because students can talk to a large number of knowledgeable users there.`],
+      answer:1,
+      explanation:``
+      },
+      {id:5,
+      question: `Which of the following is NOT the main purpose when students form a learning group chat?
+      `,
+      options:[
+          `Preparing for class presentations.`,
+          `Venting their negative thoughts on their school life.`,
+          `Discussing hot topics with each other.`],
+      answer:2,
+      explanation:``
+      },
+  ]
+  }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
+  // {    id:10,
+  //     content:``,
+  //     questions: [
+  //     {id:1, question: ``,
+  //         options:[
+  //            ``,
+  //         ``,
+  //         ``,
+  //         ``
+  //         ],
+  //         answer:4,
+  //         explanation:`` },
+
+  //     {id:2,
+  //     question: `
+  //     `,
+  //     options:[
+  //          ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:`` },
+  //     {id:3,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:4,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  //     {id:5,
+  //     question: `
+  //     `,
+  //     options:[
+  //         ``,
+  //         ``,
+  //         ``,
+  //         ``],
+  //     answer:4,
+  //     explanation:``
+  //     },
+  // ]
+  // }   ,
+
+
   // {    id:10,
   //     content:``,
   //     questions: [

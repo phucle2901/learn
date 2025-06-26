@@ -2010,7 +2010,12 @@ not permitted
     id: 41,
     question: `
   `,
-    options: [`<p>r<u>e</u>cycle &nbsp;</p>`, `<p>m<u>e</u>dical</p>`, `<p>ch<u>e</u>mical</p>`, `<p>athl<u>e</u>tic&nbsp;</p>`],
+    options: [
+      `<p>r<u>e</u>cycle &nbsp;</p>`,
+      `<p>m<u>e</u>dical</p>`,
+      `<p>ch<u>e</u>mical</p>`,
+      `<p>athl<u>e</u>tic&nbsp;</p>`,
+    ],
     answer: `1`,
     explanation: `<div>
                             <p>recycle:&nbsp;/ˌriːˈsaɪkl/</p>
@@ -2019,6 +2024,4282 @@ not permitted
 <p>athletic:&nbsp;/æθˈletɪk/</p>
 <p>Câu A phát âm là /i/ còn lại là /e/</p>                        </div>`,
   },
+  {
+    id: 41,
+    question: `
+    `,
+    options: [
+      `<p>A. desk<u>s</u></p>`,
+      `<p>B. map<u>s</u></p>`,
+      `<p>C. plant<u>s</u></p>`,
+      `<p>D. tree<u>s</u></p>`,
+    ],
+    answer: `4`,
+    explanation: `<p><strong>Kiến thức: </strong>Phát âm “s”</p>
+    <p>Cách phát âm đuôi “s”:</p>
+    <p>- Phát âm là /s/ khi từ có phát âm kết thúc là /f/, /t/, /k/, /p/, /θ/.</p>
+    <p>- Phát âm là /iz/ khi từ có phát âm kết thúc là /s/, /z/, /∫/, /t∫/, /dʒ/, /ʒ/.</p>
+    <p>- Phát âm là /z/ đối với những từ còn lại.</p>
+    <p>A. desk<u>s</u> /dɛsks/</p>
+    <p>B. map<u>s</u> /mæps/</p>
+    <p>C. plant<u>s</u> /plɑːnts/</p>
+    <p>D. tree<u>s</u> /triːz/</p>
+    <p>Đáp án A, B, C phát âm là /s/, đáp án D phát âm là /z/</p>
+    <p>Đáp án D.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+    `,
+    options: [
+      `<p>A. whish<u>es</u></p>`,
+      `<p>B. practic<u>es</u> </p>`,
+      `<p>C. leav<u>es</u></p>`,
+      `<p>D. introduc<u>es</u></p>`,
+    ],
+    answer: `3`,
+    explanation: `<p><strong>Kiến thức: </strong>Phát âm “s”</p>
+<p>Cách phát âm đuôi “s”:</p>
+<p>- Phát âm là /s/ khi từ có phát âm kết thúc là /f/, /t/, /k/, /p/, /θ/.</p>
+<p>- Phát âm là /iz/ khi từ có phát âm kết thúc là /s/, /z/, /∫/, /t∫/, /dʒ/, /ʒ/.</p>
+<p>- Phát âm là /z/ đối với những từ còn lại.</p>
+<p>A. wish<u>es</u> /ˈwɪʃɪz/</p>
+<p>B. practic<u>es</u> /ˈpræktɪsɪz<strong>/</strong></p>
+<p>C. leav<u>es</u> /liːvz/<strong></strong></p>
+<p>D. introduc<u>es</u> /ˌɪntrəˈdjuːsɪz/</p>
+<p>Đáp án A, B, D phát âm là /iz/, đáp án C phát âm là /z/</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+    `,
+    options: [
+      `<p>A. suppos<u>ed</u></p>`,
+      `<p>B. clos<u>ed</u> </p>`,
+      `<p>C. delay<u>ed</u></p>`,
+      `<p>D. stopp<u>ed</u><u></u></p>`,
+    ],
+    answer: `4`,
+    explanation: `<p><strong>Kiến thức: </strong>Phát âm “-ed”</p>
+<p>Cách phát âm đuôi “ed”:</p>
+<p>+ Đuôi “ed” được phát âm là /t/ khi động từ có phát âm kết thúc là /tʃ/, /θ/, /ʃ/, /s/, /k/, /p/, /f/</p>
+<p>+ Đuôi “ed” được phát âm là /ɪd/ khi động từ có phát âm kết thúc là /t/, /d/</p>
+<p>+ Đuôi “ed” được phát âm là /d/ với các trường hợp còn lại</p>
+<p>A. suppos<u>ed</u></p>
+<p>B. clos<u>ed</u> </p>
+<p>C. delay<u>ed</u></p>
+<p>D. stopp<u>ed</u><u></u></p>
+<p>Đáp án A, B, C phát âm là /d/, đáp án D phát âm là /t/</p>
+<p>Đáp án D.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+    `,
+    options: [
+      `<p>A. w<u>a</u>rd</p>`,
+      `<p>B. <u>a</u>rt</p>`,
+      `<p>C. st<u>a</u>r</p>`,
+      `<p>D. c<u>a</u>r</p>`,
+    ],
+    rewrite: ``,
+    answer: `1`,
+    explanation: `<p>A. w<u>a</u>rd /wɔːd/</p>
+<p>B. <u>a</u>rt /ɑːt/</p>
+<p>C. st<u>a</u>r /stɑː(r)/</p>
+<p>D. c<u>a</u>r /kɑː(r)/</p>
+<p>Phần gạch chân ở đáp án A được phát âm là /ɔː/, ở những từ còn lại đèu được phát âm là /ɑː/</p>
+<p>Đáp án A.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `<p>A. s<u>ea</u></p>`,
+      `<p>B. h<u>ea</u>d </p>`,
+      `<p>C. m<u>ea</u>t</p>`,
+      `<p>D. m<u>ea</u>l</p>`,
+    ],
+    answer: `2`,
+    rewrite: ``,
+    explanation: `<p>A. s<u>ea</u> /siː/</p>
+<p>B. h<u>ea</u>d /hed/</p>
+<p>C. m<u>ea</u>t /miːt/</p>
+<p>D. m<u>ea</u>l /miːl/</p>
+<p>Phần gạch chân ở đáp án B được phát âm là /e/, ở những từ còn lại đèu được phát âm là /iː/</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `<p>A. read<u>s</u></p>`,
+      `<p>B. eat<u>s</u></p>`,
+      `<p>C. cook<u>s</u></p>`,
+      `<p>D. hope<u>s</u><u></u></p>`,
+    ],
+    answer: `1`,
+    rewrite: ``,
+    explanation: `<p>- Phát âm là /s/ khi từ có phát âm kết thúc là /f/, /t/, /k/, /p/, /θ/.</p>
+<p>- Phát âm là /iz/ khi từ có phát âm kết thúc là /s/, /z/, /∫/, /t∫/, /dʒ/, /ʒ/.</p>
+<p>- Phát âm là /z/ đối với những từ còn lại.</p>
+<p>A. read<u>s</u> /riːdz/</p>
+<p>B. eat<u>s</u> /iːts/</p>
+<p>C. cook<u>s</u> /kʊks/</p>
+<p>D. hope<u>s</u> /həʊps/</p>
+<p>Đáp án B, C, D phát âm là /s/, đáp án A phát âm là /z/</p>
+<p>Đáp án A.</p>`,
+  },
+
+  //https://vietjack.com/trac-nghiem-tieng-anh/100-cau-trac-nghiem-ngu-am-co-dap-an-co-ban.jsp
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` j<u>u</u>stice      `,
+      ` camp<u>u</u>s    
+         `,
+      ` c<u>u</u>lture      `,
+      ` br<u>u</u>sh`,
+    ],
+    answer: `2`,
+    explanation: `<p>
+            <b>Giải thích:</b>
+            Đáp án A, C, D phần gạch chân phát âm là /ʌ/. Đáp án B phần gạch
+            chân phát âm là /ə/
+          </p>`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` w<u>o</u>rk      `,
+      ` f<u>o</u>rm      `,
+      `
+        st<u>o</u>rk      `,
+      ` f<u>o</u>rce`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /ɔː/. Đáp án A phần gạch
+            chân phát âm là /ɜː/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` <u>e</u>leven      `,
+      ` <u>e</u>lephant
+             `,
+      ` <u>e</u>xamine      `,
+      ` <u>e</u>xact`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /ɪ/. Đáp án B phần gạch
+            chân phát âm là /e/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` a<u>ss</u>ure      `,
+      ` pre<u>ss</u>ure
+             `,
+      ` posse<u>ss</u>ion      `,
+      ` a<u>ss</u>
+        ist`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là / ʃ/. Đáp án D
+            phần gạch chân phát âm là /s/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` sp<u>e</u>cies     `,
+      ` inv<u>e</u>nt    
+         `,
+      ` m<u>e</u>dicine      `,
+      ` t<u>e</u>nnis`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /e/. Đáp án A
+            phần gạch chân phát âm là /ɪ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` d<u>ea</u>l      `,
+      ` t<u>ea</u>ch      `,
+      `
+        br<u>ea</u>k      `,
+      ` cl<u>ea</u>n`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là / iː/. đáp án C
+            phần gạch chân phát âm là /eɪ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` support<u>ed</u>     `,
+      ` approach<u>ed</u>{" "}
+             `,
+      ` notic<u>ed</u>      `,
+      ` finish`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /t/. Đáp án A
+            phần gạch chân phát âm là /ɪd/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` j<u>u</u>stice      `,
+      ` camp<u>u</u>s    
+         `,
+      ` c<u>u</u>lture      `,
+      ` br<u>u</u>sh`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /ʌ/. Đáp án B
+            phần gạch chân phát âm là /ə/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` d<u>a</u>te      `,
+      ` f<u>a</u>ce      `,
+      ` p
+        <u>a</u>ge      `,
+      ` m<u>a</u>p`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /eɪ/. Đáp án D
+            phần gạch chân phát âm là /æ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` dress<u>ed</u>      `,
+      ` dropp<u>ed</u>{" "}
+             `,
+      ` match<u>ed</u>      `,
+      ` join<u>ed</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /t/. Đáp án D
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` w<u>a</u>lk      `,
+      ` c<u>a</u>ll      `,
+      ` t
+        <u>a</u>ke      `,
+      ` t<u>a</u>lk`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /ɔː/. Đáp án C
+            phần gạch chân phát âm là /eɪ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` f<u>i</u>nd      `,
+      ` th<u>i</u>nk      `,
+      `
+        dr<u>i</u>ve      `,
+      ` m<u>i</u>nd`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /aɪ/. Đáp án B
+            phần gạch chân phát âm là /ɪ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` h<u>oo</u>d      `,
+      ` h<u>oo</u>k      `,
+      `
+        st<u>oo</u>d      `,
+      ` t<u>oo</u>l`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /ʊ/. Đáp án D
+            phần gạch chân phát âm là /uː/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` can<u>al</u>      `,
+      ` journ<u>al</u>    
+         `,
+      ` refus<u>al</u>      `,
+      ` infern<u>al</u>`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án A phần gạch chân phát âm là /æ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` defini<u>tion</u>      `,
+      ` sugges<u>tion</u>{" "}
+             `,
+      ` situa<u>tion</u>      `,
+      ` produc
+        <u>tion</u>`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /ʃn/. Đáp án B
+            phần gạch chân phát âm là /tʃən/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` export<u>ed</u>      `,
+      ` enjoy<u>ed</u>{" "}
+             `,
+      ` exist<u>ed</u>      `,
+      ` crowd
+        <u>ed</u>`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /ɪd/. Đáp án B
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` We<u>d</u>nesday      `,
+      ` han<u>d</u>some
+             `,
+      ` depen<u>d</u>ent      `,
+      ` gran
+        <u>d</u>child`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân là âm câm. Đáp án C phần
+            gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` o<u>c</u>ean      `,
+      ` offi<u>c</u>ial    
+         `,
+      ` sin<u>c</u>ere      `,
+      ` an<u>c</u>ient`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /ʃ/. Đáp án C
+            phần gạch chân phát âm là /s/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` walk<u>ed</u>     `,
+      ` involv<u>ed</u>    
+         `,
+      ` miss<u>ed</u>      `,
+      ` jump<u>ed</u>`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /t/. Đáp án B
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` c<u>o</u>llect      `,
+      ` <u>o</u>perate
+             `,
+      ` h<u>o</u>bby      `,
+      ` v<u>o</u>luntee`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /ɒ/. Đáp án A
+            phần gạch chân phát âm là /ə/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` push<u>ed</u>      `,
+      ` miss<u>ed</u>    
+         `,
+      ` wash<u>ed</u>      `,
+      ` nak<u>ed</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /t/. Đáp án D
+            phần gạch chân phát âm là /ɪd/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` cl<u>i</u>mate      `,
+      ` l<u>i</u>veable
+             `,
+      ` c<u>i</u>ty      `,
+      ` d<u>i</u>
+        scussion`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /ɪ/. Đáp án A
+            phần gạch chân phát âm là /aɪ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` <u>s</u>olar     `,
+      ` infra<u>s</u>tructure
+             `,
+      ` de<u>s</u>igner      `,
+      ` focu<u>s</u>`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án C phần gạch chân phát âm là /z/. Đáp án C phần
+            gạch chân phát âm là /s/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` <u>o</u>bjection      `,
+      ` <u>o</u>bey    
+         `,
+      ` imp<u>o</u>se      `,
+      ` f<u>o</u>rbid`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /ə/. Đáp án C
+            phần gạch chân phát âm là /əʊ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` priva<u>c</u>y      `,
+      ` pier<u>c</u>e    
+         `,
+      ` advi<u>c</u>e      `,
+      ` a<u>c</u>tivity`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /s/. Đáp án D
+            phần gạch chân phát âm là /k/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` f<u>oo</u>t      `,
+      ` st<u>oo</u>d      `,
+      `
+        w<u>oo</u>d      `,
+      ` f<u>oo</u>d`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /ʊ/. Đáp án D
+            phần gạch chân phát âm là /uː/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` month<u>s</u>      `,
+      ` book<u>s</u>    
+         `,
+      ` pen<u>s</u>      `,
+      ` shirt<u>s</u>`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /s/. Đáp án C
+            phần gạch chân phát âm là /z/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` vill<u>a</u>ge      `,
+      ` lugg<u>a</u>ge
+             `,
+      ` eng<u>a</u>ge      `,
+      ` dam<u>a</u>ge`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /ɪ/. Đáp án C
+            phần gạch chân phát âm là /eɪ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` swallow<u>ed</u>      `,
+      ` practic<u>ed</u>{" "}
+             `,
+      ` finish<u>ed</u>      `,
+      ` punch`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /t/. Đáp án A
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` lun<u>ch</u>      `,
+      ` kit<u>ch</u>en    
+         `,
+      ` te<u>ch</u>nology      `,
+      ` pur<u>ch</u>ase`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /tʃ/. Đáp án C
+            phần gạch chân phát âm là /k/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` new<u>s</u>      `,
+      ` song<u>s</u>      `,
+      `
+        feeling<u>s</u>      `,
+      ` delight<u>s</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /z/. Đáp án D
+            phần gạch chân phát âm là /s/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` miss<u>ed</u>      `,
+      ` cough<u>ed</u>    
+         `,
+      ` help<u>ed</u>      `,
+      ` seem<u>ed</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /t/. Đáp án D
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` play<u>ed</u>      `,
+      ` need<u>ed</u>    
+         `,
+      ` want<u>ed</u>      `,
+      ` belov<u>ed</u>`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /ɪd/. Đáp án A
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` rhinocero<u>s</u>      `,
+      ` biologi<u>s</u>t
+             `,
+      ` re<u>s</u>erve      `,
+      ` dige<u>s</u>t`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /s/. Đáp án C
+            phần gạch chân phát âm là /z/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` f<u>or</u>m      `,
+      ` sh<u>or</u>tcoming
+             `,
+      ` ch<u>or</u>e      `,
+      ` sect<u>or</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /ɔː/. Đáp án D
+            phần gạch chân phát âm là /ə/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` wind<u>s</u>urfing      `,
+      ` re<u>s</u>erve
+             `,
+      ` philo<u>s</u>opher      `,
+      ` wilderne
+        <u>ss</u>`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /s/. Đáp án B
+            phần gạch chân phát âm là /z/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` travel<u>ed</u>      `,
+      ` star<u>ed</u>{" "}
+             `,
+      ` land<u>ed</u>      `,
+      ` seem<u>ed</u>`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /d/. Đáp án C
+            phần gạch chân phát âm là /ɪd/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` <u>e</u>ffective      `,
+      ` <u>e</u>radicate
+             `,
+      ` <u>e</u>nthusiastic      `,
+      ` <u>e</u>`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /e/. Đáp án A
+            phần gạch chân phát âm là /ɪ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` cr<u>ow</u>      `,
+      ` d<u>ow</u>n      `,
+      `
+        cr<u>ow</u>d      `,
+      ` br<u>ow</u>se`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /aʊ/. Đáp án A
+            phần gạch chân phát âm là /əʊ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `sou<u>th</u>ern `,
+      `grow<u>th</u> `,
+      `wi<u>th</u>in D. al<u>th</u>ough`,
+    ],
+    answer: `2`,
+    explanation: `  Đáp án A, C, D phần gạch chân phát âm là /ð/. Đáp án B
+            phần gạch chân phát âm là /θ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `whis<u>t</u>le `,
+      `li<u>t</u>tle `,
+      `gen<u>t</u>le D. ba<u>t</u>tle`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /t/. Đáp án A
+            phần gạch chân là âm câm.`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `wick<u>ed</u> `,
+      `sacr<u>ed</u> `,
+      `belov<u>ed</u> D. help<u>ed</u>`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /ɪd/. Đáp án D
+            phần gạch chân phát âm là /t/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `<u>a</u>nimal `,
+      `char<u>a</u>cter `,
+      `im<u>a</u>gine D. person<u>a</u>
+        lity`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /æ/. Đáp án B
+            phần gạch chân phát âm là /ə/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `d<u>e</u>gree `,
+      `cr<u>i</u>tical `,
+      `fert<u>i</u>le D. min<u>i</u>mum`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /ɪ/. Đáp án C
+            phần gạch chân phát âm là /aɪ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `<u>c</u>ivilization `,
+      `s<u>c</u>uba-diving `,
+      `dedi<u>c</u>ation D. in
+        <u>c</u>redible`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phàn gạch chân phát âm là /k/. Đáp án A
+            phần gạch chân phát âm là /s/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `rh<u>i</u>noceros `,
+      `w<u>i</u>lderness `,
+      `d<u>i</u>gestion D. d
+        <u>i</u>versity`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /aɪ/. Đáp án B
+            phần gạch chân phát âm là /ɪ/.`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `talk<u>s</u> `,
+      `take<u>s</u> `,
+      `decide<u>s</u> D. complete<u>s</u>`,
+    ],
+    answer: `3`,
+    explanation: ` Đáp án A, B, D phần gạch chân phát âm là /s/. Đáp án C
+            phần gạch chân phát âm là /z/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `<u>h</u>onest `,
+      `<u>h</u>ome `,
+      `ve<u>h</u>icles D. <u>h</u>eiress`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /h/. Đáp án A
+            phần gạch chân là âm câm.`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `promis<u>ed</u> `,
+      `rais<u>ed</u> `,
+      `devis<u>ed</u> D. advis<u>ed</u>`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /t/. Đáp án B
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `rain<u>ed</u> `,
+      `jump<u>ed</u> `,
+      `arriv<u>ed</u> D. follow<u>ed</u>`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /d/. Đáp án B
+            phần gạch chân phát âm là /t/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [`t<u>ea</u> `, `l<u>ea</u>ther `, `l<u>ea</u>ve D. l<u>ea</u>d`],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /iː/. Đáp án B
+            phần gạch chân phát âm là /e/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `informan<u>t</u> `,
+      `essen<u>t</u>ial `,
+      `ins<u>t</u>ant D. resis
+        <u>t</u>ance`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /t/. Đáp án B
+            phần gạch chân phát âm là /ʃ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `m<u>i</u>neral `,
+      `m<u>i</u>nimum `,
+      `m<u>i</u>niature D. m<u>i</u>nor`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /ɪ/. Đáp án D
+            phần gạch chân phát âm là /aɪ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `c<u>a</u>rry `,
+      `m<u>a</u>rriage `,
+      `p<u>a</u>rrot D. b<u>a</u>rber`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /æ/. Đáp án D
+            phần gạch chân phát âm là /ɑː/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [`st<u>oo</u>l `, `bamb<u>oo</u> `, `g<u>oo</u>d D. l<u>oo</u>se`],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /uː/. Đáp án C
+            phần gạch chân phát âm là /u/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `<u>a</u>ccurate `,
+      `d<u>a</u>te `,
+      `t<u>a</u>le D. sh<u>a</u>pe`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /eɪ/. Đáp án A
+            phần gạch chân phát âm là /æ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `sound<u>s</u> `,
+      `obstacle<u>s</u> `,
+      `situation<u>s</u> D. secret
+        <u>s</u>`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /z/. Đáp án D
+            phần gạch chân phát âm là /s/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `arrive<u>s</u> `,
+      `like<u>s</u> `,
+      `laugh<u>s</u> D. help<u>s</u>`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /s/. Đáp án A
+            phần gạch chân phát âm là /z/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `<u>ch</u>oice `,
+      `a<u>ch</u>ieve `,
+      `ea<u>ch</u> D. <u>Ch</u>emistry`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /tʃ/. Đáp án D
+            phần gạch chân phát âm là /k/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `s<u>ch</u>olarship `,
+      `me<u>ch</u>anic `,
+      `te<u>ch</u>nology D.{" "}
+        <u>ch</u>ampionship`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /k/. Đáp án D
+            phần gạch chân phát âm là /tʃ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `interfer<u>ed</u> `,
+      `approach<u>ed</u> `,
+      `establish<u>ed</u> D.
+        sacrific<u>ed</u>`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /t/. Đáp án A
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `c<u>a</u>pable `,
+      `c<u>a</u>pital `,
+      `c<u>a</u>binet D. c<u>a</u>ptain`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /æ/. Đáp án A
+            phần gạch chân phát âm là /eɪ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `even<u>t</u>ually `,
+      `inven<u>t</u>ion `,
+      `prepara<u>t</u>ion D. ini
+        <u>t</u>iate`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /ʃ/. Đáp án D
+            phần gạch chân phát âm là /t/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `need<u>ed</u> `,
+      `decid<u>ed</u> `,
+      `invent<u>ed</u> D. caus<u>ed</u>`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /ɪd/. Đáp án D
+            phần gạch chân phát âm là /t/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `b<u>om</u>b `,
+      `t<u>om</u>b `,
+      `c<u>om</u>bat D. c<u>om</u>ment`,
+    ],
+    answer: `2`,
+    explanation: ` Đáp án A, C, D phần gạch chân phát âm là /ɒ/. Đáp án B
+            phần gạch chân phát âm là / uː/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `wait<u>ed</u> `,
+      `mend<u>ed</u> `,
+      `object<u>ed</u> D. fac<u>ed</u>`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /ɪd/. Đáp án D
+            phần gạch chân phát âm là /t/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` an<u>c</u>ient  `,
+      ` verti<u>c</u>al
+         `,
+      ` <u>c</u>ompose  D. eradi<u>c</u>
+        ate`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /k/. Đáp án A
+            phần gạch chân phát âm là /ʃ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` approach<u>ed</u>  `,
+      ` sacrific<u>ed</u>
+         `,
+      ` unwrapp<u>ed</u>  D. oblig
+        <u>ed</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /t/. Đáp án D
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` form<u>ed</u>  `,
+      ` nak<u>ed</u> 
+        `,
+      ` record<u>ed</u>  D. trust<u>ed</u>`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /ɪd/. Đáp án A
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` bu<u>s</u>y  `,
+      ` an<u>s</u>wer  `,
+      `
+        per<u>s</u>on  D. ba<u>s</u>ic`,
+    ],
+    answer: `3`,
+    explanation: ` Đáp án A, B, D phần gạch chân phát âm là /z/. Đáp án C
+            phần gạch chân phát âm là /s/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` interview<u>ed</u>  `,
+      ` perform<u>ed</u>
+         `,
+      ` finish<u>ed</u>  D. deliver
+        <u>ed</u>`,
+    ],
+    answer: `3`,
+    explanation: ` Đáp án A, B, D phần gạch chân phát âm là /d/. Đáp án C
+            phần gạch chân phát âm là /t/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` <u>ch</u>emical  `,
+      ` approa<u>ch</u>
+         `,
+      ` a<u>ch</u>ieve  D. <u>ch</u>
+        allenge`,
+    ],
+    answer: `1`,
+    explanation: `Đáp án B, C, D phần gạch chân phát âm là /tʃ/. Đáp án A
+            phần gạch chân phát âm là /k/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` includ<u>ed</u>  `,
+      ` want<u>ed</u>
+         `,
+      ` decid<u>ed</u>  D. notic`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /ɪd/. Đáp án D
+            phần gạch chân phát âm là /t/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` event<u>s</u>  `,
+      ` <u>s</u>pirit 
+        `,
+      ` A<u>s</u>ian  D. <u>s</u>ilver`,
+    ],
+    answer: `3`,
+    explanation: ` Đáp án A, B, D phần gạch chân phát âm là /s/. Đáp án C
+            phần gạch chân phát âm là /ʃ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` hop<u>ed</u>  `,
+      ` look<u>ed</u> 
+        `,
+      ` laugh<u>ed</u>  D. nak<u>ed</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /t/. Đáp án D
+            phần gạch chân phát âm là /ɪd/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` ex<u>h</u>austed  `,
+      ` <u>h</u>our 
+        `,
+      ` <u>h</u>igh  D. <u>h</u>onor`,
+    ],
+    answer: `3`,
+    explanation: `Đáp án A, B, D phần gạch chân là âm câm. Đáp án C phần
+            gạch chân phát âm là /h/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` ex<u>h</u>aust  `,
+      ` <u>h</u>eight 
+        `,
+      ` <u>h</u>onest  D. <u>h</u>eir`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân là âm câm. Đáp án B phần
+            gạch chân phát âm là /h/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` m<u>a</u>laria  `,
+      ` er<u>a</u>dicate
+         `,
+      ` ch<u>a</u>racter  D. spect
+        <u>a</u>cular`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /æ/. Đáp án A
+            phần gạch chân phát âm là /ə/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` bar<u>ed</u>  `,
+      ` suppos<u>ed</u> 
+        `,
+      ` sacrific<u>ed</u>  D. maintain<u>ed</u>`,
+    ],
+    answer: `2`,
+    explanation: ` Đáp án A, C, D phần gạch chân phát âm là /d/. Đáp án B
+            phần gạch chân phát âm là /t/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` l<u>ea</u>der  `,
+      ` def<u>ea</u>t 
+        `,
+      ` m<u>ea</u>sure  D. cr<u>ea</u>ture`,
+    ],
+    answer: `3`,
+    explanation: ` Đáp án A, B, D phần gạch chân phát âm là /iː/. Đáp án C
+            phần gạch chân phát âm là /e/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` reserv<u>ed</u>  `,
+      ` lock<u>ed</u>
+         `,
+      ` forc<u>ed</u>  D. touch<u>ed</u>`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /t/. Đáp án A
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` <u>a</u>rrange  `,
+      ` <u>a</u>rise 
+        `,
+      ` <u>a</u>rea  D. <u>a</u>rrive`,
+    ],
+    answer: `3`,
+    explanation: ` Đáp án A, B, D phần gạch chân phát âm là /ə/. Đáp án C
+            phần gạch chân phát âm là /e/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` advent<u>ure</u>  `,
+      ` fut<u>ure</u>
+         `,
+      ` mat<u>ure</u>  D. fig<u>ure</u>`,
+    ],
+    answer: `C`,
+    explanation: `Đáp án A, B, D phần gạch chân phát âm là /ə(r)/. Đáp án
+            C phần gạch chân phát âm là /ʊə/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` y<u>ou</u>ng  `,
+      ` pl<u>ou</u>gh 
+        `,
+      ` c<u>ou</u>ple  D. c<u>ou</u>sin`,
+    ],
+    answer: `2`,
+    explanation: `Đáp án A, C, D phần gạch chân phát âm là /ʌ/. Đáp án B
+            phần gạch chân phát âm là /aʊ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` m<u>er</u>chant  `,
+      ` s<u>er</u>geant
+         `,
+      ` comm<u>er</u>cial  D. t<u>er</u>
+        m`,
+    ],
+    answer: `2`,
+    explanation: ` Đáp án A, C, D phần gạch chân phát âm là /ɜː/. Đáp án B
+            phần gạch chân phát âm là /ɑː/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` yawn<u>ed</u>  `,
+      ` damag<u>ed</u> 
+        `,
+      ` tax<u>ed</u>  D. blam<u>ed</u>`,
+    ],
+    answer: `3`,
+    explanation: ` Đáp án A, B, D phần gạch chân phát âm là /d/. Đáp án C
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` fill<u>ed</u>  `,
+      ` miss<u>ed</u> 
+        `,
+      ` look<u>ed</u>  D. watch<u>ed</u>`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /t/. Đáp án A
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` help<u>s</u>  `,
+      ` laugh<u>s</u> 
+        `,
+      ` lik<u>es</u>  D. arriv<u>es</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /s/. Đáp án D
+            phần gạch chân phát âm là /z/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` cruci<u>al</u>  `,
+      ` parti<u>al</u>
+         `,
+      ` financi<u>al</u>  D. materi
+        <u>al</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án D phần gạch chân phát âm là /ə/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` declar<u>ed</u>  `,
+      ` finish<u>ed</u>
+         `,
+      ` link<u>ed</u>  D. develop
+        <u>ed</u>`,
+    ],
+    answer: `1`,
+    explanation: ` Đáp án B, C, D phần gạch chân phát âm là /t/. Đáp án A
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` h<u>ea</u>vy  `,
+      ` h<u>ea</u>d  `,
+      `
+        w<u>ea</u>ther  D. <u>ea</u>sy`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án B, C, A phần gạch chân phát âm là /e/. Đáp án D
+            phần gạch chân phát âm là / iː/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` watch<u>ed</u>  `,
+      ` forc<u>ed</u> 
+        `,
+      ` work<u>ed</u>  D. solv<u>ed</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án B, C, A phần gạch chân phát âm là /t/. Đáp án D
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` c<u>o</u>ntribute  `,
+      ` <u>o</u>pponent
+         `,
+      ` g<u>o</u>rilla  D. c<u>o</u>
+        mpliment`,
+    ],
+    answer: `4`,
+    explanation: `  Đáp án A, B, C phần gạch chân phát âm là /ə/. Đáp án D
+            phần gạch chân phát âm là /ɒ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` h<u>o</u>tel  `,
+      ` p<u>o</u>st  `,
+      `
+        l<u>o</u>cal  D. pr<u>o</u>minent`,
+    ],
+    answer: `4`,
+    explanation: ` Đáp án A, B, C phần gạch chân phát âm là /əʊ/. Đáp án D
+            phần gạch chân phát âm là /ɒ/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` miss<u>ed</u>  `,
+      ` talk<u>ed</u> 
+        `,
+      ` watch<u>ed</u>  D. clean<u>ed</u>`,
+    ],
+    answer: `4`,
+    explanation: `Đáp án A, B, C phần gạch chân phát âm là /t/. Đáp án D
+            phần gạch chân phát âm là /d/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      ` superst<u>ar</u>  `,
+      ` h<u>ar</u>vest
+         `,
+      ` particul<u>ar</u>  D. p<u>ar</u>
+        t`,
+    ],
+    answer: `3`,
+    explanation: ` Đáp án A, B, D phần gạch chân phát âm là /ɑː/. Đáp án C
+            phần gạch chân phát âm là /ə/`,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `<ins>u</ins>nload`,
+      ` cr<ins>u</ins>el`,
+      ` p<ins>u</ins>zzle`,
+      `m<ins>u</ins>scle`,
+    ],
+    answer: `2`,
+    explanation: ``,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `d<ins>e</ins>test`,
+      `r<ins>e</ins>sort`,
+      `pr<ins>e</ins>fer`,
+      `m<ins>e</ins>ssage`,
+    ],
+    answer: `4`,
+    explanation: ``,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `origam<ins>i</ins>`,
+      `spec<ins>i</ins>ality`,
+      `abil<ins>i</ins>ty`,
+      `celebr<ins>i</ins>ty`,
+    ],
+    answer: `1`,
+    explanation: ``,
+  },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [
+      `j<ins>oi</ins>n`,
+      `n<ins>oi</ins>sy`,
+      `p<ins>oi</ins>nt`,
+      `tort<ins>oi</ins>se`,
+    ],
+    answer: `4`,
+    explanation: ``,
+  },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
   // {
   //   id: 41,
   //   question: `

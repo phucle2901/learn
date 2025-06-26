@@ -329,11 +329,16 @@ hungry
     id: 9,
     question: `
     `,
-    options: [`medical
-`, `hospital 
-`, `politic
-`, `electric
-`],
+    options: [
+      `medical
+`,
+      `hospital 
+`,
+      `politic
+`,
+      `electric
+`,
+    ],
     answer: 4,
     explanation: `<div>
                             <p>medical /ˈmedɪkl/ =&gt; trọng âm 1</p>
@@ -346,12 +351,17 @@ hungry
     id: 9,
     question: `
     `,
-    options: [`national
-`, `grammatical
-`, `medical
-`, `
+    options: [
+      `national
+`,
+      `grammatical
+`,
+      `medical
+`,
+      `
 chemical
-`],
+`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>national:&nbsp;/ˈnæʃnəl/&nbsp;&nbsp;</p>
@@ -364,11 +374,16 @@ chemical
     id: 9,
     question: `
     `,
-    options: [`dangerous
-`, `humorous
-`, `marvellous
-`, `enormous
-`],
+    options: [
+      `dangerous
+`,
+      `humorous
+`,
+      `marvellous
+`,
+      `enormous
+`,
+    ],
     answer: 4,
     explanation: `<div>
                                                         <p>dangerous /ˈdeɪndʒərəs/ =&gt; trọng âm 1</p>
@@ -382,11 +397,16 @@ chemical
     id: 9,
     question: `
     `,
-    options: [`tremendous
-`, `spacious
-`, `numerous
-`, `generous
-`],
+    options: [
+      `tremendous
+`,
+      `spacious
+`,
+      `numerous
+`,
+      `generous
+`,
+    ],
     answer: 1,
     explanation: `<div>
                                                         <p>tremendous /trəˈmendəs/ =&gt; trọng âm 2</p>
@@ -400,12 +420,17 @@ chemical
     id: 9,
     question: `
     `,
-    options: [`infamous
-`, `glorious
-`, `delicious
-`, `
+    options: [
+      `infamous
+`,
+      `glorious
+`,
+      `delicious
+`,
+      `
 populous
-`],
+`,
+    ],
     answer: 3,
     explanation: `<div>
                                                         <p>infamous /ˈɪnfəməs/ =&gt; trọng âm 1</p>
@@ -419,11 +444,16 @@ populous
     id: 9,
     question: `
     `,
-    options: [`guarantee
-`, `cheetah
-`, `Japanese
-`, `pioneer
-`],
+    options: [
+      `guarantee
+`,
+      `cheetah
+`,
+      `Japanese
+`,
+      `pioneer
+`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>guarantee /ˌɡærənˈtiː/ =&gt; trọng âm 3</p>
@@ -436,11 +466,16 @@ populous
     id: 9,
     question: `
     `,
-    options: [`refugee
-`, `committee
-`, `absentee
-`, `Taiwanese
-`],
+    options: [
+      `refugee
+`,
+      `committee
+`,
+      `absentee
+`,
+      `Taiwanese
+`,
+    ],
     answer: 2,
     explanation: `<div>
                             <p>refugee /ˌrefjuˈdʒiː/</p>
@@ -449,14 +484,1714 @@ populous
 <p>Taiwanese /ˌtaɪ.wəˈniːz/</p>
 <p>Câu B trọng âm rơi vào âm tiết 2, còn lại rơi vào âm tiết 3&nbsp;&nbsp;&nbsp;</p>                        </div>`,
   },
+  {
+    id: 41,
+
+    question: `
+    `,
+    options: [
+      `generous
+`,
+      `impatient
+`,
+      `popular
+`,
+      `talkative
+`,
+    ],
+    answer: `2`,
+    explanation: `<p><strong>Kiến thức: </strong>Trọng âm</p>
+<p><strong>Giải thích:</strong></p>
+<p>A. generous /ˈdʒenərəs/: nhấn âm 1</p>
+<p>B. impatient /ɪmˈpeɪʃnt/: nhấn âm 2</p>
+<p>C. popular /ˈpɒpjələ(r)/: nhấn âm 1</p>
+<p>D. talkative /ˈtɔːkətɪv/: nhấn âm 1</p>
+<p>Đáp án B có trọng âm rơi vào âm 2, các phương án còn lại đều có trọng âm rơi vào âm 1.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `
+    `,
+    options: [
+      `library
+`,
+      `museum
+`,
+      `hospital
+`,
+      `restaurant
+`,
+    ],
+    answer: `2`,
+    explanation: `<p><strong>Kiến thức: </strong>Trọng âm</p>
+<p><strong>Giải thích:</strong></p>
+<p>A. library /ˈlaɪbrəri/: nhấn âm 1</p>
+<p>B. museum /mjuˈziːəm/: nhấn âm 2</p>
+<p>C. hospital /ˈhɒspɪtl/: nhấn âm 1</p>
+<p>D. restaurant /ˈrestrɒnt/: nhấn âm 1</p>
+<p>Đáp án B có trọng âm rơi vào âm 2, các phương án còn lại đều có trọng âm rơi vào âm 1.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `earthquake
+`,
+      `landslide
+`,
+      `collapse
+`,
+      `shipwreck
+`,
+    ],
+    answer: `3`,
+    rewrite: ``,
+    explanation: `<p>A. earthquake /ˈɜːθkweɪk/: nhấn âm 1</p>
+<p>B. landslide /ˈlændslaɪd/: nhấn âm 1</p>
+<p>C. collapse /kəˈlæps/: nhấn âm 2</p>
+<p>D. shipwreck /ˈʃɪprek/: nhấn âm 1</p>
+<p>Đáp án C có trọng âm rơi vào âm tiết thứ 2, cac phương án còn lại đều có trọng âm rơi vào âm tiết thứ nhất.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `tsunami
+`,
+      `volcano
+`,
+      `destruction
+`,
+      `accident
+`,
+    ],
+    answer: `4`,
+    rewrite: ``,
+    explanation: `<p>A. tsunami /tsuːˈnɑːmi/: nhấn âm 2</p>
+<p>B. volcano /vɒlˈkeɪnəʊ/: nhấn âm 2</p>
+<p>C. destruction /dɪˈstrʌkʃn/: nhấn âm 2</p>
+<p>D. accident /ˈæksɪdənt/: nhấn âm 1</p>
+<p>Đáp án D có trọng âm rơi vào âm tiết thứ nhất, cac phương án còn lại đều có trọng âm rơi vào âm tiết thứ 2.</p>
+<p>Đáp án D.</p>`,
+  },
+
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `selfish
+`,
+      `between
+`,
+      `honest
+`,
+      `bossy
+`,
+    ],
+    answer: `2`,
+    rewrite: ``,
+    explanation: `<p>A. selfish /ˈselfɪʃ/: Nhấn âm 1</p>
+<p>B. between /bɪˈtwiːn/: Nhấn âm 2</p>
+<p>C. honest /ˈɒnɪst/: Nhấn âm 1</p>
+<p>D. bossy /ˈbɒsi/: Nhấn âm 1</p>
+<p>Đáp án B có trọng âm rơi vào âm tiết thứ 2, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ nhất.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `information
+`,
+      `entertainment
+`,
+      `energetic
+`,
+      `supermarket
+`,
+    ],
+    answer: `4`,
+    rewrite: ``,
+    explanation: `<p>A. information /ˌɪnfəˈmeɪʃn/: Nhấn âm 3</p>
+<p>B. entertainment /ˌentəˈteɪnmənt/: Nhấn âm 3</p>
+<p>C. energetic /ˌenəˈdʒetɪk/: Nhấn âm 3</p>
+<p>D. supermarket /ˈsuːpəmɑːkɪt/: Nhấn âm 1</p>
+<p>Đáp án D có trọng âm rơi vào âm tiết thứ 1, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ 3</p>
+<p>Đáp án D.</p>`,
+  },
+  {
+    id: 41,
+    extra: `<p><strong>I</strong><strong>. </strong><strong>Choose the correct answers.</strong></p>`,
+    question: `Peter talks a lot when he meets other people. He's very _________.
+
+`,
+    options: [
+      `honest
+`,
+      `popular
+`,
+      `talkative
+`,
+      `selfish 
+`,
+    ],
+    answer: `3`,
+    rewrite: ``,
+    explanation: `<p>A. trung thực</p>
+<p>B. phổ biến</p>
+<p>C. lắm lời</p>
+<p>D. ích kỷ</p>
+<p><strong>Tạm dịch:</strong> Peter nói rất nhiều khi gặp người khác. Anh ấy rất lắm lời.</p>
+<p>Đáp án C.</p>`,
+  },
+
+  //https://vietjack.com/trac-nghiem-tieng-anh/100-cau-trac-nghiem-trong-am-co-dap-an-co-ban.jsp
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Workbook`, `Tomato`, `Mountain`, `Lion`],
+    answer: 2,
+    explanation: `<p>
+            
+            Các đáp án A, C, D là danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án B có cách đọc là /təˈmɑː.təʊ/ trọng âm rơi vào thứ 2
+          </p>`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Prescription `, `Production `, `Presumption `, `Preparation`],
+    answer: 4,
+    explanation: `Danh từ kết thúc đuôi –ion trọng âm rơi vào trước nó. Các đáp án A,
+            B, C trọng âm thứ 2, đáp án D trọng âm thứ 3`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Energy `, `Emergency `, `Constancy `, `Sympathy `],
+    answer: 2,
+    explanation: `Danh từ kết thúc đuôi –y trọng âm thứ 3 đến ngược từ dưới lên. Các
+            đáp án A, C, D trọng âm rơi vào âm thứ 1, đáp án B trọng âm rơi vào
+            thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Application `, `Economy `, `Photography `, `Apology`],
+    answer: 1,
+    explanation: ` Đáp án A trọng âm thứ 3, rơi trước đuôi –ion
+            <br />
+            Các đáp án B, C, D trọng âm thứ 2, do có kết thúc -y`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Incapable `, `Unselfish `, `Attraction `, `Humorous`],
+    answer: 4,
+    explanation: `Các tiền tối in-, un- và hậu tố -ous không nhận trọng âm, nên ta xét
+            nguyên thể các từ này.
+            <br />
+            Đáp án A, B, C trọng âm thứ 2, đáp án D trọng âm thứ nhất.`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Destination `, `productivity `, `Interesting `, `Economic`],
+    answer: 3,
+    explanation: ` Các danh từ kết thúc bằng –ion, -ity, -ic trọng âm rơi vào trước kết
+            cấu này, nên các đáp án A, B, D trọng âm thứ 3. Đáp án C trọng âm
+            thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Speechless `, `Worthy `, `Pollute `, `Borrow`],
+    answer: 3,
+    explanation: `Đáp án A, B bỏ không xét các hậu tố -less, -y, ta được trọng âm thứ
+            nhất
+            <br />
+            Đáp án C động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án D /ˈbɒr.əʊ/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Loyalty `, `Success `, `Incapable `, `Sincere`],
+    answer: 1,
+    explanation: ` Đáp án A danh từ 3 âm tiết kết thúc –y trọng âm rơi vào thứ 1<br />
+            Đáp án B /səkˈses/
+            <br />
+            Đáp án C tiền tố in- và hậu tố -able không nhận trọng âm, ta được
+            trọng âm thứ 2<br />
+            Đáp án D /sɪnˈsɪər/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Govern `, `Cover `, `Perform `, `Father`],
+    answer: 3,
+    explanation: ` Đáp án A /ˈɡʌv.ən/
+            <br />
+            Đáp án B, D danh từ 2 âm tiết kết thúc –er trọng âm rơi vào thứ nhất
+            <br />
+            Đáp án C động từ 2 âm tiết trọng âm rơi thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Morning `, `College `, `Arrive `, `Famous`],
+    answer: 3,
+    explanation: ` Đáp án C động từ 2 âm tiết trọng âm rơi âm thứ 2<br />
+            Các đáp án A, B, D danh từ 2 âm tiết trọng âm rơi thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Specific `, `Indicate `, `Ambition `, `Financial`],
+    answer: 2,
+    explanation: ` Các đuôi –ic, -ion, -ial, trọng âm rơi vào trước nó nên đáp án A, C,
+            D trọng âm thứ 2<br />
+            Danh từ 3 âm tiết kết thúc –ate trọng âm rơi vào âm thứ nhất nên đáp
+            án C trọng âm thứ 1`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Effort `, `Effect `, `Deafness `, `Speaker`],
+    answer: 2,
+    explanation: `Các đáp án C, D hậu tố -ness, và –er không nhận trọng âm nên trọng
+            âm 2 đáp án này thứ nhất
+            <br />
+            Đáp án A /ˈef.ət/
+            <br />
+            Đáp án B /ɪˈfekt/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Furnish `, `Reason `, `Promise `, `Tonight`],
+    answer: 4,
+    explanation: `Đáp án A /ˈfɜː.nɪʃ/
+            <br />
+            Đáp án B, C danh từ 2 âm tiết trọng âm thứ 1<br />
+            Đáp án D /təˈnaɪt/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Animal `, `Bacteria `, `Habitat `, `Pyramid`],
+    answer: 2,
+    explanation: `Các đáp án A, C, D trọng âm thứ 1, còn đáp án B trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Energy `, `Several `, `Household `, `Appliance`],
+    answer: 4,
+    explanation: `Đáp án A từ 3 âm tiết kết thúc y trọng âm thứ nhất
+            <br />
+            Đáp án B /ˈsev.ər.əl/
+            <br />
+            Đáp án C danh từ ghép trọng âm thứ 1 /ˈhaʊs.həʊld/
+            <br />
+            Đáp án D /əˈplaɪ.əns/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Considerate `, `Community `, `Different `, `Photographer`],
+    answer: 3,
+    explanation: ` Đáp án A trọng âm thứ 2 do tính từ kết thúc đuôi –ate trọng âm thứ 3
+            từ dưới lên.
+            <br />
+            Đáp án B đuôi –ity trọng âm rơi vào trước nó, âm tiết thứ 2<br />
+            Đáp án C /ˈdɪf.ər.ənt/
+            <br />
+            Đáp án D /fəˈtɒɡ.rə.fər/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Appear `, `Orphan `, `Friendly `, `Beauty`],
+    answer: 1,
+    explanation: `Đáp án A động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án B, C, D danh từ 2 âm tiết trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Customer `, `Stationery `, `Furniture `, `Deliver`],
+    answer: 4,
+    explanation: `Đáp án A /ˈkʌs.tə.mər/
+            <br />
+            Đáp án B /ˈsteɪ.ʃən.ər.i/
+            <br />
+            Đáp án C /ˈfɜː.nɪ.tʃər/
+            <br />
+            Đáp án D /dɪˈlɪv.ər/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Effect `, `Event `, `Emerge `, `Even`],
+    answer: 4,
+    explanation: `Trọng âm rơi vào âm tiết manh hơn nên đáp án A, B, C trọng âm thứ 2,
+            đáp án D trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Committee `, `Referee `, `Employee `, `Refugee`],
+    answer: 1,
+    explanation: `Từ kết thúc đuôi –ee trọng âm rơi vào chính nó. TRỪ committee
+            /kəˈmɪt.i/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Familiar `, `Uncertain `, `Global `, `Impatient`],
+    answer: 3,
+    explanation: ` Đáp án A /fəˈmɪl.i.ər/
+            <br />
+            Đáp án B trọng âm thứ 2, bỏ không xét tiền tố -un, certain là tính
+            từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án D trọng âm thứ 2, bỏ không xét tiền tố -im, patient là tính
+            từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án C /ˈɡləʊ.bəl/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Philosophy `, `Humanism `, `Activity `, `Forgettable `],
+    answer: 2,
+    explanation: ` Đáp án A trọng âm thứ 2 do là danh từ 4 âm tiết kết thúc y.
+            <br />
+            Đáp án B /ˈhjuː.mə.nɪ.zəm/
+            <br />
+            Đáp án C trọng âm thứ 2 do kết thúc bằng đuôi –ity
+            <br />
+            Đáp án D đuôi –able không nhận trọng âm nên xét nguyên thể forget,
+            trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Desert `, `Common `, `Hotel `, `Temple `],
+    answer: 3,
+    explanation: `Đáp án A, B, D danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án C /həʊˈtel/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Blanket `, `Because `, `Bedroom `, `Breakfast`],
+    answer: 2,
+    explanation: ` Đáp án A, C, D danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án B /bɪˈkəz/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Above `, `Across `, `Almost `, `Accept`],
+    answer: 3,
+    explanation: ` Đáp án A, B, D có âm “a” đầu tiên đọc là / ə/ nên có trọng âm thứ 2
+            <br />
+            Đáp án C /ˈɔːl.məʊst/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Chemistry `, `Computer `, `Camera `, `Cucumber `],
+    answer: 2,
+    explanation: `Đáp án A danh từ 3 âm tiết kết thúc –y trọng âm thứ nhất
+            <br />
+            Đáp án B /kəmˈpjuː.tər/
+            <br />
+            Đáp án C /ˈkæm.rə/
+            <br />
+            Đáp án D /ˈkjuː.kʌm.bər/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Decide `, `Discount `, `Discuss `, `Deny`],
+    answer: 2,
+    explanation: `Đáp án A, C, D động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án B danh từ 2 âm tiết trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Dessert `, `Sometimes `, `Dancer `, `Detail`],
+    answer: 1,
+    explanation: `Đáp án A /dɪˈzɜːt/
+            <br />
+            Đáp án B /ˈsʌm.taɪmz/
+            <br />
+            Đáp án C, D danh từ 2 âm tiết trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Familiar `, `Flexible `, `Favorite `, `Accurate`],
+    answer: 1,
+    explanation: ` Đáp án A /fəˈmɪl.i.ər/
+            <br />
+            Đáp án B /ˈflek.sə.bəl/
+            <br />
+            Đáp án C /ˈfeɪ.vər.ɪt/
+            <br />
+            Đáp án D /ˈæk.jə.rət/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Visit `, `Perfect `, `Center `, `Movie `],
+    answer: 1,
+    explanation: ` Đáp án B, C, D danh từ tính từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án A động từ 2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Express `, `Effect `, `Office `, `Comment`],
+    answer: 1,
+    explanation: `Đáp án A /ɪkˈspres/
+            <br />
+            Đáp án B /ɪˈfekt/
+            <br />
+            Đáp án C /ˈɒf.ɪs/
+            <br />
+            Đáp án D /ˈkɒm.ent/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Whenever `, `Answer `, `Autumn `, `Campsite`],
+    answer: 1,
+    explanation: `Đáp án A trọng âm thứ 2 do là từ có kết thúc –ever trọng âm rơi vào
+            chính nó
+            <br />
+            Đáp án B, C, D danh từ 2 âm tiết trọng âm rơi vào âm thứ 1`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Flourish `, `Season `, `Product `, `Today`],
+    answer: 4,
+    explanation: ` Đáp án A, B, C danh từ 2 âm tiết trọng âm rơi vào âm thứ 1<br />
+            Đáp án D /təˈdeɪ/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Enough `, `Early `, `Entrance `, `Engine`],
+    answer: 1,
+    explanation: ` Đáp án A /ɪˈnʌf/
+            <br />
+            Đáp án B /ˈɜː.li/
+            <br />
+            Đáp án C /ˈen.trəns/
+            <br />
+            Đáp án D /ˈen.dʒɪn/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Excellent `, `Different `, `Finally `, `Fantastic`],
+    answer: 4,
+    explanation: `Đáp án A /ˈek.səl.ənt/
+            <br />
+            Đáp án B /ˈdɪf.ər.ənt/
+            <br />
+            Đáp án C /ˈfaɪ.nəl.i/
+            <br />
+            Đáp án D từ kết thúc là –ic trọng âm rơi vào trước nó`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Finish `, `Forget `, `Farmer `, `Finger`],
+    answer: 2,
+    explanation: `Đáp án A /ˈfɪn.ɪʃ/
+            <br />
+            Đáp án B động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án C, D danh từ 2 âm tiết kết thúc –er trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Manager `, `Museum `, `Family `, `Musical `],
+    answer: 2,
+    explanation: `Đáp án A /ˈmæn.ɪ.dʒər/
+            <br />
+            Đáp án B /mjuːˈziː.əm/
+            <br />
+            Đáp án C /ˈfæm.əl.i/
+            <br />
+            Đáp án D /ˈmjuː.zɪ.kəl/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Polite `, `Normal `, `Number `, `Outside`],
+    answer: 1,
+    explanation: `Đáp án A /pəˈlaɪt/
+            <br />
+            Đáp án B, C danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án D /ˌ'aʊtsaɪd/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Interest `, `Natural `, `Prohibit `, `Horrible`],
+    answer: 3,
+    explanation: ` Đáp án A /ˈɪn.trəst/
+            <br />
+            Đáp án B /ˈnætʃ.ər.əl/
+            <br />
+            Đáp án C /prəˈhɪ, ɪt/
+            <br />
+            Đáp án D /ˈhɒr.ə.bəl/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Garden `, `Handbag `, `Happen `, `Explain`],
+    answer: 4,
+    explanation: `Đáp án A, B danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án C /ˈhæp.ən/
+            <br />
+            Đáp án D động từ 2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Insect `, `Language `, `Listen `, `Receive`],
+    answer: 4,
+    explanation: `Đáp án A, B danh từ 2 âm tiết trọng âm thứ nhất<br />
+Đáp án C /ˈlɪs.ən/<br />
+Đáp án D động từ 2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Teenager `, `Measurement `, `Romantic `, `Attractive`],
+    answer: 2,
+    explanation: `Đáp án A /ˈtiːnˌeɪ.dʒər/
+            <br />
+            Đáp án B /ˈmeʒ.ə.mənt/
+            <br />
+            Đáp án C /rəʊˈmæn.tɪk/
+            <br />
+            Đáp án D /əˈtræk.tɪv/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Eraser `, `Excellent `, `Exercise `, `Eskimo`],
+    answer: 1,
+    explanation: `Từ 3 âm tiết kết thúc –er trọng âm rơi vào âm 2, nên đáp án A có
+            trọng âm thứ 2<br />
+            Các đáp án B, C, D có bắt đầu bằng ex- được phát âm là /eks/ nên
+            trọng âm rơi vào chính nó, âm thứ nhất.`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Regret `, `Selfish `, `Purpose `, `Preface`],
+    answer: 1,
+    explanation: `Đáp án A động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án B, C, D danh từ, tính từ 2 âm tiết trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Penpal `, `Table `, `Window `, `prefer`],
+    answer: 4,
+    explanation: `Đáp án A, B, C danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án D động từ 2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Terrific `, `Pacific `, `Mechanic `, `Arabic `],
+    answer: 4,
+    explanation: `Kết thúc –ic trọng âm rơi trước nó, đáp án A, B, C trọng âm thứ 2,
+            trừ arabic /ˈær.ə.bɪk/ trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Government `, `Technical `, `Parallel `, `Understand`],
+    answer: 4,
+    explanation: `Đáp án A /ˈɡʌv.ən.mənt/
+            <br />
+            Đáp án B /ˈtek.nɪ.kəl/
+            <br />
+            Đáp án C /ˈpær.ə.lel/
+            <br />
+            Đáp án D /ˌʌn.dəˈstænd/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Writer `, `Teacher `, `Builder `, `Career`],
+    answer: 4,
+    explanation: ` Đáp án A, B, C danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án D /kəˈrɪər/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Optimistic `, `Unexpected `, `Successful `, `Electricity`],
+    answer: 3,
+    explanation: `Đáp án A đuôi –ic trọng âm rơi vào trước nó, âm 3<br />
+            Đáp án B trọng âm thứ 3, không xét tiền tố un- và hậu tố -ed, xét
+            nguyên thể expect trọng âm thứ 2<br />
+            Đáp án D đuôi –ity trọng âm trước nó, âm 3`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Winter `, `Woman `, `Yellow `, `Yourself`],
+    answer: 4,
+    explanation: `Đáp án A, B, C danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án D /jəˈself/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Yesterday `, `Candidate `, `Brazilian `, `Century`],
+    answer: 3,
+    explanation: ` Đáp án A /ˈjes.tə.deɪ/
+            <br />
+            Đáp án B /ˈkæn.dɪ.dət/
+            <br />
+            Đáp án C /brəˈzɪl.jən/
+            <br />
+            Đáp án D /ˈsen.tʃər.i/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Copy `, `Remove `, `Notice`, `Cancel`],
+    answer: 2,
+    explanation: `Đáp án A /ˈkɒp.i/
+            <br />
+            Đáp án B /rɪˈmuːv/
+            <br />
+            Đáp án C /ˈnəʊ.tɪs/
+            <br />
+            Đáp án D /ˈkæn.səl/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Without `, `Golden `, `Winsurfing `, `Water`],
+    answer: 1,
+    explanation: `Đáp án A /wɪˈðaʊt/
+            <br />
+            Đáp án B /ˈɡəʊl.dən/
+            <br />
+            Đáp án C /ˈwɪndˌsɜː.fɪŋ/
+            <br />
+            Đáp án D /ˈwɔː.tər/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Difficult `, `Animal `, `Volunteer `, `Interest`],
+    answer: 3,
+    explanation: `Đáp án A /ˈdɪf.ɪ.kəlt/
+            <br />
+            Đáp án B /ˈæn.ɪ.məl/
+            <br />
+            Đáp án C /ˌvɒl.ənˈtɪər/
+            <br />
+            Đáp án D /ˈɪn.trəst/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Capital `, `Tradition `, `Different `, `Opera`],
+    answer: 2,
+    explanation: `Đáp án A /ˈkæp.ɪ.təl/
+            <br />
+            Đáp án B trọng âm thứ 2 do là danh từ có tận cùng đuôi –ion
+            <br />
+            Đáp án C /ˈdɪf.ər.ənt/
+            <br />
+            Đáp án D /ˈɒp.ər.ə/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Construction `, `Suggestion `, `Accurate `, `Activity`],
+    answer: 3,
+    explanation: `Đáp án A, B, D kết thúc –ion và –ity trọng âm trước 2 kết cấu này,
+            âm 2<br />
+            Đáp án C từ 3 âm tiết kết thúc –ate trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Employ `, `Increase `, `Decrease `, `Purpose`],
+    answer: 4,
+    explanation: ` Đáp án A, B, C động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án D danh từ 2 âm tiết trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Favour `, `Impress `, `Occur `, `Arrive `],
+    answer: 1,
+    explanation: `Đáp án A /ˈfeɪ.vər/
+            <br />
+            Đáp án B, C, D động từ 2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Colour `, `Passion `, `Behave `, `Children `],
+    answer: 3,
+    explanation: `Đáp án A, B, D danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án C động từ 2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Female `, `Fellow `, `Husband `, `Mature`],
+    answer: 4,
+    explanation: `Đáp án A, B, C danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án D /məˈtʃʊər/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Submit `, `Suppose `, `Support `, `Summit`],
+    answer: 4,
+    explanation: ` Đáp án A, B, C động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án D /ˈsʌm.ɪt/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Perfection `, `Computer `, `Fascinate `, `Fantastic`],
+    answer: 3,
+    explanation: `Đáp án CS từ 3 âm tiết kết thúc –ate trọng âm thứ nhất
+            <br />
+            Đáp án A, B, D từ có kết thúc –ion, -er, -ic trọng âm rơi vào trước
+            kết cấu này nên trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Concert `, `License `, `Conserve `, `Lantern`],
+    answer: 3,
+    explanation: `Đáp án A, B, D danh từ 2 âm tiết trọng âm thứ nhất Đáp án C động từ
+            2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Persuade `, `Reduce `, `Offer `, `Apply `],
+    answer: 3,
+    explanation: `Đáp án A, B, D động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án C /ˈɒf.ər/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Paper `, `Remove `, `Cancel `, `Mountain`],
+    answer: 2,
+    explanation: `Đáp án A, C, D danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án B động từ 2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Earthquake `, `Program `, `Prestige `, `Courage`],
+    answer: 3,
+    explanation: `Đáp án A, B, D danh từ 2 âm tiết trọng âm thứ 1<br />
+            Đáp án C /presˈtiːʒ/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Preface `, `Famous `, `Mountain `, `Believe `],
+    answer: 4,
+    explanation: `Đáp án A /ˈpref.ɪs/
+            <br />
+            Đáp án B, C danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án D động từ 2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Domestic `, `Investment `, `Substantial `, `Undergo`],
+    answer: 4,
+    explanation: `Đáp án A, C từ kết thúc đuôi –ic, -ial trọng âm rơi vào trước nó
+            <br />
+            Đáp án B đuôi –ment không nhận trọng âm xét nguyên thể invest trọng
+            âm thứ 2<br />
+            Đáp án D /ˌʌn.dəˈɡəʊ/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Dificult `, `Popular `, `National `, `Effective`],
+    answer: 4,
+    explanation: `Đáp án A /ˈdɪf.ɪ.kəlt/
+            <br />
+            Đáp án B /ˈpɒp.jə.lər/
+            <br />
+            Đáp án C /ˈnæʃ.ən.əl/
+            <br />
+            Đáp án D /ɪˈfek.tɪv/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [`Arrest `, `Private `, `Provide `, `Arrange`],
+    answer: 2,
+    explanation: `Đáp án A, C, D động từ 2 âm tiết trọng âm thứ 2<br />
+          Đáp án B danh từ 2 âm tiết trọng âm nhứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Similar  `,
+      `Attractive  `,
+      `
+        Calculate  `,
+      `Chemical`,
+    ],
+    answer: 2,
+    explanation: ` Đáp án A /ˈsɪm.ɪ.lər/
+            <br />
+            Đáp án B /əˈtræk.tɪv/
+            <br />
+            Đáp án C /ˈkæl.kjə.leɪt/
+            <br />
+            Đáp án D /ˈkem.ɪ.kəl/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Morning  `,
+      `College  `,
+      `Study
+         `,
+      `Locate`,
+    ],
+    answer: 4,
+    explanation: `Đáp án A, B, C danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án D động từ 2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Cartoon  `,
+      `Western  `,
+      `Teacher
+         `,
+      `Leader`,
+    ],
+    answer: 1,
+    explanation: ` Đáp án A /kɑːˈtuːn/
+            <br />
+            Đáp án B, C, D danh từ 2 âm tiết trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Promote  `,
+      `Power  `,
+      `Terror
+         `,
+      `Contrast`,
+    ],
+    answer: 1,
+    explanation: `Đáp án A động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án B, C, D danh từ 2 âm tiết trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Opponent  `,
+      `Personal  `,
+      `
+        Semester  `,
+      `Eternal`,
+    ],
+    answer: 2,
+    explanation: `Đáp án A /əˈpəʊ.nənt/
+            <br />
+            Đáp án B /ˈpɜː.sən.əl/
+            <br />
+            Đáp án C /sɪˈmes.tər/
+            <br />
+            Đáp án D /ɪˈtɜː.nəl/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Raincoat  `,
+      `Relax  `,
+      `Request
+         `,
+      `Refer `,
+    ],
+    answer: 1,
+    explanation: `Đáp án A /ˈreɪŋ.kəʊt/
+            <br />
+            Đáp án B /rɪˈlæks/
+            <br />
+            Đáp án C /rɪˈkwest/
+            <br />
+            Đáp án D /rɪˈfɜːr/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Neighbor  `,
+      `Receive  `,
+      `Differ
+         `,
+      `Classmate`,
+    ],
+    answer: 2,
+    explanation: `Đáp án A, D danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án B động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án C /ˈdɪf.ər/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Government  `,
+      `Destruction  `,
+      `
+        Contribute  `,
+      `Depression`,
+    ],
+    answer: 1,
+    explanation: `Đáp án A /ˈɡʌv.ən.mənt/
+            <br />
+            Đáp án B, D kết thúc đuôi –ion trọng âm trước nó, thứ 2<br />
+            Đáp án C /kənˈtrɪ,juːt/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Perfect  `,
+      `Visit  `,
+      `Respect
+         `,
+      `Aircraft`,
+    ],
+    answer: 2,
+    explanation: `Đáp án A, C, D tính từ, danh từ 2 âm tiết trọng âm thứ nhất
+            <br />
+            Đáp án B động từ 2 âm tiết trọng âm thứ 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Envelope  `,
+      `Consumption  `,
+      `
+        Specific  `,
+      `Encounter`,
+    ],
+    answer: 1,
+    explanation: ` 
+            Đáp án A /ˈen.və.ləʊp/
+            <br />
+            Đáp án B trọng âm thứ 2 do có kết thúc đuôi –ion
+            <br />
+            Đáp án C trọng âm thứ 2 do có kết thúc –ic
+            <br />
+            Đáp án D trọng âm thứ 2 do có kết thúc -er`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Politic  `,
+      `Historic  `,
+      `
+        Electric  `,
+      `Specific`,
+    ],
+    answer: 1,
+    explanation: `Đáp án A /ˈpɒl.ɪ.tɪk/
+            <br />
+            Đáp án B, C, D từ kết thúc đuôi –ic trọng âm rơi vào trước nó, âm 2`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Dinosaur  `,
+      `Elephant  `,
+      `
+        Kangaroo  `,
+      `Buffalo`,
+    ],
+    answer: 3,
+    explanation: `Đáp án A /ˈdaɪ.nə.sɔːr/
+            <br />
+            Đáp án B /ˈel.ɪ.fənt/
+            <br />
+            Đáp án C /ˌkæŋ.ɡərˈuː/
+            <br />
+            Đáp án D /ˈbʌf.ə.ləʊ/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Garage  `,
+      `Download  `,
+      `Boyfriend
+         `,
+      `Borrow`,
+    ],
+    answer: 1,
+    explanation: ``,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Blackboard  `,
+      `Brother  `,
+      `
+        Birthday  `,
+      `Become`,
+    ],
+    answer: 4,
+    explanation: `Đáp án A /ˈblæk.bɔːd/
+            <br />
+            Đáp án B danh từ 2 âm tiết kết thúc –er trọng âm thứ nhất
+            <br />
+            Đáp C /ˈbɜːθ.deɪ/
+            <br />
+            Đáp án D /bɪˈkʌm/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Badminton  `,
+      `Satelite  `,
+      `Eleven
+         `,
+      `Element`,
+    ],
+    answer: 3,
+    explanation: `Đáp án A /ˈbæ, 'mɪn.tən/
+            <br />
+            Đáp án B /ˈsæt.əl.aɪt/
+            <br />
+            Đáp án C /ɪˈlev.ən/
+            <br />
+            Đáp án D /'el.ɪ.mənt/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Attraction  `,
+      `Assistant  `,
+      `
+        Appointment  `,
+      `Visitor`,
+    ],
+    answer: 4,
+    explanation: `Đáp án A trọng âm 2 do danh từ hết thúc đuôi –ion trọng âm rơi trước
+            nó
+            <br />
+            Đáp án B /əˈsɪs.tənt/
+            <br />
+            Đáp án C /əˈpɔɪnt.mənt/
+            <br />
+            Đáp án D /ˈvɪz.ɪtə/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Although  `,
+      `Agree  `,
+      `Almost
+         `,
+      `Address`,
+    ],
+    answer: 3,
+    explanation: `Đáp án A /ɔːlˈðəʊ/
+            <br />
+            Đáp án B /əˈɡriː/
+            <br />
+            Đáp án C /ˈɔːl.məʊst/
+            <br />
+            Đáp án D /əˈdres/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Monitor  `,
+      `Radio  `,
+      `Amazing
+         `,
+      `Visitor`,
+    ],
+    answer: 3,
+    explanation: `Đáp án A /ˈmɒn.ɪ.tər/
+            <br />
+            Đáp án B /ˈreɪ.di.əʊ/
+            <br />
+            Đáp án C /əˈmeɪ.zɪŋ/
+            <br />
+            Đáp án D /ˈvɪz.ɪtə/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Arrival  `,
+      `Technical  `,
+      `
+        Proposal  `,
+      `Approval `,
+    ],
+    answer: 2,
+    explanation: `Đáp án A /əˈraɪ.vəl/
+            <br />
+            Đáp án B /ˈtek.nɪ.kəl/
+            <br />
+            Đáp án C /prəˈpəʊ.zəl/
+            <br />
+            Đáp án D /əˈpruː.vəl/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Politics  `,
+      `Deposit  `,
+      `
+        Conception  `,
+      `Occasion`,
+    ],
+    answer: 1,
+    explanation: `Đáp án A /ˈpɒl.ə.tɪks/
+            <br />
+            Đáp án B /dɪˈpɒz.ɪt/
+            <br />
+            Đáp án C, D trọng âm thứ 2 do có kết thúc –ion trọng âm rơi vào
+            trước nó`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Attend  `,
+      `Pretend  `,
+      `Content
+         `,
+      `Percent`,
+    ],
+    answer: 3,
+    explanation: `Đáp án A, B động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án C /kənˈtent/
+            <br />
+            Đáp án D /pəˈsent/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Accurate `,
+      `Discussion  `,
+      `Family
+         `,
+      `Industry `,
+    ],
+    answer: 2,
+    explanation: `Đáp án A tính từ 3 âm tiết kết thúc -ate trọng âm thứ nhất <br />
+          Đáp án B kết thúc –ion trọng âm trước nó, thứ 2 <br />
+          Đáp án C, D danh từ 3 âm tiết kết thúc –y trọng âm thứ nhất`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Prepare  `,
+      `Repeat  `,
+      `Purpose
+         `,
+      `Police`,
+    ],
+    answer: 3,
+    explanation: `Đáp án A, B động từ 2 âm tiết trọng âm thứ 2<br />
+            Đáp án C /ˈpɜː.pəs/
+            <br />
+            Đáp án D /pəˈliːs/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Brazil  `,
+      `Iraq  `,
+      `Norway
+         `,
+      `Japan`,
+    ],
+    answer: 3,
+    explanation: `Brazil /brəˈzɪl/
+          <br />
+          , Iraq /iˈra:k/
+          <br />
+          , Norway /ˈnɔː.weɪ/
+          <br />
+          , Japan /dʒəˈpæn/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Contain  `,
+      `Express  `,
+      `Carbon
+         `,
+      `Obey`,
+    ],
+    answer: 3,
+    explanation: ``,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Provide  `,
+      `Product  `,
+      `Promote
+         `,
+      `Produce`,
+    ],
+    answer: 2,
+    explanation: `Đáp án B danh từ 2 âm tiết trọng âm thứ nhất,
+            <br />
+            Đáp án A, C, D động từ 2 âm tiết trọng âm thứ 2.`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Edition  `,
+      `Tradition  `,
+      `
+        Different  `,
+      `Expensive`,
+    ],
+    answer: 3,
+    explanation: ` Đáp án A và B có trọng âm ở âm tiết thứ 2 do có tận cùng đuôi –ion
+            trọng âm rơi vào trước nó,
+            <br />
+            Đáp án C có âm thứ nhất mạnh hơn 2 âm còn lại, nên trọng âm thứ nhất
+            /ˈdɪf.ər.ənt/
+            <br />
+            Đáp án D có âm thứ 2 mạnh hơn 2 âm còn lại, nên trọng âm thứ 2
+            /ɪkˈspen.sɪv/`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Include  `,
+      `Instead  `,
+      `Invite
+         `,
+      `Island`,
+    ],
+    answer: 4,
+    explanation: `Đáp án A và B là âm tiết thứ 2 là nguyên âm mạnh, trọng âm rơi vào
+            chính nó,
+            <br />
+            Đáp án C động từ 2 âm tiết trọng âm rơi âm tiết thứ 2<br />
+            Đáp án D danh từ 2 âm tiết trọng âm rơi vào âm tiết thứ 1.`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [
+      `Empire  `,
+      `Employ  `,
+      `Conduct
+         `,
+      `Improve`,
+    ],
+    answer: 1,
+    explanation: `Các đáp án B, C, D là động từ 2 âm tiết trọng âm rơi vào âm tiết thứ
+            2,
+            <br />
+            Đáp án A là danh từ 2 âm tiết trọng âm rơi vào âm tiết thứ 1.`,
+  },
   // {
   //   id: 9,
   //   question: `
   //   `,
-  //   options: [``, ``, ``, ``],
+  //   options: [ `],
   //   answer: 4,
   //   explanation: ``,
   // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 9,
+  //   question: `
+  //   `,
+  //   options: [ `],
+  //   answer: 4,
+  //   explanation: ``,
+  // },
+
   // {
   //   id: 9,
   //   question: `

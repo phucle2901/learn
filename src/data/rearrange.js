@@ -38,6 +38,66 @@ export const eREARRANGE = [
     answer: `Some minorities in the mountains still keep their traditional way of life.`,
     explanation: `<p><strong>Kiến thức:</strong> Từ vựng</p><p><strong>Giải thích:</strong></p><p>way of life: lối sống</p><p><strong>Tạm dịch:</strong> Một số dân tộc thiểu số ở miền núi vẫn giữ lối sống truyền thống của họ.</p><p><strong>Đáp án: Some minorities in the mountains still keep their traditional way of life.</strong></p> `,
   },
+  {
+    id: 41,
+    question: `This toy shop/ open/ 10 a.m. / and/ close/ 9 p.m. / every day.
+
+      `,
+    options: [],
+    rewrite: ``,
+    answer: `This toy shop opens at 10 a.m. and closes at 9 p.m. every day`,
+    explanation: `<p>Cách dùng: Diễn tả một hành động lặp đi lặp lại; Dấu hiệu: “everyday”.</p>
+<p><strong>Tạm dịch:</strong> Cửa hàng đồ chơi này mở cửa lúc 10 giờ sáng và đóng cửa lúc 9 giờ tối hằng ngày.</p>
+<p>Đáp án <strong>This toy shop opens at 10 a.m. and closes at 9 p.m. every day</strong><strong>.</strong><strong></strong></p>`,
+  },
+  {
+    id: 41,
+    question: `My mum/ take/ train/ city centre/ at the moment.
+
+      `,
+    options: [],
+    answer: `My mum is taking a train to the city centre at the moment.`,
+    rewrite: ``,
+    explanation: `<p>Cách dùng:<strong> </strong>Diễn tả một hành động diễn ra tại thời điểm nói; Dấu hiệu: “at the moment”.</p>
+<p><strong>Tạm dịch:</strong> Mẹ tôi đang đi tàu đến trung tâm thành phố vào lúc này.</p>
+<p>Đáp án <strong>My mum is taking a train to the city centre at the moment.</strong></p>`,
+  },
+  {
+    id: 41,
+    question: `He/ be/ going to/ stay/ city/ three days.
+
+      `,
+    options: [],
+    answer: `He is going to stay in the city for three days.`,
+    rewrite: ``,
+    explanation: `<p>Thì tương lai gần một quyết định, kế hoạch đã được dự định trong tương lai mà đã có dự định từ trước.</p>
+<p><strong>Tạm dịch:</strong> Anh ấy sẽ ở lại thành phố trong ba ngày.</p>
+<p>Đáp án <strong>He is going to stay in the city for three days.</strong></p>`,
+  },
+  {
+    id: 41,
+    question: `He/ break/ his leg/ when/ he/ climb/ mountain/ yesterday.
+
+      `,
+    options: [],
+    rewrite: ``,
+    answer: `He broke his leg when he was climbing a mountain yesterday.`,
+    explanation: `<p>Diễn tả một hành động đang xảy ra trong quá khứ thì có một hành động khác cắt ngang.</p>
+<p><strong>Tạm dịch:</strong> Hôm qua anh ấy bị gãy chân khi leo núi.</p>
+<p>Đáp án <strong>He broke his leg when he was climbing a mountain yesterday.</strong></p>`,
+  },
+  {
+    id: 41,
+    question: `you/ hear /hiking accident/ Hawaii/ last night?
+
+      `,
+    options: [],
+    rewrite: ``,
+    answer: `Did you hear about a hiking accident in Hawaii last night?`,
+    explanation: `<p>Cách dùng:<strong> </strong>Diễn tả hành động xảy ra và kết thúc trong quá khứ; Dấu hiệu “last night”.</p>
+<p><strong>Tạm dịch:</strong> Bạn có nghe gì về một tai nạn đi bộ đường dài ở Hawaii đêm qua không?</p>
+<p>Đáp án <strong>Did you hear about a hiking accident in Hawaii last night?</strong></p>`,
+  },
 
   //   {
   //     id: 9,

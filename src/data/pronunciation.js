@@ -288,7 +288,7 @@ export const ePRONOUNCIATION = [
       `,
     options: [
       `<p>A. whi<u>ch</u></p>`,
-      `<p>B. whi<u>ch</u></p>`,
+      `<p>B. <u>ch</u>ef</p>`,
       `<p>C. wat<u>ch</u></p>`,
       `<p>D. <u>ch</u>eese</p>`,
     ],

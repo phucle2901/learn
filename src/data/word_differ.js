@@ -173,13 +173,13 @@ export const eWORDDIFFER = [
     `,
     options: [
       `happy
-'`,
+`,
       `boring
-'`,
+`,
       `helpful
-'`,
+`,
       `alone
-'`,
+`,
     ],
     answer: 4,
     explanation: `<div>
@@ -195,13 +195,13 @@ export const eWORDDIFFER = [
     `,
     options: [
       `annoyed
-'`,
+`,
       `curly
-'`,
+`,
       `active
-'`,
+`,
       `skillful
-'`,
+`,
     ],
     answer: 1,
     explanation: `<div>

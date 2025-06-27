@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
 
+
 import { ePRONOUNCIATION } from "../../data/pronunciation";
 import { eCLOSEST } from "../../data/closest";
 import { eOPPOSITE } from "../../data/opposite";
@@ -157,9 +158,11 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData }) => {
   const handleRefesh = () => {
     if(examId===0){
       setExamId(-1);
-    }else if (examId===-1){
+    }else {
       setExamId(0);
     }
+    
+
     setAnswers({});
     setSubmitted(false);
     setResults({});

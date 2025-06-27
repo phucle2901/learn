@@ -4138,272 +4138,577 @@ paper flowers. (MAKE)
     ],
   },
 
-  // {
-  //   semester: 1,
-  //   grade: 8,
-  //   questions: [      
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       question: `
-  //     `,
-  //       options: [``, ``, ``, ``],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //   ],
-  // },
+  {
+    semester: 1,
+    grade: 8,
+    questions: [      
+      {
+        id: 41,
+        extra:`<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.
+</strong></p>`,
+        question: `
+      `,
+        options: [`street<u>s</u>`, `phone<u>s</u>`, `book<u>s</u>`, `make<u>s</u>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p><strong>Kiến thức: </strong>Phát âm “s”</p><p>Cách phát âm đuôi -s, -es:</p>
+<p>- Đuôi s, es phát âm là /iz/ khi tận cùng là các âm /s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/.</p>
+<p>- Đuôi s, es phát âm là /s / khi tận cùng là các âm /p/, /f/, /t/, /k/, /ө/.</p>
+<p>- Đuôi s, es phát âm là /z/ khi tận cùng là các âm còn lại.</p>                                                    </div><div>
+                                                        <p>street<u>s</u> /striːt<strong>s</strong>/</p>
+<p>phone<u>s</u>/fəʊn<strong>z</strong>/&nbsp;</p>
+<p>book<u>s</u> /bʊk<strong>s</strong>/</p>
+<p>make<u>s</u>/meɪk<strong>s</strong>/</p>
+<p>Phần được gạch chân ở phương B được phát âm /z/, các phương án còn lại phát âm /s/.</p>
+<p>Chọn B</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `
+      `,
+        options: [`<u>ch</u>orus`, `s<u>ch</u>eme`, `wat<u>ch</u>ing`, `c</span><u>h</u>aos`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p><u>ch</u>orus /ˈkɔː.rəs/</p>
+<p>s<u>ch</u>eme&nbsp;/skiːm/</p>
+<p>wat<u>ch</u>ing /wɒtʃ/&nbsp;</p>
+<p><u>ch</u>aos&nbsp;/ˈkeɪ.ɒs/&nbsp;</p>
+<p>Phần được gạch chân ở phương C được phát âm /tʃ/, các phương án còn lại phát âm /k/.</p>
+<p>Chọn C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra:`<p><strong>Choose the word whose stress pattern is different from that of the others.
+</strong></p>`,
+        question: `
+      `,
+        options: [`question
+`, `believe
+`, `concern
+`, `request
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>question /ˈkwes.tʃən/</p>
+<p>believe /bɪˈliːv/</p>
+<p>concern /kənˈsɜːn/</p>
+<p>request &nbsp;/rɪˈkwest/</p>
+<p>Phương án A có trọng âm 1, các phương án còn lại có trọng âm 2.</p>
+<p>Chọn A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `
+      `,
+        options: [`disaster
+`, `avalanche
+`, `tsunami 
+`, `announcement
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>disaster /dɪˈzɑː.stər/</p>
+<p>avalanche /ˈæv.əl.ɑːntʃ/</p>
+<p>tsunami /tsuːˈnɑː.mi/</p>
+<p>announcement&nbsp;/əˈnaʊns.mənt/</p>
+<p>Phương án B có trọng âm 1, các phương án còn lại có trọng âm 2.</p>
+<p>Chọn B</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra:`<p><strong>Choose the option that best completes each of the following sentences.
+</strong></p>`,
+        question: `Be quiet, please! I'm trying to ______ on my homework.
+
+      `,
+        options: [`concentrate
+`, `log
+`, `advise
+`, `bully
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>concentrate (v): tập trung</p>
+<p>log (v): đăng nhập</p>
+<p>advise (v); khuyên nhủ</p>
+<p>bully (v): bắt nạt</p>
+<p>concentrate on: chú ý vào</p>
+<p>Be quiet, please! I'm trying to&nbsp;<strong>concentrate</strong>&nbsp;on my homework.</p>
+<p><em>(Làm ơn im lặng đi! Tôi đang cố gắng tập trung vào bài tập về nhà của mình.)</em></p>
+<p>Chọn A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `Does your brother dislike ________ his friends? - Yes, he prefers ________ them.
+
+      `,
+        options: [`call / message
+`, `calling / messaging
+`, `to call / to message
+`, `to call / message
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>dislike + V-ing: không thích làm gì</p>
+<p>prefer + V-ing: thích làm gì hơn</p>
+<p>Does your brother dislike&nbsp;<strong>calling</strong>&nbsp;his friends? - Yes, he prefers&nbsp;<strong>messaging</strong>&nbsp;them.</p>
+<p><em>(Anh trai bạn không thích gọi điện cho bạn bè phải không? - Vâng, anh ấy thích nhắn tin cho họ hơn.)</em></p>
+<p>Chọn B</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `From the hilltop, we can see row after row of orange trees _____ to the horizon.
+
+      `,
+        options: [`running
+`, `expanding
+`, `enlarging
+`, `stretching
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>running (v): chạy&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>expanding (v): mở rộng (làm cho lớn hơn về số lượng và kích thước) &nbsp;</p>
+<p>enlarging&nbsp;(v): mở rộng, phóng to (làm cho kích thước lớn hơn)</p>
+<p>stretching (v): kéo dài</p>
+<p>From the hilltop, we can see row after row of orange trees&nbsp;<strong>stretching</strong>&nbsp;to the horizon.</p>
+<p><em>(Từ trên đỉnh đồi, chúng ta có thể nhìn thấy từng hàng cây cam trải dài đến tận chân trời.)</em></p>
+<p>Chọn D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `The environment won't help us if we ____ it.
+
+      `,
+        options: [`annoy
+`, `worry
+`, `alarm
+`, `disturb
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>annoy (v): làm phiền</p>
+<p>worry (v): lo lắng</p>
+<p>alarm (v): báo động</p>
+<p>disturb (v): làm phiền</p>
+<p>The environment won't help us if we&nbsp;<strong>disturb</strong>&nbsp;it.</p>
+<p><em>(Môi trường sẽ không giúp chúng ta nếu chúng ta làm xáo trộn nó.)</em></p>
+<p>Chọn D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `A _____ is a violent storm with very strong winds that move in a circle.
+
+      `,
+        options: [`tornado
+`, `flood
+`, `volcano
+`, `landslide
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>tornado (n): lốc xoáy</p>
+<p>flood (n): lũ lụt</p>
+<p>volcano (n): núi lửa</p>
+<p>landslide (n): lở đất</p>
+<p>A <strong>tornado</strong> is a violent storm with very strong winds that move in a circle.</p>
+<p><em>(Lốc xoáy là một cơn bão dữ dội với sức gió rất mạnh di chuyển theo vòng tròn.)</em></p>
+<p>Chọn A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `They spend a lot of time surfing the net; ______, they have little time to read books.
+
+      `,
+        options: [`however
+`, `therefore
+`, `although
+`, `otherwise
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>however: tuy nhiên &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>therefore: do đó &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>although: mặc dù&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>otherwise: ngược lại</p>
+<p>They spend a lot of time surfing the net;&nbsp;<strong>therefore</strong>, they have little time to read books.</p>
+<p><em>(Họ dành nhiều thời gian để lướt mạng; do đó, họ có ít thời gian để đọc sách.)</em></p>
+<p>Chọn B</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `I’m free ________ 3 p.m. on Thursday, but I have band practice after that.
+
+      `,
+        options: [`at 
+`, `until 
+`, `in
+`, `
+from
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>at: tại</p>
+<p>until: cho tới khi</p>
+<p>in: trong</p>
+<p>from: từ</p>
+<p>I’m free&nbsp;<strong>until&nbsp;</strong>3 p.m. on Thursday, but I have band practice after that.</p>
+<p><em>(Tôi rảnh đến 3 giờ chiều. vào thứ năm, nhưng sau đó tôi có buổi tập với ban nhạc.)</em></p>
+<p>Chọn B</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `We should walk to school, _______ we shouldn’t throw trash on the ground.
+
+      `,
+        options: [`so 
+`, `and
+`, `but
+`, `or
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>so: vì vậy</p>
+<p>and: và</p>
+<p>but: nhưng</p>
+<p>or: hoặc</p>
+<p>We should walk to school, <strong>but</strong> we shouldn’t throw trash on the ground.</p>
+<p><em>(Chúng ta nên đi bộ đến trường nhưng không nên vứt rác xuống đất.)</em></p>
+<p>Chọn C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `Minh: _________is the weather girl on VTV3 at 8 o’clock tonight? - Bao: She is Hoai Anh.
+
+      `,
+        options: [`Who
+`, `What
+`, `When
+`, `Why
+`],
+        answer: `1`,
+        explanation: `<div>
+                                                        <p>Who: Ai</p>
+<p>What: Cái gì</p>
+<p>When: Khi nào</p>
+<p>Why: Tại sao</p>
+<p><strong><em>Minh:</em></strong> <strong>Who </strong>is the weather girl on VTV3 at 8 o’clock tonight? - <strong><em>Bao:</em></strong> She is Hoai Anh.</p>
+<p><em>(Minh: Cô gái dự báo thời tiết trên kênh VTV3 lúc 8 giờ tối nay là ai? - Bảo: Cô ấy là Hoài Anh.)</em></p>
+<p>Chọn A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `Gary is very busy with his job. He has ________ time for other things.
+
+      `,
+        options: [`little 
+`, `a little
+`, `few
+`, `a few
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Đây là dạng câu mang tính tiêu cực. Gary bận việc đến nỗi không có thời gian cho việc khác. Do đó sử dụng “little” do “time” <em>(thời gian) </em>là danh từ không đếm được</p>
+<p>little (+ N không đếm được): ít ỏi không đủ đủ dùng (mang nghĩa tiêu cực)</p>
+<p>a little (+N không đếm được): ít ỏi nhưng vẫn đủ dùng (mang nghĩa tích cực)</p>
+<p>few (+ N đếm được số nhiều): ít ỏi không đủ đủ dùng (mang nghĩa tiêu cực)</p>
+<p>a few (+ N đếm được số nhiều): ít ỏi nhưng vẫn đủ dùng (mang nghĩa tích cực)</p>
+<p>Gary is very busy with his job. He has <strong>little</strong> time for other things.</p>
+<p><em>(Gary rất bận rộn với công việc của mình. Anh ấy có rất ít thời gian cho những việc khác.)</em></p>
+<p>Chọn A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `Tom: What an attractive hair style you have got, Mary! -  Mary: ___________.
+
+      `,
+        options: [`Thank you very much. I am afraid
+`, `You are telling a lie
+`, `Thank you for your compliment
+`, `I don’t like your sayings
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. Cảm ơn bạn rất nhiều. Tôi sợ</p>
+<p>B. Bạn đang nói dối</p>
+<p>C. Cảm ơn lời khen của bạn</p>
+<p>D. Tôi không thích những câu nói của bạn</p>
+<p><strong><em>Tom:</em></strong> What an attractive hair style you have got, Mary! -&nbsp; <strong><em>Mary:</em></strong> <strong>Thank you for your compliment</strong>.</p>
+<p><em>(Tom: Thật là một kiểu tóc hấp dẫn mà bạn có, Mary! - Mary: Cảm ơn lời khen của bạn.)</em></p>
+<p>Chọn C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `Jason: Would you like a drink?  - Daisy: ___________.
+
+      `,
+        options: [`I don’t like coffee
+`, `I prefer tea    
+`, `Coffee, please 
+`, `I’m very thirsty
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A.&nbsp;Tôi không thích cà phê</p>
+<p>B. Tôi thích trà hơn</p>
+<p>C. Cà phê, làm ơn</p>
+<p>D. Tôi khát quá</p>
+<p><strong><em>Jason:</em></strong> Would you like a drink?&nbsp; - <strong><em>Daisy:</em></strong> Coffee, please.</p>
+<p><em>(Jason: Bạn có muốn uống gì không? - Daisy: Cà phê nhé.)</em></p>
+<p>Chọn C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra:`<p><strong>Supply the correct form of the given word.
+</strong></p>`,
+        question: `Finding a balance between what humans and animals need will help prevent habitat_______(DESTROY)
+      `,
+        options: [],
+        answer: `destruction`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>17. Sau động từ "prevent" cần một danh từ hoặc cụm danh từ đóng vai trò tân ngữ. Đã có danh từ "habbit" cần thêm một danh từ nữa để tạo thành cụm danh từ.&nbsp;</p>
+<p>destroy (v): phá hủy</p>
+<p>destruction (n): sự phá hủy</p>
+<p>Finding a balance between what humans and animals need will help prevent habitat <strong>destruction.</strong></p>
+<p><em>(Tìm kiếm sự cân bằng giữa những gì con người và động vật cần sẽ giúp ngăn chặn sự phá hủy môi trường sống.)</em></p>
+<p>Đáp án: destruction</p>                                            </div>`,
+      },
+      {
+        id: 41,
+        question: `It is______
+
+to imagine the changes that robots are bringing to our world. (BELIEVE)
+
+      `,
+        options: [],
+        answer: `unbelievable`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>18. Cấu trúc: S + be + adj =&gt; cần một tính từ chủ động để mô tả tính chất của sự vật</p>
+<p>believe (v): tin tưởng</p>
+<p>unbelievable (adj): tin tưởng</p>
+<p>It is <strong>unbelievable </strong>to imagine the changes that robots are bringing to our world.</p>
+<p><em>(Thật không thể tưởng tượng được những thay đổi mà robot mang lại cho thế giới của chúng ta.)</em></p>
+<p>Đáp án: unbelievable</p>                                            </div>`,
+      },
+      {
+        id: 41,
+        question: `My sister is keen on______. She wants to become a chef in the future. (COOK)
+
+      `,
+        options: [],
+        answer: `cooking`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>19. keen on + V-ing: thích làm gì</p>
+<p>cook (v): nấu ăn</p>
+<p>cooking (v): nấu ăn (dạng V-ing của động từ “cook)</p>
+<p>My sister is keen on <strong>cooking</strong>. She wants to become a chef in the future.</p>
+<p><em>(Em gái tôi rất thích nấu ăn. Cô ấy muốn trở thành một đầu bếp trong tương lai.)</em></p>
+<p>Đáp án: cooking</p>                                            </div>`,
+      },
+      {
+        id: 41,
+        question: `At harvest time _______ are busy cutting and collecting crops. (FARM)
+
+      `,
+        options: [],
+        answer: `farmers`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>20. Chỗ trống cần một danh từ; sau danh từ, động từ tobe ở dạng “are”, vì vậy danh từ cần điền ở dạnh số nhiều.</p>
+<p>farm (n): nông trại</p>
+<p>farmer (n): nông dân</p>
+<p>At harvest time <strong>farmers</strong> are busy cutting and collecting crops.</p>
+<p><em>(Vào thời điểm thu hoạch, nông dân đang bận rộn cắt và thu hoạch cây trồng.)</em></p>
+<p>Đáp án: farmers</p>                                            </div>`,
+      },
+      {
+        id: 41,
+        extra:`<p><strong>Choose the option that best completes each blank in the passage.
+</strong></p><p>Some teenagers enjoy spending free time with their friends. Others prefer doing leisure activities with their family members. I love spending time with my family (1) ______ it’s a great way to connect with them.
+</p><p>At the weekend, we usually go for a bike ride. We (2) ______ to some nearby villages to enjoy the fresh air. We take photos and look at them later. My big brother and I are also (3) ______ cooking. My brother looks for easy recipes. After that, we prepare the ingredients and cook. Sometimes the food is good, but sometimes it isn’t; nevertheless, we love (4) ______ we cook. The leisure activity I like the most is doing DIY projects with my mum. She teaches me (5) ______ my own dresses and doll clothes. On special occasions, we make special dresses together. Once I won the first prize in a costume contest at my school.
+</p>`,
+        question: `
+      `,
+        options: [`so
+`, `and
+`, `because
+`, `but
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>so: vì vậy</p>
+<p>and: và</p>
+<p>because: bởi vì</p>
+<p>but: nhưng</p>
+<p>I love spending time with my family <strong>(1) because </strong>it’s a great way to connect with them.</p>
+<p><em>(Tôi thích dành thời gian cho gia đình mình (1) vì đó là cách tuyệt vời để kết nối với họ.)</em></p>
+<p>Chọn C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `
+      `,
+        options: [`run
+`, `walk
+`, `drive 
+`, `cycle
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>run (v): chạy</p>
+<p>walk (v); đi bộ</p>
+<p>drive (v): lái xe</p>
+<p>cycle (v): đạp xe</p>
+<p>We <strong>(2) cycle</strong> to some nearby villages to enjoy the fresh air.</p>
+<p><em>(Chúng tôi (2) đạp xe đến một số ngôi làng gần đó để tận hưởng không khí trong lành.)</em></p>
+<p>Chọn D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `
+      `,
+        options: [`at
+`, `into 
+`, `on
+`, `with
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>at: tại</p>
+<p>into: vào</p>
+<p>on: trên</p>
+<p>with: với</p>
+<p>My big brother and I are also <strong>(3) into</strong> cooking.</p>
+<p><em>(Anh trai tôi và tôi cũng (3) nấu ăn.)</em></p>
+<p>Chọn B</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `
+      `,
+        options: [`whatever
+`, `whenever 
+`, `wherever
+`, `however
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>whatever: bất cứ điều gì</p>
+<p>whenever: bất cứ khi nào</p>
+<p>wherever: bất cứ nơi nào</p>
+<p>however: tuy nhiên</p>
+<p>Sometimes the food is good, but sometimes it isn’t; nevertheless, we love <strong>(4) whatever</strong> we cook.</p>
+<p><em>(Đôi khi đồ ăn ngon nhưng đôi khi lại không; tuy nhiên, chúng tôi yêu thích (4) bất cứ điều gì chúng tôi nấu ăn.)</em></p>
+<p>Chọn A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `
+      `,
+        options: [`make
+`, `making
+`, `to make
+`, `made
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Cấu trúc: teach sb to V: dạy ai làm gì</p>
+<p>She teaches me <strong>(5) to make</strong> my own dresses and doll clothes.</p>
+<p><em>(Cô ấy dạy tôi (5) cách tự may váy và quần áo búp bê.)</em></p>
+<p>Chọn C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra:`<p><strong>Read the following passage. Choose TRUE if the statement is true, FALSE if the statement is false.
+</strong></p><p>I feel fortunate that I am living in a peaceful village in southern Viet Nam. The scenery here is beautiful and picturesque with vast fields stretching long distances. The houses are surrounded by green trees. There are lakes, ponds, and canals here and there. The air is fresh and cool. Life here seems to move more slowly than in cities. The people work very hard. They grow vegetables, cultivate rice, and raise cattle. At harvest time, they use combine harvesters to harvest their crops. Many families live by growing fruit trees in the orchards. Others live by fishing in lakes, ponds, and canals. Life in the village is very comfortable for children. They play traditional games. Sometimes they help their parents pick fruit and herd cattle.
+</p><p>People in my village know each other well. They are friendly and hospitable. They often meet each other in the evening, eating fruit, playing chess, singing folk songs, and chatting about everyday activities.
+</p>`,
+        question: `Life in the author’s village is very peaceful.
+
+      `,
+        options: [`True`, `False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>26. Life in the author’s village is very peaceful.</p>
+<p><em>(Cuộc sống ở làng của tác giả yên bình.)</em></p>
+<p><strong>Thông tin:&nbsp;</strong>I feel fortunate that I am living in a peaceful village in southern Viet Nam.</p>
+<p><em>(Tôi cảm thấy may mắn vì tôi đang sống trong một ngôi làng yên bình ở miền Bắc Việt Nam.)</em></p>
+<p>Đáp án: T</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `The people in the village work very hard.
+
+      `,
+        options: [`true`, `False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>27. The people in the village work very hard.</p>
+<p><em>(Những người trong làng làm việc chăm chỉ.)</em></p>
+<p><strong>Thông tin:&nbsp;</strong>The people work very hard.</p>
+<p><em>(Mọi người làm việc chăm chỉ.)</em></p>
+<p>Đáp án: T</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `Villagers live only by catching fish in lakes, ponds, and canals.
+
+      `,
+        options: [`True`, `False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>28. Villagers live only by catching fish in lakes, ponds, and canals.</p>
+<p><em>(Dân làng chỉ sống bằng cách bắt cá trong ao hồ và kênh.)</em></p>
+<p><strong>Thông tin:</strong>&nbsp;They grow vegetables, cultivate rice, and raise cattle. At harvest time, they use combine harvesters to harvest their crops. Many families live by growing fruit trees in the orchards. Others live by fishing in lakes, ponds, and canals.</p>
+<p><em>(Họ trồng rau, cấy lúa và chăn nuôi gia súc. Vào mùa thu hoặc, họ sử dụng máy gặt đập liên hợp để thu hoạch nông sản. Nhiều gia đình sống bằng cách trồng cây ăn quả trong vườn. Những người khác sống bằng cách đi câu cá trong các hồ ao và kênh.)</em></p>
+<p>Đáp án: F</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        question: `The children are always busy helping their parents.
+Xem thêm tại: https://loigiaihay.com/de-thi-giua-ki-1-tieng-anh-8-global-success-de-so-4-a176339.html
+      `,
+        options: [`True`, `False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>29. The children are always busy helping their parents.</p>
+<p><em>(Đám trẻ luôn bận rộn giúp đỡ bố mẹ.)</em></p>
+<p><strong>Thông tin:</strong>&nbsp;Sometimes they help their parents pick fruit and herd cattle.</p>
+<p><em>(Thi thoảng, chúng giúp bố mẹ bằng cách đi hái trái cây và đi chăn gia súc.)</em></p>
+<p>Đáp án: F</p>                                                    </div>`,
+      },
+
+      
+
+    ],
+  },
 
   // {
   // semester:,

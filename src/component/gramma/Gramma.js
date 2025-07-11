@@ -12,6 +12,8 @@ const Gramma = ({title}) => {
     
 
     useEffect(() => {
+      setAnswers([]); // Reset answers when title changes
+      setIndexEx(-1); // Reset index when title changes
         let questionPlan = [];
         const setupFirst = (question) => {
             let newQuestion = question.map((item, index) => ({

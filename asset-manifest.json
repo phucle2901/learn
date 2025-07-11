@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/learn/static/css/main.150d4415.css",
-    "main.js": "/learn/static/js/main.0008dfbd.js",
-    "static/js/845.33c9cf6f.chunk.js": "/learn/static/js/845.33c9cf6f.chunk.js",
-    "static/media/bg.jpg": "/learn/static/media/bg.55b8f885f667debe5cad.jpg",
-    "index.html": "/learn/index.html",
-    "main.150d4415.css.map": "/learn/static/css/main.150d4415.css.map",
-    "main.0008dfbd.js.map": "/learn/static/js/main.0008dfbd.js.map",
-    "845.33c9cf6f.chunk.js.map": "/learn/static/js/845.33c9cf6f.chunk.js.map"
+    "main.css": "/npm%20run%20deploy/static/css/main.2db5e2c0.css",
+    "main.js": "/npm%20run%20deploy/static/js/main.ff40901b.js",
+    "static/js/273.db9c2bf4.chunk.js": "/npm%20run%20deploy/static/js/273.db9c2bf4.chunk.js",
+    "static/js/582.52754329.chunk.js": "/npm%20run%20deploy/static/js/582.52754329.chunk.js",
+    "static/js/44.940fc8ff.chunk.js": "/npm%20run%20deploy/static/js/44.940fc8ff.chunk.js",
+    "static/js/485.a424f191.chunk.js": "/npm%20run%20deploy/static/js/485.a424f191.chunk.js",
+    "static/js/930.3d240975.chunk.js": "/npm%20run%20deploy/static/js/930.3d240975.chunk.js",
+    "static/js/728.6d624a67.chunk.js": "/npm%20run%20deploy/static/js/728.6d624a67.chunk.js",
+    "static/js/453.23a83695.chunk.js": "/npm%20run%20deploy/static/js/453.23a83695.chunk.js",
+    "static/media/bg.jpg": "/npm%20run%20deploy/static/media/bg.55b8f885f667debe5cad.jpg",
+    "index.html": "/npm%20run%20deploy/index.html",
+    "main.2db5e2c0.css.map": "/npm%20run%20deploy/static/css/main.2db5e2c0.css.map",
+    "main.ff40901b.js.map": "/npm%20run%20deploy/static/js/main.ff40901b.js.map",
+    "273.db9c2bf4.chunk.js.map": "/npm%20run%20deploy/static/js/273.db9c2bf4.chunk.js.map",
+    "582.52754329.chunk.js.map": "/npm%20run%20deploy/static/js/582.52754329.chunk.js.map",
+    "44.940fc8ff.chunk.js.map": "/npm%20run%20deploy/static/js/44.940fc8ff.chunk.js.map",
+    "485.a424f191.chunk.js.map": "/npm%20run%20deploy/static/js/485.a424f191.chunk.js.map",
+    "930.3d240975.chunk.js.map": "/npm%20run%20deploy/static/js/930.3d240975.chunk.js.map",
+    "728.6d624a67.chunk.js.map": "/npm%20run%20deploy/static/js/728.6d624a67.chunk.js.map",
+    "453.23a83695.chunk.js.map": "/npm%20run%20deploy/static/js/453.23a83695.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.150d4415.css",
-    "static/js/main.0008dfbd.js"
+    "static/css/main.2db5e2c0.css",
+    "static/js/main.ff40901b.js"
   ]
 }

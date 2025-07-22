@@ -1288,7 +1288,7 @@ const Makedo = () => {
             <td>
               <p>
                 <span>
-                  Joining this club to get a chance to practice well. <br />{" "}
+                  Joining this club to get a chance to practice well. <br />
                   (Hãy tham gia câu lạc bộ này để có cơ hội luyện tập tốt.)
                 </span>
               </p>
@@ -1394,7 +1394,7 @@ const Makedo = () => {
             <td>
               <p>
                 <span>
-                  Even an experienced employee can get into trouble. <br />{" "}
+                  Even an experienced employee can get into trouble. <br />
                   (Ngay cả một nhân viên có kinh nghiệm cũng có thể gặp rắc
                   rối.)
                 </span>

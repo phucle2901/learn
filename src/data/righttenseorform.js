@@ -323,6 +323,43 @@ an English course.
 <p style="text-align: justify;">Tạm dịch: Vào thời điểm này năm ngoái, tôi đang tham gia một khóa học tiếng Anh.</p>
 <p style="text-align: justify;"><strong>Đáp án: </strong>was attending</p>                        </div>`,
   },
+  {
+    id: 41,
+    extra: `</p>`,
+    question: `The _______ of the Hunga Tonga-Hunga Happai volcano was on 15 January, 2022. (ERUPT)
+
+`,
+    options: [],
+    answer: `eruption`,
+    rewrite: ``,
+    explanation: `<p>Sau mạo từ “the”, trước giới từ “of” cần một danh từ.</p>
+<p><strong>Tạm dịch:</strong> Vụ phun trào của núi lửa Hunga Tonga-Hunga Happai diễn ra vào ngày 15 tháng 1 năm 2022.</p>
+<p>Đáp án eruption.</p>`,
+  },
+  {
+    id: 41,
+    question: `Some of my friends want to live in the countryside because of the low pace of life, but I find living there is _______ due to the lack of facilities. (CONVENIENCE)
+
+`,
+    options: [],
+    answer: `inconvenient`,
+    rewrite: ``,
+    explanation: `<p style="text-align: justify;">“find” + tân ngữ + tính từ: cảm thấy như thế nào khi làm một việc gì. Dựa vào ý “the lack of facilities” <em>(thiếu thốn cơ sở vật chất)</em> thì ta cần điền một tình từ mang ý nghĩa không tích cực, cần tiền tố ngược nghĩa đứng trước</p>
+<p style="text-align: justify;"><strong>Tạm dịch:</strong> Một số người bạn của tôi muốn sống ở nông thôn vì nhịp sống chậm nơi đây, nhưng tôi thấy cuộc sống ở đó bất tiện vì thiếu thốn cơ sở vật chất.</p>
+<p>Đáp án inconvenient.</p>`,
+  },
+  {
+    id: 41,
+    question: `We all felt terrified when we heard a loud ______ from the nearby building yesterday. (EXPLODE) 
+
+`,
+    options: [],
+    answer: `explosion`,
+    rewrite: ``,
+    explanation: `<p>cụm danh từ “a loud _____” đang thiếu một danh từ chính, nên chỗ trống cần điền vào một danh từ<strong></strong></p>
+<p><strong>Tạm dịch:</strong> Tất cả chúng tôi đều cảm thấy kinh hãi khi nghe thấy một tiếng nổ lớn từ tòa nhà gần đó ngày hôm qua.</p>
+<p>Đáp án explosion.</p>`,
+  },
   // {id:41,
   //   question: `
   //   `, options:[

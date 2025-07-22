@@ -11,7 +11,7 @@ const Gerund = () => {
             marginBottom: "1em",
           }}
         >
-          <h1 class="text-center font-5">
+          <h1 class="text-center text-[1.7em] mb-5 text-shadow-h1">
             <b>
               Danh động từ (Gerunds) và Động từ nguyên mẫu có to (To Infinitive)
             </b>

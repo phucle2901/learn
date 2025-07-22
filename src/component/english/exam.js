@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
-
+import AudioPlayer from 'react-h5-audio-player';
+import 'react-h5-audio-player/lib/styles.css';
 import {answerSttring,fReplaceQuestion,compareAnswer} from "../../component/function/index";
 
 import { ePRONOUNCIATION } from "../../data/pronunciation";
@@ -16,9 +17,10 @@ import { eEXTRACONTENT } from "../../data/extracontent";
 import { eRIGHTTENSE } from "../..//data/righttenseorform";
 
 
-const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
-  //console.log("examId=",examId);
+const Exam = ({setGradeExam,refeshData,setRefeshData,gradeExam}) => {
+console.log("gradeExam=",gradeExam);
   const scrollRef = useRef(null);
+  const playerRef = useRef(null);
   const defaultArray = [2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
   const [questions, setQuestions] = useState([]);
   const [answers, setAnswers] = useState({});
@@ -33,28 +35,24 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
   
   useEffect(() => {    
     if (refeshData) {
+      pauseMedia();
       setAnswers({});
       setSubmitted(false);
       setResults({});
       setRefeshData(false);
       const tempCookies = [...savecocckies];
       function getRandomItems(array, count, extraIndex) {
-        let copy = [...array]; // Make a copy to avoid mutating the original
         const result = [];
         const extraContent = eEXTRACONTENT[extraIndex];
-
         const startIndex = savecocckies[extraIndex] || 0;
-        let index = startIndex;
 
+        let copy = [...array]; // Make a copy to avoid mutating the original
+        let index = startIndex;
         let itemsAdded = 0;
 
-        //console.log('index',index,savecocckies,extraIndex);
-        while (itemsAdded < count && count && copy.length > 0) {
-          //   //const index = Math.floor(Math.random() * copy.length);
-          if (index >= copy.length) index = 0; // Reset index if it exceeds the array length
-          //   if( index > 0 && copy[index].explanation === '') continue; // Skip if the id matches newindex
-
-          //   //const item = copy.splice(index, 1)[0];
+        
+        while (itemsAdded < count && count && copy.length > 0) {         
+          if (index >= copy.length) index = 0; // Reset index if it exceeds the array length         
           const item = copy[index];
           const extraValue = result.length === 0 ? extraContent : "";
           result.push({
@@ -65,8 +63,6 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
           itemsAdded = itemsAdded + 1;
         }
         const newIndex = (startIndex + itemsAdded) % array.length;
-        //console.log('save',newIndex);
-        //handleLocalStorage(extraIndex,newIndex); // Save the updated index to localStorage
         tempCookies[extraIndex] = newIndex;
         return result;
       }
@@ -79,12 +75,10 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
         let index = startIndex;
         let itemsAdded = 0;
 
-        //console.log('index',index,savecocckies,extraIndex);
+       
         while (itemsAdded < count && copy.length > 0) {
-          //const index = Math.floor(Math.random() * copy.length);
           if (index >= copy.length) index = 0;
           if (copy[index].content === "") continue; // Skip if the id matches newindex
-          //result.push(copy.splice(index, 1)[0]);
           const items = copy[index];
 
           items.questions.forEach((item, sindex) => {
@@ -101,8 +95,6 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
           itemsAdded = itemsAdded + 1;
         }
         const newIndex = (startIndex + itemsAdded) % array.length;
-        //console.log('save',newIndex);
-        //handleLocalStorage(extraIndex,newIndex); // Save the updated index to localStorage
         tempCookies[extraIndex] = newIndex;
         return result;
       }
@@ -126,25 +118,22 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
 
       let questionPlan = [];
 
-    if(examId>0){
-        const loadData = async () => {
-          console.log('get exam id');
-           // const module = await import('../../data/exam/exam');
-            // questionPlan.push(...module.eExam[examId-1].questions);
-            // console.log(module.eExam.length);
-            // console.log(module.eExam[examId-1].questions);
-
-
-            const module=await import('../../data/gradeten/gradeten')
-            questionPlan.push(...module.eGradeTen[examId-1].questions);
-            console.log(module.eGradeTen.length);
-            console.log(module.eGradeTen[examId-1].questions);
+    if(gradeExam.examId>0){
+        const loadData = async () => {          
+            let module;
+            if(gradeExam.grade===8){
+              module=await import('../../data/exam/exam.js');
+            }else{
+              module=await import('../../data/gradeten/gradeten');
+            }
+            console.log("grade=====",gradeExam.grade);
+            questionPlan.push(...module.eExam[gradeExam.examId-1].questions);
+            console.log(module.eExam.length);
+            console.log(module.eExam[gradeExam.examId-1].questions);
             setupFirst();
           };
         loadData();
-    }else{
-      
-        console.log('get random');
+    }else{      
         questionPlan.push(...getRandomItems(ePRONOUNCIATION, 2, 0));
         questionPlan.push(...getRandomItems(eWORDDIFFER, 2, 1));
         questionPlan.push(...getRandomItems(eUNDERLINED, 3, 2));
@@ -156,22 +145,18 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
         questionPlan.push(...getRandomItems(eRIGHTTENSE, 4, 7));
         questionPlan.push(...getRandomItems(eREARRANGE, 3, 9));
         questionPlan.push(...getRandomItems(eREWRITE, 5, 10));
-        setupFirst();
-     
+        setupFirst();     
     }
-
-    console.log(questionPlan);
-
     }
-  }, [examId]);
+  }, [gradeExam]);//examId
   const handleRefesh = () => {
-    if(examId===0){
-      setExamId(-1);
+    if(gradeExam.examId===0){
+      setGradeExam({examId:-1,grade:8});
     }else {
-      setExamId(0);
+      setGradeExam({examId:0,grade:8});
     }
     
-
+    pauseMedia();
     setAnswers({});
     setSubmitted(false);
     setResults({});
@@ -188,9 +173,13 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
 
     // You can also get scrollHeight, clientHeight, etc. from e.target
   };
+  const pauseMedia=()=>{
+    if (playerRef.current) {
+      playerRef.current.audio.current.pause();
+    }
+  }
 
   const scrollToTop = () => {
-    console.log("scrollToTop");
     if (scrollRef.current) {
       scrollRef.current.scrollTo({ top: 0, behavior: "smooth" });
     }
@@ -202,6 +191,7 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
     setAnswers((prev) => ({ ...prev, [questionId]: value }));
   };
   const handleSubmit = () => {
+    pauseMedia();
     let count = 0;
     questions.forEach((q) => {
       if (
@@ -216,68 +206,9 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
     setSubmitted(true);
     scrollToTop();
   };
-  // const handleLocalStorage = (index,value) => {
-  //   const newArray = [...savecocckies];
-  //   newArray[index] = value;
-  //   console.log('newArray',newArray);
-  //   setSaveCookies(newArray);
-  //   localStorage.setItem("myArray", JSON.stringify(newArray));
-  // }
-
-  // const answerSttring = (val, isnum) => {
-  //   if (!isnum) {
-  //     return val;
-  //   } else {
-  //     if (val?.toString() === "1") {
-  //       return "A";
-  //     } else if (val?.toString() === "2") {
-  //       return "B";
-  //     } else if (val?.toString() === "3") {
-  //       return "C";
-  //     } else if (val?.toString() === "4") {
-  //       return "D";
-  //     }
-  //   }
-  // };
-  // const cleanSpace = (text) => {
-  //   if (typeof text === "undefined") {
-  //     return "";
-  //   }
-  //   return text.replace(/\s+/g, " ").trim();
-  // };
-//   const cleanLastChar = (str) => {
-//     if (cleanSpace(str) === "") return str;
-//     return str.replace(/[^a-zA-Z]$/, "");
-//   };
-//   const compareAnswer = (result, answer, isnum) => {
-//     if (isnum) {
-//       return parseFloat(result) === parseFloat(answer) + 1;
-//     } else {
-//       if (typeof answer === "undefined") return false;
-//       const cleaned = cleanSpace(answer);
-//       if (
-//         cleanLastChar(result).toString().toLowerCase() ===
-//         cleanLastChar(cleaned)?.toString().toLowerCase()
-//       ) {
-//         return true;
-//       }
-//       return false;
-//     }
-//   };
-  
-// const fReplaceQuestion=(originalString,num)=>{
-//   let newindex=num;  
-//   const newString = originalString.replace(/\((\d+)\)/g, (match,i) => {
-//     newindex=newindex+1;
-//     return  "(" + newindex +")" ;
-//   });
-//   return newString;
-  
-// }
-
+ 
   return (
-    // background: submitted
-    // ? ((q.options.length>0 && answers[q.id]?.toString()=== (q.answer-1).toString())|| (q.options.length===0 && answers[q.id]=== q.answer))
+   
     <>   
       <div class="wrap-question" ref={scrollRef} onScroll={handleScroll}>       
         {questions.map((q,indexQ) => (
@@ -306,6 +237,14 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
                 className="extra-content"
                 dangerouslySetInnerHTML={{ __html: fReplaceQuestion(q.extra,indexQ) }}
               ></div>
+            )}
+            {q.media && q.media.length>0 && (
+              
+              <AudioPlayer class="width-audio"   ref={playerRef}             
+                src={q.media}
+                
+                // other props here
+              />
             )}
             <div
               class="question pb-[5px]"
@@ -375,8 +314,8 @@ const Exam = ({ examId,setExamId,refeshData,setRefeshData}) => {
         <div style={{ marginTop: "0.5em", color: "#fff" }}>
           <h3>Kết quả</h3>
           <p>
-            Số câu trả lời đúng <strong>{results.score}</strong> trên tổng
-            <strong>{results.total}</strong> câu.
+            Số câu trả lời đúng <strong> {results.score} </strong> trên tổng
+            <strong> {results.total} </strong> câu.
           </p>
         </div>
       )}

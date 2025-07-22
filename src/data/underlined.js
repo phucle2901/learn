@@ -3174,6 +3174,67 @@ export const eUNDERLINED = [
             dùng thì quá khứ đơn. 
           </p>`,
   },
+  {
+    id: 41,
+    extra: ``,
+    question: `<p><strong>18</strong><strong>.</strong> We <u>drove</u> to work <u>when</u> it <u>started</u> <u>raining</u> heavily.</p>
+`,
+    options: [
+      `drove
+`,
+      `when
+`,
+      `started
+`,
+      `raining
+`,
+    ],
+    answer: `1`,
+    rewrite: ``,
+    explanation: `<p>Diễn tả một hành động đang xảy ra, một hành động khác xen vào. Hành động lái xe đi làm là hành động đang xảy ra =&gt; chia thì quá khứ tiếp diễn, sửa “drove” thành “were driving”.<strong></strong></p>
+<p><strong>Tạm dịch:</strong> Chúng tôi đang lái xe đi làm thì trời bắt đầu mưa to.</p>
+<p>Đáp án A.</p>`,
+  },
+  {
+    id: 41,
+    question: `<u>Both</u> Jane and Jenny <u>has got</u> long <u>straight</u> hair and they <u>are</u> my friends.</p>
+`,
+    options: [
+      `both
+`,
+      `has got
+`,
+      `straght
+`,
+      `are
+`,
+    ],
+    answer: `1`,
+    rewrite: ``,
+    explanation: `<p>Both ... and được coi là danh từ số nhiều nên khi nó làm chủ ngữ trong câu thì động từ của câu trở về dạng nguyên thể =&gt; sửa “has got” thành “have got”.</p>
+<p><strong>Tạm dịch:</strong> Cả Jane và Jenny đều có mái tóc dài thẳng và họ là bạn của tôi.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    question: `Venice <u>is</u> famous <u>for</u> it <u>peace</u> scenery, cool weather <u>and</u> nice restaurants.</p>
+`,
+    options: [
+      `is
+`,
+      `for
+`,
+      `peace
+`,
+      `and
+`,
+    ],
+    answer: `3`,
+    rewrite: ``,
+    explanation: `<p>Trước danh từ cần tính từ, sửa “peace” thành “peaceful”.</p>
+<p><strong>Tạm dịch:</strong> Venice nổi tiếng với phong cảnh yên bình, thời tiết mát mẻ và những nhà hàng đẹp.</p>
+<p>Đáp án C.</p>`,
+  },
   // {
   //   id: 15,
   //   question: `

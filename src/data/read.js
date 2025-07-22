@@ -1388,184 +1388,281 @@ Some microscopic life forms are more (4) _______ animals. Protozoa such as the a
   }   ,
 
 
-  // {    id:10,
-  //     content:``,
-  //     questions: [
-  //     {id:1, question: ``,
-  //         options:[
-  //            ``,
-  //         ``,
-  //         ``,
-  //         ``
-  //         ],
-  //         answer:4,
-  //         explanation:`` },
+  {    id:10,
+      content:`<p><strong>Read the text about Tina and Emily. Then read the statements below. Write T for Tina and E for Emily next to each of them.
+</strong></p><p>Tina and Emily are cousins and Emily is a year older than Tina. They are also best friends. They live in the same town and they are in the same class. Indeed, they have similarities, but there are some differences.
+</p>
+<p>Tina really enjoys reading. Her favourite genre is folk tales. In her free time, she would rather stay at home than hang out with friends. Her parents think it is not good for her when she spends too much time at home, so they encourage her to join a sports club downtown with her little brother. On Friday and Sunday afternoons, she often goes to the club.
+</p>
+<p>Emily is a big fan of swimming and tennis. She usually wakes up early at weekends to practise those with her father and some of his friends. On weekdays, she goes to extra classes with Tina then returns home and does homework. She sometimes stays up very late because she enjoys watching films at night.
+</p>
+<p>"We're different in some ways actually because Tina is a bit shy, but we're still best friends! We text and phone a lot," says Emily, "but one thing we both like to do is to talk."
+</p>`,
+      questions: [
+      {id:1,  question: `<p>I prefer reading books to going outside.</p>
+        `,
+      options: [`True`, `False`],
+      answer: `1`,
+      explanation: `<p>Tôi thích đọc sách hơn là đi chơi.</p>
+<p><strong>Thông tin: </strong>In her free time, she would rather stay at home than hang out with friends.</p>
+<p><strong>Tạm dịch:</strong> Khi rảnh rỗi, cô thích ở nhà hơn là đi chơi với bạn bè.</p>
+<p>Đáp án T.</p>`, },
 
-  //     {id:2,
-  //     question: `
-  //     `,
-  //     options:[
-  //          ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:`` },
-  //     {id:3,
-  //     question: `
-  //     `,
-  //     options:[
-  //         ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:``
-  //     },
-  //     {id:4,
-  //     question: `
-  //     `,
-  //     options:[
-  //         ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:``
-  //     },
-  //     {id:5,
-  //     question: `
-  //     `,
-  //     options:[
-  //         ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:``
-  //     },
-  // ]
-  // }   ,
+{
+  id: 41,
+  question: `I sometimes watch films at night and go to bed late.
 
+    `,
+  options: [`True`, `False`],
+  answer: `2`,
+  explanation: `<p>Thỉnh thoảng tôi xem phim vào buổi tối và đi ngủ muộn.</p>
+<p><strong>Thông tin: </strong>She sometimes stays up very late because she enjoys watching films at night.</p>
+<p><strong>Tạm dịch:</strong> Đôi khi cô ấy thức rất khuya vì thích xem phim vào ban đêm.</p>
+<p>Đáp án F</p>`,
+},
+{
+  id: 41,
+  question: `I often play sports on Saturday and Sunday mornings.
 
-  // {    id:10,
-  //     content:``,
-  //     questions: [
-  //     {id:1, question: ``,
-  //         options:[
-  //            ``,
-  //         ``,
-  //         ``,
-  //         ``
-  //         ],
-  //         answer:4,
-  //         explanation:`` },
+    `,
+  options: [`True`, `False`],
+  answer: `2`,
+  explanation: `<p>Tôi thường chơi thể thao vào sáng thứ bảy và chủ nhật.</p>
+<p><strong>Thông tin: </strong>She usually wakes up early at weekends to practise those with her father and some of his friends.<strong></strong></p>
+<p><strong>Tạm dịch:</strong> Cô thường thức dậy sớm vào cuối tuần để luyện tập những bộ môn đó với bố và một số bạn bè của ông.</p>
+<p>Đáp án F.</p>`,
+},
+{
+  id: 41,
+  question: `I go to a sports club twice a week.
 
-  //     {id:2,
-  //     question: `
-  //     `,
-  //     options:[
-  //          ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:`` },
-  //     {id:3,
-  //     question: `
-  //     `,
-  //     options:[
-  //         ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:``
-  //     },
-  //     {id:4,
-  //     question: `
-  //     `,
-  //     options:[
-  //         ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:``
-  //     },
-  //     {id:5,
-  //     question: `
-  //     `,
-  //     options:[
-  //         ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:``
-  //     },
-  // ]
-  // }   ,
+    `,
+  options: [`True`, `False`],
+  answer: `1`,
+  explanation: `<p>Tôi đến câu lạc bộ thể thao hai lần một tuần.<strong></strong></p>
+<p><strong>Thông tin: </strong>On Friday and Sunday afternoons, she often goes to the club.</p>
+<p><strong>Tạm dịch:</strong> Vào các buổi chiều thứ sáu và chủ nhật, cô thường đến câu lạc bộ.</p>
+<p>Đáp án T.</p>`,
+},
+{
+  id: 41,
+  question: `I am a shy person, but I love talking to people.
+
+    `,
+  options: [`True`, `False`],
+  answer: `1`,
+  explanation: `<p>Tôi là người nhút nhát nhưng lại thích nói chuyện với mọi người.</p>
+<p style="text-align: justify;"><strong>Thông tin: </strong>"We're different in some ways actually because Tina is a bit shy, but we're still best friends! We text and phone a lot," says Emily, "but one thing we both like to do is to talk."</p>
+<p style="text-align: justify;"><strong>Tạm dịch:</strong> Emily nói: “Thực ra chúng tôi khác nhau ở một số mặt vì Tina hơi nhút nhát, nhưng chúng tôi vẫn là bạn thân! Chúng tôi nhắn tin và gọi điện rất nhiều, nhưng có một điều mà cả hai chúng tôi đều thích làm là nói chuyện”.</p>
+<p>Đáp án T.</p>`,
+},
+  ]
+  }   ,
 
 
-  // {    id:10,
-  //     content:``,
-  //     questions: [
-  //     {id:1, question: ``,
-  //         options:[
-  //            ``,
-  //         ``,
-  //         ``,
-  //         ``
-  //         ],
-  //         answer:4,
-  //         explanation:`` },
+  {    id:10,
+      content:`<p><strong>Read the </strong><strong>text about Cái</strong><strong> Răng Floating Market. Write T (TRUE), F (FALSE) or NI (NO INFORMATION) for each statement.</strong></p>
+    <p style="text-align: justify;">Can Tho is the biggest city in Mekong Delta in Vietnam. It is well-known for its famous tourist attractions, especially Cái Răng Floating Market. People sell things such as flowers, seasonal fruit, vegetables, food and many other things on boats. You are surprised by how lively and crowded this market is in the early morning. Although the market is open all day, its busiest time is from dawn until around 9 a.m.</p>
+    <p style="text-align: justify;">In this market, local people have some ways to sell their products. Hanging their products on an upright pole called cây beo is the most interesting selling way. They display products on the pole, such as carrots, sweet potatoes, mangoes and watermelons. Tourists should try some local dishes here for breakfast. Some of the most popular dishes are cơm tấm and hủ tiếu.</p>
+    <p style="text-align: justify;">Cái Răng Floating Market is an attractive place for tourists to visit because it is a market and also a place for others to learn more about the Vietnamese water culture in the southern region. Hope that you can see the market once and have some experience.</p>`,
+      questions: [
+      {id:1,  question: `Cần Thơ is famous for Cái Răng Floating Market.
 
-  //     {id:2,
-  //     question: `
-  //     `,
-  //     options:[
-  //          ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:`` },
-  //     {id:3,
-  //     question: `
-  //     `,
-  //     options:[
-  //         ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:``
-  //     },
-  //     {id:4,
-  //     question: `
-  //     `,
-  //     options:[
-  //         ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:``
-  //     },
-  //     {id:5,
-  //     question: `
-  //     `,
-  //     options:[
-  //         ``,
-  //         ``,
-  //         ``,
-  //         ``],
-  //     answer:4,
-  //     explanation:``
-  //     },
-  // ]
-  // }   ,
+        `,
+            options: [`True`, `False`],
+            answer: `1`,
+            rewrite: ``,
+            explanation: `<p><strong>Thông tin: </strong>It is well-known for its famous tourist attractions, especially Cái Răng Floating Market.<strong></strong></p>
+    <p><strong>Tạm dịch:</strong> Nơi đây nổi tiếng với những địa điểm du lịch nổi tiếng, đặc biệt là chợ nổi Cái Răng.</p>
+    <p>Đáp án T.</p>`,},
+
+    {
+      id: 41,
+      question: `You can buy different things at Cái Răng Floating Market.
+
+  `,
+      options: [`True`, `False`],
+      answer: `1`,
+      rewrite: ``,
+      explanation: `<p>Bạn có thể mua nhiều thứ khác nhau ở chợ nổi Cái Răng.</p>
+<p><strong>Thông tin: </strong>People sell things such as flowers, seasonal fruit, vegetables, food and many other things on boats.<strong></strong></p>
+<p><strong>Tạm dịch:</strong> Người ta bán những thứ như hoa, trái cây theo mùa, rau, thực phẩm và nhiều thứ khác trên thuyền.</p>
+<p>Đáp án T.</p>`,
+    },
+    {
+      id: 41,
+      question: `The floating market is closed after 9 a.m.
+
+`,
+      options: [`True`, `False`],
+      answer: `2`,
+      rewrite: ``,
+      explanation: `<p>Chợ nổi đóng cửa sau 9 giờ sáng.</p>
+<p><strong>Thông tin: </strong>Although the market is open all day, its busiest time is from dawn until around 9 a.m.</p>
+<p><strong>Tạm dịch:</strong> Dù chợ mở cửa cả ngày nhưng nhộn nhịp nhất là từ sáng sớm cho đến khoảng 9 giờ sáng.</p>
+<p>Đáp án F.</p>`,
+    },
+    {
+      id: 41,
+      question: `Tourists need to have breakfast before visiting Cái Răng Floating Market.
+
+`,
+      options: [`True`, `False`],
+      answer: `2`,
+      rewrite: ``,
+      explanation: `<p>Du khách cần ăn sáng trước khi tham quan Chợ nổi Cái Răng.</p>
+<p>=&gt; Thông tin này không được nhắc đến trong bài.<strong></strong></p>
+<p>Đáp án NI.</p>`,
+    },
+    {
+      id: 41,
+      question: `Floating markets are popular in other parts of Vietnam.
+
+`,
+      options: [`True`, `False`],
+      answer: `2`,
+      rewrite: ``,
+      explanation: `<p>Chợ nổi rất phổ biến ở các vùng khác của Việt Nam.</p>
+<p>=&gt; Thông tin này không được nhắc đến trong bài.</p>
+<p>Đáp án NI.</p>`,
+    },
+  ]
+  }   ,
+
+
+  {    id:10,
+      content:`<p style="text-align: justify;">In the afternoon of September 27, a super typhoon named Noru hit the mainland of central Vietnam. Noru, according to the government, would be the strongest storm in Vietnam over the past two decades.</p>
+      <p style="text-align: justify;">Although people were aware of the danger, there was severe property damage. The strong winds blew away thousands of house roofs and washed away a large number of facilities. The streets were flooded because of the heavy rains. Over 5,000 big trees fell across the road. The storm also destroyed all crops and fish farming. Rainstorms and landslides in mountainous areas made life difficult for the locals. According to reports, at least 10,000 homes were in trouble. Đà Nẵng and Quảng Nam severely suffered from this typhoon. There was no human loss as the police <strong><u>evacuated</u></strong> locals to safe places before the storm swept through. However, flooding after the storm caused the death of two people.</p>
+      <p style="text-align: justify;">The typhoon had a huge impact; however, governmental officers and volunteers from different parts of the country worked hard to improve local people's living conditions after the typhoon. Schools, shops, offices and farms quickly reopened.</p>`,
+      questions: [
+        {
+          id: 41,
+          extra: `
+          `,
+          question: `How many households did the storm affect?
+    
+      `,
+          options: [
+            `more than 10,000
+    `,
+            `less than 10,000
+    `,
+            `10,000
+    `,
+            ` minimum of 10,000
+    `,
+          ],
+          answer: `4`,
+          rewrite: ``,
+          explanation: `<p>A. hơn 10.000</p>
+    <p>B. dưới 10.000</p>
+    <p>C. 10.000</p>
+    <p>D. tối thiểu 10.000</p>
+    <p><strong>Thông tin: </strong>According to reports, at least 10,000 homes were in trouble.<strong></strong></p>
+    <p><strong>Tạm dịch:</strong> Theo báo cáo, ít nhất 10.000 ngôi nhà gặp khó khăn.</p>
+    <p>Đáp án D.</p>`,
+        },
+        {
+          id: 41,
+          question: ` What did Typhoon Noru destroy?
+    
+      `,
+          options: [
+            `streets
+    `,
+            `houses
+    `,
+            `farms
+    `,
+            `all of them
+    `,
+          ],
+          answer: `4`,
+          rewrite: ``,
+          explanation: `<p>A. đường phố</p>
+    <p>B. nhà</p>
+    <p>C. trang trại</p>
+    <p style="text-align: justify;">D. tất cả chúng</p>
+    <p style="text-align: justify;"><strong>Thông tin: </strong>The strong winds blew away thousands of house roofs and washed away a large number of facilities. The streets were flooded because of the heavy rains. Over 5,000 big trees fell across the road. The storm also destroyed all crops and fish farming.<strong></strong></p>
+    <p style="text-align: justify;"><strong>Tạm dịch:</strong> Những cơn gió mạnh đã thổi bay hàng nghìn mái nhà và cuốn trôi nhiều công trình. Đường phố ngập lụt vì những cơn mưa lớn. Hơn 5.000 cây to đổ ngang đường. Cơn bão cũng phá hủy toàn bộ mùa màng và chăn nuôi cá.</p>
+    <p style="text-align: justify;">Đáp án D.</p>`,
+        },
+        {
+          id: 41,
+          question: `Which of the following is the closest in meaning to the word <strong><u>evacuated</u></strong>?
+        `,
+          options: [
+            `brought
+    `,
+            `provided
+    `,
+            `supported
+    `,
+            `built
+    `,
+          ],
+          answer: `1`,
+          rewrite: ``,
+          explanation: `<p>A. đưa, mang</p>
+    <p>B. cung cấp</p>
+    <p>C. hỗ trợ</p>
+    <p>D. xây dựng</p>
+    <p><strong>Thông tin: </strong>There was no human loss as the police <strong><u>evacuated</u></strong> locals to safe places before the storm swept through.</p>
+    <p><strong>Tạm dịch: </strong>Không có thiệt hại về người bởi vì cảnh sát sơ tán người dân địa phương đến nơi an toàn trước khi cơn bão quét qua.</p>
+    <p>Đáp án A.</p>`,
+        },
+        {
+          id: 41,
+          question: `According to the text, which of the following statements is NOT true?
+    
+        `,
+          options: [
+            `There were no deaths in the storm.
+    `,
+            `The typhoon brought heavy rains and powerful winds.
+    `,
+            `The government didn't take any actions to help the local people.
+    `,
+            `The storm caused serious damage to local property.
+    `,
+          ],
+          answer: `3`,
+          rewrite: ``,
+          explanation: `<p>A. Không có người chết trong cơn bão.</p>
+    <p>B. Bão mang theo mưa lớn và gió mạnh.</p>
+    <p>C. Chính phủ đã không có hành động nào để giúp đỡ người dân địa phương.</p>
+    <p>D. Cơn bão đã gây thiệt hại nghiêm trọng cho tài sản ở địa phương.<strong></strong></p>
+    <p style="text-align: justify;"><strong>Thông tin: </strong>The typhoon had a huge impact; however, governmental officers and volunteers from different parts of the country worked hard to improve local people's living conditions after the typhoon.<strong></strong></p>
+    <p style="text-align: justify;"><strong>Tạm dịch:</strong> Cơn bão có ảnh hưởng rất lớn; tuy nhiên, các quan chức chính phủ và tình nguyện viên từ nhiều nơi trên đất nước đã làm việc chăm chỉ để cải thiện điều kiện sống của người dân địa phương sau cơn bão.</p>
+    <p>Đáp án C.</p>`,
+        },
+        {
+          id: 41,
+          question: `What is the text mainly about?
+    
+        `,
+          options: [
+            `The cause of Typhoon Noru
+    `,
+            `The direction of Typhoon Noru
+    `,
+            `The impact of Typhoon Noru
+    `,
+            `The way local people faced Typhoon Noru
+    `,
+          ],
+          answer: `3`,
+          rewrite: ``,
+          explanation: `<p>A. Nguyên nhân bão Noru</p>
+    <p>B. Hướng đi của bão Noru</p>
+    <p>C. Ảnh hưởng của bão Noru</p>
+    <p>D. Cách người dân địa phương đối mặt với bão Noru</p>
+    <p>Đáp án C.</p>`,
+        },
+
+      
+  ]
+  }   ,
 
 
   // {    id:10,

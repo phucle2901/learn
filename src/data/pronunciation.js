@@ -3549,6 +3549,113 @@ not permitted
   {
     id: 41,
     question: `
+    `,
+    options: [
+      `<p>A. whish<u>es</u></p>`,
+      `<p>B. practic<u>es</u> </p>`,
+      `<p>C. leav<u>es</u></p>`,
+      `<p>D. introduc<u>es</u></p>`,
+    ],
+    answer: `3`,
+    explanation: `<p><strong>Kiến thức: </strong>Phát âm “s”</p>
+<p>Cách phát âm đuôi “s”:</p>
+<p>- Phát âm là /s/ khi từ có phát âm kết thúc là /f/, /t/, /k/, /p/, /θ/.</p>
+<p>- Phát âm là /iz/ khi từ có phát âm kết thúc là /s/, /z/, /∫/, /t∫/, /dʒ/, /ʒ/.</p>
+<p>- Phát âm là /z/ đối với những từ còn lại.</p>
+<p>A. wish<u>es</u> /ˈwɪʃɪz/</p>
+<p>B. practic<u>es</u> /ˈpræktɪsɪz<strong>/</strong></p>
+<p>C. leav<u>es</u> /liːvz/<strong></strong></p>
+<p>D. introduc<u>es</u> /ˌɪntrəˈdjuːsɪz/</p>
+<p>Đáp án A, B, D phát âm là /iz/, đáp án C phát âm là /z/</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+    `,
+    options: [
+      `<p>A. suppos<u>ed</u></p>`,
+      `<p>B. clos<u>ed</u> </p>`,
+      `<p>C. delay<u>ed</u></p>`,
+      `<p>D. stopp<u>ed</u><u></u></p>`,
+    ],
+    answer: `4`,
+    explanation: `<p><strong>Kiến thức: </strong>Phát âm “-ed”</p>
+<p>Cách phát âm đuôi “ed”:</p>
+<p>+ Đuôi “ed” được phát âm là /t/ khi động từ có phát âm kết thúc là /tʃ/, /θ/, /ʃ/, /s/, /k/, /p/, /f/</p>
+<p>+ Đuôi “ed” được phát âm là /ɪd/ khi động từ có phát âm kết thúc là /t/, /d/</p>
+<p>+ Đuôi “ed” được phát âm là /d/ với các trường hợp còn lại</p>
+<p>A. suppos<u>ed</u></p>
+<p>B. clos<u>ed</u> </p>
+<p>C. delay<u>ed</u></p>
+<p>D. stopp<u>ed</u><u></u></p>
+<p>Đáp án A, B, C phát âm là /d/, đáp án D phát âm là /t/</p>
+<p>Đáp án D.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `
+    `,
+    options: [
+      `<p>A. w<u>a</u>rd</p>`,
+      `<p>B. <u>a</u>rt</p>`,
+      `<p>C. st<u>a</u>r</p>`,
+      `<p>D. c<u>a</u>r</p>`,
+    ],
+    rewrite: ``,
+    answer: `1`,
+    explanation: `<p>A. w<u>a</u>rd /wɔːd/</p>
+<p>B. <u>a</u>rt /ɑːt/</p>
+<p>C. st<u>a</u>r /stɑː(r)/</p>
+<p>D. c<u>a</u>r /kɑː(r)/</p>
+<p>Phần gạch chân ở đáp án A được phát âm là /ɔː/, ở những từ còn lại đèu được phát âm là /ɑː/</p>
+<p>Đáp án A.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `<p>A. s<u>ea</u></p>`,
+      `<p>B. h<u>ea</u>d </p>`,
+      `<p>C. m<u>ea</u>t</p>`,
+      `<p>D. m<u>ea</u>l</p>`,
+    ],
+    answer: `2`,
+    rewrite: ``,
+    explanation: `<p>A. s<u>ea</u> /siː/</p>
+<p>B. h<u>ea</u>d /hed/</p>
+<p>C. m<u>ea</u>t /miːt/</p>
+<p>D. m<u>ea</u>l /miːl/</p>
+<p>Phần gạch chân ở đáp án B được phát âm là /e/, ở những từ còn lại đèu được phát âm là /iː/</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `<p>A. read<u>s</u></p>`,
+      `<p>B. eat<u>s</u></p>`,
+      `<p>C. cook<u>s</u></p>`,
+      `<p>D. hope<u>s</u><u></u></p>`,
+    ],
+    answer: `1`,
+    rewrite: ``,
+    explanation: `<p>- Phát âm là /s/ khi từ có phát âm kết thúc là /f/, /t/, /k/, /p/, /θ/.</p>
+<p>- Phát âm là /iz/ khi từ có phát âm kết thúc là /s/, /z/, /∫/, /t∫/, /dʒ/, /ʒ/.</p>
+<p>- Phát âm là /z/ đối với những từ còn lại.</p>
+<p>A. read<u>s</u> /riːdz/</p>
+<p>B. eat<u>s</u> /iːts/</p>
+<p>C. cook<u>s</u> /kʊks/</p>
+<p>D. hope<u>s</u> /həʊps/</p>
+<p>Đáp án B, C, D phát âm là /s/, đáp án A phát âm là /z/</p>
+<p>Đáp án A.</p>`,
+  },
+  {
+    id: 41,
+    question: `
   `,
     options: [
       `d<ins>e</ins>test`,
@@ -3584,6 +3691,88 @@ not permitted
     ],
     answer: `4`,
     explanation: ``,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `
+`,
+    options: [
+      `<p>A. dis<u>a</u>ster</p>`,
+      `<p>B. st<u>a</u>rt</p>`,
+      `<p>C. f<u>a</u>rm</p>`,
+      `<p>D. P<u>a</u>cific</p>`,
+    ],
+    rewrite: `4`,
+    answer: ``,
+    explanation: `<p>A. dis<u>a</u>ster /dɪˈzɑːstə(r)/</p>
+<p>B. st<u>a</u>rt /stɑːt/</p>
+<p>C. f<u>a</u>rm /fɑːm/</p>
+<p>D. P<u>a</u>cific /pəˈsɪfɪk/</p>
+<p>Phần được gạch chân ở đáp án D được phát âm là /ə/, ở những phương án còn lại được phát âm là /ɑː/.</p>
+<p>Đáp án D.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `n<u>u</u>mber`,
+      `st<u>u</u>dy`,
+      `inj<u>u</u>re`,
+      `er<u>u</u>pt`,
+    ],
+    answer: `3`,
+    rewrite: ``,
+    explanation: `<p>A. n<u>u</u>mber /ˈnʌmbə(r)/</p>
+<p>B. st<u>u</u>dy /ˈstʌdi/</p>
+<p>C. inj<u>u</u>re /ˈɪndʒə(r)/</p>
+<p>D. er<u>u</u>pt /ɪˈrʌpt/</p>
+<p>Phần được gạch chân ở đáp án C được phát âm là /ə/, ở những phương án còn lại được phát âm là /ʌ/.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `c<u>a</u>lm`,
+      `cr<u>a</u>sh`,
+      `f<u>a</u>ther`,
+      `h<u>a</u>rd`,
+    ],
+    answer: `2`,
+    rewrite: ``,
+    explanation: `<p>A. c<u>a</u>lm /kɑːm/</p>
+<p>B. cr<u>a</u>sh /kræʃ/</p>
+<p>C. f<u>a</u>ther /ˈfɑːðə(r)/</p>
+<p>D. h<u>a</u>rd /hɑːd/</p>
+<p>Phần được gạch chân ở đáp án C được phát âm là /æ/, ở những phương án còn lại được phát âm là /ɑː/.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `
+    `,
+    options: [
+      `<p>A. desk<u>s</u></p>`,
+      `<p>B. map<u>s</u></p>`,
+      `<p>C. plant<u>s</u></p>`,
+      `<p>D. tree<u>s</u></p>`,
+    ],
+    answer: `4`,
+    explanation: `<p><strong>Kiến thức: </strong>Phát âm “s”</p>
+    <p>Cách phát âm đuôi “s”:</p>
+    <p>- Phát âm là /s/ khi từ có phát âm kết thúc là /f/, /t/, /k/, /p/, /θ/.</p>
+    <p>- Phát âm là /iz/ khi từ có phát âm kết thúc là /s/, /z/, /∫/, /t∫/, /dʒ/, /ʒ/.</p>
+    <p>- Phát âm là /z/ đối với những từ còn lại.</p>
+    <p>A. desk<u>s</u> /dɛsks/</p>
+    <p>B. map<u>s</u> /mæps/</p>
+    <p>C. plant<u>s</u> /plɑːnts/</p>
+    <p>D. tree<u>s</u> /triːz/</p>
+    <p>Đáp án A, B, C phát âm là /s/, đáp án D phát âm là /z/</p>
+    <p>Đáp án D.</p>`,
   },
   // {
   //   id: 41,

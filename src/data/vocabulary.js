@@ -2361,6 +2361,159 @@ virtual
   },
   {
     id: 41,
+    extra: ``,
+    question: `Ann: “ ______ is the event in Merry Theme Park?" - Mike: "Next weekend."
+    `,
+    options: [
+      `Who
+`,
+      `What
+`,
+      `When
+`,
+      `How
+`,
+    ],
+    answer: `3`,
+    explanation: `<p><strong>Kiến thức: </strong>Từ để hỏi</p>
+<p>Dấu hiệu “next weekend” chỉ thời gian, chọn từ để hỏi “When”</p>
+<p><strong>Tạm dịch:</strong> Khi nào sự kiện Merry Theme Park diễn ra vậy? – Cuối tuần tới.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: ` I like visiting small villages because they are calm and ________.
+
+    `,
+    options: [
+      `noisy
+`,
+      `polluted
+`,
+      `peaceful
+`,
+      `crowded
+`,
+    ],
+    answer: `3`,
+    explanation: `<p><strong>Kiến thức: </strong>Từ vựng</p>
+<p>Tôi thích đến thăm những ngôi làng nhỏ vì chúng yên tĩnh và ________.</p>
+<p>A. noisy: ồn ào</p>
+<p>B. polluted: bị ô nhiễm</p>
+<p>C. peaceful: bình yên</p>
+<p>D. crowded: đông đúc</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: ` Peter always _______ to the lake near his village, but today he ________.
+
+    `,
+    options: [
+      `walks / is riding
+`,
+      `walk / ride
+`,
+      `walks / rides
+`,
+      `walk / is riding
+`,
+    ],
+    answer: `1`,
+    explanation: `<p><strong>Kiến thức: </strong>Thì Hiện tại đơn – Hiện tại tiếp diễn</p>
+<p>Dùng thì Hiện tại đơn để diễn tả hành động thường xuyên xảy ra, một thói quen ở hiện tại. Còn thì Hiện tại tiếp diễn dùng để diễn tảhành động sẽ xảy ra trong tương lai gần mà đã được lên kế hoạch từ trước.</p>
+<p><strong>Tạm dịch:</strong> Peter luôn đi bộ đến hồ gần làng của anh ấy, nhưng hôm nay anh ấy đang cưỡi ngựa.</p>
+<p>Đáp án A.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `At weekends, Lisa's mum often lets her ________ shopping at the nearby market.
+
+    `,
+    options: [
+      ` to go
+`,
+      `going
+`,
+      `go
+`,
+      `goes
+`,
+    ],
+    answer: `3`,
+    explanation: `<p><strong>Kiến thức: </strong>Câu mệnh lệnh, cầu khiến</p>
+<p>Cấu trúc: Let + O + V bare</p>
+<p><strong>Tạm dịch:</strong> Vào cuối tuần, mẹ Lisa thường cho cô ấy đi mua sắm ở chợ gần đó.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `The firefighters _______ when the fire was spreading through the building.
+
+    `,
+    options: [
+      `were coming
+`,
+      `come
+`,
+      `came
+`,
+      `coming
+`,
+    ],
+    answer: `3`,
+    explanation: `<p><strong>Kiến thức: </strong>Thì quá khứ đơn</p>
+<p>Diễn tả một hành động đang xảy ra trong quá khứ thì có một hành động khác chen vào. Hành động đang xảy ra chia ở thì quá khứ tiếp diễn, hành động chen vào chia thì quá khứ đơn.</p>
+<p><strong>Tạm dịch:</strong> Lực lượng cứu hỏa có mặt khi ngọn lửa lan rộng khắp tòa nhà.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `Fiona looked out of the window and suddenly _________ a loud explosion.
+
+    `,
+    options: [
+      `heard
+`,
+      `hearing
+`,
+      `hears
+`,
+      `was hearing
+`,
+    ],
+    answer: `1`,
+    explanation: `<p><strong>Kiến thức: </strong>Thì Quá khứ đơn</p>
+<p>Dấu hiệu “looked out” thì quá khứ đơn, sau “and” cũng chia thì quá khứ đơn</p>
+<p><strong>Tạm dịch:</strong> Fiona nhìn ra ngoài cửa sổ và đột nhiên nghe thấy một tiếng nổ lớn.</p>
+<p>Đáp án A.</p>`,
+  },
+  {
+    id: 41,
+    question: `Water _______ the whole area at 4 p.m. yesterday afternoon.
+
+    `,
+    options: [
+      `was covering
+`,
+      `covering  
+`,
+      `covers
+`,
+      `covered
+`,
+    ],
+    answer: `1`,
+    explanation: `<p><strong>Kiến thức: </strong>Thì Quá khứ tiếp diễn</p>
+<p>Diễn tả một hành động đang xảy ra tại một thời điểm xác định trong quá khứ.<strong> </strong>Dấu hiệu “4 p.m yesterday afternoon”.</p>
+<p><strong>Tạm dịch:</strong> Nước ngập toàn bộ khu vực lúc 4 giờ chiều hôm qua.</p>
+<p>Đáp án A.</p>`,
+  },
+  {
+    id: 41,
     question: `Nam helped his parents _____ the rice onto the ox-drawn cart.
 
   `,
@@ -4004,6 +4157,1387 @@ could
 <p>=&gt; In the mid-19th century, scientists discovered that Mars had some similarities <strong>with</strong> Earth.</p>
 <p><em>Tạm dịch: </em><em>Vào giữa thế kỷ 19, các nhà khoa học phát hiện ra rằng sao Hỏa có một số điểm tương đồng với Trái đất.</em></p>                        </div>`,
   },
+  {//COLLOCATIONS- IDIOMS- PHRASAL VERBS- PREPOSITIONS
+    id: 41,
+    question: `Desks are arranged in a U-shape, so the teacher can interact ___________ the students easily.
+  `,
+    options: [`with  `,`to `,` under `,` off`],
+    answer: `1`,
+    explanation: `<p >
+Theo cấu trúc sau: interact with sb: tương tác với ai<br>
+=&gt;Do đó ta chọn đáp án A<br>
+| Tạm dịch: Bàn được sắp xếp theo hình chữ U, vì vậy giáo viên có thể tương tác với học sinh<br>
+một cách dễ dàng.<br>
+*Note:<br>
+ngành<br>
++be arranged in sth: được sắp xếp theo dạng gì</p>`,
+  },
+  {
+    id: 41,
+    question: `You get the wrong end of the ___________ in a family situation that leads you to make false assumptions. 
+  `,
+    options: [`gun  `,`pen  `,` stick  `,` stock `],
+    answer: `3`,
+    explanation: `A. gun /ɡʌn/ (n): súng<br/>
+B. pen /pen/ (n): cây bút<br/>
+C. stick /stɪk/ (n): cái gậy, que củi<br/>
+D. stock /stɒk/ (n): kho dự trữ, kho<br/>
+
+Ta có cụm từ: get the wrong end of the stick: không hiểu ý, truyền đạt sai hoặc xuyên tạc và bóp méo sự thật.<br/>
+=> Do đó, ta chọn đáp án C<br/>
+Tạm dịch: Việc bạn hiểu sai một tình huống trong gia đình có thể khiến bạn đưa ra những giả định sai lầm.<br/>
+Notes:<br/>
+
+lead somebody to do something: khiến ai làm gì<br/>
+
+make an assumption /əˈsʌmpʃn/: đưa ra giả định, tự cho rằng`,
+  },
+  {
+    id: 41,
+    question: `Does that name ________ to you? 
+  `,
+    options: [`fall into place   `,`foot the bill   `,` break the ice  `,` ring a bell `],
+    answer: `4`,
+    explanation: `<p><b>Kiến thức về thành ngữ</b><br/>
+*Xét các đáp án:<br/>
+A. fall into place: diễn ra tốt đẹp, suôn sẻ, không vướng phải bất cứ trở ngại nào<br/>
+B. foot the bill: trả tiền cho thứ gì đó (thường là những đồ xa xỉ, đắt tiền)<br/>
+C. break the ice: phá vỡ bầu không khí ngượng ngùng khi gặp ai đó lần đầu tiên<br/>
+D. ring a bell: gợi nhớ, liên tưởng tới ai/điều gì đó có vẻ quen thuộc mà bạn đã từng gặp/từng trải qua<br/>
+Tạm dịch: Cái tên đó có khiến bạn nhớ tới ai không?<br/>
+=> Do đó, D là đáp án phù hợp<br/></p>`,
+  },
+  {
+    id: 41,
+    question: `The alarm clock suddenly ________ in the middle of the night.
+  `,
+    options: [`went by    `,`went off    `,` went on   `,` went out`],
+    answer: `2`,
+    explanation: `<b>Kiến thức về cụm động từ</b><br/>
+*Xét các đáp án:<br/>
+A. went by: (ai) lướt qua, (thời gian) trôi qua<br/>
+B. went off: (bom) nổ, (đèn) ai đó thiêu, (đồng hồ) đổ chuông<br/>
+C. went on: tiếp tục<br/>
+D. went out: ra ngoài, (lửa) dập tắt<br/>
+Tạm dịch: Đồng hồ báo thức bất chợt reo lên giữa đêm.<br/>
+=> Do đó, B là đáp án phù hợp<br/>`,
+  },
+  {
+    id: 41,
+    question: `This library card will give you free access _______ the Internet eight hours a day. 
+  `,
+    options: [`in     `,`on     `,` to    `,` from `],
+    answer: `3`,
+    explanation: `- Collocation: access to sth: truy cập vào đâu<br/>
+Tạm dịch: Thư viện này sẽ cho phép bạn truy cập Internet miễn phí tám giờ mỗi ngày.<br/>
+=> Do đó, C là đáp án phù hợp<br/>`,
+  },
+  {
+    id: 41,
+    question: `He was deeply ashamed________ his behavior at the party last night. 
+  `,
+    options: [`to     `,`of     `,` in    `,` about `],
+    answer: `2`,
+    explanation: `- Ta có cấu trúc: be ashamed of something: xấu hổ về điều gì đó<br/>
+Tạm dịch: Anh ấy vô cùng xấu hổ về hành vi của mình tại bữa tiệc tối qua.<br/>
+=> Do đó, B là đáp án phù hợp<br/>`,
+  },
+  {
+    id: 41,
+    question: `This theory is quite difficult to take in. Could you_______ for me? 
+  `,
+    options: [`get it across   `,`break it down   `,` put it up   `,` turn it off`],
+    answer: `2`,
+    explanation: `A. get sth across to sb: trình bày, giải thích rõ ràng, để hiểu cho ai<br/>
+B. break sth down: chia nhỏ ra để phân tích nó, dễ để làm hơn<br/>
+C. put sth up: dựng lên<br/>
+D. turn sth off: tắt<br/>
+Tạm dịch: Lý thuyết này khá khó tiếp thu. Bạn có thể chia nhỏ ra để phân tích cho tôi được không?<br/>
+=> Do đó, B là đáp án phù hợp<br/>`,
+  },
+  {
+    id: 41,
+    question: `He's really got the bit between his_______ so that he can pass the exam with flying colors. 
+  `,
+    options: [`teeth    `,`hands    `,` neck   `,` eyes `],
+    answer: `1`,
+    explanation: `- Idiom: Get the bit between (someone’s) teeth: kiên quyết, quyết tâm làm gì<br/>
+Tạm dịch: Anh ấy thực sự quyết tâm để anh ấy có thể vượt qua kỳ thi một cách xuất sắc.<br/>
+=> Do đó, A là đáp án phù hợp<br/><br/>`,
+  },
+  {
+    id: 41,
+    question: `The jury______ her compliments on her excellent knowledge of the subject.
+  `,
+    options: [`did     `,`paid    `,` made   `,` gave `],
+    answer: `2`,
+    explanation: `- pay sb compliments on something: khen ngợi ai về điều gì<br/>
+Tạm dịch: Ban giám khảo đã khen ngợi khiên thí sinh thể hiện tuyệt vời của cô ấy về chủ đề này.<br/>
+=> Do đó, B là đáp án phù hợp<br/><br/>`,
+  },
+  {
+    id: 41,
+    question: `People are sometimes sick ________ the Internet users’ group arguments in online forums.
+  `,
+    options: [`off   `,`into     `,` to    `,` of `],
+    answer: `4`,
+    explanation: `- Collocation: be sick of (sb) doing sth: chán hoặc không chịu đựng được điều gì đó xảy ra trong thời gian dài và muốn nó dừng lại<br/>
+Tạm dịch: Mọi người đôi khi phát ngán với những cuộc tranh luận nhàm chán người dùng Internet trên các diễn đàn trực tuyến.<br/>
+=> Do đó, D là đáp án phù hợp<br/><br/>`,
+  },
+  {
+    id: 41,
+    question: `When students take a step out of their _____ zone, they need some encouragement from their teachers 
+and parents. 
+  `,
+    options: [`comfort   `,`control    `,` parking   `,` climate `],
+    answer: `1`,
+    explanation: `A. comfort /ˈkʌmfət/ (n): sự an ủi, thoải mái => Kết hợp từ: comfort zone: là vùng an toàn mà bạn đã trở nên quen thuộc và ít khả năng phá bỏ nó<br/>
+B. control /kənˈtrəʊl/ (n): sự điều khiển, kiểm soát<br/>
+C. parking /ˈpɑːkɪŋ/ (n): chỗ đỗ xe<br/>
+D. climate /ˈklaɪmət/ (n): khí hậu<br/>
+Tạm dịch: Khi học sinh bước ra khỏi vùng an toàn của mình, các em cần sự động viên từ giáo viên và cha mẹ.<br/>
+=> Do đó, A là đáp án phù hợp<br/><br/>`,
+  },
+  {
+    id: 12,
+    question: `If you use Bluetooth to pair your car with your phone, you can answer and _______ calls using these 
+buttons.
+  `,
+    options: [ ` get off   
+`,` take after    
+`,` hang up 
+`,` make out `],
+    answer: `1`,
+    explanation: `A. get off: xuống xe<br/>
+B. take after: giống với<br/>
+C. hang up: kết thúc cuộc điện thoại<br/>
+D. make out: hiểu, phân biệt, nhận ra<br/>
+*Xét các đáp án:<br/>
+A. get off: xuống xe<br/>
+B. take after: giống với<br/>
+C. hang up: kết thúc cuộc điện thoại<br/>`,
+  },
+  {
+    id: 13,
+    question: ` We are straining every ____ for the upcoming national high school exam. 
+  `,
+    options: [ ` nerve   
+`,`brain    
+`,`cell 
+`,`skin `],
+    answer: `1`,
+    explanation: `strain every nerve: nổ lực nhất có thể<br/>> Tạm dịch: Chúng ta đang rất cố gắng cho kuy2 thi THPT sắp tới`,
+  },
+  {
+    id:14,
+    question: `Of course, he didn’t win the lottery! He was only _____ your leg.
+  `,
+    options: [`pulling`,` getting`,` making`,`taking`],
+    answer: `1`,
+    explanation: `pull someone's leg: trêu, chọc ai, nói một đềi không có thật để trêu đùa<br/>>Tạm dịch: Tất nhiên, anh ấy kh6ong trúng xổ số! Anh ấy chỉ trêu bạn thôi.`,
+  },
+  {
+    id: 41,
+    question: `We’re particularly proud _____ our company’s environmental record
+  `,
+    options: [`at`,` of`,` from`,`with`],
+    answer: `2`,
+    explanation: `<p>- Collocation: be proud of something: tự hào về cái gì đó<br/>
+Tạm dịch: Chúng tôi đặc biệt tự hào về l ) sơ môi trường của công ty mình.<br/>
+Do đó, B là đáp án phù hợp</p>`,
+  },
+  {
+    id: 41,
+    question: `Light pollution at night can _____ us awake and disrupt our sleep patterns.
+  `,
+    options: [`maintain`,` keep`,` hold`,`stay`],
+    answer: `2`,
+    explanation: `<p>
+    A. maintain:(v) duy trì giữ vững<br/>
+    B. keep: (v) giữ
+    C. hold /hould/ (v): nắm giữ, duy trì<br/>
+D. stay /ster/ (v): ở lại<br/>
+-keep somebody/something + adj: giữ ai/cái gì như thế nào<br/>
+Tạm dịch: Ô nhiễm ánh sáng vào ban đêm có thể khiến chúng ta tỉnh táo và làm gián đoạn
+giấc ngủ của chúng ta.</p>`,
+  },
+  {
+    id: 41,
+    question: `We have always had to _____ extra staff at Christmas.
+  `,
+    options: [`take in`,` take up`,` take over`,`take on`],
+    answer: `4`,
+    explanation: `<p>A. take in: hiểu được, nhận thức được<br/>
+B. take up: bắt đầu một hoạt động, sở thích<br/>
+C. take over: tiếp quản, nắm quyền kiểm soát<br/>
+D. take on: tuyển dụng, đảm nhiệm<br/>
+Tạm dịch: Chúng tôi luôn phải tuyển thêm nhân viên vào dịp Giáng sinh.<br/>
+Do đó, D là đáp án phù hợp</p>`,
+  },
+  {
+    id: 18,
+    question: `When my coworker came back from a leave of absence, we all _____ her recovery.
+  `,
+    options: [`asked after`,` got over`,` looked after`,`checked in`],
+    answer: `1`,
+    explanation: `A. ask after: hỏi thăm, quan tâm<br/>
+B. get over: vượt qua<br/>
+C. hold on: giữ máy, chờ đợi<br/>
+D. come into: thừa kế<br/>
+Tạm dịch: Khi đồng nghiệp của tôi trở lại sau thời gian nghỉ phép, tất cả chúng tôi đều hỏi thăm tình hình mới đây của cậu ấy.`,
+  },
+  {
+    id: 19,
+    question: `My mother and I are cut from the same ________, both having a strong sense of style and creativity when it comes to fashion.
+  `,
+    options: [`shirt`,` cloth`,` pant`,`page`],
+    answer: `2`,
+    explanation: `<p>- Be cut from/out of the same cloth: có cùng phẩm chất, quan điểm, niềm tin... giống với ai/cái gì đó<br/>
+Tạm dịch: Mẹ tôi và tôi cực kỳ giống nhau, cả hai đều có phong cách và sáng tạo mạnh mẽ đến lạ thường.</p>`,
+  },
+  {
+    id: 41,
+    question: `She was eager ________ her performance on stage in front of a live audience.
+  `,
+    options: [`about`,` of`,` for`,`with`],
+    answer: `3`,
+    explanation: `<p>- Collocation: be eager for sth: háo hức, hào hứng về cái gì<br/>
+Tạm dịch: Chúng tôi háo hức với màn biểu diễn trên sân khấu trước khán giả trực tiếp.</p>`,
+  },
+  {
+    id: 21,
+    question: `Governments should ________ action to eliminate gender discrimination.
+  `,
+    options: [`do`,` take`,` make`,`give`],
+    answer: `4`,
+    explanation: `take action: hành động<br/>
+Tạm dịch: Chính phủ nên hành động để xóa bỏ phân biệt giới tính.`,
+  },
+  {
+    id: 22,
+    question: `The school will be centered ________ improving graduation rates and preparing students for lifelong learning and entry into high-skill careers.
+  `,
+    options: [`on`,` in`,` for`,`at`],
+    answer: `1`,
+    explanation: `center on/around sth, tập trung, xong quanh chị giới học tập suất đời và hoặc của các ngành nghề đổi lại kỹ năng của.`,
+  },
+  {
+    id: 23,
+    question: `We ________ our brains but we couldn’t come up with a solution.
+  `,
+    options: [`hit`,` racked`,` picked`,`tore`],
+    answer: `2`,
+    explanation: `A. hit /hɪt/: đánh, tác động vật lý<br/>
+B. rack /ræk/ (v): hành hạ, tra tấn<br/>
+C. pick /pɪk/: chọn ra, nhặt lên<br/>
+D. tore /tɔːr/: xé toạc ra<br/>
+    Idiom: rack one's brain: cố nhớ một chuyện gì; để giải quyết vấn đề gì<br/>
+    Tạm dịch: Chúng tôi vắt óc suy nghĩ nhưng không thể nghĩ ra giải pháp.`,
+  },
+  {
+    id: 24,
+    question: `The teacher told her to ________ her socializing because it was affecting her schoolwork.
+  `,
+    options: [`face up to`,` drop out of`,` cut down on`,`get on with`],
+    answer: `3`,
+    explanation: `A. face up to: đối mặt với<br/>
+B. drop out of: bỏ học<br/>
+C. cut down on: cắt giảm đi<br/>
+D. get on with: có mối quan hệ tốt<br/>
+
+Tạm dịch: Giáo viên báo cô ấy giảm hoạt động xã hội lại bởi vì nó ảnh hưởng tới việc học tập của cô.<br/>
+`,
+  },
+  {
+    id: 41,
+    question: `She ____ some very helpful suggestions but her boss rejected them all.
+  `,
+    options: [`had`,` made`,` gave`,`expressed`],
+    answer: `2`,
+    explanation: `make suggestion: đưa ra gợi ý, đề xuất<br/>
+Tạm dịch: Cô ấy đã đưa ra một số gợi ý rất hữu ích nhưng sếp của cô ấy đã từ chối tất cả.
+Do đó, B là đáp án phù hợp`,
+  },
+  {
+    id: 41,
+    question: `I was surprised _____ the way he behaved. It was completely out of character.
+  `,
+    options: [`of`,` at`,` on`,`about`],
+    answer: `2`,
+    explanation: `be surprised at sth: ngạc nhiên với cái gì<br/>
+Tạm dịch: Tôi rất ngạc nhiên với cách cư xử của anh ta. Nó hoàn toàn bất thường.`,
+  },
+  {
+    id: 41,
+    question: `Language belongs to everyone, so most people feel that they have a right to _____ an opinion about it.
+  `,
+    options: [`hold`,` take`,` lead`,`make`],
+    answer: `1`,
+    explanation: ` hold/have an opinion on/about sth: có quan điểm về điều gì<br/>
+Tạm dịch: Ngôn ngữ thuộc về tất cả mọi người, vì vậy hầu hết mọi người cảm thấy rằng họ có quyền có ý kiến về nó.`,
+  },
+  {
+    id: 41,
+    question: `Joe ______ a lot of money, which changed his life completely.
+  `,
+    options: [`came up with`,` came into`,` came in for`,`came down with`],
+    answer: `2`,
+    explanation: `A. came up with: nảy ra, nghĩ ra<br/>
+B. came into: thừa kế<br/>
+C. came in for: nhận lấy, chuốc lấy<br/>
+D. came down with: ốm, mắc bệnh<br/>
+
+Tạm dịch: Joe đã thừa hưởng rất nhiều tiền, điều đó đã thay đổi hoàn toàn cuộc sống của anh ấy.`,
+  },
+  {
+    id: 41,
+    question: `The drugstore owner was arrested for selling liquor under the ______.
+  `,
+    options: [`counter`,` covers`,` weather`,`hammer`],
+    answer: ``,
+    explanation: `A. counter /ˈkaʊntə(r)/ (n): quầy thu ngân<br/>
+B. cover /ˈkʌvə(r)/ (n): tấm bia<br/>
+C. weather /ˈweðə(r)/ (n): thời tiết<br/>
+D. hammer /ˈhæmə(r)/ (n): cây búa<br/>
+Ta có:<br/>
+Idiom:<br/>
+
+under the counter: buôn bán bí mật, bất hợp pháp<br/>
+
+under the cover of: giả danh, đội lốt<br/>
+
+under the weather: bị ốm, không được khỏe<br/>
+
+come/go under the hammer: đưa ra bán đấu giá<br/>
+
+Tạm dịch: Chủ tiệm thuốc bị bắt vì bán rượu trái phép.`,
+  },
+  {
+    id: 41,
+    question: `I will have a big exam tomorrow so I’ll be burning the midnight ______ tonight.
+  `,
+    options: [`oil`,` paper`,` gas`,`candle`],
+    answer: `1`,
+    explanation: `Idiom: burn the midnight oil: thức khuya làm việc, nghiên cứu, học bài…<br/>
+Tạm dịch: Tôi sẽ có một kỳ thi quan trọng vào ngày mai vì vậy tối nay tôi sẽ thức đêm để học.`,
+  },
+  {
+    id: 41,
+    question: `The manager offered Alex a well-paid job at his factory, but he ______ it immediately.
+  `,
+    options: [`stood up`,` turned down`,` closed down`,`went up`],
+    answer: `2`,
+    explanation: `A. stand up: đứng dậy<br/>
+B. turn down: từ chối; vặn nhỏ âm lượng<br/>
+C. close down: đóng cửa, phá sản, ngừng hoạt động<br/>
+D. go up: tăng lên<br/>
+
+Tạm dịch: Người quản lý đề nghị Alex một công việc được trả lương cao tại nhà máy của anh ấy, nhưng anh ấy đã từ chối ngay lập tức.`,
+  },
+  {
+    id: 41,
+    question: `I’m fond ______ listening to music while studying.
+  `,
+    options: [`with`,` in`,` to`,`of`],
+    answer: `4`,
+    explanation: `be fond of sth: thích cái gì đó rất nhiều<br/>
+Tạm dịch: Tôi thích nghe nhạc trong khi học.`,
+  },
+  {
+    id: 33,
+    question: `It’s high time to ______ a stop to bullying and body shaming in schools.
+  `,
+    options: [`put`,` set`,` make`,`play`],
+    answer: ``,
+    explanation: `put a stop/an end to sth: kết thúc, đặt dấu chấm hết cho cái gì<br/>
+Tạm dịch: Đã đến lúc chấm dứt nạn bắt nạt và miệt thị ngoại hình trong trường học.`,
+  },
+  {
+    id: 41,
+    question: `After congratulating his team, the coach left, allowing the players to let their ______ down for a while.
+  `,
+    options: [`hair`,` hearts`,` heads`,`souls`],
+    answer: `1`,
+    explanation: `- Idiom: let one's hair down: thư giãn, xã hội<br/>
+Tạm dịch: Sau khi chúc mừng toàn đội, huấn luyện viên ra về, để các cầu thủ nghỉ ngơi một lúc.<br/>
+Do đó, A là đáp án phù hợp<br/>`,
+  },
+  {
+    id: 35,
+    question: `Entering the meeting late, he tried to ______ an excuse, still, the strict chairman of the board told him to leave the room.
+  `,
+    options: [`have`,` give`,` do`,`make`],
+    answer: `4`,
+    explanation: ` make an excuse: xin lỗi hoặc bào chữa hay lấy cớ cho việc gì<br/>
+Tạm dịch: Đến cuộc họp muộn nửa tiếng, anh ta cố gắng giải thích, nhưng ông chủ tịch hội đồng nghiêm khắc vẫn yêu cầu anh ta ra khỏi phòng.<br/>`,
+  },
+  {
+    id: 36,
+    question: `We get a lot of rain ______ November.
+  `,
+    options: [`about`,` on`,` of`,`in`],
+    answer: `4`,
+    explanation: `- Quy tắc giới từ: in + tháng (không có ngày cụ thể)<br/>
+Tạm dịch: Chúng tôi nhận được rất nhiều mưa trong tháng mười một.<br/>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `John ________ in time because of the heavy rain this morning.
+
+`,
+    options: [
+      `arrives
+`,
+      `don't arrive
+`,
+      `didn't arrive
+`,
+      `haven't arrived
+`,
+    ],
+    answer: `3`,
+    rewrite: ``,
+    explanation: `<p>Cách dùng:<strong> </strong>Diễn tả hành động xảy ra và kết thúc trong quá khứ; Dấu hiệu “this morning”</p>
+<p><strong>Tạm dịch:</strong> John đã không đến kịp vì sáng nay trời mưa to.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `Many people ________ the concert while it _______ hard.
+
+`,
+    options: [
+      `are watching / was raining
+`,
+      `were watching / rained
+`,
+      `watched / was raining
+`,
+      `watched / rained
+`,
+    ],
+    answer: `3`,
+    rewrite: ``,
+    explanation: `<p>Diễn tả một hành động đang xảy ra, một hành động khác xen vào.<strong></strong></p>
+<p><strong>Tạm dịch:</strong> Nhiều người đã xem buổi hòa nhạc trong khi trời mưa to.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `James often spends time ________ the evening watching TV _______ his family.
+
+`,
+    options: [
+      `on / with
+`,
+      `in / to
+`,
+      `in / with
+`,
+      `in / about
+`,
+    ],
+    answer: `3`,
+    rewrite: ``,
+    explanation: `<p>cụm từ “in the evening”, chọn “with” để chỉ ra xem cùng với ai.</p>
+<p><strong>Tạm dịch:</strong> James thường dành thời gian buổi tối để xem TV cùng gia đình.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: ` I don't often go to the mall on Sunday because it _______ and noisy.
+
+`,
+    options: [
+      `interesting  
+`,
+      `crowded
+`,
+      ` peaceful
+`,
+      `convenient
+`,
+    ],
+    answer: `2`,
+    rewrite: ``,
+    explanation: `<p>A. thú vị</p>
+<p>B. đông đúc</p>
+<p>C. bình yên</p>
+<p>D. thuận tiện</p>
+<p>Ta cần chọn một từ có cùng trường nghĩa với từ “noisy” =&gt; chọn “crowded”</p>
+<p><strong>Tạm</strong><strong> </strong><strong>dịch:</strong> Tôi không thường xuyên đến trung tâm mua sắm vào Chủ Nhật vì ở đó đông đúc và ồn ào.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    question: `Lana suggests _______ to the countryside to enjoy the fresh air.
+
+`,
+    options: [
+      `going  
+`,
+      `go
+`,
+      `to go
+`,
+      `to going
+`,
+    ],
+    answer: `1`,
+    rewrite: ``,
+    explanation: `<p>suggest + V-ing</p>
+<p><strong>Tạm dịch:</strong> Lana đề xuất về vùng nông thôn để tận hưởng không khí trong lành.</p>
+<p>Đáp án A.</p>`,
+  },
+  {
+    id: 41,
+    question: `You should consider _______ to work by bus to save money.
+
+`,
+    options: [
+      `go
+`,
+      `to go
+`,
+      ` goes
+`,
+      `going  
+`,
+    ],
+    answer: `4`,
+    rewrite: ``,
+    explanation: `<p>consider + V-ing</p>
+<p><strong>Tạm dịch:</strong> Bạn nên cân nhắc việc đi làm bằng xe buýt để tiết kiệm chi phí.</p>
+<p>Đáp án D.</p>`,
+  },
+  {
+    id: 41,
+    question: `An active _______ may erupt at any time.
+
+`,
+    options: [
+      `landslide
+`,
+      `disaster
+`,
+      `tsunami
+`,
+      `volcano
+`,
+    ],
+    answer: `4`,
+    rewrite: ``,
+    explanation: `<p>A. vụ lở đất</p>
+<p>B. thảm họa</p>
+<p>C. sóng thần</p>
+<p>D. núi lửa</p>
+<p>Có từ “erupt” <em>(phun trào)</em> ên ta chọn “volcano” <em>(núi lửa)</em></p>
+<p><strong>Tạm</strong><strong> </strong><strong>dịch:</strong> Một núi lửa đang hoạt động có thể phun trào bất cứ lúc nào.</p>
+<p>Đáp án D.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `Peter talks a lot when he meets other people. He's very _________.
+
+`,
+    options: [
+      `honest
+`,
+      `popular
+`,
+      `talkative
+`,
+      `selfish 
+`,
+    ],
+    answer: `3`,
+    rewrite: ``,
+    explanation: `<p>A. trung thực</p>
+<p>B. phổ biến</p>
+<p>C. lắm lời</p>
+<p>D. ích kỷ</p>
+<p><strong>Tạm dịch:</strong> Peter nói rất nhiều khi gặp người khác. Anh ấy rất lắm lời.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `Andy usually works until 9 p.m. _______ the evening and goes to bed late ________ night.
+
+`,
+    options: [
+      `at / at
+`,
+      `on/in
+`,
+      `in / at
+`,
+      `on / on
+`,
+    ],
+    answer: `3`,
+    rewrite: ``,
+    explanation: `<p>Cụm từ “in the evening”, “at night”.</p>
+<p><strong>Tạm dịch:</strong> Andy thường làm việc đến 9 giờ vào buổi tối và đi ngủ muộn vào ban đêm.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `They would prefer _______ photos of this beautiful village.
+
+`,
+    options: [
+      `take
+`,
+      `to take
+`,
+      `taking
+`,
+      `to taking
+`,
+    ],
+    answer: `2`,
+    rewrite: ``,
+    explanation: `<p>Would prefer + to V: Dùng để diễn tả một sở thích.<strong></strong></p>
+<p><strong>Tạm dịch:</strong> Họ thích chụp ảnh ngôi làng xinh đẹp này.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    question: `There aren't many places for ________ such as theatres, game centres or theme parks in the countryside.
+
+`,
+    options: [
+      `interest 
+`,
+      `scenery
+`,
+      `traffic
+`,
+      `entertainment
+`,
+    ],
+    answer: `4`,
+    rewrite: ``,
+    explanation: `<p>A. sở thích</p>
+<p>B. phong cảnh</p>
+<p>C. giao thông</p>
+<p>D. giải trí</p>
+<p><strong>Tạm dịch:</strong> Không có nhiều địa điểm dành cho việc giải trí như nhà hát, trung tâm trò chơi hoặc công viên giải trí ở nông thôn.</p>
+<p>Đáp án D.</p>`,
+  },
+  {
+    id: 41,
+    question: `The children ________ when the fire started. Luckily, no one was injured.
+
+`,
+    options: [
+      `was sleeping
+`,
+      `were sleeping
+`,
+      `are sleeping
+`,
+      `is sleeping
+`,
+    ],
+    answer: `2`,
+    rewrite: ``,
+    explanation: `<p>Diễn tả một hành động đang xảy ra, một hành động khác xen vào. Chia hành động đang diễn ra ở thì quá khứ tiếp diễn.<strong></strong></p>
+<p><strong>Tạm dịch:</strong> Những đứa trẻ đang ngủ thì ngọn lửa bùng phát. May mắn thay, không có ai bị thương.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    question: ` I'm just ________ because everyone was safe after the earthquake.
+
+`,
+    options: [
+      `terrified
+`,
+      `relieved
+`,
+      `worried
+`,
+      `scared
+`,
+    ],
+    answer: `2`,
+    rewrite: ``,
+    explanation: `<p>A. kinh hoàng</p>
+<p>B. nhẹ nhõm</p>
+<p>C. lo lắng</p>
+<p>D. sợ hãi</p>
+<p><strong>Tạm dịch:</strong> Tôi cảm thấy nhẹ nhõm vì mọi người đều an toàn sau trận động đất.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    question: `Yesterday, I was waiting for a bus when a car crash ________.
+
+`,
+    options: [
+      `happened
+`,
+      `was happening
+`,
+      `happening
+`,
+      `happens
+`,
+    ],
+    answer: `1`,
+    rewrite: ``,
+    explanation: `<p>Diễn tả một hành động đang xảy ra, một hành động khác xen vào. Chia hành động xen vào ở thì quá khứ đơn.<strong></strong></p>
+<p><strong>Tạm dịch:</strong> Hôm qua tôi đang đợi xe buýt thì xảy ra một vụ tai nạn ô tô.</p>
+<p>Đáp án A.</p>`,
+  },
+  {
+    id: 41,
+    question: `Unless we do something now, hundreds of plant and animal species will ______.
+  `,
+    options: [`die out`,` cut up`,` make up`,`point out`],
+    answer: `1`,
+    explanation: `A. die out: tuyệt chủng<br/>
+B. cut up: cắt nhỏ<br/>
+C. make up: trang điểm, bịa chuyện, quyết định, làm hòa<br/>
+D. point out: chỉ ra<br/>
+Tạm dịch: Trừ khi chúng ta làm điều gì đó ngay bây giờ không thì hàng trăm loài động thực vật sẽ tuyệt chủng.<br/>`,
+  },
+  {
+    id: 41,
+    question: `Everyone was surprised when that little-known band ______ the night’s biggest award.
+  `,
+    options: [`took off`,` ran off`,` went off`,`carried off`],
+    answer: `4`,
+    explanation: `A. take off: cởi (quần áo), cất cánh (máy bay); khởi sắc (công việc làm ăn, kinh doanh)<br/>
+B. run off: rửa trôi; sao chép<br/>
+C. go off: nổ (bom), đổ chuông, thiu thối (thức ăn)<br/>
+D. carry off: thành công, chiến thắng, giành (giải thưởng)<br/>
+Tạm dịch: Mọi người đều ngạc nhiên khi anh chàng ít được biết đến đó giành giải thưởng lớn nhất trong đêm.<br/>
+`,
+  },
+  {
+    id: 41,
+    question: `Anne always does whatever Frank tells her to do. She’s like ______ in his hands.
+  `,
+    options: [`butter`,` glue`,` putty`,`clay`],
+    answer: `3`,
+    explanation: `- Idiom: (like) putty in one’s hands: dễ dàng kiểm soát hoặc sai khiến, chỉ đạo ai đó<br/>
+Tạm dịch: Anne luôn làm bất cứ điều gì Frank bảo cô ấy làm. Cô ấy rất dễ dàng bị sai khiến.<br/>`,
+  },
+  {
+    id: 41,
+    question: `Applicants will be expected to have a good ______ of English.
+  `,
+    options: [`order`,` aptitude`,` attitude`,`command`],
+    answer: `4`,
+    explanation: `A. order /ˈɔːdə(r)/ (n): thứ tự<br/>
+B. aptitude /ˈæptɪtjuːd/ (n): khiếu; khả năng<br/>
+C. attitude /ˈætɪtjuːd/ (n): thái độ; quan điểm<br/>
+D. command /kəˈmɑːnd/ (n): kiến thức, mệnh lệnh<br/>
+Tạm dịch: Ứng viên sẽ được yêu cầu phải có kiến thức tiếng Anh tốt.<br/>`,
+  },
+  {
+    id: 41,
+    question: `We are going to Japan ______ the beginning of July.
+  `,
+    options: [`in`,` on`,` at`,`by`],
+    answer: `3`,
+    explanation: `at the beginning of sth: vào đầu cái gì<br/>
+Tạm dịch: Chúng tôi sẽ đến Nhật Bản vào đầu tháng 7.<br/>`,
+  },
+  {
+    id: 41,
+    question: `We were supposed to have a picnic in the park, but the rain ______ and ruined our plans.
+  `,
+    options: [`got up`,` turned up`,` turned down`,`got down`],
+    answer: `2`,
+    explanation: `A. got up: thức dậy<br/>
+B. turned up: xuất hiện<br/>
+C. turned down: từ chối<br/>
+D. got down: làm thất vọng<br/>
+Tạm dịch: Chúng tôi được khuyến khích để đi dã ngoại trong công viên, nhưng trời đổ mưa và phá hỏng kế hoạch của chúng tôi.<br/>
+`,
+  },
+  {
+    id: 41,
+    question: `When served with plain yogurt and sprinkled with pollen, it really is the bee’s ______.
+  `,
+    options: [`bellies`,` swings`,` floes`,`knees`],
+    answer: `4`,
+    explanation: `A. bellies: bụng<br/>
+B. swings: xích đu<br/>
+C. floes: nổi<br/>
+D. knees: đầu gối<br/>
+*Ta có:<br/>
+- Idiom: be the bee’s knees: rất xuất sắc, tuyệt vời<br/>
+Tạm dịch: Ăn kèm sữa chua nguyên chất và rắc phấn hoa thì đúng là tuyệt cú mèo.<br/>`,
+  },
+  {
+    id: 41,
+    question: `She had to ______ her First Certificate Exam three times.
+  `,
+    options: [`make`,` do`,` cause`,`take`],
+    answer: `4`,
+    explanation: `take the exam: làm bài thi<br/>
+Tạm dịch: Cô ấy đã phải thi lấy chứng chỉ đầu tiên ba lần.<br/>`,
+  },
+  {
+    id: 41,
+    question: `Most Vietnamese students remain financially dependent ______ their parents while at university.
+  `,
+    options: [`for`,` on`,` at`,`in`],
+    answer: `2`,
+    explanation: `dependent on sb/sth: phụ thuộc vào ai/cái gì<br/>
+Tạm dịch: Hầu hết sinh viên Việt Nam vẫn phụ thuộc tài chính vào cha mẹ khi học đại học.<br/>`,
+  },
+  {
+    id: 41,
+    question: `His finding broke fresh ______ in the treatment of cancer. It is now giving many cancer victims hope of complete recovery.
+  `,
+    options: [`path`,` road`,` ground`,`course`],
+    answer: `3`,
+    explanation: `- Idiom: break (fresh/new) ground: khám phá ra cái gì mới<br/>
+Tạm dịch: Phát hiện đột phá đang mở ra một thời đại mới trong điều trị ung thư. Nó hiện đang mang lại cho nhiều bệnh nhân sự hy vọng hồi phục hoàn toàn.<br/>`,
+  },
+  {
+    id: 41,
+    question: `If you ______ the rules, you will be excluded from the game immediately.
+  `,
+    options: [`make`,` miss`,` take`,`break`],
+    answer: `4`,
+    explanation: `- Collocation: break the rules: vi phạm luật<br/>
+Tạm dịch: Nếu vi phạm sẽ bị loại khỏi cuộc chơi ngay lập tức.<br/>`,
+  },
+  {
+    id: 41,
+    question: `Mrs. Susan ______ the job offer because it involved too much travelling.
+  `,
+    options: [`looked for`,` kept on`,` turned down`,`took up`],
+    answer: `3`,
+    explanation: `A. look for: tìm kiếm<br/>
+B. keep on: tiếp tục<br/>
+C. turn down: từ chối<br/>
+D. take up: bắt đầu 1 sở thích, 1 thói quen<br/>
+Tạm dịch: Bà Susan đã từ chối lời mời làm việc vì nó liên quan đến việc đi lại quá nhiều.<br/>`,
+  },
+  {
+    id: 41,
+    question: `They were ______ by the singer who had promised to support their action, but didn’t appear at the charity event.
+  `,
+    options: [`taken up`,` put off`,` let down`,`cut out`],
+    answer: `3`,
+    explanation: `A. taken up: bắt đầu 1 sở thích, thói quen<br/>
+B. put off: trì hoãn, lui lại, hoãn lại<br/>
+C. let down: làm ai đó thất vọng<br/>
+D. cut out: chết máy, dừng cơ, dừng hoạt động<br/>
+Tạm dịch: Họ thất vọng vì ca sĩ đã hứa sẽ ủng hộ hành động của họ nhưng lại không xuất hiện tại sự kiện từ thiện.<br/>
+`,
+  },
+  {
+    id: 41,
+    question: `Jessica was so careful that she didn’t put a ______ wrong when playing a tune on the piano.
+  `,
+    options: [`finger`,` foot`,` hand`,`foe`],
+    answer: `2`,
+    explanation: `- Idiom: not put a foot wrong: không mắc phải một sai lầm nào<br/>
+Tạm dịch: Jessica cẩn thận đến mức cô ấy không bị sai lỗi nào khi chơi một giai điệu trên đàn piano.<br/>
+`,
+  },
+  {
+    id: 41,
+    question: `Her father works at this college, doing research ______ weather control.
+  `,
+    options: [`of`,` to`,` from`,`on`],
+    answer: `4`,
+    explanation: `- Collocation: do/carry out research on/into sth: làm nghiên cứu về cái gì<br/>
+Tạm dịch: Đó có làm việc tại trường đại học này, nghiên cứu về kiểm soát hệ sinh thái.<br/>
+`,
+  },
+  {
+    id: 41,
+    question: `The woman said she couldn’t give us a ______ as there were no free seats in her vehicle.
+  `,
+    options: [`turn`,` drive`,` ride`,`run`],
+    answer: `3`,
+    explanation: `- Idiom: give sb a ride: cho ai đó đi nhờ xe<br/>
+Tạm dịch: Người phụ nữ nói rằng cô ấy không thể chở chúng tôi vì lý do nhường chỗ trống trong xe của cô ấy.<br/>
+`,
+  },
+  {
+    id: 41,
+    question: `We can rely ______ the man. He always keeps his promises.
+  `,
+    options: [`in`,` on`,` for`,`with`],
+    answer: `2`,
+    explanation: `- Collocation: rely on somebody: tin vào, dựa dẫm vào ai đó<br/>
+Tạm dịch: Chúng ta có thể dựa vào người đàn ông đó. Anh ấy luôn luôn giữ lời hứa.<br/>`,
+  },
+  {
+    id: 54,
+    question: `After her parents died, she was ______ by her grandmother.
+  `,
+    options: [`brought back`,` grown up`,` come into`,`brought up`],
+    answer: `4`,
+    explanation: `A. bring back: mang lại, đưa trở lại, gợi nhớ kỉ niệm<br/>
+B. grow up: trưởng thành, lớn lên<br/>
+C. come into: thừa hưởng<br/>
+D. bring up: nuôi nấng, dạy dỗ<br/>
+Tạm dịch: Sau khi cha mẹ mất, cô được bà ngoại nuôi nấng.<br/>`,
+  },
+  {
+    id: 41,
+    question: `We were quite lucky because our hotel was only a ______ throw away from the beach.
+  `,
+    options: [`gravel’s`,` stone’s`,` lane’s`,`paver's`],
+    answer: `2`,
+    explanation: `- Idiom: a stone’s throw away: một khoảng cách rất ngắn<br/>
+Tạm dịch: Chúng tôi khá may mắn vì khách sạn của chúng tôi chỉ cách bãi biển một quãng ngắn.<br/>
+`,
+  },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
+  // {
+  //   id: 41,
+  //   question: `
+  // `,
+  //   options: [``, ``, ``, ``],
+  //   answer: ``,
+  //   explanation: ``,
+  // },
   // {
   //   id: 41,
   //   question: `

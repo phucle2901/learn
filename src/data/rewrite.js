@@ -1465,6 +1465,142 @@ export const eREWRITE = [
     answer: `an interesting film`,
     explanation: `What + a/an + tính từ (adj) + danh từ (n) số ít / What + tính từ (adj) + danh từ (n) số nhiều/ không đếm được (câu cảm thán)`,
   },
+  {
+    id: 41,
+    extra: ``,
+    question: `Art _______ can visit Raul Speek Gallery to see wonderful works of art. (LOVE)
+
+      `,
+    options: [],
+    rewrite: ``,
+    answer: `lovers`,
+    explanation: `<p>Trước động từ “can” cần một danh từ đóng vai trò làm chủ ngữ, phía trước không có mạo từ nên chia danh từ ở dạng số nhiều là “lovers”.</p>
+<p><strong>Tạm dịch:</strong> Những người yêu thích nghệ thuật có thể ghé thăm Phòng trưng bày Raul Speek để xem những tác phẩm nghệ thuật tuyệt vời.</p>
+<p>Đáp án lovers.</p>`,
+  },
+  {
+    id: 41,
+    question: `Saigon Zoo is one of the most famous tourist _________ in Ho Chi Minh City. (ATTRACT)
+
+      `,
+    options: [],
+    rewrite: ``,
+    answer: `attractions`,
+    explanation: `<p>Cấu trúc: One of the most + danh từ số nhiều, nên chia thành “attractions”.</p>
+<p><strong>Tạm dịch:</strong> Thảo cầm viên là một trong những địa điểm du lịch nổi tiếng nhất ở Thành phố Hồ Chí Minh.</p>
+<p>Đáp án attractions.</p>`,
+  },
+  {
+    id: 41,
+    question: `You were very ________ because the was nothing happened to you in the accident. (LUCK)
+
+      `,
+    options: [],
+    answer: `lucky`,
+    explanation: `<p>Sau động từ tobe có thể chia tính từ hoặc danh từ. Ở đây động từ “tobe” chỉ tính chất nên chia tính từ.</p>
+<p><strong>Tạm dịch:</strong> Bạn thật may mắn vì không có chuyện gì xảy ra với bạn trong vụ tai nạn đó.</p>
+<p>Đáp án lucky.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `This toy shop/ open/ 10 a.m. / and/ close/ 9 p.m. / every day.
+
+      `,
+    options: [],
+    rewrite: ``,
+    answer: `This toy shop opens at 10 a.m. and closes at 9 p.m. every day`,
+    explanation: `<p>Cách dùng: Diễn tả một hành động lặp đi lặp lại; Dấu hiệu: “everyday”.</p>
+<p><strong>Tạm dịch:</strong> Cửa hàng đồ chơi này mở cửa lúc 10 giờ sáng và đóng cửa lúc 9 giờ tối hằng ngày.</p>
+<p>Đáp án <strong>This toy shop opens at 10 a.m. and closes at 9 p.m. every day</strong><strong>.</strong><strong></strong></p>`,
+  },
+  {
+    id: 41,
+    question: `My mum/ take/ train/ city centre/ at the moment.
+
+      `,
+    options: [],
+    answer: `My mum is taking a train to the city centre at the moment.`,
+    rewrite: ``,
+    explanation: `<p>Cách dùng:<strong> </strong>Diễn tả một hành động diễn ra tại thời điểm nói; Dấu hiệu: “at the moment”.</p>
+<p><strong>Tạm dịch:</strong> Mẹ tôi đang đi tàu đến trung tâm thành phố vào lúc này.</p>
+<p>Đáp án <strong>My mum is taking a train to the city centre at the moment.</strong></p>`,
+  },
+  {
+    id: 41,
+    question: `He/ be/ going to/ stay/ city/ three days.
+
+      `,
+    options: [],
+    answer: `He is going to stay in the city for three days.`,
+    rewrite: ``,
+    explanation: `<p>Thì tương lai gần một quyết định, kế hoạch đã được dự định trong tương lai mà đã có dự định từ trước.</p>
+<p><strong>Tạm dịch:</strong> Anh ấy sẽ ở lại thành phố trong ba ngày.</p>
+<p>Đáp án <strong>He is going to stay in the city for three days.</strong></p>`,
+  },
+  {
+    id: 41,
+    question: `He/ break/ his leg/ when/ he/ climb/ mountain/ yesterday.
+
+      `,
+    options: [],
+    rewrite: ``,
+    answer: `He broke his leg when he was climbing a mountain yesterday.`,
+    explanation: `<p>Diễn tả một hành động đang xảy ra trong quá khứ thì có một hành động khác cắt ngang.</p>
+<p><strong>Tạm dịch:</strong> Hôm qua anh ấy bị gãy chân khi leo núi.</p>
+<p>Đáp án <strong>He broke his leg when he was climbing a mountain yesterday.</strong></p>`,
+  },
+  {
+    id: 41,
+    question: `you/ hear /hiking accident/ Hawaii/ last night?
+
+      `,
+    options: [],
+    rewrite: ``,
+    answer: `Did you hear about a hiking accident in Hawaii last night?`,
+    explanation: `<p>Cách dùng:<strong> </strong>Diễn tả hành động xảy ra và kết thúc trong quá khứ; Dấu hiệu “last night”.</p>
+<p><strong>Tạm dịch:</strong> Bạn có nghe gì về một tai nạn đi bộ đường dài ở Hawaii đêm qua không?</p>
+<p>Đáp án <strong>Did you hear about a hiking accident in Hawaii last night?</strong></p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `Quảng Ninh Province has got many famous tourist attractions. (THERE)
+
+`,
+    options: [],
+    answer: `There are many famous tourist attractions in Quảng Ninh`,
+    rewrite: ``,
+    explanation: `<p>S + have/has + V3/ed + many + danh từ số nhiều = There are + many + danh từ số nhiều</p>
+<p><strong>Tạm dịch:</strong> Quảng Ninh có rất nhiều địa điểm du lịch nổi tiếng.</p>
+<p>Đáp án <strong>There are many famous tourist attractions in Quảng Ninh.</strong></p>`,
+  },
+  {
+    id: 41,
+    question: `My father does not like using his smartphone at bedtime. (AVOIDS)
+
+`,
+    options: [],
+    answer: `My father avoids using his smartphone at bedtime`,
+    rewrite: ``,
+    explanation: `<p>Cấu trúc: do not like + V-ing = avoid + Ving: tránh làm điều gì đó</p>
+<p><strong>Tạm dịch:</strong> Bố tôi tránh sử dụng điện thoại thông minh vào giờ đi ngủ.</p>
+<p>Đáp án My <strong>father avoids using his smartphone at bedtime.</strong></p>`,
+  },
+  {
+    id: 41,
+    question: `Tourists love travelling to the countryside to enjoy the clean air. (BECAUSE)
+
+`,
+    options: [],
+    answer: `Tourists love travelling to the countryside because they can enjoy the clean air`,
+    rewrite: ``,
+    explanation: `<p>Cấu trúc: S + V (+ O) + Because + S + V (+ O)</p>
+<p>“Because” được dùng để nối 2 mệnh đề có mối quan hệ nguyên nhân – kết quả.</p>
+<p><strong>Tạm dịch:</strong> Du khách thích đi du lịch về vùng quê vì họ có thể tận hưởng không khí trong lành.</p>
+<p>Đáp án <strong>Tourists love travelling to the countryside because they can enjoy the clean air.</strong></p>`,
+  },
+  
   // {
   //   id: 31,
   //   question: `

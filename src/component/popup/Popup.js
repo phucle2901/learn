@@ -2,23 +2,36 @@ import React from "react";
 import { Menu, MenuButton, MenuItem, MenuItems } from "@headlessui/react";
 import { Link } from "react-router-dom";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
-//import 'react-tabs/style/react-tabs.css';
 import { useNavigate } from "react-router-dom";
 
-function Popup({ setExamId, setRefeshData, numExams }) {
+
+import { eExamLength as eExamLenTen  } from "../../data/gradeten/gradeten";
+import { eExamLength as eExamLenEight } from "../../data/exam/exam";
+
+function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus}) {
+
   const navigate = useNavigate();
-  const handleClick = (id) => {
-    console.log("handleClick: ", handleClick);
-    setExamId(id);
+  const handleClick = (id,grade) => {
+    //console.log("handleClick: ", handleClick);
+    setGradeExam({examId:id,grade:grade});
+    setMenuActive(0);    
     setRefeshData(true);
     navigate("/");
   };
-
   let links = [];
-  for (let i = 0; i < numExams; i++) {
-    links.push({ label: "Đề số " + (i + 1), id: i + 1 });
+  if (eExamLenEight > 0) {
+    for (let i = 0; i < eExamLenEight; i++) {
+      links.push({ label: "Đề số " + (i + 1), id: i + 1 });
+    }
   }
   // { label: 'Đề giữa kỳ 1 - Đề 1',id:1 },
+
+  let examList = [];
+  if (eExamLenTen > 0) {
+    for (let i = 0; i < eExamLenTen; i++) {
+    examList.push({ label: "Đề số a " + (i + 1), id: i + 1 });
+    }
+  }
 
   return (
     <div class="popup-menu">
@@ -51,57 +64,52 @@ function Popup({ setExamId, setRefeshData, numExams }) {
                   <Tab>Ngữ pháp</Tab>
                 </TabList>
 
+                
+               
+
+                <TabPanel> 
+                {eExamLenEight>0 && (
+                  <MenuItem><p>Đề thi lớp 8</p></MenuItem>
+                )}
+                {links.map((link) => (
+                  <MenuItem
+                    key={link.id}
+                    className="block no-underline hover:underline "
+                  >
+                    <Link  onClick={(e) => {  handleClick(link.id,8); }} >
+                      {link.label}
+                    </Link>
+                  </MenuItem>
+                ))}   
+                {eExamLenTen>0 && (
+                  <MenuItem><p>Đề thi lớp 10</p></MenuItem>
+                )}
+                {eExamLenTen>0 && examList.map((link) => (
+                 
+                  <MenuItem
+                    key={link.id}
+                    className="block no-underline hover:underline "
+                  >
+                    <Link  onClick={(e) => {  handleClick(link.id,10); }} >
+                      {link.label}
+                    </Link>
+                  </MenuItem>
+                  
+                  
+                ))}    
+
+              </TabPanel>
                 <TabPanel>
-                  {links.map((link) => (
+                  {descMenus.map((menu, index) => (
                     <MenuItem
-                      key={link.id}
+                      key={index}
                       className="block no-underline hover:underline "
                     >
-                      <a
-                        href="#"
-                        onClick={(e) => {
-                          handleClick(link.id);
-                        }}
-                      >
-                        {link.label}
-                      </a>
+                      <Link onClick={() => { setMenuActive(index); }}>
+                        {menu}
+                      </Link>
                     </MenuItem>
-                  ))}
-                </TabPanel>
-                <TabPanel>
-                  <MenuItem
-                    key={1}
-                    className="block no-underline hover:underline "
-                  >
-                    <Link
-                      to="/gerund"
-                      className="block no-underline hover:underline"
-                    >
-                      Danh động từ và động từ nguyên mẫu
-                    </Link>
-                  </MenuItem>
-                  <MenuItem
-                    key={2}
-                    className="block no-underline hover:underline "
-                  >
-                    <Link
-                      to="/comparative"
-                      className="block no-underline hover:underline"
-                    >
-                      So sánh
-                    </Link>
-                  </MenuItem>
-                  <MenuItem
-                    key={3}
-                    className="block no-underline hover:underline "
-                  >
-                    <Link
-                      to="/article"
-                      className="block no-underline hover:underline"
-                    >
-                      Mạo từ a, an, the
-                    </Link>
-                  </MenuItem>
+                  ))}                  
                 </TabPanel>
               </Tabs>
             </MenuItems>

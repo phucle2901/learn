@@ -1,15 +1,16 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState,useRef } from "react";
 import {
     answerSttring,
     fReplaceQuestion,
     compareAnswer,
   } from "../../component/function/index";
 const Gramma = ({title}) => {
+    const scrollRef = useRef(null);
     const [questions, setQuestions] = useState([]);
      const [answers, setAnswers] = useState([]);  
     const [indexEx, setIndexEx] = useState(-1); 
     const [content, setContent] = useState(null); // State to hold the content of the exercise
-    
+    const [isScroll, setIsScroll] = useState(false);
 
     useEffect(() => {
       setAnswers([]); // Reset answers when title changes
@@ -25,22 +26,16 @@ const Gramma = ({title}) => {
           };
         if (title!=='') {
             const loadData = async () => {
-                console.log('load exercise grama');
-                const module=await import(`../../data/gramma/${title}`)
-                // questionPlan.push(...module.gramma[0].questions);
-                //console.log(module.gramma.length);
-                //console.log(module.gramma[0].questions);
-
+                const module=await import(`../../data/gramma/${title}`);
                 for (let i = 0; i < module.gramma.length; i++) {
-                    //console.log(module.gramma[i].questions);
                     questionPlan.push({
                       ...questionPlan,
                       question: setupFirst(module.gramma[i].questions),
                     });
                     console.log(questionPlan);
                 }
-                console.log(questionPlan); // use it here
                 setQuestions(questionPlan);
+                
               };
             const loadContent = async () => {
                 const module = await import(`./template/${title}` );
@@ -50,17 +45,21 @@ const Gramma = ({title}) => {
               };
             loadContent();
             loadData();
+            setTimeout(() => {
+              if (scrollRef.current) {
+                scrollRef.current.scrollTo({ top: 0, behavior: "smooth" });
+              }
+            }, 0);
+            
         }
     }, [title]);
 
    
     
       const handleChange = (row,questionId, value) => {
-        //setAnswers((prev) => ({ ...prev, [questionId]: value }));
         updateAnswer(row, questionId, value);
       };
       const handleRewrite = (row,questionId,value) => {
-        //setAnswers((prev) => ({ ...prev, [questionId]: value }));
         updateAnswer(row, questionId, value);
       };
       const handleSubmit = (index) => {
@@ -72,11 +71,7 @@ const Gramma = ({title}) => {
           ) {
             count = count + 1;
           }
-        });
-        console.log(answers[index],index);
-        //setResults({ score: count, total: questions.length });
-    
-        //setSubmitted(true);
+        });       
       };
       const handleRefesh = (index) => {
         updateRefreshAnswer(index);
@@ -109,10 +104,17 @@ const Gramma = ({title}) => {
           return newAnswers;
         });
       };
-
+      const handleScroll = (e) => {
+        const scrollTop = e.target.scrollTop;
+        if (scrollTop > 500) {
+          setIsScroll(true);
+        } else {
+          setIsScroll(false);
+        }
+      };
     return (
         <>
-        <div class="wrap-question">
+        <div class="wrap-question" ref={scrollRef} onScroll={handleScroll}>
             {content}
             <p class="mt-3  mb-3 text-white font-bold text-2xl">
                         <strong>Bài tập</strong>

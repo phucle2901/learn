@@ -1,4 +1,4 @@
-export const eGradeTen = [
+export const eExam = [
   {
     semester: 1,
     grade: 10,
@@ -13433,442 +13433,1145 @@ options: [`A`,`B`,`C`,`D`,],
     questions: [
       {
         id: 41,
-        extra: ``,
-        question: `
+        extra: `<p><strong>Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is best combined from the two given sentences.</strong></p>`,
+        question: `<p>She was having lunch. The phone rang in the middle of her lunch.</p>
       `,
-        options: [],
-        answer: ``,
+        options: [`The phone was ringing while she was having lunch. `,
+     `She was having lunch while the phone rang. `,
+     `When she had lunch, the phone rang. `,
+     `While she was having lunch, the phone rang. `],
+        answer: `4`,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về sự phối thì<br/>
+ Tạm dịch câu gốc:</b> Cô ấy đang ăn trưa. Điện thoại reo vào giữa bữa trưa của cô ấy.<br/>
+ Ta có cấu trúc sự phối thì: <b>WHILE + S + V (quá khứ tiếp diễn), S + V (quá khứ đơn) </b>
+ → Dùng để diễn tả một hành động đang xảy ra thì có hành động khác xen vào. Hành động xảy ra trước và đang xảy ra ta chia ở thì quá khứ tiếp diễn<b> (was/were + V-ing)</b>, hành động xen vào ta chia ở thì quá khứ đơn <b>(V2/Ved).</b><br/><b>
+ * Xét các đáp án:</b><br/>
+ A. The phone was ringing while she was having lunch. → Không phù hợp (dùng thì quá khứ tiếp diễn cho cả hai hành động diễn tả hai hành động cùng đang diễn ra song song).<br/>
+ B. She was having lunch while the phone rang. → Sai ngữ pháp.<br/>
+ C. When she had lunch, the phone rang. → Không phù hợp (dùng thì quá khứ đơn cho cả hai hành động diễn tả hai hành động xảy ra nối tiếp).<br/>
+ D. While she was having lunch, the phone rang: Trong khi cô ấy đang ăn trưa, điện thoại đã reo. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br/><b>
+ Do đó, D là đáp án phù hợp.
+ </b></div>
+     <div><strong>D</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>The price of urban houses is high. Many people cannot afford one. </p>
       `,
-        options: [],
-        answer: ``,
+        options: [`The price of urban houses is so high that many people cannot afford one. `,
+     `The price of urban houses is high, so many that people can afford one. `,
+     `The price of urban houses is high so that many people cannot afford one. `,
+     `So high is the price of urban houses that it is many people cannot afford.`],
+        answer: `1`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về cấu trúc ngữ pháp<br/>
+ Tạm dịch câu gốc:</b> Giá nhà ở thành thị thì cao. Nhiều người không đủ khả năng mua một căn.<br/><b>
+ * Xét các đáp án:</b><br/>
+ A. The price of urban houses is so high that many people cannot afford one: Giá nhà thành thị cao đến nỗi nhiều người không đủ khả năng mua một căn. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa. </i></b>Cấu trúc<b>: S + V + so + adj/adv + that + S + V </b>(quá… đến nỗi mà)<br/>
+ B. The price of urban houses is high, so many that people can afford one. → Sai ngữ pháp.<br/>
+ C. The price of urban houses is high so that many people cannot afford one: Giá nhà thành thị cao để mà nhiều người không đủ khả năng mua một căn. → Không phù hợp về nghĩa. Ta có: <b>so that + S + V: để, để mà</b><br/>
+ D. So high is the price of urban houses that it is many people cannot afford. → Sai ngữ pháp (thừa "<b>it is</b>" và thiếu tân ngữ cho "<b>afford</b>"). Cấu trúc<b> "so… that" </b>đảo ngữ: <b>So + adj + to be + S + that + S + V</b><br/><b>
+ Do đó, A là đáp án phù hợp.
+ </b></div>
+     <div><strong>A</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: ` <p>The award went to the engineer. She developed a clean water filter.</p>
       `,
-        options: [],
-        answer: ``,
+        options: [ `Developing a clean water filter earned the engineer the award which everyone admires.`,
+     `A clean water filter wasn't developed by the engineer who received the award.`,
+     `The award was given to the engineer who developed a clean water filter.`,
+     `An engineer who didn't develop the clean water filter received the award.`],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `
+     <div><b>Kiến thức về đại từ quan hệ<br/>
+ Tạm dịch câu gốc: </b>Giải thưởng đã thuộc về người kỹ sư. Cô ấy đã phát triển một bộ lọc nước sạch.<br/><u>
+ Ta có</u>:<br/>
+ - <b>which</b>: đại từ quan hệ chỉ vật, sự vật, sự việc làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.<br/>
+ - <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br/><b>
+ * Xét các đáp án:</b><br/>
+ A. Developing a clean water filter earned the engineer the award which everyone admires: Việc phát triển một bộ lọc nước sạch đã mang lại cho người kỹ sư giải thưởng mà mọi người ngưỡng mộ. → Không phù hợp về nghĩa.<br/>
+ B. A clean water filter wasn't developed by the engineer who received the award: Một bộ lọc nước sạch đã không được phát triển bởi người kỹ sư mà đã nhận giải thưởng. → Không phù hợp về nghĩa.<br/>
+ C. The award was given to the engineer who developed a clean water filter: Giải thưởng đã được trao cho người kỹ sư người mà đã phát triển một bộ lọc nước sạch. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br/>
+ D. An engineer who didn't develop the clean water filter received the award: Một kỹ sư người mà đã không phát triển bộ lọc nước sạch đã nhận giải thưởng. → Không phù hợp về nghĩa.<br/><b>
+ Do đó, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>The Atacama Desert receives almost no rainfall each year. It's drier than the Sahara Desert. </p>
       `,
-        options: [],
-        answer: ``,
+        options: [`The Atacama Desert is drier the Sahara Desert.`,
+     `The Atacama Desert is the driest than the Sahara Desert.`,
+     `The Atacama Desert is drier than the Sahara Desert.`,
+     `The Atacama Desert is as dry as the Sahara Desert.`],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về câu so sánh<br/>
+ Tạm dịch câu gốc: </b>Sa mạc Atacama hầu như không nhận được lượng mưa nào mỗi năm. Nó khô hơn Sa mạc Sahara.<br/><b>
+ * Xét các đáp án:</b><br/>
+ A. The Atacama Desert is drier the Sahara Desert. → Sai ngữ pháp.<br/>
+ B. The Atacama Desert is the driest than the Sahara Desert. → Sai ngữ pháp.<br/>
+ C. The Atacama Desert is drier than the Sahara Desert: Sa mạc Atacama thì khô hơn Sa mạc Sahara. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b> Cấu trúc so sánh hơn (tính từ/ trạng từ ngắn): <b>S + V + adj-er/adv-er + than + …</b><br/>
+ D. The Atacama Desert is as dry as the Sahara Desert: Sa mạc Atacama thì khô như Sa mạc Sahara. → Không phù hợp về nghĩa. Cấu trúc so sánh bằng: <b>S + V + as + adj/adv + as + …</b><br/><b>
+ Do đó, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
-        extra: ``,
-        question: `
+        extra: `<p><strong>Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions. </strong></p>`,
+        question: `<p>The wind turbine on the hill _________ spins to create electricity provides power for nearby homes.</p>
       `,
-        options: [],
-        answer: ``,
+        options: [`whose`,
+     `whom`,
+     `which `,
+     `who`],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về đại từ quan hệ<br/>
+ * Xét các đáp án:</b><br/>
+ A. <b>whose</b>: đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br/>
+ B. <b>whom</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm tân ngữ cho động từ đứng sau nó. Theo sau whom là chủ ngữ.<br/>
+ C. <b>which</b>: đại từ quan hệ chỉ vật, sự vật, sự việc làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.<br/>
+ D. <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br/>
+ → Ta thấy, chỗ trống cần điền một đại từ quan hệ chỉ vật, thay thế cho "<b>The wind turbine on the hill</b>" và làm chủ ngữ cho động từ "<b>spins</b>" sau nó.<br/><b>
+ Tạm dịch: </b>Tua bin gió trên đồi, cái mà quay để tạo ra điện, cung cấp năng lượng cho những ngôi nhà gần đó.<br/><b>
+ Do đó, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>The government plans _________ more affordable apartments for low-income people in the city.</p>
       `,
-        options: [],
-        answer: ``,
+        options: [ `build`,
+     `to building`,
+     `to build `,
+     `building`],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về động từ nguyên mẫu</b><br/>
+ * Ta có: <b>plan + to V (nguyên mẫu): lên/ có kế hoạch làm gì đó<br/>
+ Tạm dịch:</b> Chính phủ có kế hoạch xây dựng thêm các căn hộ giá cả phải chăng cho người thu nhập thấp trong thành phố.<br/><b>
+ Do đó, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>
+     `,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>The price of hotel rooms in Hoa Lu City is slightly increasing. It is _________ than last year.</p>
       `,
-        options: [],
-        answer: ``,
+        options: [`expensive`,
+     `as expensive`,
+     `more expensive`,
+     `less expensive`],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về câu so sánh</b><br/>
+ → Căn cứ vào từ "<b>than</b>" sau chỗ trống =&gt; đây là câu so sánh hơn/ kém hơn.<br/><u>
+ Ta có cấu trúc so sánh hơn:</u><br/>
+ +) Với tính từ/ trạng từ ngắn:<b> S1 + V + adj-er/adv-er + than + S2</b><br/>
+ +) Với tính từ/ trạng từ dài: <b>S1 + V + more + adj/adv + than + S2</b><br/><u>
+ Ta có cấu trúc so sánh kém hơn:</u><b> S1 + V + less + adj/adv + than + S2</b><br/>
+ =&gt; loại A và B (vì sai cấu trúc).<br/><b>
+ Tạm dịch: </b>Giá phòng khách sạn ở thành phố Hoa Lư đang tăng nhẹ. Nó <b>đắt hơn</b> so với năm ngoái.<br/><b>
+ Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>The picnic area is set up _________ the bank of the river, making it a perfect spot for families to relax.</p>
       `,
-        options: [],
-        answer: ``,
+        options: [`in`,
+     `under`,
+     `at`,
+     `on`],
+        answer: `4`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về giới từ</b><br/>
+ * Ta có: <b>on the bank of sth: trên bờ của (bờ sông, bờ hồ…)<br/>
+ Tạm dịch:</b> Khu vực dã ngoại được dựng lên trên bờ sông, biến nó thành một địa điểm hoàn hảo cho các gia đình thư giãn.<br/><b>
+ Do đó, D là đáp án phù hợp.
+ </b></div>
+     <div><strong>D</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>If you spend too much time on the computer, you _________ have problems with your eyesight.</p>
       `,
-        options: [],
-        answer: ``,
+        options: [`may`,
+     `should`,
+     `need`,
+     `can`],
+        answer: `1`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về động từ khuyết thiếu<br/>
+ * Xét các đáp án:</b><br/>
+ A. may: có thể (diễn tả về khả năng xảy ra nhưng ít chắc chắn hơn so với "can")<br/>
+ B. should: nên (dùng để đưa ra lời khuyên hoặc sự gợi ý)<br/>
+ C. need: cần (khi là modal verb thì dùng trong phủ định/câu hỏi; nếu là động từ thường thì đi với "to V").<br/>
+ D. can: có thể (diễn tả về về khả năng làm gì đó, hoặc kỹ năng có sẵn)<br/><b>
+ Tạm dịch: </b>Nếu bạn dành quá nhiều thời gian trên máy tính, bạn có thể sẽ gặp các vấn đề về thị lực.<br/>
+ Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+ </div>
+     <div><strong>A</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>I prefer using a digital dictionary _________ it has a larger definition bank.</p>
       `,
-        options: [],
-        answer: ``,
+        options: [`although`,
+     `because`,
+     `despite`,
+     `so`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về liên từ<br/>
+ * Xét các đáp án:</b><br/>
+ A. although + S + V: mặc dù<br/>
+ B. because + S + V: bởi vì, do<br/>
+ C. despite + N/V-ing: mặc dù<br/>
+ D. so + S + V: do đó, vì vậy<br/>
+ → Ta thấy, sau chỗ trống là một mệnh đề hoàn chỉnh =&gt; loại C.<br/><b>
+ Tạm dịch: </b>Tôi thích dùng từ điển điện tử hơn bởi vì nó có kho định nghĩa lớn hơn.<br/><b>
+ Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>The teacher _________ the lesson when a student _________ a question.</p>
+ 
       `,
-        options: [],
-        answer: ``,
+        options: [`was explaining - was asking`,
+     `were explaining - were asking`,
+     `was explaining – asked`,
+     `is explaining - asks`],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về sự phối thì</b><br/>
+ * Ta có cấu trúc sự phối thì: <b>S + V (quá khứ tiếp diễn) + WHEN + S + V (quá khứ đơn) </b><br/>
+ → Dùng để diễn tả một hành động đang xảy ra thì có hành động khác xen vào. Hành động xảy ra trước và đang xảy ra ta chia ở thì quá khứ tiếp diễn <b>(was/were + V-ing)</b>, hành động xen vào ta chia ở thì quá khứ đơn<b> (V2/Ved).</b><br/><b>
+ Tạm dịch:</b> Giáo viên đang giải thích bài học thì một học sinh đã hỏi một câu hỏi.<br/><b>
+ Do đó, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>Mia said that she _________ her brother a new fanny pack the following day.</p>
       `,
-        options: [],
-        answer: ``,
+        options: [`will buy `,
+     `would buy`,
+     `bought`,
+     `is buying`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về câu tường thuật</b><br/>
+ * Khi chuyển từ câu trực tiếp sang câu gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và lùi thì nếu động từ tường thuật ở thì quá khứ.<br/>
+ * Ta có: <b>the following day: ngày hôm sau →</b> dùng trong <b>câu gián tiếp</b> thay cho "<b>tomorrow</b>".<br/>
+ → Động từ trong câu trực tiếp là "<b>will buy</b>" (thì tương lai đơn) Do đó, khi chuyển sang câu gián tiếp, động từ sẽ là "<b>would buy</b>".<br/><b>
+ Tạm dịch:</b> Mia đã nói rằng cô ấy sẽ mua cho anh trai mình một chiếc túi đeo hông mới vào ngày hôm sau.<br/><b>
+ Do đó, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
       },
       {
         id: 41,
-        extra: ``,
-        question: `
+        extra: ` <p><strong>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to each of the following questions.</strong></p>
+     `,
+        question: `<p>I don't have enough money to buy that handmade souvenir.</p>
       `,
-        options: [],
-        answer: ``,
+        options: [`I wish I didn't have to carry so much money when traveling.`,
+     `I wish I had already bought that souvenir yesterday.`,
+     `I wish I had enough money to buy that handmade souvenir.`,
+     `I wish souvenirs were cheaper so I could buy many.`],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về câu ước<br/>
+ Tạm dịch câu gốc: </b>Tôi không có đủ tiền để mua món quà lưu niệm thủ công đó.<br/>
+ → Căn cứ vào từ "<b>wish</b>" và ngữ cảnh của câu gốc ở hiện tại, ta sử dụng câu ước ở hiện tại (diễn tả mong ước về một điều gì đó không có thật ở hiện tại): <b>S + wish(es) + (that) + S + V (quá khứ đơn)…</b><br/><b>
+ * Xét các đáp án:</b><br/>
+ A. I wish I didn't have to carry so much money when traveling: Tôi ước tôi không phải mang nhiều tiền thế khi đi du lịch. → Không phù hợp về nghĩa.<br/>
+ B. I wish I had already bought that souvenir yesterday. Tôi ước tôi đã mua món quà lưu niệm đó ngày hôm qua rồi. → Không phù hợp. Đây là câu ước cho quá khứ: <b>S + wish(es) + (that) + S + V (quá khứ hoàn thành)…</b><br/>
+ C. I wish I had enough money to buy that handmade souvenir: Tôi ước tôi có đủ tiền để mua món quà lưu niệm thủ công đó. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br/>
+ D. I wish souvenirs were cheaper so I could buy many: Tôi ước quà lưu niệm rẻ hơn vì vậy tôi có thể mua nhiều. → Không phù hợp về nghĩa.<br/><b>
+ Do đó, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>If it doesn't rain, they will go to the open-air market. </p>
       `,
-        options: [],
-        answer: ``,
+        options: [`Unless it doesn't rain, they won't go to the open-air market. `,
+     `Unless it rains, they will go to the open-air market.`,
+     `Unless it will rain, they won't go to the open-air market.`,
+     `Unless it rains, they won't go to the open-air market.`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về câu điều kiện</b><br/><b>
+ Tạm dịch câu gốc:</b> Nếu trời không mưa, họ sẽ đi chợ trời.<br/>
+ → Câu điều kiện loại I (diễn tả về tình huống có thể xảy ra ở hiện tại hoặc tương lai.): <b>If + S + V (hiện tại đơn), S + will + V (nguyên mẫu)…</b><br/>
+ Ta có: <b>If … not = Unless:</b> Nếu… không; ngoại trừ (<b>Unless </b>luôn đi với mệnh đề khẳng định).<br/><b>
+ * Xét các đáp án:</b><br/>
+ A. Unless it doesn't rain, they won't go to the open-air market. → Sai ngữ pháp.<br/>
+ B. Unless it rains, they will go to the open-air market: Nếu trời không mưa, họ sẽ đi chợ trời.<b><i> → Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br/>
+ C. Unless it will rain, they won't go to the open-air market. → Sai ngữ pháp.<br/>
+ D. Unless it rains, they won't go to the open-air market: Nếu trời không mưa, họ sẽ không đi chợ trời. → Không phù hợp về nghĩa.<br/><b>
+ Do đó, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>Teenagers spent more time outdoors instead of using smartphones in the past. </p>
       `,
-        options: [],
-        answer: ``,
+        options: [`Teenagers used to spend more time outdoors instead of using smartphones.`,
+     `Teenagers used to spending more time outdoors instead of using smartphones. `,
+     `Teenagers are used to spend more time outdoors instead of using smartphones. `,
+     `Teenagers use to spend more time outdoors instead of using smartphones. `],
+        answer: `1`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về cấu trúc ngữ pháp<br/>
+ Tạm dịch câu gốc:</b> Thanh thiếu niên đã dành nhiều thời gian ở ngoài trời hơn thay vì sử dụng điện thoại thông minh trong quá khứ.<br/>
+ Ta có:<br/><b>
+ - used to + V (nguyên mẫu):</b> đã từng làm gì đó (diễn tả thói quen trong quá khứ)<br/><b>
+ - be used to + Ving:</b> đã quen với việc làm gì đó<br/><b>
+ * Xét các đáp án:</b><br/>
+ A. Teenagers used to spend more time outdoors instead of using smartphones: Thanh thiếu niên đã từng dành nhiều thời gian ở ngoài trời hơn thay vì sử dụng điện thoại thông minh. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br/>
+ B. Teenagers used to spending more time outdoors instead of using smartphones. → Sai ngữ pháp.<br/>
+ C. Teenagers are used to spend more time outdoors instead of using smartphones. → Sai ngữ pháp.<br/>
+ D. Teenagers use to spend more time outdoors instead of using smartphones. → Sai ngữ pháp.<br/><b>
+ Do đó, A là đáp án phù hợp.
+ </b></div>
+     <div><strong>A</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>David wants to know, "Are there any active volcanoes in Europe?" </p>
       `,
-        options: [],
-        answer: ``,
+        options: [ `David wondered if there are any active volcanoes in Europe.`,
+     `David asked whether there were active volcanoes in Europe.`,
+     `David asked me that there are active volcanoes in Europe.`,
+     `David wants to know whether there were any active volcanoes in Europe.`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về câu tường thuật<br/>
+ Tạm dịch câu gốc:</b> David muốn biết, "Có núi lửa nào còn hoạt động ở Châu Âu không?"<br/>
+ → Cấu trúc câu tường thuật lại câu hỏi Yes/No: <b>S + asked + (O)/ wanted to know/ wondered + if/ whether + S + V</b><br/>
+ * Lưu ý: Khi chuyển từ câu trực tiếp sang gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và lùi thì đối với câu chứa động từ tường thuật ở thì quá khứ.<br/><b>
+ * Xét các đáp án:</b><br/>
+ A. David wondered if there are any active volcanoes in Europe. → Sai ngữ pháp (chưa lùi thì).<br/>
+ B. David asked whether there were active volcanoes in Europe: David đã hỏi liệu có núi lửa nào còn hoạt động ở Châu Âu không. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br/>
+ C. David asked me that there are active volcanoes in Europe. → Sai ngữ pháp.<br/>
+ D. David wants to know whether there were any active volcanoes in Europe. → Sai ngữ pháp (động từ tường thuật ở hiện tại "<b>wants to know</b>" thì không cần lùi thì).<br/><b>
+ Do đó, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
       },
       {
         id: 41,
-        extra: ``,
-        question: `
+        extra: `<p><strong>Mark the letter A, B, C, or D on your answer sheet to indicate the option that best completes each of the following exchanges. </strong></p>`,
+        question: ` <p><b>Yoko</b>: "Can you recommend a good app to learn English?"	- <b>Jake</b>: “_______”</p>
       `,
-        options: [],
-        answer: ``,
+        options: [`Thank you!`,
+     `Good luck!`,
+     `No, thanks`,
+     `Sure. It depends on your level.`],
+        answer: `4`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về tình huống giao tiếp<br/>
+ Tạm dịch:</b> Yoko: "Bạn có thể giới thiệu một ứng dụng tốt để học tiếng Anh không?" – Jake: "_________________"<br/><b>
+ * Xét các đáp án:</b><br/>
+ A. Cảm ơn bạn!<br/>
+ B. Chúc may mắn!<br/>
+ C. Không, cảm ơn.<br/>
+ D. Chắc chắn rồi. Nó còn tùy thuộc vào trình độ của bạn.<br/><b>
+ Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+ </b></div>
+     <div><strong>D</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p><b>Mary</b>: "I'm sorry for stepping on your pen because it dropped on the floor?" - <b>Helen</b>: "_______”</p>
     `,
-        options: [],
-        answer: ``,
+        options: [`Oh! That's so amazing `,
+     `You bet`,
+     `You don't mind`,
+     `Never mind`],
+        answer: `4`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về tình huống giao tiếp<br/>
+ Tạm dịch: Mary:</b> "Tôi xin lỗi vì đã giẫm lên bút của bạn bởi vì nó bị rơi trên sàn?" – <b>Helen</b>: "_________________"<br/><b>
+ * Xét các đáp án:</b><br/>
+ A. Ồ! Thật đáng kinh ngạc.<br/>
+ B. Chắc chắn rồi.<br/>
+ C. Bạn không phiền.<br/>
+ D. Không sao đâu/ Đừng bận tâm.<br/><b>
+ Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+ </b></div>
+     <div><strong>D</strong></div>`,
       },
       {
         id: 41,
-        extra: ``,
-        question: `
+        extra: `<p><strong>Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions. </strong></p>`,
+        question: ` <p>_________ refers to a healthy relationship between living organisms and their non-living environment in an ecosystem. </p>
     `,
-        options: [],
-        answer: ``,
+        options: [ `Habitat loss`,
+     `Climate change`,
+     `Ecological balance `,
+     `Nature reserve `],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về từ vựng<br/>
+ * Xét các đáp án:</b><br/>
+ A. Habitat loss: sự mất môi trường sống<br/>
+ B. Climate change: sự biến đổi khí hậu<br/>
+ C. Ecological balance: sự cân bằng sinh thái<br/>
+ D. Nature reserve: khu bảo tồn thiên nhiên<br/><b>
+ Tạm dịch:</b> Cân bằng sinh thái đề cập đến mối quan hệ lành mạnh giữa các sinh vật sống và môi trường không sống của chúng trong một hệ sinh thái.<br/><b>
+ Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>We need to _________ action now to protect the environment before it's too late. </p>
     `,
-        options: [],
-        answer: ``,
+        options: [`take`,
+     `make`,
+     `do`,
+     `get`],
+        answer: `1`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về cụm từ cố định<br/>
+ * Xét các đáp án:</b><br/>
+ A. take /teɪk/ (v): nắm, túm, giữ lấy<br/>
+ B. make /meɪk/ (v): làm, chế tạo<br/>
+ C. do /duː/ (v): làm; thực hiện; biểu diễn<br/>
+ D. get /ɡet/ (v): có được; đạt được; lấy được<br/>
+ * Ta có cụm từ cố định: <b>take action: hành động<br/>
+ Tạm dịch:</b> Chúng ta cần hành động ngay bây giờ để bảo vệ môi trường trước khi quá muộn.<br/><b>
+ Do đó, A là đáp án phù hợp.
+ </b></div>
+     <div><strong>A</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>Taking an ________ English test can measure your progress and boost confidence.</p>
   `,
-        options: [],
-        answer: ``,
+        options: [ `office`,
+     `official `,
+     `officer `,
+     `officially`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về từ loại<br/>
+ * Xét các đáp án:</b><br/>
+ A. office /ˈɒfɪs/ (n): phòng, ban<br/>
+ B. official /əˈfɪʃl/ (adj): chính thức, chính thống<br/>
+ C. officer /ˈɒfɪsə(r)/ (n): cảnh sát; sĩ quan; viên chức<br/>
+ D. officially /əˈfɪʃəli/ (adv): (một cách) chính thức<br/>
+ → Ta thấy, chỗ trống cần điền một tính từ đứng trước cụm danh từ <b>"English test".<br/>
+ Tạm dịch:</b> Làm một bài kiểm tra tiếng Anh chính thức có thể đo lường sự tiến bộ và nâng cao sự tự tin của bạn.<br/><b>
+ Do đó, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>He responded ________ when he heard the news, and it was clear he was deeply upset.</p>
   `,
-        options: [],
-        answer: ``,
+        options: [`gratefully`,
+     `angrily `,
+     `carefully`,
+     `softly`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về từ vựng<br/>
+ * Xét các đáp án:</b><br/>
+ A. gratefully /ˈɡreɪtfəli/ (adv): [một cách] biết ơn<br/>
+ B. angrily /ˈæŋɡrəli/ (adv): [một cách] tức giận<br/>
+ C. carefully /ˈkeəfəli/ (adv): [một cách] cẩn thận<br/>
+ D. softly /ˈsɒftli/ (adv): [một cách] nhẹ nhàng, khẽ khàng<br/><b>
+ Tạm dịch:</b> Anh ấy đã phản ứng một cách tức giận khi nghe tin, và rõ ràng là anh ấy đã vô cùng bực bội.<br/><b>
+ Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>When a group of colleagues effectively shares ideas and responsibilities at work, it demonstrates _________.</p>
 `,
-        options: [],
-        answer: ``,
+        options: [ `competition `,
+     `teamwork`,
+     `leadership`,
+     `pressure `],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về từ vựng<br/>
+ * Xét các đáp án:</b><br/>
+ A. competition /ˌkɒmpəˈtɪʃn/ (n): cuộc tranh tài; sự cạnh tranh<br/>
+ B. teamwork /ˈtiːmwɜːk/ (n): hoạt động nhóm, làm việc nhóm<br/>
+ C. leadership /ˈliːdəʃɪp/ (n): sự lãnh đạo; khả năng lãnh đạo<br/>
+ D. pressure /ˈpreʃə(r)/ (n): áp lực; sự căng thẳng<br/><b>
+ Tạm dịch:</b> Khi một nhóm đồng nghiệp chia sẻ hiệu quả ý tưởng và trách nhiệm trong công việc, điều đó thể hiện làm việc nhóm.<br/><b>
+ Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>Tickets for popular destinations in Ninh Binh on public holidays tend to sell out quickly, so _______ your tickets in advance is recommended.</p>
 `,
-        options: [],
-        answer: ``,
+        options: [ `preserving`,
+     `packing`,
+     `booking`,
+     `ordering`],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về cụm từ cố định<br/>
+ * Xét các đáp án:</b><br/>
+ A. preserving – preserve /prɪˈzɜːv/ (v): bảo tồn, bảo vệ<br/>
+ B. packing – pack /pæk/ (v): sắp xếp (hành lý); tập hợp lại<br/>
+ C. booking – book /bʊk/ (v): đặt trước<br/>
+ D. ordering – order /ˈɔːdə(r)/ (v): gọi món, đặt hàng; ra lệnh<br/>
+ * Ta có cụm từ cố định: <b>book sth in advance: đặt trước cái gì đó từ sớm<br/>
+ Tạm dịch</b>: Vé đến các điểm đến nổi tiếng ở Ninh Bình vào các ngày lễ thường bán hết nhanh, vì vậy việc đặt vé trước được khuyến nghị.<br/><b>
+ Do đó, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>________, we will finish our project on time and get a good grade.</p>
 `,
-        options: [],
-        answer: ``,
+        options: [ `Hopeful`,
+     `Hopefully`,
+     `Hope`,
+     `Hopelessly`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về cụm từ cố định<br/>
+ * Xét các đáp án:</b><br/>
+ A. Hopeful /ˈhəʊpfl/ (adj): có hy vọng, đầy hy vọng<br/>
+ B. Hopefully /ˈhəʊpfəli/ (adv): hy vọng rằng, mong là; [một cách] đầy hy vọng<br/>
+ C. Hope /həʊp/ (v): hy vọng, mong<br/>
+ D. Hopelessly /ˈhəʊpləsli/ (adv): [một cách] vô vọng, tuyệt vọng<br/>
+ → Ta thấy, chỗ trống cần điền một trạng từ đứng đầu câu, ngăn cách với mệnh đề chính bởi dấu phẩy =&gt; loại A và C.<br/><b>
+ Tạm dịch: </b>Hy vọng rằng, chúng ta sẽ hoàn thành dự án đúng hạn và đạt điểm cao.<br/><b>
+ Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>After years of hard work, she finally got a ________ promotion.</p>
   `,
-        options: [],
-        answer: ``,
+        options: [`rewarding`,
+     `boring `,
+     `disappointing`,
+     `stressful`],
+        answer: `1`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Kiến thức về từ vựng<br/>
+ * Xét các đáp án:</b><br/>
+ A. rewarding /rɪˈwɔːdɪŋ/ (adj): xứng đáng, đáng làm<br/>
+ B. boring /ˈbɔːrɪŋ/ (adj): chán, tẻ nhạt<br/>
+ C. disappointing /ˌdɪsəˈpɔɪntɪŋ/ (adj): đáng thất vọng<br/>
+ D. stressful /ˈstresfl/ (adj): gây ra căng thẳng, tạo áp lực<br/><b>
+ Tạm dịch:</b> Sau nhiều năm làm việc chăm chỉ, cuối cùng cô ấy đã nhận được một sự thăng chức xứng đáng.<br/><b>
+ Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+ </b></div>
+     <div><strong>A</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>The teacher _________ some mistakes that students made in their essays.</p>
   `,
-        options: [],
-        answer: ``,
+        options: [ `got over`,
+     `made over `,
+     `went over `,
+     `took over`],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về cụm động từ<br/>
+ * Xét các đáp án:</b><br/>
+ A. got over – get over (ph.v): vượt qua (khó khăn, bệnh tật); giải quyết, kiểm soát được<br/>
+ B. made over – make over (ph.v): chuyển nhượng tài sản; thay đổi diện mạo, làm lại<br/>
+ C. went over – go over (ph.v): ôn tập lại; kiểm tra, xem xét cẩn thận<br/>
+ D. took over – take over (ph.v): tiếp quản, đảm nhận (công việc, vị trí)<br/><b>
+ Tạm dịch: </b>Giáo viên đã xem xét cẩn thận một số lỗi mà học sinh mắc phải trong bài luận của họ.<br/><b>
+ Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: ` <p>My dream is to succeed in climbing to the ________ of Mount Everest, which is about 8,848 meters above sea level.</p>
 `,
-        options: [],
-        answer: ``,
+        options: [`border`,
+     `rainforest`,
+     `outcrop`,
+     `summit`],
+        answer: `4`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về từ vựng<br/>
+ * Xét các đáp án:</b><br/>
+ A. border /ˈbɔːdə(r)/ (n): biên giới<br/>
+ B. rainforest /ˈreɪnfɒrɪst/ (n): rừng mưa, rừng rậm nhiệt đới<br/>
+ C. outcrop /ˈaʊtkrɒp/ (n): phần đá lộ thiên<br/>
+ D. summit /ˈsʌmɪt/ (n): đỉnh, chóp núi (điểm cao nhất của một ngọn núi)<br/><b>
+ Tạm dịch: </b>Ước mơ của tôi là leo thành công lên đỉnh của núi Everest, nơi có độ cao khoảng 8.848 mét so với mực nước biển.<br/><b>
+ Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+ </b></div>
+     <div><strong>D</strong></div>`,
       },
       {
         id: 41,
-        extra: ``,
-        question: `
+        extra: `<p><strong>Look at the sign or the notice. Choose the best answer (A, B, C, or D) for each of the following questions. </strong></p>`,
+        question: `<p>What does the notice say?<br/><img src="https://asset.moon.vn/img/chat/large/2025/4/c4dd0a60-7c48-4d2c-9be9-a2862a0d91fd.jpg" /></p>
+ 
 `,
-        options: [],
-        answer: ``,
+        options: [ `There is no need to be careful on the floor. `,
+     `The floor is always wet and slippery.`,
+     `The floor is wet. Stand still and avoid moving. `,
+     `The floor is wet. Be careful when walking to avoid slipping.`],
+        answer: `4`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Tạm dịch: Nội dung của thông báo là gì?<br/>
+ * Xét các đáp án:</b><br/>
+ A. Không cần phải cẩn thận trên sàn nhà. <br/>
+ B. Sàn nhà luôn luôn ướt và trơn trượt. <br/>
+ C. Sàn nhà đang ướt. Hãy đứng yên và tránh di chuyển. <br/>
+ D. Sàn nhà đang ướt. Hãy cẩn thận khi đi lại để tránh trượt ngã.<br/><b>
+ Căn cứ vào thông tin: "<u>Caution</u>: The floor is wet. Please walk carefully to avoid slipping"</b> <i>(Chú ý: Sàn nhà đang ướt. Vui lòng đi lại cẩn thận để tránh trượt ngã.)</i><br/><b>
+ Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+ </b></div>
+     <div><strong>D</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>What does the sign say?<br/><img src="https://asset.moon.vn/img/chat/large/2025/4/15c5c294-2a5b-42e7-b18e-ba410b8489f4.jpg" /></p>
 `,
-        options: [],
-        answer: ``,
+        options: [
+          `The elevator is not working and you cannot use it. `,
+          `The elevator is for special use only and not for everyone. `,
+          `The elevator is being repaired and will work again soon. `,
+          `The elevator is working well and you can use it.`],
+        answer: `1`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Tạm dịch: Nội dung của biển báo là gì?</b><br/><img src="https://asset.moon.vn/img/chat/large/2025/4/15c5c294-2a5b-42e7-b18e-ba410b8489f4.jpg" /><br/><b>
+ * Xét các đáp án:</b><br/>
+ A. Thang máy đang hỏng và bạn không thể sử dụng nó. <br/>
+ B. Thang máy chỉ dành cho mục đích sử dụng đặc biệt và không dành cho tất cả mọi người. <br/>
+ C. Thang máy đang được sửa chữa và sẽ sớm hoạt động trở lại. <br/>
+ D. Thang máy đang hoạt động tốt và bạn có thể sử dụng nó.<br/>
+ → Ta thấy biểu tượng thang máy bị gạch chéo (nghĩa là cấm hoặc không sử dụng được); kèm theo thông tin<b> "ELEVATOR – OUT OF ORDER"</b> <i>(Thang máy – bị hỏng).</i><br/><b>
+ Do đó, A là đáp án phù hợp.</b></div>
+     <div><strong>A</strong></div>`,
       },
       {
         id: 41,
-        extra: ``,
-        question: `
+        extra: `<p><strong>Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful letter /paragraph in each of the following questions.</strong></p>`,
+        question: `<p></p><div style="text-align: justify;">Dear Ana,</div><div style="text-align: justify;">a. It's a religious holiday and we value it very much. Do you have a similar festival in your country?</div><div style="text-align: justify;">b. In India, we have a tradition called Diwali. It's in October or November. We celebrate the value of good over evil and light over darkness.</div><div style="text-align: justify;">c. Then, we give presents and eat special food. We also light candles and fireworks.</div><div style="text-align: justify;">d. To prepare for this, first, we clean our houses and wear new clothes.</div><div style="text-align: justify;">e. Thanks for your email. I'd love to tell you about a festival in my country.</div><div style="text-align: justify;">Best,</div><div style="text-align: justify;">Rahul</div><p></p>
   `,
-        options: [],
-        answer: ``,
+        options: [`b-d-a-c-e`,
+     `e-b-d-c-a`,
+     `e-d-c-b-a`,
+     `d-a-e-c-b`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về sắp xếp trật tự câu tạo thành lá thư</b><br/>
+ * Ta có: Để tạo nên một lá thư hoàn chỉnh, mở đầu phải là lời chào cũng như giới thiệu chủ đề sắp nói đến bằng cách dùng <b>Dear/ Hi/ To + tên người nhận.</b> Ở phần thân lá thư, ta sắp xếp sao cho chúng phù hợp về ngữ nghĩa. Kết thúc lá thư sẽ là lời nhắn nhủ, gửi lời chúc đến người nhận bằng cụm <b>Best wishes/ Best regards/ Best/ Sincerely/ Write back soon/ With warm regards/ Yours faithfully… </b><br/><b>
+ =&gt; Ta có cách sắp xếp hoàn chỉnh:</b><br/>
+ Dear Ana, (Ana thân mến,)<br/>
+ e. Thanks for your email. I'd love to tell you about a festival in my country. <i>(Cảm ơn email của bạn. Mình rất muốn kể cho bạn nghe về một lễ hội ở đất nước mình.)</i><br/>
+ b. In India, we have a tradition called Diwali. It's in October or November. We celebrate the value of good over evil and light over darkness. <i>(Ở Ấn Độ, chúng mình có một lễ hội truyền thống gọi là Diwali. Nó diễn ra vào tháng Mười hoặc tháng Mười Một. Chúng mình kỷ niệm giá trị của cái thiện chiến thắng cái ác và ánh sáng chiến thắng bóng tối.)</i><br/>
+ d. To prepare for this, first, we clean our houses and wear new clothes. <i>(Để chuẩn bị cho lễ hội này, đầu tiên, chúng mình dọn dẹp nhà cửa và mặc quần áo mới.)</i><br/>
+ c. Then, we give presents and eat special food. We also light candles and fireworks. <i>(Sau đó, chúng mình tặng quà và ăn những món ăn đặc biệt. Chúng mình cũng thắp nến và đốt pháo hoa.)</i><br/>
+ a. It's a religious holiday and we value it very much. Do you have a similar festival in your country? <i>(Đó là một ngày lễ tôn giáo và chúng mình rất coi trọng nó. Ở đất nước bạn có lễ hội nào tương tự không?)</i><br/>
+ Best, <i>(Thân ái,)</i><br/>
+ Rahul<br/>
+ =&gt; Vì vậy, ta có thứ tự sắp xếp đúng là: <b>e-b-d-c-a<br/>
+ Do đó, B là đáp án phù hợp.</b></div>
+     <div><strong>B</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p></p><div style="text-align: justify;">a. Finally, sharing housework can also help families work better and reduce family stress.</div><div style="text-align: justify;">b. Firstly, doing chores helps children learn about what they need to do to care for themselves, a home and a family.</div><div style="text-align: justify;">c. When children help out, chores get done sooner, and parents have less to do and this frees up time for the family to do fun things together.</div><div style="text-align: justify;">d. Secondly, being involved in chores also gives children experience of relationship skills like communicating clearly, negotiating, cooperating and working as a team.</div><div style="text-align: justify;">e. Children can learn a lot from doing household chores.</div><p></p>
   `,
-        options: [],
-        answer: ``,
+        options: [ `e-b-d-a-c`,
+     `e-c-d-a-b`,
+     `b-c-e-d-a`,
+     `d-b-a-e-c`],
+        answer: `1`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về sắp xếp câu tạo thành đoạn văn</b><br/>
+ * Ta có: Để tạo nên một đoạn văn/ lời kể hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước. Để nêu lên ý đầu tiên, ta dùng <b>Firstly, First of all, At first…</b> Sau đó, để nêu ra các ý tiếp theo, ta dùng các liên từ, từ nối như<b> Secondly, Also, Furthermore, Additionally… Ý cuối cùng ta sử dụng Finally, Last but not least, Ultimately…</b><br/><b>
+ =&gt; Ta có cách sắp xếp hoàn chỉnh:</b><br/>
+ e. Children can learn a lot from doing household chores. <i>(Trẻ em có thể học được nhiều điều từ việc làm việc nhà.)</i><br/>
+ b. Firstly, doing chores helps children learn about what they need to do to care for themselves, a home and a family. <i>(Thứ nhất, làm việc nhà giúp trẻ học được những gì cần làm để tự chăm sóc bản thân, chăm sóc nhà cửa và gia đình.)</i><br/>
+ d. Secondly, being involved in chores also gives children experience of relationship skills like communicating clearly, negotiating, cooperating and working as a team.<i> (Thứ hai, tham gia vào công việc nhà cũng mang lại cho trẻ kinh nghiệm về các kỹ năng quan hệ như giao tiếp rõ ràng, thương lượng, hợp tác và làm việc nhóm.)</i><br/>
+ a. Finally, sharing housework can also help families work better and reduce family stress. <i>(Cuối cùng, việc chia sẻ công việc nhà cũng có thể giúp gia đình hoạt động tốt hơn và giảm bớt căng thẳng trong gia đình.)</i><br/>
+ c. When children help out, chores get done sooner, and parents have less to do and this frees up time for the family to do fun things together. <i>(Khi trẻ em giúp đỡ, công việc nhà sẽ được hoàn thành sớm hơn, cha mẹ có ít việc phải làm hơn và điều này giải phóng thời gian để gia đình cùng nhau làm những điều thú vị.)</i><br/>
+ =&gt; Vì vậy, ta có thứ tự sắp xếp đúng là:<b> e-b-d-a-c<br/>
+ Do đó, A là đáp án phù hợp.</b></div>
+     <div><strong>A</strong></div>`,
       },
       {
         id: 41,
-        extra: ``,
-        question: `
+        extra: `<p><strong>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions.</strong></p><p></p><div style="text-align: justify;">There are various factors which may affect a person's choice of a job. Passion, family tradition, salary and work-life balance are just some of them.</div><div style="text-align: justify;">Many people pursue careers based on their interests and hobbies. For instance, someone with a love for animals may do a job in veterinary care, while art lovers might go for a job in the creative industry. Family tradition is another significant motivator. Some individuals would like to follow in the professional footsteps of their parents. <b>They </b>learn from the experience of the previous generation and keep a sense of continuity within their family.</div><div style="text-align: justify;">Other practical considerations guiding job choice are salary and work-life balance. While a large number of people <b>opt for</b> positions which offer competitive payment and benefits, many choose jobs which allow them to maintain a healthy balance between professional and personal life. Such a balance may come from a supportive work environment and flexible working schedules.</div><div style="text-align: justify;">Ultimately, people's job choices are shaped by a blend of personal interests, family influence, financial considerations, and the overall work environment. This complex interaction has resulted in diverse career paths for people in society.</div><p></p>`,
+        question: `<p>What is the best title for the passage?</p>
 `,
-        options: [],
-        answer: ``,
+        options: [`The best career path`,
+     `Teenagers' career choice`,
+     `Your passion, your job`,
+     `How people choose their jobs`],
+        answer: `4`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Tiêu đề nào phù hợp nhất cho đoạn văn? </b><br/>
+ A. Con đường sự nghiệp tốt nhất <br/>
+ B. Sự lựa chọn nghề nghiệp của thanh thiếu niên <br/>
+ C. Đam mê của bạn, công việc của bạn <br/>
+ D. Cách mọi người lựa chọn công việc của họ<br/><b>
+ Căn cứ vào thông tin:</b><br/>
+ - Many people pursue careers based on their interests and hobbies. <i>(Nhiều người theo đuổi sự nghiệp dựa trên sở thích và thú vui của họ.)</i><br/>
+ - "Some individuals would like to follow in the professional footsteps of their parents." <i>(Một số cá nhân muốn nối nghiệp cha mẹ của họ.)</i><br/>
+ - "Other practical considerations guiding job choice are salary and work-life balance." <i>(Những cân nhắc thực tế khác định hướng sự lựa chọn công việc là mức lương và sự cân bằng giữa công việc và cuộc sống.)</i><br/>
+ - "Ultimately, people's job choices are shaped by a blend of personal interests, family influence, financial considerations, and the overall work environment." <i>(Cuối cùng, sự lựa chọn công việc của mọi người được định hình bởi sự kết hợp giữa sở thích cá nhân, ảnh hưởng từ gia đình, những cân nhắc về tài chính và môi trường làm việc tổng thể.)</i><br/><b>
+ → Bài đọc chủ yếu đề cập đến cách mọi người lựa chọn nghề nghiệp dựa trên nhiều yếu tố khác nhau.<br/>
+ Do đó, D là đáp án phù hợp.
+ </b></div>
+     <div><strong>D</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>Why does the writer mention a job in "<i>veterinary care</i>" and "<i>creative industry</i>'?</p>
 `,
-        options: [],
-        answer: ``,
+        options: [`To explain why family tradition is important in choosing a job.`,
+     `To describe the industries with well-paid jobs.`,
+     `To give examples of how passion can affect job choice.`,
+     `To point out some jobs which are popular.`],
+        answer: `3`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Tại sao tác giả đề cập đến công việc trong lĩnh vực "chăm sóc thú y" và "ngành sáng tạo"? </b><br/>
+ A. Để giải thích tại sao truyền thống gia đình lại quan trọng trong việc chọn nghề. <br/>
+ B. Để mô tả những ngành có công việc được trả lương cao. <br/>
+ C. Để đưa ra ví dụ về việc đam mê có thể ảnh hưởng đến lựa chọn công việc như thế nào. <br/>
+ D. Để chỉ ra một số công việc đang phổ biến.<br/><b>
+ Căn cứ vào thông tin: </b>"Many people pursue careers based on their interests and hobbies. For instance, someone with a love for animals may do a job in <b>veterinary care</b>, while art lovers might go for a job in the <b>creative industry</b>."<i> (Nhiều người theo đuổi sự nghiệp dựa trên đam mê và sở thích của họ. Ví dụ, một người yêu động vật có thể làm công việc trong lĩnh vực <b>chăm sóc thú y</b>, trong khi những người yêu nghệ thuật có thể hướng đến một công việc trong <b>ngành sáng tạo</b>.)</i><br/><b>
+ Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>The phrase "<b>opt for</b>" in paragraph 3 is closest in meaning to _______.</p>
 `,
-        options: [],
-        answer: ``,
+        options: [`choose`,
+     `like`,
+     `object to`,
+     `enjoy`],
+        answer: `1`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: ` <div><b>Cụm từ "<u>opt for</u>" trong đoạn 3 gần nghĩa nhất với _____________. </b><br/>
+ A. choose /tʃuːz/ (v): chọn, lựa chọn<br/>
+ B. like /laɪk/ (v): thích <br/>
+ C. object to: phản đối <br/>
+ D. enjoy /ɪnˈdʒɔɪ/ (v): tận hưởng; thích<br/><b>
+ Căn cứ vào thông tin:</b> "While a large number of people <b>opt for</b> positions which offer competitive payment and benefits…" <i>(Trong khi một số lượng lớn người <b>chọn </b>những vị trí mang lại mức lương và phúc lợi cạnh tranh…)</i><br/>
+ =&gt; opt for (ph.v): chọn, lựa chọn ~ choose<br/><b>
+ Do đó, A là đáp án phù hợp.
+ </b></div>
+     <div><strong>A</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: ` <p>Which of the following conditions may contribute to a work-life balance? </p>
   `,
-        options: [],
-        answer: ``,
+        options: [`Unfriendly colleagues at the office`,
+     `A supportive environment at the workplace`,
+     `Fixed working schedules`,
+     `A competitive payment`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Điều kiện nào sau đây có thể góp phần vào sự cân bằng giữa công việc và cuộc sống? </b><br/>
+ A. Đồng nghiệp không thân thiện tại văn phòng <br/>
+ B. Một môi trường hỗ trợ tại nơi làm việc <br/>
+ C. Lịch trình làm việc cố định <br/>
+ D. Mức lương cạnh tranh<br/><b>
+ Căn cứ vào thông tin: </b>"… many choose jobs which allow them to maintain a healthy balance between professional and personal life. Such a balance may come from <b>a supportive work environment</b> and flexible working schedules."<i> (…nhiều người lại chọn những công việc cho phép họ duy trì sự cân bằng lành mạnh giữa sự nghiệp và cuộc sống cá nhân. Sự cân bằng như vậy có thể đến từ <b>một môi trường làm việc hỗ trợ</b> và lịch trình làm việc linh hoạt.)</i><br/><b>
+ Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>
+     `,
       },
       {
         id: 41,
         extra: ``,
-        question: `
+        question: `<p>What does the word "<b>they</b>" in paragraph 2 refer to ________?</p>
   `,
-        options: [],
-        answer: ``,
+        options: [ `Careers based on hobbies`,
+     `Individuals following their parents' profession `,
+     `Family members`,
+     `Creative industry workers`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Từ "<u>they</u>" trong đoạn 2 đề cập đến _____________? </b><br/>
+ A. Careers based on hobbies: Những sự nghiệp dựa trên sở thích <br/>
+ B. Individuals following their parents' profession: Những cá nhân theo nghề của cha mẹ họ <br/>
+ C. Family members: Các thành viên trong gia đình <br/>
+ D. Creative industry workers: Những người làm trong ngành sáng tạo<br/><b>
+ Căn cứ vào thông tin:</b> "Some individuals would like to follow in the professional footsteps of their parents. <b><u>They</u></b> learn from the experience of the previous generation and keep a sense of continuity within their family." <i>(Một số cá nhân muốn nối nghiệp cha mẹ của họ. <b>Họ </b>học hỏi từ kinh nghiệm của thế hệ trước và duy trì ý thức về sự tiếp nối trong gia đình mình.)</i><br/><b>
+ Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Mark the letter A, B, C, or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.</strong></p>`,
+        question: `
+`,
+        options: [ `ex<u>ch</u>ange `,
+     `but<u>ch</u>er `,
+     `stoma<u>ch</u> `,
+     `<u>ch</u>ildren `],
+        answer: `3`,
+        rewrite: ``,
+        lastwrite: ``,
+        explanation: `<div><b>Kiến thức về phát âm<br/>
+ * Xét các đáp án: </b><br/>
+ A. ex<u>ch</u>ange /ɪksˈ<u>tʃ</u>eɪndʒ/ <br/>
+ B. but<u>ch</u>er /ˈbʊ<u>tʃ</u>ə(r)/ <br/>
+ C. stoma<u>ch</u> /ˈstʌmə<u>k</u>/ <br/>
+ D. <u>ch</u>ildren /ˈ<u>tʃ</u>ɪldrən/<br/><b>
+ =&gt; Phần gạch chân ở đáp án C được phát âm là /k/, các đáp án còn lại được phát âm là /tʃ/.<br/>
+ Do đó, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
         question: `
 `,
-        options: [],
-        answer: ``,
+        options: [ `bl<u>u</u>e `,
+     `r<u>u</u>le `,
+     `tr<u>u</u>th `,
+     `b<u>u</u>sy `],
+        answer: `4`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về phát âm<br/>
+ * Xét các đáp án: </b><br/>
+ A. bl<u>u</u>e /bl<u>uː</u>/ <br/>
+ B. r<u>u</u>le /r<u>uː</u>l/ <br/>
+ C. tr<u>u</u>th /tr<u>uː</u>θ/ <br/>
+ D. b<u>u</u>sy /ˈb<u>ɪ</u>zi/<br/><b>
+ =&gt; Phần gạch chân ở đáp án D được phát âm là /ɪ/, các đáp án còn lại được phát âm là /uː/.<br/>
+ Do đó, D là đáp án phù hợp.</b></div>
+     <div><strong>D</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
         question: `
 `,
-        options: [],
-        answer: ``,
+        options: [`relax<u>es</u> `,
+     `locat<u>es</u> `,
+     `finish<u>es</u> `,
+     `research<u>es</u> `],
+        answer: `4`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về phát âm đuôi -s/es<br/>
+ * Xét các đáp án:</b><br/>
+ A. relax<u>es</u> /rɪˈlæks<u>ɪz</u>/ <br/>
+ B. locat<u>es</u> /ləʊˈkeɪt<u>s</u>/ <br/>
+ C. finish<u>es</u> /ˈfɪnɪʃ<u>ɪz</u>/ <br/>
+ D. research<u>es</u> /rɪˈsɜːtʃ<u>ɪz</u>/<br/>
+ Ta có quy tắc phát âm đuôi -s/es:<br/>
+ 1.	Đuôi <b>-s/es</b> được phát âm là <b>/s/ </b>khi động từ có phát âm cuối là /p/, /t/, /k/, /f/, /θ/<br/>
+ 2.	Đuôi <b>-s/es</b> được phát âm là <b>/iz/</b> khi động từ kết thúc bằng -s, -ss, -sh, -ce, -z, -ge, -ch, -x…<br/>
+ 3.	Đuôi <b>-s/es </b>được phát âm là <b>/z/</b> với các trường hợp còn lại.<br/><b>
+ =&gt; Phần gạch chân ở câu B được phát âm là /s/, còn lại được phát âm là /ɪz/. <br/>
+ Do đó, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Mark the letter A, B, C, or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.</strong></p>`,
+        question: `
+      `,
+        options: [`destroy`,
+     `happen`,
+     `forget`,
+     `reply`],
+        answer: `2`,
+        lastwrite: ``,
+        explanation: `<div><b>Kiến thức về trọng âm<br/>* Xét các đáp án: </b><br/>A. destroy /dɪˈstrɔɪ/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm đôi /ɔɪ/.<br/>B. happen /ˈhæpən/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm không rơi vào nguyên âm ngắn /ə/.<br/>C. forget /fəˈɡet/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm không rơi vào nguyên âm ngắn /ə/.<br/>D. reply /rɪˈplaɪ/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm đôi /aɪ/.<br/><b>=&gt; Đáp án B có trọng âm rơi vào âm tiết thứ nhất. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai. <br/>Do đó, B là đáp án phù hợp.</b></div>
+     <div><strong>B</strong></div>`,
       },
       {
         id: 41,
         extra: ``,
         question: `
-`,
-        options: [],
-        answer: ``,
+      `,
+        options: [ `pollution`,
+     `afternoon`,
+     `unhappy`,
+     `historic`],
+        answer: `2`,
         rewrite: ``,
         lastwrite: ``,
-        explanation: ``,
+        explanation: `<div><b>Kiến thức về trọng âm<br/>* Xét các đáp án: </b><br/>A. pollution /pəˈluːʃn/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi <b>-ion</b> làm trọng âm rơi vào âm tiết ngay trước nó.<br/>B. afternoon /ˌɑːftəˈnuːn/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, đuôi <b>-oon</b> làm trọng âm rơi vào chính âm tiết chứa nó.<br/>C. unhappy /ʌnˈhæpi/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, tiền tố <b>un-</b> không làm ảnh hưởng đến trọng âm của từ gốc. Và từ happy /ˈhæpi/ có trọng âm rơi vào âm tiết thứ nhất.<br/>D. historic /hɪˈstɒrɪk/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi <b>-ic</b> làm trọng âm rơi vào âm tiết ngay trước nó.<br/><b>=&gt; Đáp án B có trọng âm rơi vào âm tiết thứ ba. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai. <br/>Do đó, B là đáp án phù hợp.</b></div>
+     <div><strong>B</strong></div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Read the following announcements and circle the letter A, B, C or D to indicate the correct option in each gap.</strong></p> <p></p><div style="text-align: center;"><b>LIBRARY RULES ANNOUNCEMENT</b></div><div style="text-align: justify;">In order to maintain a quiet and effective learning (43) _______, " all students are required to follow these library rules:</div><div style="text-align: justify;">* Upon entering the library, students must behave politely and respect (44) _______ shared study space of others.</div><div style="text-align: justify;">* Students should not speak loudly in the library as it may disturb others' concentration.</div><div style="text-align: justify;">* When using mobile phones in the library, students should set their phones to silent mode or turn them off.</div><div style="text-align: justify;">* All borrowed materials should be returned on time to allow others to use them. If you lose any books, please inform the library staff immediately.</div><div style="text-align: justify;">* Eating and drinking are not allowed in the library (45) ________ this behavior may affect the cleanliness and condition of library materials.</div><p></p>`,
+        question: `
+      `,
+        options: [`climate`,
+     `environment`,
+     `situation`,
+     `atmosphere`],
+        answer: `2`,
+        rewrite: ``,
+        lastwrite: ``,
+        explanation: `<div><b>Kiến thức về từ vựng<br/>* Xét các đáp án:</b><br/>A. climate /ˈklaɪmət/ (n): khí hậu<br/>B. environment /ɪnˈvaɪrənmənt/ (n): môi truờng<br/>C. situation /ˌsɪtʃuˈeɪʃn/ (n): tình huống, trường hợp<br/>D. atmosphere /ˈætməsfɪə(r)/ (n): không khí; bầu không khí<br/>* Ta có cụm từ: <b>learning environment: môi trường học tập<br/>Tạm dịch: </b>In order to maintain a quiet and effective learning (43) _______, all students are required to follow these library rules <i>(Để duy trì một <b>môi trường</b> học tập yên tĩnh và hiệu quả, tất cả sinh viên được yêu cầu tuân theo các nội quy thư viện sau)</i><br/><b>Do đó, B là đáp án phù hợp.</b></div>
+     <div><strong>B</strong></div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options: [`a`,
+     `no article`,
+     `an`,
+     `the`],
+        answer: `4`,
+        rewrite: ``,
+        lastwrite: ``,
+        explanation: ` <div><b>Kiến thức về mạo từ</b><br/>
+ * Ta có quy tắc: Mạo từ xác định "<b>the</b>" dùng đứng trước danh từ đã được xác định hoặc biết rõ trong ngữ cảnh.<br/>
+ → Ta thấy, "<b>of others</b>" (của những người khác) làm cho "<b>shared study space</b>" trở nên xác định =&gt; ta dùng mạo từ "<b>the</b>" trước nó.<br/><b>
+ Tạm dịch: </b>Upon entering the library, students must behave politely and respect (44) __________ shared study space of others. <i>(Khi vào thư viện, sinh viên phải cư xử lịch sự và tôn trọng không gian học tập chung của người khác.)</i><br/><b>
+ Do đó, D là đáp án phù hợp.</b></div>
+     <div><strong>D</strong></div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options: [ `so`,
+     `although`,
+     `but`,
+     `because`],
+        answer: `4`,
+        rewrite: ``,
+        lastwrite: ``,
+        explanation: ` <div><b>Kiến thức về liên từ<br/>
+ * Xét các đáp án:</b><br/>
+ A. so: vì vậy, do đó (chỉ kết quả) <br/>
+ B. although: mặc dù (chỉ sự tương phản) <br/>
+ C. but: nhưng (chỉ sự tương phản) <br/>
+ D. because: bởi vì, do (chỉ nguyên nhân, lý do)<br/><b>
+ Tạm dịch: </b>Eating and drinking are not allowed in the library (45) ________ this behavior may affect the cleanliness and condition of library materials.<i> (Không được phép ăn uống trong thư viện <b>bởi vì</b> hành vi này có thể ảnh hưởng đến sự sạch sẽ và tình trạng của tài liệu thư viện.)</i><br/><b>
+ Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+ </b></div>
+     <div><strong>D</strong></div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions.</strong></p><p></p><div style="text-align: justify;">The Amazon rainforest is a vast and vibrant ecosystem teeming with life. It covers an area larger than most European countries and holds ten percent of the world's known species. This <b>biodiversity</b> makes it a prime destination for tourists seeking a unique and unforgettable experience. However, traditional tourism can have a negative impact on this delicate environment. Ecotourism offers a more sustainable alternative, focusing on responsible travel that benefits both the rainforest and local communities.</div><div style="text-align: justify;">Ecotourism trips typically involve small groups led by experienced guides who are knowledgeable about the rainforest's ecology. <b>They </b>prioritize activities that minimize environmental impact, like nature walks, wildlife observation, and boat trips on rivers. These tours educate visitors about the rainforest's importance and the threats it faces.</div><div style="text-align: justify;">Staying in eco-lodges built with local materials minimizes disruption to the ecosystem. These lodges often employ local people, providing them with income and fostering a sense of ownership over the rainforest's preservation. Ecotourism also supports local businesses that sell traditional crafts and products, promoting cultural exchange and economic growth.</div><p></p>`,
+        question: `<p>What is the main idea of the passage?</p>
+      `,
+        options: [`The Amazon rainforest is in immediate danger of disappearing entirely.`,
+     `Ecotourism offers a responsible way to explore the rainforest and support its preservation.`,
+     `The Amazon rainforest is a popular destination for luxury vacations.`,
+     `Traditional tourism is the best way to experience the Amazon rainforest.`],
+        answer: `2`,
+        rewrite: ``,
+        lastwrite: ``,
+        explanation: `<div><b>Ý chính của đoạn văn là gì? </b><br/>
+ A. Rừng mưa Amazon đang đứng trước nguy cơ biến mất hoàn toàn ngay lập tức. <br/>
+ B. Du lịch sinh thái mang đến một cách có trách nhiệm để khám phá rừng mưa và hỗ trợ việc bảo tồn nó. <br/>
+ C. Rừng mưa Amazon là điểm đến phổ biến cho các kỳ nghỉ sang trọng. <br/>
+ D. Du lịch truyền thống là cách tốt nhất để trải nghiệm rừng mưa Amazon.<br/><b>
+ Căn cứ vào thông tin:</b><br/>
+ - "Ecotourism offers a more sustainable alternative, focusing on responsible travel that benefits both the rainforest and local communities." <i>(Du lịch sinh thái mang đến một giải pháp thay thế bền vững hơn, tập trung vào du lịch có trách nhiệm mang lại lợi ích cho cả rừng mưa và cộng đồng địa phương.)</i><br/>
+ - "These tours educate visitors about the rainforest's importance and the threats it faces." <i>(Những chuyến đi này giáo dục du khách về tầm quan trọng của rừng mưa và những mối đe dọa mà nó phải đối mặt.)</i><br/>
+ - "Staying in eco-lodges built with local materials minimizes disruption to the ecosystem." <i>(Việc lưu trú tại các nhà nghỉ sinh thái được xây dựng bằng vật liệu địa phương giúp giảm thiểu sự xáo trộn đối với hệ sinh thái.)</i><br/><b>
+ → Bài đọc nhấn mạnh rằng du lịch sinh thái là giải pháp để bảo vệ rừng Amazon và hỗ trợ cộng đồng địa phương.<br/>
+ Do đó, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>What is the meaning of the word "<b>biodiversity</b>" in the first paragraph?</p>
+      `,
+        options: [`The number of people visiting an area`,
+     `The quality of tourism services`,
+     `The height of the rainforest trees`,
+     `The variety of plant and animal life`],
+        answer: `4`,
+        rewrite: ``,
+        lastwrite: ``,
+        explanation: `<div><b>Nghĩa của từ "<u>biodiversity</u>" trong đoạn đầu tiên là gì? </b><br/>
+ A. The number of people visiting an area: Số lượng người đến thăm một khu vực <br/>
+ B. The quality of tourism services: Chất lượng dịch vụ du lịch <br/>
+ C. The height of the rainforest trees: Chiều cao của cây trong rừng mưa <br/>
+ D. The variety of plant and animal life: Sự đa dạng của đời sống thực vật và động vật<br/><b>
+ Căn cứ vào thông tin:</b> "This <u><b>biodiversity</b></u> makes it a prime destination for tourists seeking a unique and unforgettable experience." <i>(<b>Sự đa dạng sinh học</b> này khiến nơi đây trở thành điểm đến hàng đầu cho du khách tìm kiếm trải nghiệm độc đáo và khó quên.)</i><br/><b>
+ =&gt; biodiversity /ˌbaɪəʊdaɪˈvɜːsəti/ (n): sự đa dạng sinh học</b><br/><b>
+ Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+ </b></div>
+     <div><strong>D</strong></div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>How do ecotourism tours typically operate?</p>
+      `,
+        options: [`Small groups led by knowledgeable guides who prioritize responsible travel `,
+     `Independent exploration with minimal impact on the environment`,
+     `Large groups following a set itinerary with minimal guidance`,
+     `Luxurious cruises down the Amazon River with limited interaction with nature`],
+        answer: `1`,
+        rewrite: ``,
+        lastwrite: ``,
+        explanation: `<div><b>Các chuyến du lịch sinh thái thường hoạt động như thế nào? </b><br/>
+ A. Các nhóm nhỏ do hướng dẫn viên am hiểu dẫn dắt, ưu tiên du lịch có trách nhiệm <br/>
+ B. Khám phá độc lập với tác động tối thiểu đến môi trường <br/>
+ C. Các nhóm lớn theo lịch trình cố định với sự hướng dẫn tối thiểu <br/>
+ D. Các chuyến du thuyền sang trọng xuôi dòng sông Amazon với sự tương tác hạn chế với thiên nhiên<br/><b>
+ Căn cứ vào thông tin: </b>"Ecotourism trips typically involve small groups led by experienced guides who are knowledgeable about the rainforest's ecology. They prioritize activities that minimize environmental impact, like nature walks, wildlife observation, and boat trips on rivers." <i>(Các chuyến du lịch sinh thái thường bao gồm các nhóm nhỏ do hướng dẫn viên giàu kinh nghiệm, am hiểu về hệ sinh thái của rừng mưa dẫn dắt. Chúng ưu tiên các hoạt động giảm thiểu tác động môi trường, như đi bộ khám phá thiên nhiên, quan sát động vật hoang dã và đi thuyền trên sông.)</i><br/><b>
+ Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+ </b></div>
+     <div><strong>A</strong></div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` <p>Why is ecotourism important for the Amazon rainforest?</p>
+      `,
+        options: [`It allows tourists to take home souvenirs made from endangered species. `,
+     `It educates visitors about the importance of rainforest conservation. `,
+     `It encourages unsustainable development projects in the rainforest. `,
+     `It disrupts the natural predator-prey balance in the ecosystem. `],
+        answer: `2`,
+        rewrite: ``,
+        lastwrite: ``,
+        explanation: `<div><b>Tại sao du lịch sinh thái lại quan trọng đối với rừng mưa Amazon? </b><br/>
+ A. Nó cho phép du khách mang về những món quà lưu niệm làm từ các loài có nguy cơ tuyệt chủng. <br/>
+ B. Nó giáo dục du khách về tầm quan trọng của việc bảo tồn rừng mưa. <br/>
+ C. Nó khuyến khích các dự án phát triển không bền vững trong rừng mưa. <br/>
+ D. Nó phá vỡ sự cân bằng tự nhiên giữa kẻ săn mồi và con mồi trong hệ sinh thái.<br/><b>
+ Căn cứ vào thông tin:</b> "These tours educate visitors about the rainforest's importance and the threats it faces." <i>(Những chuyến đi này giáo dục du khách về tầm quan trọng của rừng mưa và những mối đe dọa mà nó phải đối mặt.)</i><br/><b>
+ Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+ </b></div>
+     <div><strong>B</strong></div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>What does the word "<b>they</b>" in paragraph 2 refer to _________?</p>
+      `,
+        options: [`Tourists`,
+     `Wildlife species`,
+     `Ecotourism trips`,
+     `Local communities`],
+        answer: `3`,
+        rewrite: ``,
+        lastwrite: ``,
+        explanation: `<div><b>Từ "<u>they</u>" trong đoạn 2 đề cập đến ___________? </b><br/>
+ A. Tourists: Các du khách <br/>
+ B. Wildlife species: Các loài động vật hoang dã <br/>
+ C. Ecotourism trips: Các chuyến du lịch sinh thái <br/>
+ D. Local communities: Cộng đồng địa phương<br/><b>
+ Căn cứ vào thông tin:</b> "Ecotourism trips typically involve small groups led by experienced guides who are knowledgeable about the rainforest's ecology. <b><u>They</u></b> prioritize activities that minimize environmental impact…" <i>(Các chuyến du lịch sinh thái thường bao gồm các nhóm nhỏ do hướng dẫn viên giàu kinh nghiệm, am hiểu về hệ sinh thái của rừng mưa dẫn dắt. <b>Chúng </b>ưu tiên các hoạt động giảm thiểu tác động môi trường…)</i><br/><b>
+ Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+ </b></div>
+     <div><strong>C</strong></div>`,
       },
     ],
   },
@@ -15653,3 +16356,4 @@ options: [`A`,`B`,`C`,`D`,],
     ],
   },
 ];
+export const eExamLength = eExam.length;

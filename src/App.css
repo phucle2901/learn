@@ -78,6 +78,9 @@
 .list-style-square{
   list-style: square !important;  
 }
+.list-style-none{
+  list-style: none !important;  
+}
 
 .compare-title{
   font-size: 1.1em;
@@ -222,8 +225,39 @@ body:after {
 }
 .text-shadow-h1{
   color: #EE800C !important;
-  text-shadow: 2px 1px 0px #fff, 3px 3px 0px rgba(0,0,0,0.15);
+  text-shadow: 2px 1px 0px #fff, 2px 2px 0px rgba(0,0,0,0.15);
 }
+.table-type1 thead {
+  border-bottom: 3px solid #501ea1;
+}
+.table-type1 th, .table-type1 td{padding:5px}
+.table-type1 tbody{
+  vertical-align: top;
+}
+.table-type1 tbody tr:nth-child(odd) {
+  background-color: #f9caf2;
+
+}
+.table-bordered{
+  width:100%
+}
+.table-bordered>:not(caption)>* {
+  border-width: 1px 0;
+}
+.table-bordered>:not(caption)>*>* {
+  border-width: 0 1px;
+}
+
+.table-bordered>:not(caption)>*:hover,.table-col>:not(caption)>*:hover{
+  background:#e1f7e0;/*#d0f5ce;*/
+}
+.table>:not(caption)>*>* {
+  padding: .5rem .5rem;
+  background-color: transparent;
+  border-bottom-width: 1px;
+  box-shadow: inset 0 0 0 9999px transparent;
+}
+
 
 @media screen and (max-width: 1080px) {
   .note-shadow{  
@@ -266,13 +300,16 @@ body:after {
   width:200px;
 }
 .sub-menu{
-  left:calc(100vw - 220px) !important;
-  top:27px !important
+  left:calc(100vw - 230px) !important;
+  top:30px !important;
+  height:calc(100vh - 100px) !important;
+  width:230px !important;
 }
 .sub-menu a{width:200px !important;}
 .wrap-rewrite p{ padding-top:0 !important
 
 }
+html {padding-right:0 !important}
 .question img{max-width:200px !important}
 .react-tabs{
   width:200px;
@@ -317,3 +354,7 @@ body:after {
     word-break: break-word;
   }
 }
+.question img.custom-max-width{
+  max-width:50% !important
+}
+.rhap_container{width:30% !important}

@@ -1975,6 +1975,151 @@ populous
             <br />
             Đáp án A là danh từ 2 âm tiết trọng âm rơi vào âm tiết thứ 1.`,
   },
+  {
+    id: 41,
+    extra: `
+`,
+    question: `
+    `,
+    options: [
+      `generous
+`,
+      `impatient
+`,
+      `popular
+`,
+      `talkative
+`,
+    ],
+    answer: `2`,
+    explanation: `<p><strong>Kiến thức: </strong>Trọng âm</p>
+<p><strong>Giải thích:</strong></p>
+<p>A. generous /ˈdʒenərəs/: nhấn âm 1</p>
+<p>B. impatient /ɪmˈpeɪʃnt/: nhấn âm 2</p>
+<p>C. popular /ˈpɒpjələ(r)/: nhấn âm 1</p>
+<p>D. talkative /ˈtɔːkətɪv/: nhấn âm 1</p>
+<p>Đáp án B có trọng âm rơi vào âm 2, các phương án còn lại đều có trọng âm rơi vào âm 1.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `
+    `,
+    options: [
+      `library
+`,
+      `museum
+`,
+      `hospital
+`,
+      `restaurant
+`,
+    ],
+    answer: `2`,
+    explanation: `<p><strong>Kiến thức: </strong>Trọng âm</p>
+<p><strong>Giải thích:</strong></p>
+<p>A. library /ˈlaɪbrəri/: nhấn âm 1</p>
+<p>B. museum /mjuˈziːəm/: nhấn âm 2</p>
+<p>C. hospital /ˈhɒspɪtl/: nhấn âm 1</p>
+<p>D. restaurant /ˈrestrɒnt/: nhấn âm 1</p>
+<p>Đáp án B có trọng âm rơi vào âm 2, các phương án còn lại đều có trọng âm rơi vào âm 1.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `
+`,
+    options: [
+      `earthquake
+`,
+      `landslide
+`,
+      `collapse
+`,
+      `shipwreck
+`,
+    ],
+    answer: `3`,
+    rewrite: ``,
+    explanation: `<p>A. earthquake /ˈɜːθkweɪk/: nhấn âm 1</p>
+<p>B. landslide /ˈlændslaɪd/: nhấn âm 1</p>
+<p>C. collapse /kəˈlæps/: nhấn âm 2</p>
+<p>D. shipwreck /ˈʃɪprek/: nhấn âm 1</p>
+<p>Đáp án C có trọng âm rơi vào âm tiết thứ 2, cac phương án còn lại đều có trọng âm rơi vào âm tiết thứ nhất.</p>
+<p>Đáp án C.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `tsunami
+`,
+      `volcano
+`,
+      `destruction
+`,
+      `accident
+`,
+    ],
+    answer: `4`,
+    rewrite: ``,
+    explanation: `<p>A. tsunami /tsuːˈnɑːmi/: nhấn âm 2</p>
+<p>B. volcano /vɒlˈkeɪnəʊ/: nhấn âm 2</p>
+<p>C. destruction /dɪˈstrʌkʃn/: nhấn âm 2</p>
+<p>D. accident /ˈæksɪdənt/: nhấn âm 1</p>
+<p>Đáp án D có trọng âm rơi vào âm tiết thứ nhất, cac phương án còn lại đều có trọng âm rơi vào âm tiết thứ 2.</p>
+<p>Đáp án D.</p>`,
+  },
+  {
+    id: 41,
+    extra: ``,
+    question: `
+`,
+    options: [
+      `selfish
+`,
+      `between
+`,
+      `honest
+`,
+      `bossy
+`,
+    ],
+    answer: `2`,
+    rewrite: ``,
+    explanation: `<p>A. selfish /ˈselfɪʃ/: Nhấn âm 1</p>
+<p>B. between /bɪˈtwiːn/: Nhấn âm 2</p>
+<p>C. honest /ˈɒnɪst/: Nhấn âm 1</p>
+<p>D. bossy /ˈbɒsi/: Nhấn âm 1</p>
+<p>Đáp án B có trọng âm rơi vào âm tiết thứ 2, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ nhất.</p>
+<p>Đáp án B.</p>`,
+  },
+  {
+    id: 41,
+    question: `
+`,
+    options: [
+      `information
+`,
+      `entertainment
+`,
+      `energetic
+`,
+      `supermarket
+`,
+    ],
+    answer: `4`,
+    rewrite: ``,
+    explanation: `<p>A. information /ˌɪnfəˈmeɪʃn/: Nhấn âm 3</p>
+<p>B. entertainment /ˌentəˈteɪnmənt/: Nhấn âm 3</p>
+<p>C. energetic /ˌenəˈdʒetɪk/: Nhấn âm 3</p>
+<p>D. supermarket /ˈsuːpəmɑːkɪt/: Nhấn âm 1</p>
+<p>Đáp án D có trọng âm rơi vào âm tiết thứ 1, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ 3</p>
+<p>Đáp án D.</p>`,
+  },
   // {
   //   id: 9,
   //   question: `

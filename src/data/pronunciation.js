@@ -457,7 +457,7 @@ export const ePRONOUNCIATION = [
     options: [
       `<p>A. tr<u>a</u>ffic&nbsp;</p>`,
       `<p>B. p<u>a</u>vement</p>`,
-      `<p>C. p<u>a</u>vement</p>`,
+      `<p>C. pl<u>a</u>ne</p>`,
       `<p>D. st<u>a</u>tion</p>`,
     ],
     answer: 1,
@@ -476,7 +476,7 @@ export const ePRONOUNCIATION = [
       `<p>A. fr<u>ei</u>ght</p>`,
       `<p>B. v<u>ei</u>n</p>`,
       `<p>C. c<u>ei</u>ling</p>`,
-      `<p>D. c<u>ei</u>ling</p>`,
+      `<p>D. n<u>ei</u>ghbour</p>`,
     ],
     answer: 3,
     explanation: `<div>

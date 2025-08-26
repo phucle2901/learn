@@ -15,13 +15,14 @@ import Gramma from "./component/gramma/Gramma";
 
 import Translator from "./component/translator/Translator";
 
+
 function App() {
   //const [examId, setExamId] = useState(0);
   const [refeshData, setRefeshData] = useState(true);
   const [gradeExam,setGradeExam]=useState({examId:0,grade:8});
   
-  const menus = ["", "Gerund", "Comparative", "Article", "Quantifiers", "Makedo", "Conditional"];
-  const descMenus = ["", "Danh động từ và động từ nguyên mẫu", "So sánh", "Mạo từ A, An, The", "Lượng từ","Cách dùng Make, Do, Have, Get","Câu điều kiện"];
+  const menus = ["", "Gerund", "Comparative", "Article", "Quantifiers", "Makedo", "Conditional","Tagquestion","Form","Rewrite","Tenses","Coordination","Subjunctivemood"];
+  const descMenus = ["", "Danh động từ và động từ nguyên mẫu", "So sánh", "Mạo từ A, An, The", "Lượng từ","Cách dùng Make, Do, Have, Get","Câu điều kiện","Câu hỏi đuôi", "Trật tự từ", "Cấu trúc viết lại câu","Thì động từ","Sự phối thì","Câu giả định"];
   const [menuActive, setMenuActive] = useState(() => {
     const saved = localStorage.getItem("menuActive");
     return saved ? JSON.parse(saved) : 0;

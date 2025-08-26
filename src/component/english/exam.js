@@ -35,6 +35,7 @@ console.log("gradeExam=",gradeExam);
   
   useEffect(() => {    
     if (refeshData) {
+      setQuestions([]);
       pauseMedia();
       setAnswers({});
       setSubmitted(false);
@@ -312,11 +313,9 @@ console.log("gradeExam=",gradeExam);
 
       {submitted && (
         <div style={{ marginTop: "0.5em", color: "#fff" }}>
-          <h3>Kết quả</h3>
-          <p>
-            Số câu trả lời đúng <strong> {results.score} </strong> trên tổng
-            <strong> {results.total} </strong> câu.
-          </p>
+          <h3>Kết quả: Số câu trả lời đúng <strong> {results.score} </strong> trên tổng
+          <strong> {results.total} </strong> câu.</h3>
+         
         </div>
       )}
     </>

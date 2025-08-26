@@ -38,7 +38,7 @@
   
 }
 .table-col td{border-color: #501ea1;border-width: 1px !important; border-style: solid;padding:5px}
-
+.table-col-top td{vertical-align: top;}
 /* compare */
 .content-compare{
   display: flex;
@@ -110,7 +110,7 @@ span p{
   
 }
 .wrap-question{
-  height: 80vh;
+  height: 90vh;
   overflow: auto;
   border: 1px solid #b1abab;
   padding: 20px;
@@ -122,7 +122,7 @@ span p{
   width:20px;
   height:20px;
   background:#fff;
-  top:calc(80vh + 20px);
+  top:calc(90vh + 20px);
   right:calc(20% + 20px);
   border-radius:50%;
   cursor:pointer
@@ -257,7 +257,19 @@ body:after {
   border-bottom-width: 1px;
   box-shadow: inset 0 0 0 9999px transparent;
 }
+.structure{display:flex;
+  flex-direction: row;
+  align-items:center;
+  gap: 10px;
 
+}
+@media screen and (max-width: 1440px) {
+  .App{
+    padding:20px 30px;
+    position:relative;
+  
+  }
+}
 
 @media screen and (max-width: 1080px) {
   .note-shadow{  

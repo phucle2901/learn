@@ -1,4 +1,4 @@
-export function answerSttring(val, isnum){
+export function answerSttring(val, isnum){  
     if (!isnum) {
       return val;
     } else {
@@ -13,8 +13,15 @@ export function answerSttring(val, isnum){
       }else{
         return val;
       }
-    }
+    }  
   };
+  function checkType(param) {
+    if (Array.isArray(param)) {
+      return true;
+    } else {
+      return false;
+    }
+  }
   export function cleanSpace  (text) {
     if (typeof text === "undefined") {
       return "";
@@ -26,19 +33,53 @@ export function answerSttring(val, isnum){
     return str.replace(/[^a-zA-Z]$/, "");
   };
   export function compareAnswer  (result, answer, isnum)  {
-    if (isnum) {
-      return parseFloat(result) === parseFloat(answer) + 1;
-    } else {
-      if (typeof answer === "undefined") return false;
-      const cleaned = cleanSpace(answer);
-      if (
-        cleanLastChar(result).toString().toLowerCase() ===
-        cleanLastChar(cleaned)?.toString().toLowerCase()
-      ) {
-        return true;
-      }
-      return false;
+    let newArray=[];
+    if(checkType(result)){      
+      newArray= [...result];
+    }else{
+      newArray.push(result);
     }
+    console.log("newArray",newArray); 
+    let flag=true  ; 
+    let lastresult=false;
+    newArray.forEach((r)=>{
+      console.log(r);
+      if(flag){
+        if (isnum) {
+          console.log(parseFloat(r)," ",(parseFloat(answer) + 1));
+          //return parseFloat(r) === parseFloat(answer) + 1;
+          lastresult=parseFloat(r) === parseFloat(answer) + 1;               
+        } else {
+          if (typeof answer === "undefined") return false;
+          const cleaned = cleanSpace(answer);
+          if (
+            cleanLastChar(r).toString().toLowerCase() ===
+            cleanLastChar(cleaned)?.toString().toLowerCase()
+          ) {
+            //return true;            
+            lastresult=true;
+          }
+          //return false;            
+           
+        }
+        if(lastresult) flag=false;
+       }
+    })
+    return lastresult;
+    // if (isnum) {
+    //   return parseFloat(result) === parseFloat(answer) + 1;
+    // } else {
+    //   if (typeof answer === "undefined") return false;
+    //   const cleaned = cleanSpace(answer);
+    //   if (
+    //     cleanLastChar(result).toString().toLowerCase() ===
+    //     cleanLastChar(cleaned)?.toString().toLowerCase()
+    //   ) {
+    //     return true;
+    //   }
+    //   return false;
+    // }
+    
   };
   
   export function fReplaceQuestion(originalString,num){

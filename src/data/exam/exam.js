@@ -265,7 +265,7 @@ export const eExam = [
         options: [
           `was covering
 `,
-          `covering  
+          `covering  
 `,
           `covers
 `,
@@ -285,7 +285,7 @@ export const eExam = [
         question: `Art _______ can visit Raul Speek Gallery to see wonderful works of art. (LOVE)
 
           `,
-        options: [],
+        
         rewrite: ``,
         answer: `lovers`,
         explanation: `<p>Trước động từ “can” cần một danh từ đóng vai trò làm chủ ngữ, phía trước không có mạo từ nên chia danh từ ở dạng số nhiều là “lovers”.</p>
@@ -297,7 +297,7 @@ export const eExam = [
         question: `Saigon Zoo is one of the most famous tourist _________ in Ho Chi Minh City. (ATTRACT)
 
           `,
-        options: [],
+        
         rewrite: ``,
         answer: `attractions`,
         explanation: `<p>Cấu trúc: One of the most + danh từ số nhiều, nên chia thành “attractions”.</p>
@@ -309,7 +309,7 @@ export const eExam = [
         question: `You were very ________ because the was nothing happened to you in the accident. (LUCK)
 
           `,
-        options: [],
+        
         answer: `lucky`,
         explanation: `<p>Sau động từ tobe có thể chia tính từ hoặc danh từ. Ở đây động từ “tobe” chỉ tính chất nên chia tính từ.</p>
 <p><strong>Tạm dịch:</strong> Bạn thật may mắn vì không có chuyện gì xảy ra với bạn trong vụ tai nạn đó.</p>
@@ -394,7 +394,7 @@ export const eExam = [
         question: `This toy shop/ open/ 10 a.m. / and/ close/ 9 p.m. / every day.
 
           `,
-        options: [],
+        
         rewrite: ``,
         answer: `This toy shop opens at 10 a.m. and closes at 9 p.m. every day`,
         explanation: `<p>Cách dùng: Diễn tả một hành động lặp đi lặp lại; Dấu hiệu: “everyday”.</p>
@@ -406,7 +406,7 @@ export const eExam = [
         question: `My mum/ take/ train/ city centre/ at the moment.
 
           `,
-        options: [],
+        
         answer: `My mum is taking a train to the city centre at the moment.`,
         rewrite: ``,
         explanation: `<p>Cách dùng:<strong> </strong>Diễn tả một hành động diễn ra tại thời điểm nói; Dấu hiệu: “at the moment”.</p>
@@ -418,7 +418,7 @@ export const eExam = [
         question: `He/ be/ going to/ stay/ city/ three days.
 
           `,
-        options: [],
+        
         answer: `He is going to stay in the city for three days.`,
         rewrite: ``,
         explanation: `<p>Thì tương lai gần một quyết định, kế hoạch đã được dự định trong tương lai mà đã có dự định từ trước.</p>
@@ -430,7 +430,7 @@ export const eExam = [
         question: `He/ break/ his leg/ when/ he/ climb/ mountain/ yesterday.
 
           `,
-        options: [],
+        
         rewrite: ``,
         answer: `He broke his leg when he was climbing a mountain yesterday.`,
         explanation: `<p>Diễn tả một hành động đang xảy ra trong quá khứ thì có một hành động khác cắt ngang.</p>
@@ -442,7 +442,7 @@ export const eExam = [
         question: `you/ hear /hiking accident/ Hawaii/ last night?
 
           `,
-        options: [],
+        
         rewrite: ``,
         answer: `Did you hear about a hiking accident in Hawaii last night?`,
         explanation: `<p>Cách dùng:<strong> </strong>Diễn tả hành động xảy ra và kết thúc trong quá khứ; Dấu hiệu “last night”.</p>
@@ -633,7 +633,7 @@ export const eExam = [
 
     `,
         options: [
-          `interesting  
+          `interesting  
 `,
           `crowded
 `,
@@ -658,7 +658,7 @@ export const eExam = [
 
     `,
         options: [
-          `going  
+          `going  
 `,
           `go
 `,
@@ -685,7 +685,7 @@ export const eExam = [
 `,
           ` goes
 `,
-          `going  
+          `going  
 `,
         ],
         answer: `4`,
@@ -725,7 +725,7 @@ export const eExam = [
         question: `The _______ of the Hunga Tonga-Hunga Happai volcano was on 15 January, 2022. (ERUPT)
 
     `,
-        options: [],
+        
         answer: `eruption`,
         rewrite: ``,
         explanation: `<p>Sau mạo từ “the”, trước giới từ “of” cần một danh từ.</p>
@@ -737,7 +737,7 @@ export const eExam = [
         question: `Some of my friends want to live in the countryside because of the low pace of life, but I find living there is _______ due to the lack of facilities. (CONVENIENCE)
 
     `,
-        options: [],
+        
         answer: `inconvenient`,
         rewrite: ``,
         explanation: `<p style="text-align: justify;">“find” + tân ngữ + tính từ: cảm thấy như thế nào khi làm một việc gì. Dựa vào ý “the lack of facilities” <em>(thiếu thốn cơ sở vật chất)</em> thì ta cần điền một tình từ mang ý nghĩa không tích cực, cần tiền tố ngược nghĩa đứng trước</p>
@@ -749,7 +749,7 @@ export const eExam = [
         question: `We all felt terrified when we heard a loud ______ from the nearby building yesterday. (EXPLODE) 
 
     `,
-        options: [],
+        
         answer: `explosion`,
         rewrite: ``,
         explanation: `<p>cụm danh từ “a loud _____” đang thiếu một danh từ chính, nên chỗ trống cần điền vào một danh từ<strong></strong></p>
@@ -829,7 +829,7 @@ export const eExam = [
         question: `Quảng Ninh Province has got many famous tourist attractions. (THERE)
 
   `,
-        options: [],
+        
         answer: `There are many famous tourist attractions in Quảng Ninh`,
         rewrite: ``,
         explanation: `<p>S + have/has + V3/ed + many + danh từ số nhiều = There are + many + danh từ số nhiều</p>
@@ -841,7 +841,7 @@ export const eExam = [
         question: `My father does not like using his smartphone at bedtime. (AVOIDS)
 
   `,
-        options: [],
+        
         answer: `My father avoids using his smartphone at bedtime`,
         rewrite: ``,
         explanation: `<p>Cấu trúc: do not like + V-ing = avoid + Ving: tránh làm điều gì đó</p>
@@ -853,7 +853,7 @@ export const eExam = [
         question: `Tourists love travelling to the countryside to enjoy the clean air. (BECAUSE)
 
   `,
-        options: [],
+        
         answer: `Tourists love travelling to the countryside because they can enjoy the clean air`,
         rewrite: ``,
         explanation: `<p>Cấu trúc: S + V (+ O) + Because + S + V (+ O)</p>
@@ -866,7 +866,7 @@ export const eExam = [
         extra: `<p><strong>Make</strong><strong> questions for the underlined words.</strong></p>`,
         question: `I saw the car crash on Field Road <strong><u>yesterday morning</u></strong>.
   `,
-        options: [],
+        
         answer: `When did you see the car crash on Field Road`,
         rewrite: ``,
         explanation: `<p>Từ gạch chân là trạng từ chỉ thời gian =&gt; dùng “When” đặt câu hỏi.</p>
@@ -877,7 +877,7 @@ export const eExam = [
         id: 41,
         question: `My sister was <strong><u>watching the news</u></strong> when the tsunami started.
   `,
-        options: [],
+        
         answer: `What was your sister doing when the tsunami started`,
         rewrite: ``,
         explanation: `<p>Từ gạch chân chỉ hành động đang diễn ra trong quá khứ =&gt; đặt câu hỏi với “What”, sử dụng cấu trúc quá khứ tiếp diễn</p>
@@ -1342,7 +1342,7 @@ export const eExam = [
         extra: `<p><strong>Make</strong><strong> questions for the underlined words.</strong></p>`,
         question: `<p> Her<strong> </strong>uncle and aunt live <strong><u>in New York City</u></strong>.<strong></strong></p>
       `,
-        options: [],
+        
         answer: `Where do her uncle and aunt live`,
         rewrite: ``,
         explanation: `<p>Từ gạch chân là trạng từ chỉ nơi chốn =&gt; dùng “Where” đặt câu hỏi.</p>
@@ -1353,7 +1353,7 @@ export const eExam = [
         id: 41,
         question: `<p>Bristol City is <strong><u>in South West England</u></strong>.</p>
       `,
-        options: [],
+        
         answer: `Where is Bristol City`,
         rewrite: ``,
         explanation: `<p>Từ gạch chân là trạng từ chỉ nơi chốn =&gt; dùng “Where” đặt câu hỏi.</p>
@@ -1364,7 +1364,7 @@ export const eExam = [
         id: 41,
         question: `<p>Life in the city can be stressful <strong><u>because there's heavy traffic</u></strong>.</p>
       `,
-        options: [],
+        
         answer: `Why can life in the city be stressful`,
         rewrite: ``,
         explanation: `<p>Từ gạch chân chỉ lý do =&gt; dùng “Why” đặt câu hỏi.</p>
@@ -1375,7 +1375,7 @@ export const eExam = [
         id: 41,
         question: `I <strong><u>was taking a shower</u></strong> when the earthquake started yesterday.
       `,
-        options: [],
+        
         answer: `What were you doing when the earthquake started yesterday`,
         rewrite: ``,
         explanation: `<p>Từ gạch chân chỉ hành động đang diễn ra trong quá khứ =&gt; đặt câu hỏi với cấu trúc quá khứ tiếp diễn</p>
@@ -1386,7 +1386,7 @@ export const eExam = [
         id: 41,
         question: `<u>About 5,000 people</u></strong> died from natural disasters last year.
       `,
-        options: [],
+        
         answer: `How many people died </strong><strong>from natural disasters last year`,
         rewrite: ``,
         explanation: `<p>Từ gạch chân chỉ số lượng của danh từ đếm được =&gt; dùng “How many”</p>
@@ -1499,11 +1499,11 @@ export const eExam = [
 
     `,
         options: [
-          `makes 
+          `makes 
 `,
           `takes
 `,
-          `spends 
+          `spends 
 `,
           `picks
 `,
@@ -1548,7 +1548,7 @@ export const eExam = [
 
     `,
         options: [
-          `time 
+          `time 
 `,
           `point
 `,
@@ -1580,7 +1580,7 @@ export const eExam = [
 `,
           `prevention
 `,
-          `treatment 
+          `treatment 
 `,
           `stopping
 `,
@@ -1600,7 +1600,7 @@ export const eExam = [
         id: 41,
         question: `
     `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -1613,7 +1613,7 @@ export const eExam = [
         options: [
           `whistle
 `,
-          `kit 
+          `kit 
 `,
           `warning
 `,
@@ -1662,7 +1662,7 @@ export const eExam = [
         options: [
           `until
 `,
-          `before 
+          `before 
 `,
           `after
 `,
@@ -1714,7 +1714,7 @@ export const eExam = [
         options: [
           `Who
 `,
-          `What 
+          `What 
 `,
           `When
 `,
@@ -1769,7 +1769,7 @@ much
 `,
           `Not at all
 `,
-          `I am glad you like it 
+          `I am glad you like it 
 `,
           `Do not say anything about it
 `,
@@ -1820,7 +1820,7 @@ much
 to every country. (IMPORTANT)
 
       `,
-        options: [],
+        
         answer: `importance`,
         rewrite: ``,
         explanation: `<div>
@@ -1838,7 +1838,7 @@ to every country. (IMPORTANT)
 scenery. (PICTURE)
 
       `,
-        options: [],
+        
         answer: `picturesque`,
         rewrite: ``,
         explanation: `<div>
@@ -1856,7 +1856,7 @@ scenery. (PICTURE)
 in history. She often goes to museums to see new exhibits and learn about the past. (INTEREST)
 
       `,
-        options: [],
+        
         answer: `interested`,
         rewrite: ``,
         explanation: `<div>
@@ -1873,7 +1873,7 @@ in history. She often goes to museums to see new exhibits and learn about the pa
 yesterday, so today people are moving to safer places. (WARN)
 
       `,
-        options: [],
+        
         answer: `warning`,
         rewrite: ``,
         explanation: `<div>
@@ -1920,7 +1920,7 @@ yesterday, so today people are moving to safer places. (WARN)
         question: `
       `,
         options: [
-          `for 
+          `for 
 `,
           `to
 `,
@@ -1967,7 +1967,7 @@ yesterday, so today people are moving to safer places. (WARN)
         question: `
       `,
         options: [
-          `go 
+          `go 
 `,
           `keep up
 `,
@@ -1992,7 +1992,7 @@ yesterday, so today people are moving to safer places. (WARN)
         question: `
       `,
         options: [
-          `be 
+          `be 
 `,
           `cause
 `,
@@ -2098,7 +2098,7 @@ yesterday, so today people are moving to safer places. (WARN)
         question: `The bell rang. Everyone raced out of the classroom. (when)
 
       `,
-        options: [],
+        
         answer: `When the bell rang, everyone raced out of the classroom`,
         rewrite: ``,
         explanation: `<div>
@@ -2115,7 +2115,7 @@ yesterday, so today people are moving to safer places. (WARN)
         question: `The office may be closed. In that case, Mike won't be able to get in. (If)
 
       `,
-        options: [],
+        
         answer: `If the office is closed, Mike won't be able to get in`,
         rewrite: ``,
         explanation: `<div>
@@ -2132,7 +2132,7 @@ yesterday, so today people are moving to safer places. (WARN)
         question: `After she had explained everything dearly, we started our work.
 
       `,
-        options: [],
+        
         answer: `we started our work, she explained everything clearly`,
         rewrite: `By the time
 `,
@@ -2151,7 +2151,7 @@ yesterday, so today people are moving to safer places. (WARN)
         question: `The drugstore is to the left of the bakery.
 
       `,
-        options: [],
+        
         answer: `is to the right of the drug store`,
         rewrite: `The bakery
 `,
@@ -2169,7 +2169,7 @@ yesterday, so today people are moving to safer places. (WARN)
         question: `Does his class have twenty-five students?
 
       `,
-        options: [],
+        
         answer: `there twenty-five students in his class`,
         rewrite: `Are`,
         explanation: `<div>
@@ -2245,7 +2245,7 @@ yesterday, so today people are moving to safer places. (WARN)
 `,
           `detest
 `,
-          `admire 
+          `admire 
 `,
           `expect
 `,
@@ -2292,11 +2292,11 @@ yesterday, so today people are moving to safer places. (WARN)
 
       `,
         options: [
-          `upload 
+          `upload 
 `,
           `browse
 `,
-          `connect 
+          `connect 
 `,
           `check
 `,
@@ -2423,7 +2423,7 @@ yesterday, so today people are moving to safer places. (WARN)
 `,
           `doesn't rain
 `,
-          `rained 
+          `rained 
 `,
           `has rained
 `,
@@ -2471,7 +2471,7 @@ yesterday, so today people are moving to safer places. (WARN)
         options: [
           `so that
 `,
-          `such that 
+          `such that 
 `,
           `although
 `,
@@ -2525,7 +2525,7 @@ yesterday, so today people are moving to safer places. (WARN)
 `,
           `starts
 `,
-          `is starting 
+          `is starting 
 `,
           `has started
 `,
@@ -2540,7 +2540,7 @@ yesterday, so today people are moving to safer places. (WARN)
       },
       {
         id: 41,
-        question: `Nam: How well you are playing!  -  Hoa: ___________.
+        question: `Nam: How well you are playing!  -  Hoa: ___________.
 
       `,
         options: [
@@ -2566,11 +2566,11 @@ yesterday, so today people are moving to safer places. (WARN)
       },
       {
         id: 41,
-        question: `Minh: I'm very sorry.  – Nhi: ___________.
+        question: `Minh: I'm very sorry.  – Nhi: ___________.
 
       `,
         options: [
-          `I'm afraid so 
+          `I'm afraid so 
 `,
           `I think so
 `,
@@ -2599,7 +2599,7 @@ yesterday, so today people are moving to safer places. (WARN)
 
 disastrous. (ENVIRONMENT)
 `,
-        options: [],
+        
         answer: `environmentally`,
         rewrite: ``,
         explanation: `<div>
@@ -2616,7 +2616,7 @@ disastrous. (ENVIRONMENT)
 about environmental issues. (AWARE)
 
     `,
-        options: [],
+        
         answer: `awareness`,
         explanation: `<div>
                                               <p>Sau giới từ “to” cần một danh từ.</p>
@@ -2634,7 +2634,7 @@ about environmental issues. (AWARE)
 . (VISIT)
 
     `,
-        options: [],
+        
         answer: `visitors`,
         rewrite: ``,
         explanation: `<div>
@@ -2652,7 +2652,7 @@ about environmental issues. (AWARE)
 paper flowers. (MAKE)
 
     `,
-        options: [],
+        
         answer: `making`,
         rewrite: ``,
         explanation: `<div>
@@ -2701,7 +2701,7 @@ paper flowers. (MAKE)
 `,
           `reduce
 `,
-          `increase 
+          `increase 
 `,
           `raise
 `,
@@ -2856,7 +2856,7 @@ paper flowers. (MAKE)
 
   `,
         options: [
-          `work in towns 
+          `work in towns 
 `,
           `work on farms
 `,
@@ -2939,7 +2939,7 @@ paper flowers. (MAKE)
         question: ` I read my favourite book. Then I went to bed. (After)
 
   `,
-        options: [],
+        
         answer: `After I had read a book last night, I went to bed.`,
         rewrite: ``,
         explanation: `<div>
@@ -2955,7 +2955,7 @@ paper flowers. (MAKE)
         question: `Alice may miss the train. But she can get the next one. (If)
 
   `,
-        options: [],
+        
         answer: `If Alice misses the train, she can get the next one`,
         rewrite: ``,
         explanation: `<div>
@@ -2971,7 +2971,7 @@ paper flowers. (MAKE)
         question: `Jenny finds reading poetry boring. (dislike)
 
   `,
-        options: [],
+        
         answer: `Jenny dislikes reading poetry`,
         rewrite: ``,
         explanation: `<div>
@@ -2987,7 +2987,7 @@ paper flowers. (MAKE)
         question: `I last wrote to my pen-pal two months ago.
 
   `,
-        options: [],
+        
         answer: `written to my pen-pal for two months`,
         rewrite: `I haven't
 `,
@@ -3005,7 +3005,7 @@ paper flowers. (MAKE)
         question: `Although he is strong, he can't move that stone.
 
   `,
-        options: [],
+        
         answer: `of his strength, he can't move that stone.`,
         rewrite: `In spite
 `,
@@ -3072,7 +3072,7 @@ paper flowers. (MAKE)
 `,
           `diving
 `,
-          `origami  
+          `origami  
 `,
           `movie
 `,
@@ -3093,9 +3093,9 @@ paper flowers. (MAKE)
         options: [
           `ancestor
 `,
-          `curious 
+          `curious 
 `,
-          `tradition   
+          `tradition   
 `,
           `heritage
 `,
@@ -3116,128 +3116,128 @@ paper flowers. (MAKE)
         question: `Most students detest ___________ (have) homework during the weekends.
 
     `,
-        options: [],
+        
         answer: `having`,
         rewrite: ``,
         explanation: `<p ><strong>Giải thích: </strong>Cấu trúc “detest + V-ing”: ghét bỏ làm gì</p>
 <p ><strong>Tạm dịch:</strong> Hầu hết học sinh ghét phải làm bài tập về nhà vào cuối tuần.<strong></strong></p>
-<p ><strong>Đáp án: having</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `Alice is fond of ___________ (create) small animals with paper.
 
     `,
-        options: [],
+        
         answer: `creating`,
         rewrite: ``,
         explanation: `<p >Cấu trúc “be fond of + V-ing”: ưa thích làm gì</p>
 <p ><strong>Tạm dịch:</strong> Alice thích tạo ra những con vật nhỏ bằng giấy.<strong></strong></p>
-<p ><strong>Đáp án: creating.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `After a course with a native teacher, Nam can speak English ___________ (well) than before.
 
     `,
-        options: [],
+        
         answer: `better`,
         rewrite: ``,
         explanation: `<p >Dấu hiệu: có từ so sánh “than”; dạng so sánh hơn của trạng từ “well” là “better”. </p>
 <p ><strong>Tạm dịch:</strong> Sau khóa học với giáo viên bản xứ, Nam có thể nói tiếng Anh tốt hơn trước.<strong></strong></p>
-<p ><strong>Đáp án: better.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `Chi is intelligent, but she needs to study ___________ (hard) than her first semester to pass the examination.
 
     `,
-        options: [],
+        
         answer: `harder`,
         rewrite: ``,
         explanation: `<p >Dấu hiệu: có từ so sánh “than”; dạng so sánh hơn của trạng từ “hard” là “harder”.<strong></strong></p>
 <p ><strong>Tạm dịch:</strong> Chi thông minh nhưng cô ấy cần học chăm chỉ hơn học kỳ đầu tiên để vượt qua kỳ thi.<strong></strong></p>
-<p ><strong>Đáp án: harder.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `These students are learning how ___________ (deal) with pressure before the final test.
 
     `,
-        options: [],
+        
         answer: `to deal`,
         rewrite: ``,
         explanation: `<p >Dùng “to V” sau các từ để hỏi; cấu trúc: “how + to V”: cách để làm gì</p>
 <p ><strong>Tạm dịch:</strong> Những học sinh này đang học cách để đối phó với áp lực trước kỳ thi cuối kỳ.<strong></strong></p>
-<p ><strong>Đáp án: to deal.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: ` Parents should teach their children to be careful when ___________ (post) pictures on social media.
 
       `,
-        options: [],
+        
         answer: `posting`,
         rewrite: ``,
         explanation: `<p >Dùng V-ing sau “When” mang nghĩa “khi làm gì đó”.</p>
 <p ><strong>Tạm dịch:</strong> Cha mẹ nên dạy con cẩn thận khi đăng ảnh lên mạng xã hội.<strong></strong></p>
-<p ><strong>Đáp án: posting.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `Jenny’s mother often ___________ (knit) when she was a teenager.
 
       `,
-        options: [],
+        
         answer: `knitted`,
         rewrite: ``,
         explanation: `<p >Vế trước có trạng từ tần suất “often”; vế sau chia ở dạng quá khứ đơn nên đây là câu diễn tả hành động diễn ra thường xuyên trong quá khứ.<strong></strong></p>
 <p ><strong>Tạm dịch:</strong> Mẹ của Jenny thường xuyên đan len khi cô còn là một thiếu niên.<strong></strong></p>
-<p ><strong>Đáp án: knitted.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `Trung is very active and he dislikes ___________ (watch) TV during leisure time.
 
       `,
-        options: [],
+        
         answer: `watching`,
         rewrite: ``,
         explanation: `<p >Sau động từ “dislike” ta dùng danh động từ: “dislike + V-ing”: không thích làm gì</p>
 <p ><strong>Tạm dịch:</strong> Trung rất năng động và anh ấy không thích xem TV vào thời gian rảnh rỗi.<strong></strong></p>
-<p ><strong>Đáp án: watching.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `What is your leisure activity?<br/>
 
-      - I adore ___________ (walk) my dog around the park.
+ - I adore ___________ (walk) my dog around the park.
 
       `,
-        options: [],
+        
         answer: `walking`,
         rewrite: ``,
         explanation: `<p >Sau động từ “adore” ta dùng danh động từ: “adore + V-ing”: yêu thích làm gì</p>
 <p ><strong>Tạm dịch:</strong></p>
 <p >- Hoạt động giải trí của bạn là gì?</p>
 <p >- Tôi thích dắt chó đi dạo quanh công viên.<strong></strong></p>
-<p ><strong>Đáp án: walking.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: ` Look! Who ___________ (dry) rice over there?<br/>
 
-     - I think it’s Mai’s uncle.
+     - I think it’s Mai’s uncle.
 
       `,
-        options: [],
+        
         answer: `is drying`,
         rewrite: ``,
         explanation: `<p >Cách dùng: Diễn tả hành động đang diễn ra tại thời điểm nói; Dấu hiệu: “Look!”</p>
 <p ><strong>Tạm dịch:</strong></p>
 <p >- Nhìn kìa! Ai đang phơi thóc ở đó?</p>
 <p >- Tôi nghĩ đó là chú của Mai.</p>
-<p ><strong>Đáp án: is drying.</strong></p>`,
+`,
       },
       {
         id: 41,
@@ -3295,7 +3295,7 @@ paper flowers. (MAKE)
 
     `,
         options: [
-          `crop   
+          `crop   
 `,
           `orchard
 `,
@@ -3321,7 +3321,7 @@ paper flowers. (MAKE)
         options: [
           `well-trained
 `,
-          `surrounded 
+          `surrounded 
 `,
           `relaxed
 `,
@@ -3345,9 +3345,9 @@ paper flowers. (MAKE)
         options: [
           `connect
 `,
-          `show off 
+          `show off 
 `,
-          `concentrate 
+          `concentrate 
 `,
           `keep fit
 `,
@@ -3369,7 +3369,7 @@ paper flowers. (MAKE)
         options: [
           `although
 `,
-          `but 
+          `but 
 `,
           `however
 `,
@@ -3501,60 +3501,60 @@ paper flowers. (MAKE)
       {
         id: 41,
         extra: `<p><strong>Complete the passage. Write ONE suitable word in each blank.
-</strong></p><p>During the early years, (26) ___________ jigsaw puzzles is a popular activity that many parents choose for their children to develop their concentration and creativity. With various colours, shapes and sizes, this hobby significantly draws kids’ attention, which they can spend all day handling the small pieces (27) ___________ boredom. It’s also quite challenging for little kids to use their eyes and hands for finding and (28) ___________ many pieces together to make the given image. To motivate kids more effectively, parents should choose suitable and captivating jigsaw images. They can let kids do simple ones first and then (29) ___________ the levels of difficulty gradually. But remember that this indoor game can make a child get frustrated and even give it up. That’s why parents should be ready to give children support in time and cheer them up (30) ___________ they reach the last jigsaw.  
+</strong></p><p>During the early years, (26) ___________ jigsaw puzzles is a popular activity that many parents choose for their children to develop their concentration and creativity. With various colours, shapes and sizes, this hobby significantly draws kids’ attention, which they can spend all day handling the small pieces (27) ___________ boredom. It’s also quite challenging for little kids to use their eyes and hands for finding and (28) ___________ many pieces together to make the given image. To motivate kids more effectively, parents should choose suitable and captivating jigsaw images. They can let kids do simple ones first and then (29) ___________ the levels of difficulty gradually. But remember that this indoor game can make a child get frustrated and even give it up. That’s why parents should be ready to give children support in time and cheer them up (30) ___________ they reach the last jigsaw.  
 </p>`,
         question: `
     `,
-        options: [],
+        
         answer: `doing`,
         rewrite: ``,
         explanation: `<p >Vị trí còn trống cần một danh động từ đi với “jigsaw puzzles” để tạo thành chủ ngữ cho câu =&gt; dùng “doing jigsaw puzzles”: chơi trò chơi xếp hình</p>
 <p ><strong>Tạm dịch:</strong> Trong những năm đầu đời, chơi ghép hình là hoạt động phổ biến được nhiều bậc cha mẹ lựa chọn cho con mình phát triển khả năng tập trung và sáng tạo.</p>
-<p ><strong>Đáp án: doing.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `
     `,
-        options: [],
+        
         answer: `without`,
         rewrite: ``,
         explanation: `<p >Vị trí còn trống cần điền một mạo từ mang nghĩa “không”.</p>
 <p ><strong>Tạm dịch:</strong> Với nhiều màu sắc, hình dạng và kích cỡ khác nhau, sở thích này thu hút đáng kể sự chú ý của trẻ em, khiến chúng có thể dành cả ngày để xử lý những mảnh nhỏ mà không nhàm chán.</p>
-<p ><strong>Đáp án: without.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `
     `,
-        options: [],
+        
         answer: `joining`,
         rewrite: ``,
         explanation: `p >Vị trí còn trống cần điền một danh động từ đi với cụm “many pieces together”.</p>
 <p >Cụm “joining pieces together”: gắn/ghép các mảnh lại với nhau</p>
 <p ><strong>Tạm dịch:</strong> Việc sử dụng mắt và tay để tìm và lắp ghép nhiều mảnh ghép lại với nhau để tạo thành hình ảnh nhất định cũng khá khó khăn đối với trẻ nhỏ.</p>
-<p ><strong>Đáp án: joining.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `
     `,
-        options: [],
+        
         answer: `increase`,
         rewrite: ``,
         explanation: `<p >Vị trí còn trống cần điền một động từ mang nghĩa “tăng”.</p>
 <p ><strong>Tạm dịch:</strong> Họ có thể để trẻ làm những việc đơn giản trước và sau đó tăng mức độ khó dần dần.</p>
-<p ><strong>Đáp án: increase.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `
     `,
-        options: [],
+        
         answer: `until`,
         explanation: `<p >Vị trí còn trống cần điền một liên từ mang nghĩa “cho đến khi”.</p>
 <p ><strong>Tạm dịch:</strong> Đó là lý do tại sao cha mẹ nên sẵn sàng hỗ trợ trẻ kịp thời và động viên chúng cho đến khi chúng đi đến bức ghép hình cuối cùng.</p>
-<p ><strong>Đáp án: until.</strong></p>`,
+`,
       },
       {
         id: 41,
@@ -3563,7 +3563,7 @@ paper flowers. (MAKE)
         question: `When Trang has free time, she likes hanging out with her friends. (LEISURE)
 
     `,
-        options: [],
+        
         answer: `her leisure time`,
         rewrite: `In
 `,
@@ -3571,42 +3571,42 @@ paper flowers. (MAKE)
 `,
         explanation: `<p >Cụm “when Trang has free time = In her<strong> </strong>leisure time”.<strong></strong></p>
 <p ><strong>Tạm dịch: </strong>Những lúc rảnh rỗi, Trang thích đi chơi cùng bạn bè.</p>
-<p ><strong>Đáp án: her leisure time.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `When Minh has free time, he likes surfing the net more than going shopping. (TO)
 
     `,
-        options: [],
+        
         answer: `to going shopping`,
         rewrite: `When Minh has free time, he prefers surfing the net
 `,
         lastwrite: ``,
         explanation: `<p >Cấu trúc “like V-ing more than V-ing = prefer V-ing to V-ing”: thích làm cái gì hơn cái gì.</p>
 <p ><strong>Tạm dịch:</strong> Khi Minh có thời gian rảnh, anh ấy thích lướt mạng hơn là đi mua sắm.</p>
-<p ><strong>Đáp án: to going shopping.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `Nick spent an hour loading the fruit onto the truck. (IT)
 
     `,
-        options: [],
+        
         answer: `It took Nick`,
         rewrite: ``,
         lastwrite: `an hour to load the fruit onto the truck.
 `,
         explanation: `<p >Cấu trúc: “S + spend + “time” + V-ing = It takes + sb + time + to Vinf”: ai đó dành bao nhiêu thời gian để làm gì.</p>
 <p ><strong>Tạm dịch:</strong> Nick phải mất một giờ để chất trái cây lên xe tải.</p>
-<p ><strong>Đáp án: It took Nick.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `During the rice harvest, they often need a combine harvester. (USING)
 
     `,
-        options: [],
+        
         answer: `rice by using`,
         rewrite: `They often harvest
 `,
@@ -3614,14 +3614,14 @@ paper flowers. (MAKE)
 `,
         explanation: `<p >by using sth = bằng cách sử dụng cái gì</p>
 <p ><strong>Tạm dịch:</strong> Họ thường thu hoạch lúa bằng cách sử dụng máy gặt đập liên hợp.</p>
-<p ><strong>Đáp án: rice by using.</strong></p>`,
+`,
       },
       {
         id: 41,
         question: `Ann is very tired; however, she helps her mother with the housework. (BUT)
 
     `,
-        options: [],
+        
         answer: `but she helps`,
         rewrite: `Ann is very tired,
 `,
@@ -3629,7 +3629,7 @@ paper flowers. (MAKE)
 `,
         explanation: `<p >cấu trúc “S + V, however, S + V = S + V, but S + V”.</p>
 <p ><strong>Tạm dịch:</strong> Ann rất mệt nhưng cô ấy giúp mẹ làm việc nhà.</p>
-<p ><strong>Đáp án: but she helps</strong></p>`,
+`,
       },
     ],
   },
@@ -3684,9 +3684,9 @@ paper flowers. (MAKE)
         options: [
           `leisure
 `,
-          `diving 
+          `diving 
 `,
-          `origami 
+          `origami 
 `,
           `movie
 `,
@@ -3705,7 +3705,7 @@ paper flowers. (MAKE)
         question: `
     `,
         options: [
-          `ancestor 
+          `ancestor 
 `,
           `curious
 `,
@@ -3730,7 +3730,7 @@ paper flowers. (MAKE)
         question: `An is a Grade 8 student and he likes ________ (cook) in his free time. He wants to become a famous chef.
 
     `,
-        options: [],
+        
         answer: `cooking`,
         rewrite: ``,
         explanation: `<p><strong>Giải thích: </strong>Cấu trúc “like + V-ing”: thích làm gì</p>
@@ -3741,10 +3741,10 @@ paper flowers. (MAKE)
         id: 41,
         question: ` What are you doing, Alice?<br/>
 
-    - I ________ (send) messages to my friends. We are chatting about a new film.
+    - I ________ (send) messages to my friends. We are chatting about a new film.
 
     `,
-        options: [],
+        
         answer: `am sending`,
         rewrite: ``,
         explanation: `<p>Dấu hiệu: Câu hỏi và câu trả lời phía sau chia ở dạng hiện tại tiếp diễn: “are you doing” và “are chatting”.</p>
@@ -3756,9 +3756,9 @@ paper flowers. (MAKE)
       {
         id: 41,
         question: `- What did you do last weekend?<br/>
-    - I ________ (go) to my chess club as usual.
+    - I ________ (go) to my chess club as usual.
     `,
-        options: [],
+        
         answer: `went`,
         rewrite: ``,
         explanation: `<p>Dấu hiệu: Câu hỏi chia ở thì quá khứ đơn “what did you do” và có cụm từ “last week: tuần trước’ =&gt; câu trả lời chia thì quá khứ đơn.</p>
@@ -3772,7 +3772,7 @@ paper flowers. (MAKE)
         question: `My mother talked ________ (loudly) than my sister.
 
     `,
-        options: [],
+        
         answer: `more loudly`,
         rewrite: ``,
         explanation: `<p>Dấu hiệu: sau trạng từ có giới từ ‘than”.</p>
@@ -3784,7 +3784,7 @@ paper flowers. (MAKE)
         question: `Anh is reading an article on morning exercise. He’s always interested in ________ (keep) fit.
 
     `,
-        options: [],
+        
         answer: `keeping`,
         rewrite: ``,
         explanation: `<p>Cấu trúc “be interested in + N/V-ing”: hứng thú làm gì</p>
@@ -3796,7 +3796,7 @@ paper flowers. (MAKE)
         question: `Tom reads ________ (fast) than his brother.
 
     `,
-        options: [],
+        
         answer: `faster`,
         rewrite: ``,
         explanation: `<p>Dấu hiệu: Câu có từ so sánh “than” đứng sau trạng từ.</p>
@@ -3808,7 +3808,7 @@ paper flowers. (MAKE)
         question: `Mai detests ________ (surf) the net because she thinks it takes a lot of time.
 
     `,
-        options: [],
+        
         answer: `surfing`,
         rewrite: ``,
         explanation: `<p>Cụm “detest + V-ing”: ghét làm gì</p>
@@ -3820,7 +3820,7 @@ paper flowers. (MAKE)
         question: `Nick enjoys ________ (listen) to the melodies of Vietnamese folks songs.
 
     `,
-        options: [],
+        
         answer: `listening`,
         rewrite: ``,
         explanation: `<p>Cụm “enjoy + V-ing”: thích thú làm gì</p>
@@ -3832,7 +3832,7 @@ paper flowers. (MAKE)
         question: `My sister draws _______ (good) than I do.
 
     `,
-        options: [],
+        
         answer: `better`,
         rewrite: ``,
         explanation: `<p>Dấu hiệu: câu có từ so sánh “than”, dạng so sánh hơn của từ “good” là “better”.</p>
@@ -3844,7 +3844,7 @@ paper flowers. (MAKE)
         question: `You like taking photos or ______ (watch) TV?
 
     `,
-        options: [],
+        
         answer: `watching`,
         rewrite: ``,
         explanation: `<p>Cấu trúc “like V-ing or V-ing”: thích làm cái này hay làm cái kia.</p>
@@ -3883,7 +3883,7 @@ paper flowers. (MAKE)
 
     `,
         options: [
-          `feed 
+          `feed 
 `,
           `hold
 `,
@@ -3931,9 +3931,9 @@ paper flowers. (MAKE)
 
       `,
         options: [
-          `log 
+          `log 
 `,
-          `fold   
+          `fold   
 `,
           `upload
 `,
@@ -3957,9 +3957,9 @@ paper flowers. (MAKE)
         options: [
           `body
 `,
-          `healthy 
+          `healthy 
 `,
-          `health    
+          `health    
 `,
           `shape
 `,
@@ -4070,7 +4070,7 @@ paper flowers. (MAKE)
 </p>`,
         question: `
       `,
-        options: [],
+        
         answer: `Having`,
         rewrite: ``,
         explanation: `<p>Vị trí còn trống cần một danh động từ làm chủ ngữ cho câu.</p>
@@ -4081,7 +4081,7 @@ paper flowers. (MAKE)
         id: 41,
         question: `
       `,
-        options: [],
+        
         answer: `in`,
         rewrite: ``,
         explanation: `<p>Vị trí còn trống cần một giới từ đi với danh động từ “participating”. Cụm “participate in + N/V-ing”: tham gia vào</p>
@@ -4092,7 +4092,7 @@ paper flowers. (MAKE)
         id: 41,
         question: `
       `,
-        options: [],
+        
         answer: `playing`,
         rewrite: ``,
         explanation: `<p>Vị trí còn trống cần một danh động từ đi với danh từ “sports” để tạo thành chủ ngữ cho câu.</p>
@@ -4103,7 +4103,7 @@ paper flowers. (MAKE)
         id: 41,
         question: `
       `,
-        options: [],
+        
         answer: `like`,
         rewrite: ``,
         explanation: `<p>Vị trí còn trống cần một từ nhằm mục đích đưa ví dụ, liệt kê.</p>
@@ -4114,7 +4114,7 @@ paper flowers. (MAKE)
         id: 41,
         question: `
       `,
-        options: [],
+        
         answer: `after`,
         rewrite: ``,
         explanation: `<p>Vị trí còn trống cần điền một liên từ đi với “an active day” để tạo thành trạng ngữ cho câu.</p>
@@ -4126,7 +4126,7 @@ paper flowers. (MAKE)
         extra: `<p><strong>WRITING<br/>Rearrange the words to make complete sentences</strong></p>`,
         question: `countryside / Life / in / the / is / quieter / peaceful / than / and / more / that / in / the city.
       `,
-        options: [],
+        
         answer: `Life in the countryside is quieter and more peaceful than that in the city`,
         rewrite: ``,
         explanation: `<p>Cấu trúc câu so sánh hơn với tính từ: “S + tobe + (short adj + er)/(more + long adj) + than + …”</p>
@@ -4139,7 +4139,7 @@ paper flowers. (MAKE)
         question: `you / the / dance / Did / traditional / celebrate / the / rice / watch / festival / to / new / ?
 
       `,
-        options: [],
+        
         answer: `Did you watch the traditional dance to celebrate the new rice festival?`,
         rewrite: ``,
         explanation: `<p>Cấu trúc câu hỏi Yes/No thì quá khứ đơn: Did + S + V-inf + …?</p>
@@ -4152,7 +4152,7 @@ paper flowers. (MAKE)
         question: `My / I / pick / fruits / quickly / much/than / more / do /cousins/.
 
       `,
-        options: [],
+        
         answer: `My cousins pick fruits much more quickly than I do`,
         rewrite: ``,
         explanation: `<p>Cấu trúc câu so sánh hơn với ‘much’: S + V + much + (short-adj/adv + er)/(more + long-adj/adv) + than + …</p>
@@ -4165,7 +4165,7 @@ paper flowers. (MAKE)
         question: ` Alice / hates / tired / because / she / feels / when / about / she / thinks / it / marathons /.
 
       `,
-        options: [],
+        
         answer: `Alice hates marathons because she feels tired when she thinks about it.`,
         rewrite: ``,
         explanation: `<p>Liên từ “because” đứng giữa hai mệnh để nhằm giải thích lý do.</p>
@@ -4178,7 +4178,7 @@ paper flowers. (MAKE)
         question: `enjoys / My / brother / coffee / condensed / drinking / milk / with / .
 
       `,
-        options: [],
+        
         answer: `My brother enjoys drinking coffee with condensed milk.`,
         rewrite: ``,
         explanation: `<p>Cấu trúc “enjoy + V-ing”: thích làm gì.</p>
@@ -4274,7 +4274,7 @@ paper flowers. (MAKE)
 `,
           `avalanche
 `,
-          `tsunami 
+          `tsunami 
 `,
           `announcement
 `,
@@ -4452,9 +4452,9 @@ paper flowers. (MAKE)
 
       `,
         options: [
-          `at 
+          `at 
 `,
-          `until 
+          `until 
 `,
           `in
 `,
@@ -4479,7 +4479,7 @@ from
 
       `,
         options: [
-          `so 
+          `so 
 `,
           `and
 `,
@@ -4530,7 +4530,7 @@ from
 
       `,
         options: [
-          `little 
+          `little 
 `,
           `a little
 `,
@@ -4553,7 +4553,7 @@ from
       },
       {
         id: 41,
-        question: `Tom: What an attractive hair style you have got, Mary! -  Mary: ___________.
+        question: `Tom: What an attractive hair style you have got, Mary! -  Mary: ___________.
 
       `,
         options: [
@@ -4579,15 +4579,15 @@ from
       },
       {
         id: 41,
-        question: `Jason: Would you like a drink?  - Daisy: ___________.
+        question: `Jason: Would you like a drink?  - Daisy: ___________.
 
       `,
         options: [
           `I don’t like coffee
 `,
-          `I prefer tea    
+          `I prefer tea    
 `,
-          `Coffee, please 
+          `Coffee, please 
 `,
           `I’m very thirsty
 `,
@@ -4609,11 +4609,10 @@ from
 </strong></p>`,
         question: `Finding a balance between what humans and animals need will help prevent habitat_______(DESTROY)
       `,
-        options: [],
+        
         answer: `destruction`,
         rewrite: ``,
-        explanation: `<div>
-                                                <p>17. Sau động từ "prevent" cần một danh từ hoặc cụm danh từ đóng vai trò tân ngữ. Đã có danh từ "habbit" cần thêm một danh từ nữa để tạo thành cụm danh từ.</p>
+        explanation: `<div><p>17. Sau động từ "prevent" cần một danh từ hoặc cụm danh từ đóng vai trò tân ngữ. Đã có danh từ "habbit" cần thêm một danh từ nữa để tạo thành cụm danh từ.</p>
 <p>destroy (v): phá hủy</p>
 <p>destruction (n): sự phá hủy</p>
 <p>Finding a balance between what humans and animals need will help prevent habitat <strong>destruction.</strong></p>
@@ -4627,7 +4626,7 @@ from
 to imagine the changes that robots are bringing to our world. (BELIEVE)
 
       `,
-        options: [],
+        
         answer: `unbelievable`,
         rewrite: ``,
         explanation: `<div>
@@ -4643,7 +4642,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `My sister is keen on______. She wants to become a chef in the future. (COOK)
 
       `,
-        options: [],
+        
         answer: `cooking`,
         rewrite: ``,
         explanation: `<div>
@@ -4659,7 +4658,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `At harvest time _______ are busy cutting and collecting crops. (FARM)
 
       `,
-        options: [],
+        
         answer: `farmers`,
         rewrite: ``,
         explanation: `<div>
@@ -4708,7 +4707,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
 `,
           `walk
 `,
-          `drive 
+          `drive 
 `,
           `cycle
 `,
@@ -4731,7 +4730,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         options: [
           `at
 `,
-          `into 
+          `into 
 `,
           `on
 `,
@@ -4756,7 +4755,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         options: [
           `whatever
 `,
-          `whenever 
+          `whenever 
 `,
           `wherever
 `,
@@ -4977,7 +4976,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
 `,
           `avalanche
 `,
-          `tsunami 
+          `tsunami 
 `,
           `announcement
 `,
@@ -5157,7 +5156,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         options: [
           `at
 `,
-          `until 
+          `until 
 `,
           `in
 `,
@@ -5185,7 +5184,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
 `,
           `and
 `,
-          `but 
+          `but 
 `,
           `or
 `,
@@ -5207,7 +5206,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
 
       `,
         options: [
-          `Who 
+          `Who 
 `,
           `What
 `,
@@ -5233,7 +5232,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
 
       `,
         options: [
-          `little 
+          `little 
 `,
           `a little
 `,
@@ -5256,7 +5255,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
       },
       {
         id: 41,
-        question: `Tom: What an attractive hair style you have got, Mary! -  Mary: ___________.
+        question: `Tom: What an attractive hair style you have got, Mary! -  Mary: ___________.
 
       `,
         options: [
@@ -5282,7 +5281,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
       },
       {
         id: 41,
-        question: `Jason: Would you like a drink?  - Daisy: ___________.
+        question: `Jason: Would you like a drink?  - Daisy: ___________.
 
       `,
         options: [
@@ -5290,7 +5289,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
 `,
           `I prefer tea
 `,
-          `Coffee, please 
+          `Coffee, please 
 `,
           `I’m very thirsty
 `,
@@ -5313,7 +5312,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `Finding a balance between what humans and animals need will help prevent habitat________. (DESTROY)
 
       `,
-        options: [],
+        
         answer: `destruction`,
         rewrite: ``,
         explanation: `<div>
@@ -5329,7 +5328,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `It is __________ to imagine the changes that robots are bringing to our world. (BELIEVE)
 
     `,
-        options: [],
+        
         answer: `unbelievable`,
         rewrite: ``,
         explanation: `<div>
@@ -5345,7 +5344,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `My sister is keen on _____. She wants to become a chef in the future. (COOK)
 
   `,
-        options: [],
+        
         answer: `cooking`,
         rewrite: ``,
         explanation: `<div>
@@ -5361,7 +5360,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `At harvest time _____  are busy cutting and collecting crops. (FARM)
 
   `,
-        options: [],
+        
         answer: `farmers`,
         rewrite: ``,
         explanation: `<div>
@@ -5409,7 +5408,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
 `,
           `walk
 `,
-          `drive 
+          `drive 
 `,
           `cycle
 `,
@@ -5427,13 +5426,13 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
       },
       {
         id: 41,
-        question: `My big brother and I are also (3) ______ cooking. My brother looks for easy recipes. 
+        question: `My big brother and I are also (3) ______ cooking. My brother looks for easy recipes. 
 
   `,
         options: [
-          `at 
+          `at 
 `,
-          `into 
+          `into 
 `,
           `on
 `,
@@ -5485,7 +5484,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         options: [
           `make
 `,
-          `making 
+          `making 
 `,
           `to make
 `,
@@ -5586,7 +5585,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `My sister makes a mess. My mum makes her weed the garden. (Whenever)
 
             `,
-        options: [],
+        
         answer: `Whenever my sister makes a mess, my mum makes her weed the garden. 
 `,
         explanation: `<div>
@@ -5602,7 +5601,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `Rita might fail her driving test. But she can take it again. (If)
 
               `,
-        options: [],
+        
         answer: `If Rita fails her driving test, she can take it again.`,
         explanation: `<div>
                                                 <p>32.Cấu trúc câu điều kiện loại 1: If + S + V(s/es), S + will + V</p>
@@ -5618,7 +5617,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `We usually visit museums when we have leisure time. (enjoy)
 
       `,
-        options: [],
+        
         answer: `We enjoy visiting museums when we have leisure time.`,
         explanation: `<div>
                                                 <p>33.enjoy + V-ing: thích làm gì</p>
@@ -5634,7 +5633,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `It was cold. However, Tom still went swimming. (Although)
 
           `,
-        options: [],
+        
         answer: `Although it was cold, Tom still went swimming.`,
         explanation: `<div>
                                                 <p>39. Although S1 + V1, S2 + V2: mặc dù … nhưng …</p>
@@ -5650,7 +5649,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `My sister walks to school everyday.
 
               `,
-        options: [],
+        
         answer: `to school on foot every day.`,
         rewrite: `My sister goes
 `,
@@ -5670,7 +5669,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `What is the listening text about?
 
                   `,
-        options: [],
+        
         answer: `water pollution`,
         explanation: `<div>
                                                 <p>36. What is the listening text about?</p>
@@ -5686,7 +5685,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `How many sources of water pollution are there?
 
                       `,
-        options: [],
+        
         answer: `two sources`,
         explanation: `<div>
                                                 <p>How many sources of water pollution are there?</p>
@@ -5702,7 +5701,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `What are two common sources of drinking water?
 
                           `,
-        options: [],
+        
         answer: `rivers and lakes`,
         explanation: `<div>
                                                 <p>38. What are two common sources of drinking water?</p>
@@ -5718,7 +5717,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `What type of effect does water pollution have on our life?
 
                               `,
-        options: [],
+        
         answer: `harmful effect`,
         explanation: `<div>
                                                 <p>39. What type of effect does water pollution have on our life?</p>
@@ -5733,7 +5732,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `What products can we use to reduce water pollution?
 
       `,
-        options: [],
+        
         answer: `green products`,
         explanation: `<div>
                                                 <p>40. What products can we use to reduce water pollution?</p>
@@ -5832,7 +5831,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
           `,
         options: [`makes
 `, `takes
-`, `spends 
+`, `spends 
 `, `picks
 `],
         answer: `2`,
@@ -5871,7 +5870,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `My uncle hired extra workers to help at harvest _____.
 
           `,
-        options: [`time 
+        options: [`time 
 `, `point
 `, `period
 `, `season
@@ -5895,7 +5894,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
           `,
         options: [`conservation
 `, `prevention
-`, `treatment 
+`, `treatment 
 `, `stopping
 `],
         answer: `1`,
@@ -5915,7 +5914,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `A _______ can save you in life-threatening situations because its sound can attract people's attention.
 
           `,
-        options: [`whistle 
+        options: [`whistle 
 `, `kit
 `, `warning
 `, `tool
@@ -5957,7 +5956,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
 
           `,
         options: [`until
-`, `before 
+`, `before 
 `, `after
 `, `from
 `],
@@ -5979,7 +5978,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
 
           `,
         options: [`and
-`, `so 
+`, `so 
 `, `as
 `, `such
 `],
@@ -6000,7 +5999,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `Nhi: _________ is the film “Harry Potter”? - Vy: It is very mysterious and thrilling.
 
           `,
-        options: [`Who 
+        options: [`Who 
 `, `What
 `, `When
 `, `How
@@ -6046,7 +6045,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
           `,
         options: [`With pleasure
 `, `Not at all
-`, `I am glad you like it 
+`, `I am glad you like it 
 `, `Do not say anything about it
 `],
         answer: `3`,
@@ -6068,7 +6067,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
           `,
         options: [`It’s a red shirt
 `, `It’s very cheap
-`, `It was in a shop 
+`, `It was in a shop 
 `, `I love it much
 `],
         answer: `2`,
@@ -6089,7 +6088,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `Saving natural resources is of great ______ to every country. (IMPORTANT)
 
           `,
-        options: [],
+        
         answer: `importance`,
         rewrite: ``,
         explanation: `<div>
@@ -6106,7 +6105,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `While travelling up the mountain, people always stop and take photos of the ____ scenery. (PICTURE)
 
       `,
-        options: [],
+        
         answer: `picturesque`,
         rewrite: ``,
         explanation: `<div>
@@ -6123,7 +6122,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `Mai is _______ in history. She often goes to museums to see new exhibits and learn about the past. (INTEREST)
 
       `,
-        options: [],
+        
         answer: `interested`,
         rewrite: ``,
         explanation: `<div>
@@ -6140,7 +6139,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `Local authorities gave a flood ________ yesterday, so today people are moving to safer places. (WARN)
 
       `,
-        options: [],
+        
         answer: `warning`,
         rewrite: ``,
         explanation: `<div>
@@ -6220,7 +6219,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         extra: ``,
         question: `
       `,
-        options: [`go 
+        options: [`go 
 `, `keep up
 `, `happen
 `, `last
@@ -6241,7 +6240,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         extra: ``,
         question: `
       `,
-        options: [`be 
+        options: [`be 
 `, `cause
 `, `provide
 `, `experience
@@ -6347,7 +6346,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `The bell rang. Everyone raced out of the classroom. (when)
 
       `,
-        options: [],
+        
         answer: `When the bell rang, everyone raced out of the classroom.`,
         rewrite: ``,
         explanation: `<div>
@@ -6365,7 +6364,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `The office may be closed. In that case, Mike won't be able to get in. (If)
 
       `,
-        options: [],
+        
         answer: `If the office is closed, Mike won't be able to get in.`,
         rewrite: ``,
         explanation: `<div>
@@ -6383,7 +6382,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `After she had explained everything dearly, we started our work.
 
       `,
-        options: [],
+        
         answer: `we started our work, she explained everything clearly.`,
         rewrite: `By the time
 `,
@@ -6403,7 +6402,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: ` The drugstore is to the left of the bakery.
 
       `,
-        options: [],
+        
         answer: `is to the right of the drug store.`,
         rewrite: `The bakery
 `,
@@ -6424,7 +6423,7 @@ to imagine the changes that robots are bringing to our world. (BELIEVE)
         question: `Does his class have twenty-five students?
 
           `,
-        options: [],
+        
         answer: `there twenty-five students in his class?`,
         rewrite: `Are
 `,
@@ -6447,7 +6446,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
         question: ` James doesn't work as a firefighter in the______
 
           `,
-        options: [],
+        
         answer: `city`,
         rewrite: ``,
         explanation: `<div>
@@ -6465,7 +6464,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
         question: ` When a fire happens, James will walk into the ______ to put it out.
 
           `,
-        options: [],
+        
         answer: `forests`,
         rewrite: ``,
         explanation: `<div>
@@ -6483,7 +6482,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
         question: `Alice thinks James's job is so________
 
           `,
-        options: [],
+        
         answer: `dangerous`,
         rewrite: ``,
         explanation: `<div>
@@ -6501,7 +6500,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
         question: `According to James, a forest firefighter has to be brave and ______
 
           `,
-        options: [],
+        
         answer: `carefulJames thinks his job is`,
         rewrite: ``,
         explanation: `<div>
@@ -6519,7 +6518,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
         question: ` James thinks his job is _______
 
           `,
-        options: [],
+        
         answer: `interesting`,
         rewrite: ``,
         explanation: `<div>
@@ -6581,7 +6580,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
           `,
         options: [`response
 `, `dislike
-`, `damage 
+`, `damage 
 `, `explore
 `],
         answer: `3`,
@@ -6601,7 +6600,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
           `,
         options: [`martial
 `, `survival
-`, `hospital 
+`, `hospital 
 `, `natural
 `],
         answer: `2`,
@@ -6622,7 +6621,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
           `,
         options: [`into
 `, `on
-`, `about 
+`, `about 
 `, `in
 `],
         answer: `4`,
@@ -6658,9 +6657,9 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
         question: `The workers are _____ a truck with timber.
 
           `,
-        options: [`unloading 
+        options: [`unloading 
 `, `loading
-`, `taking 
+`, `taking 
 `, `filling
 `],
         answer: `2`,
@@ -6703,7 +6702,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
           `,
         options: [`Before
 `, `After
-`, `As soon as 
+`, `As soon as 
 `, `Until
 `],
         answer: `1`,
@@ -6725,7 +6724,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
           `,
         options: [`disaster
 `, `loss
-`, `damage 
+`, `damage 
 `, `property
 `],
         answer: `3`,
@@ -6746,8 +6745,8 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
 
           `,
         options: [`always
-`, `never 
-`, `sometimes 
+`, `never 
+`, `sometimes 
 `, `rarely
 `],
         answer: `3`,
@@ -6770,7 +6769,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702014167458-hk1-ta8-ilearn
         options: [`collapses
 `, `
 is collapsing
-`, `collapsed  
+`, `collapsed  
 `, `collapsed
 `],
         answer: `1`,
@@ -6810,7 +6809,7 @@ is collapsing
 
           `,
         options: [`but
-`, `and 
+`, `and 
 `, `or
 `, `so
 `],
@@ -6828,7 +6827,7 @@ is collapsing
       {
         id: 41,
         extra: ``,
-        question: `Nhi: Thanks for the nice gift you brought to us!  - Vy: ___________.
+        question: `Nhi: Thanks for the nice gift you brought to us!  - Vy: ___________.
 
           `,
         options: [`Actually speaking, I myself don’t like it.
@@ -6850,12 +6849,12 @@ is collapsing
       {
         id: 41,
         extra: ``,
-        question: `Mary: Can you speak English?  - Mi: ___________.
+        question: `Mary: Can you speak English?  - Mi: ___________.
 
           `,
-        options: [`No, I’m not 
+        options: [`No, I’m not 
 `, `A little
-`, `Yes, too much 
+`, `Yes, too much 
 `, `What a pity!
 `],
         answer: `2`,
@@ -6876,7 +6875,7 @@ is collapsing
         question: `My brother is working as a volunteer for animal protection_____. (ORGANISE)
 
           `,
-        options: [],
+        
         answer: `organisation`,
         rewrite: ``,
         explanation: `<div>
@@ -6893,7 +6892,7 @@ is collapsing
         question: `Today, scientists are able to predict most natural _______. (DISASTROUS)
 
       `,
-        options: [],
+        
         answer: `disasters`,
         rewrite: ``,
         explanation: `<div>
@@ -6911,7 +6910,7 @@ is collapsing
         question: `The Internet ________ at our home is not strong, so I can't study. (CONNECT)
 
       `,
-        options: [],
+        
         answer: `connection`,
         rewrite: ``,
         explanation: `<div>
@@ -6927,7 +6926,7 @@ is collapsing
         question: `Our factory needs a lot of ________ workers. (TRAIN)
 
       `,
-        options: [],
+        
         answer: `well-trained`,
         rewrite: ``,
         explanation: `<div>
@@ -7027,7 +7026,7 @@ is collapsing
         question: `It is actually a national park, so the wildlife there can live and move (25) _________.
 
       `,
-        options: [`safe 
+        options: [`safe 
 `, `safety
 `, `safely
 `],
@@ -7132,7 +7131,7 @@ is collapsing
         question: `The choir practised for half an hour. After that, they went on stage. (Before)
 
       `,
-        options: [],
+        
         answer: `Before they went on stage, the choir had practised for half an hour.`,
         rewrite: ``,
         explanation: `<div>
@@ -7148,7 +7147,7 @@ is collapsing
         question: `Stop talking or you won’t understand the lesson. (Unless)
 
       `,
-        options: [],
+        
         answer: `Unless you stop talking, you won’t understand the lesson.`,
         rewrite: ``,
         explanation: `<div>
@@ -7165,7 +7164,7 @@ is collapsing
         question: `John is very sad. He fails the final exam. (because)
 
       `,
-        options: [],
+        
         answer: `John is very sad because he failed the final exam.`,
         rewrite: ``,
         explanation: `<div>
@@ -7182,7 +7181,7 @@ is collapsing
         question: `There are many plants in our garden.
 
       `,
-        options: [],
+        
         answer: `has many flowers`,
         rewrite: `Our garden
 `,
@@ -7200,7 +7199,7 @@ is collapsing
         question: `The garden is in front of Nam’s classroom.
 
           `,
-        options: [],
+        
         answer: `is behind the garden.`,
         rewrite: `Nam’s classroom
 `,
@@ -7220,7 +7219,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
         question: `Monday:________________
 
           `,
-        options: [],
+        
         answer: `make a shelter`,
         rewrite: ``,
         explanation: `<div>
@@ -7236,7 +7235,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
         question: `Tuesday:____________
 
           `,
-        options: [],
+        
         answer: `make a fire`,
         rewrite: ``,
         explanation: `<div>
@@ -7252,7 +7251,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
         question: `Wednesday:____________
 
           `,
-        options: [],
+        
         answer: `look for wild animals`,
         rewrite: ``,
         explanation: `<div>
@@ -7268,7 +7267,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
         question: `Thursday:____________
 
           `,
-        options: [],
+        
         answer: `watch the stars`,
         rewrite: ``,
         explanation: `<div>
@@ -7284,7 +7283,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
         question: `Friday:______
 
           `,
-        options: [],
+        
         answer: ``,
         rewrite: `discover unusual plants`,
         explanation: `<div>
@@ -7385,7 +7384,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
         question: `In his free time, my younger brother is ______ on taking photos and doing puzzles.
 
           `,
-        options: [`fond 
+        options: [`fond 
 `, `keen
 `, `interested
 `, `crazy
@@ -7404,9 +7403,9 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
         question: `According to a survey, 21% of children under 18 in the UK enjoy ________ football.
 
           `,
-        options: [`to play 
+        options: [`to play 
 `, `play
-`, `playing 
+`, `playing 
 `, `played
 `],
         answer: `3`,
@@ -7423,7 +7422,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
         question: `People in my village grow rice in vast _____ fields.
 
           `,
-        options: [`corn 
+        options: [`corn 
 `, `wheat
 `, `pad
 `, `paddy
@@ -7447,7 +7446,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
           `,
         options: [`kept
 `, `keeps
-`, `has kept 
+`, `has kept 
 `, `will keep
 `],
         answer: `2`,
@@ -7464,8 +7463,8 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
         question: `Because of ____ pollution, the bicycle may someday replace the automobile.
 
           `,
-        options: [`water 
-`, `air 
+        options: [`water 
+`, `air 
 `, `noise
 `, `soil
 `],
@@ -7543,7 +7542,7 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
 <p>rarely: hiếm khi</p>
 <p>usually: thường</p>
 <p>occasionally: thỉnh thoảng</p>
-<p>- What do shopping centres <strong>usually</strong> offer customers on special occasions? - Mostly sales and entertainment.\</p>
+<p>- What do shopping centres <strong>usually</strong> offer customers on special occasions? - Mostly sales and entertainment.</p>
 <p><em>(- Các trung tâm mua sắm thường tặng gì cho khách hàng vào những dịp đặc biệt? - Chủ yếu là mua bán và giải trí.)</em></p>
                                                     </div>`,
       },
@@ -7613,11 +7612,11 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
       {
         id: 41,
         extra: ``,
-        question: `Mai: Will you be able to come to the meeting? -  Linh: ___________.
+        question: `Mai: Will you be able to come to the meeting? -  Linh: ___________.
 
           `,
         options: [`I’m afraid not
-`, `Of course you will 
+`, `Of course you will 
 `, `You must be kidding
 `, `I’m sorry not
 `],
@@ -7639,16 +7638,14 @@ media:`https://img.loigiaihay.com/picture/2023/1208/1702027823599-hk1-ta8-ilearn
         question: `Cutting down a lot of trees is very _______ to the environment. (HARM)
 
           `,
-        options: [],
+        
         answer: `harmful`,
         rewrite: ``,
-        explanation: `<div>
-                                                <p>17.Cấu trúc: S + be + adj =&gt; cần một tính từ chủ động để mô tả tính chất của sự vật</p>
+        explanation: `<div><p>17.Cấu trúc: S + be + adj =&gt; cần một tính từ chủ động để mô tả tính chất của sự vật</p>
 <p>harm (v): làm hại</p>
 <p>harmful (adj): có hại</p>
 <p>Cutting down a lot of trees is very <strong>harmful </strong>to the environment.</p>
-<p><em>(Chặt nhiều cây xanh rất có hại cho môi trường.)</em></p>
-options: [],                                            </div>`,
+<p><em>(Chặt nhiều cây xanh rất có hại cho môi trường.)</em></p> </div>`,
       },
       {
         id: 41,
@@ -7656,7 +7653,7 @@ options: [],                                            </div>`,
         question: ` National parks are ________ in protecting the environment and natural resources. (IMPORTANCE)
 
       `,
-        options: [],
+        
         answer: `important`,
         rewrite: ``,
         explanation: `<div>
@@ -7665,7 +7662,7 @@ options: [],                                            </div>`,
 <p>important (adj): quan trọng</p>
 <p>National parks are<strong>important</strong>in protecting the environment and natural resources.</p>
 <p><em>(Vườn quốc gia có ý nghĩa quan trọng trong việc bảo vệ môi trường và tài nguyên thiên nhiên.)</em></p>
-options: [],                                            </div>`,
+</div>`,
       },
       {
         id: 41,
@@ -7673,7 +7670,7 @@ options: [],                                            </div>`,
         question: `They live in a beautiful cottage _________ by trees and flowers. (SURROUND)
 
       `,
-        options: [],
+        
         answer: `surrounded`,
         rewrite: ``,
         explanation: `<div>
@@ -7682,7 +7679,7 @@ options: [],                                            </div>`,
 <p>surrounded (v): được bao quanh</p>
 <p>They live in a beautiful cottage<strong>surrounded</strong>by trees and flowers.</p>
 <p><em>(Họ sống trong một ngôi nhà tranh xinh đẹp được bao quanh bởi cây và hoa.)</em></p>
-options: [],                                            </div>`,
+                                            </div>`,
       },
       {
         id: 41,
@@ -7690,7 +7687,7 @@ options: [],                                            </div>`,
         question: `I ________ cooking because I usually burn the food. (LIKE)
 
       `,
-        options: [],
+        
         answer: `dislike`,
         rewrite: ``,
         explanation: `<div>
@@ -7698,7 +7695,7 @@ options: [],                                            </div>`,
 <p>dislike (v): không thích</p>
 <p>I<strong>dislike</strong>cooking because I usually burn the food.</p>
 <p><em>(Tôi không thích nấu ăn vì tôi thường làm cháy thức ăn.)</em></p>
-options: [],                                            </div>`,
+                                           </div>`,
       },
       {
         id: 41,
@@ -7751,7 +7748,7 @@ Mi
         extra: ``,
         question: `
       `,
-        options: [`could 
+        options: [`could 
 `, `went
 `, `did
 `, `played
@@ -7791,7 +7788,7 @@ Mi
         question: `
       `,
         options: [`for
-`, `of 
+`, `of 
 `, `on
 `, `next
 `],
@@ -7819,7 +7816,7 @@ Mi
 <p><em>(Cây giúp loại bỏ chất ô nhiễm khỏi nước.)</em></p>
 <p><strong>Thông tin:</strong>They remove pollutants from the air and significantly improve air quality.</p>
 <p><em>(Chúng loại bỏ các chất ô nhiễm khỏi không khí và cải thiện đáng kể chất lượng không khí.)</em></p>
-options: [],                                                    </div>`,
+                                                  </div>`,
       },
       {
         id: 41,
@@ -7835,7 +7832,7 @@ options: [],                                                    </div>`,
 <p><em>(Cây xanh giúp loại bỏ carbon dioxide trong không khí.)</em></p>
 <p><strong>Thông tin:</strong>Research shows that with billions of trees, we could remove two-thirds of all the carbon dioxide created by human activities.</p>
 <p><em>(Nghiên cứu cho thấy rằng với hàng tỷ cây xanh, chúng ta có thể loại bỏ 2/3 lượng khí carbon dioxide do các hoạt động của con người tạo ra.)</em></p>
-options: [],                                                    </div>`,
+                                                </div>`,
       },
       {
         id: 41,
@@ -7851,7 +7848,7 @@ options: [],                                                    </div>`,
 <p><em>(Ít lũ lụt hơn nhờ có cây xanh.)</em></p>
 <p><strong>Thông tin:</strong>Second, trees reduce the run off of rainwater, so they can reduce flooding.</p>
 <p><em>(Thứ hai, cây cối làm giảm lượng nước mưa chảy ra, vì vậy chúng có thể làm giảm lũ lụt.)</em></p>
-options: [],                                                    </div>`,
+                                             </div>`,
       },
       {
         id: 41,
@@ -7867,7 +7864,7 @@ options: [],                                                    </div>`,
 <p><em>(Bạn sẽ phải trả ít tiền hơn cho việc điều hòa không khí nếu bạn trồng cây.)</em></p>
 <p><strong>Thông tin:</strong>Trees growing beside a home can cool the roof and the air around the house. Therefore, it reduces air conditioning costs.</p>
 <p><em>(Cây cối mọc bên cạnh nhà có thể làm mát mái nhà và không khí xung quanh nhà. Do đó, nó làm giảm chi phí điều hòa không khí.)</em></p>
-options: [],                                                    </div>`,
+                                                   </div>`,
       },
       {
         id: 41,
@@ -7883,7 +7880,7 @@ options: [],                                                    </div>`,
 <p><em>(Nếu mọi người trồng cây quanh nhà, hành tinh này sẽ được cải thiện.)</em></p>
 <p><strong>Thông tin:</strong>If you want to plant trees to help save the planet, there are simple ways to get started. Plant trees around your house.</p>
 <p><em>(Nếu bạn muốn trồng cây để giúp cứu hành tinh, có nhiều cách đơn giản để bắt đầu. Trồng cây xung quanh ngôi nhà của bạn.)</em></p>
-options: [],                                                    </div>`,
+                                          </div>`,
       },
       {
         id: 41,
@@ -7892,7 +7889,7 @@ options: [],                                                    </div>`,
         question: `We were planting trees. Our friends were collecting rubbish. (While)
 
       `,
-        options: [],
+        
         answer: `While we were planting trees, our friends were collecting rubbish.`,
         rewrite: ``,
         explanation: `<div>
@@ -7901,7 +7898,7 @@ options: [],                                                    </div>`,
 <p><em>(Chúng tôi đang trồng cây. Bạn bè của chúng tôi đang thu gom rác.)</em></p>
 <p><strong>=&gt; While we were planting trees, our friends were collecting rubbish.</strong></p>
 <p><em>(Trong khi chúng tôi đang trồng cây, bạn bè của chúng tôi đang thu gom rác.)</em></p>
-options: [],                                            </div>`,
+                                  </div>`,
       },
       {
         id: 41,
@@ -7909,7 +7906,7 @@ options: [],                                            </div>`,
         question: `Don’t touch that wire or you may get an electric shock. (If)
 
       `,
-        options: [],
+        
         answer: `If you touch that wire, you will get an electric shock.`,
         rewrite: ``,
         explanation: `<div>
@@ -7918,7 +7915,7 @@ options: [],                                            </div>`,
 <p><em>(Đừng chạm vào dây đó nếu không bạn có thể bị điện giật.)</em></p>
 <p>=&gt;<strong> If you touch that wire, you will get an electric shock.</strong></p>
 <p><em>(Nếu bạn chạm vào dây đó bạn sẽ bị điện giật.)</em></p>
-options: [],                                            </div>`,
+                                  </div>`,
       },
       {
         id: 41,
@@ -7926,7 +7923,7 @@ options: [],                                            </div>`,
         question: `Tom drives to work every morning.
 
       `,
-        options: [],
+        
         answer: `to work by car every morning`,
         rewrite: `Tom goes
 `,
@@ -7936,7 +7933,7 @@ options: [],                                            </div>`,
 <p><em>(Tom lái xe đi làm mỗi sáng.)</em></p>
 <p>=&gt; Tom goes <strong>to work by car every morning.</strong></p>
 <p><em>(Tom đi làm bằng ô tô mỗi sáng.)</em></p>
-options: [],                                            </div>`,
+                                  </div>`,
       },
       {
         id: 41,
@@ -7944,7 +7941,7 @@ options: [],                                            </div>`,
         question: `There are five people in his family.
 
       `,
-        options: [],
+        
         answer: `has five people.`,
         rewrite: `His family
 `,
@@ -7954,7 +7951,7 @@ options: [],                                            </div>`,
 <p><em>(Gia đình anh ấy có năm người.)</em></p>
 <p>=&gt; <strong>His family has five people.</strong></p>
 <p><em>(Gia đình anh ấy có năm người.)</em></p>
-options: [],                                            </div>`,
+                                  </div>`,
       },
       {
         id: 41,
@@ -7962,7 +7959,7 @@ options: [],                                            </div>`,
         question: `My house is behind the hospital.
 
       `,
-        options: [],
+        
         answer: `is in front of my house`,
         rewrite: `The hospital
 `,
@@ -7972,7 +7969,7 @@ options: [],                                            </div>`,
 <p><em>(Nhà tôi ở phía sau bệnh viện.)</em></p>
 <p>=&gt; The hospital <strong>is in front of my house.</strong></p>
 <p><em>(Bệnh viện ở trước nhà tôi.)</em></p>
-options: [],                                            </div>`,
+                                  </div>`,
       },
       {
         id: 41,
@@ -8066,8 +8063,8 @@ Jess felt ill.
         question: `What did Jess enjoy the most?
 
       `,
-        options: [`The final show. 
-`, `Learning some dance moves. 
+        options: [`The final show. 
+`, `Learning some dance moves. 
 `, `Meeting new people.
 `],
         answer: `3`,
@@ -8126,7 +8123,7 @@ Jess felt ill.
         question: `
           `,
         options: [`scenery
-`, `apartment 
+`, `apartment 
 `, `museum
 `, `location
 `],
@@ -8140,7 +8137,7 @@ Jess felt ill.
         question: `
           `,
         options: [`province
-`, `cottage 
+`, `cottage 
 `, `statue
 `, `boutique
 `],
@@ -8155,9 +8152,9 @@ Jess felt ill.
         question: `I like visiting small villages because they are calm and ____________.
 
           `,
-        options: [`noisy 
+        options: [`noisy 
 `, `polluted
-`, `peaceful 
+`, `peaceful 
 `, `crowded
 `],
         answer: `3`,
@@ -8170,8 +8167,8 @@ Jess felt ill.
         question: `They love ________ in the countryside because there aren’t many skyscrapers.
 
           `,
-        options: [`live  
-`, `living       
+        options: [`live  
+`, `living  
 `, `to living
 `, `lives
 `],
@@ -8186,8 +8183,8 @@ Jess felt ill.
 
           `,
         options: [`stressful
-`, `exciting 
-`, `convenient 
+`, `exciting 
+`, `convenient 
 `, `relaxing
 `],
         answer: `1`,
@@ -8200,8 +8197,8 @@ Jess felt ill.
         question: `Lana suggests __________ to the countryside to enjoy the clean air.
 
           `,
-        options: [`go 
-`, `goes 
+        options: [`go 
+`, `goes 
 `, `going
 `, ` to go
 `],
@@ -8215,8 +8212,8 @@ Jess felt ill.
         question: `The parents were __________ because their kids were all safe after the earthquake.
 
           `,
-        options: [`safe   
-`, `relieved   
+        options: [`safe   
+`, `relieved   
 `, `worried
 `, `happy
 `],
@@ -8238,9 +8235,9 @@ Jess felt ill.
         question: `Lina: “I saw an accident on the freeway on my way to work today.” – Tim: “___________”
 
           `,
-        options: [`I think so.    
+        options: [`I think so.    
 `, `You won’t believe it.
-`, `How terrible!     
+`, `How terrible!
 `, `What were they doing?
 `],
         answer: `3`,
@@ -8258,12 +8255,12 @@ Jess felt ill.
       {
         id: 41,
         extra: ``,
-        question: `Water _______ the whole area at 4 p.m.  yesterday afternoon.
+        question: `Water _______ the whole area at 4 p.m.  yesterday afternoon.
 
           `,
-        options: [`was covering    
+        options: [`was covering    
 `, `covered
-`, `cover 
+`, `cover 
 `, `were covering
 `],
         answer: `1`,
@@ -8281,9 +8278,9 @@ Jess felt ill.
         question: `Ms. Davis ________ in time because of the heavy rain this morning.
 
           `,
-        options: [`arrived   
+        options: [`arrived   
 `, `arrive
-`, `arrives       
+`, `arrives  
 `, `didn’t arrive
 `],
         answer: `4`,
@@ -8301,9 +8298,9 @@ Jess felt ill.
         question: `A famous scientist is going to talk about ways to save __________ on tonight’s programme. These marine animals are in danger.
 
           `,
-        options: [`sea turtles  
-`, `gorillas 
-`, `lemurs     
+        options: [`sea turtles  
+`, `gorillas 
+`, `lemurs
 `, `macaus
 `],
         answer: `1`,
@@ -8324,9 +8321,9 @@ Jess felt ill.
         question: `Tom: “How are you going to get to the national park?” – Lucy: “___________”
 
           `,
-        options: [`We are sure about that. 
+        options: [`We are sure about that. 
 `, `We’re going to fly there.
-`, `Maybe we can volunteer in Mexico.    
+`, `Maybe we can volunteer in Mexico.    
 `, `We’re going to feed the turtles.
 `],
         answer: `2`,
@@ -8348,7 +8345,7 @@ Jess felt ill.
         question: `I live in a big apartment in the city. It’s a _______ place. (CROWD)
 
           `,
-        options: [],
+        
         answer: `crowded`,
         rewrite: ``,
         explanation: `<p>Cấu trúc: S + be + adj =&gt; cần một tính từ chủ động để mô tả tính chất của sự vật<strong></strong></p>
@@ -8364,7 +8361,7 @@ Jess felt ill.
         question: `It’s amazing to live in the city because there’s lots of ________. (ENTERTAIN)
 
           `,
-        options: [],
+        
         answer: `entertainment`,
         rewrite: ``,
         explanation: `<p>Sau “lots of” cần một danh từ.</p>
@@ -8380,7 +8377,7 @@ Jess felt ill.
         question: `The ________ eruption didn’t kill anyone, but it destroyed many houses. (VOLCANO)
 
       `,
-        options: [],
+        
         answer: `volcanic`,
         rewrite: ``,
         explanation: `<p>Trước danh từ “eruption” <em>(sự phun trào) </em>cần một tính từ để tạo thành cụm danh từ.</p>
@@ -8396,7 +8393,7 @@ Jess felt ill.
         question: `A lot of plants and animals will ________ if we don't do something to protect them. (APPEAR)
 
       `,
-        options: [],
+        
         answer: `disappear`,
         rewrite: ``,
         explanation: `<p>Sau “will” <em>(sẽ) </em>cần một động từ nguyên mẫu.</p>
@@ -8412,7 +8409,7 @@ Jess felt ill.
         question: `Sea turtles are under threat from habitat _________ because people are building more homes and hotels along the beaches. (LOSE)
 
       `,
-        options: [],
+        
         answer: `loss`,
         rewrite: ``,
         explanation: `<p>Sau giới từ “from” cần một cụm danh từ<strong></strong></p>
@@ -8512,8 +8509,8 @@ Jess felt ill.
         question: `
       `,
         options: [`in
-`, `on 
-`, `at 
+`, `on 
+`, `at 
 `, `during
 `],
         answer: `2`,
@@ -8531,8 +8528,8 @@ Jess felt ill.
         question: `
       `,
         options: [`sailed
-`, `is sailing 
-`, `was sailing     
+`, `is sailing 
+`, `was sailing
 `, `sails
 `],
         answer: `3`,
@@ -8565,8 +8562,8 @@ Jess felt ill.
         extra: ``,
         question: `
       `,
-        options: [`relieved 
-`, `terrified 
+        options: [`relieved 
+`, `terrified 
 `, `pleasant
 `, `cheerful
 `],
@@ -8585,7 +8582,7 @@ Jess felt ill.
         extra: ``,
         question: `
       `,
-        options: [`does not have       
+        options: [`does not have  
 `, `did not have
 `, `had
 `, `has
@@ -8604,7 +8601,7 @@ Jess felt ill.
         question: `My cousin loves going to the countryside on his holiday. (WOULD PREFER)
 
       `,
-        options: [],
+        
         answer: `My cousin would prefer going to the countryside on his holiday`,
         rewrite: ``,
         explanation: `<p>would prefer doing sth = love doing sth: thích làm gì</p>
@@ -8620,7 +8617,7 @@ Jess felt ill.
         question: `We feel relaxed when we breathe clean air. (MAKES)
 
       `,
-        options: [],
+        
         answer: `Clean air makes us feel relaxed.`,
         rewrite: ``,
         explanation: `<p>make sb do sth: khiến ai làm gì</p>
@@ -8637,7 +8634,7 @@ Jess felt ill.
         question: `Peter says: "Why don't we listen to the traditional music?" (SUGGESTS)
 
       `,
-        options: [],
+        
         answer: `Peter suggests listening to traditional music.`,
         rewrite: ``,
         explanation: `<p>suggest doing sth: đề nghị làm gì</p>
@@ -8653,7 +8650,7 @@ Jess felt ill.
         question: `We don't save the rainforests. Gorillas will have no place to live. (UNLESS)
 
       `,
-        options: [],
+        
         answer: `Unless we save the rainforests, gorillas will have no place to live.`,
         rewrite: ``,
         explanation: `<p>Cấu trúc: Unless + S + V (simple present), S + will/can/shall + V</p>
@@ -8669,7 +8666,7 @@ Jess felt ill.
         question: `The elephant recovers from the illness. People will take it back to the forest. (AFTER)
 
       `,
-        options: [],
+        
         answer: `After the elephant recovers from the illness, people will take it back to the forest.`,
         rewrite: ``,
         explanation: `<p>Cấu trúc: After + present perfect/simple present + simple future: diễn tả sau khi làm công việc và tiếp tục thực hiện một công việc khác.</p>
@@ -8687,9 +8684,9 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         question: `Where does the boy's uncle work?
 
       `,
-        options: [`at a zoo in the boy's city   
+        options: [`at a zoo in the boy's city   
 `, `at a zoo in the countryside
-`, `at a zoo in another city     
+`, `at a zoo in another city
 `, `at a zoo in another country
 `],
         answer: `3`,
@@ -8709,9 +8706,9 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         question: `What time does the boy's uncle usually finish his work?
 
       `,
-        options: [`at 5:00 p.m. 
+        options: [`at 5:00 p.m. 
 `, `at 5:30 p.m.
-`, `at 7:00 p.m.  
+`, `at 7:00 p.m.  
 `, ` at 10:00 p.m.
 `],
         answer: `3`,
@@ -8731,9 +8728,9 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         question: `What is the boy's uncle like?
 
       `,
-        options: [`He is brave and friendly.     
+        options: [`He is brave and friendly.
 `, `He is creative and brave.
-`, `He is creative and caring. 
+`, `He is creative and caring. 
 `, `He is caring, brave and careful.
 `],
         answer: `4`,
@@ -8755,7 +8752,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
       `,
         options: [`It is an easy job. 
 `, ` It is a difficult job.
-`, `It is a simple job.   
+`, `It is a simple job.   
 `, ` It is a boring job.
 `],
         answer: `2`,
@@ -8775,9 +8772,9 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         question: `What does the boy want to become?
 
       `,
-        options: [`a zookeeper   
-`, `a firefighter    
-`, `a landscape gardener   
+        options: [`a zookeeper   
+`, `a firefighter    
+`, `a landscape gardener   
 `, `an animal doctor
 `],
         answer: `4`,
@@ -9067,7 +9064,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: `<p><strong>Give the correct form of the word in the brackets.</strong></p>`,
         question: `Forest firefighters need to be brave because their job is _________. (DANGER)
           `,
-        options: [],
+        
         answer: `dangerous`,
         rewrite: ``,
         explanation: `<p>Cấu trúc: S + be + adj =&gt; cần một tính từ chủ động để mô tả tính chất của sự vật</p>
@@ -9082,7 +9079,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `Macaws are endangered because of ________ pet trade. People sell and keep them as pets. (LEGAL)
           `,
-        options: [],
+        
         answer: `illegal`,
         rewrite: ``,
         explanation: `<p>Chỗ trống cần điền một tính từ để tạo thành một cụm danh từ.</p>
@@ -9097,7 +9094,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `The air will become more ________ if we use lots of cars on roads. (POLLUTE)
       `,
-        options: [],
+        
         answer: `polluted`,
         rewrite: ``,
         explanation: `<p>Sau “more” cần một tính từ.</p>
@@ -9112,7 +9109,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `The volcanic _________ destroyed the village with lava. (ERUPT)
       `,
-        options: [],
+        
         answer: `eruption`,
         rewrite: ``,
         explanation: `<p>Sau tính từ “volcanic” <em>(núi lửa) </em>cần một danh từ để tạo thành cụm danh từ.</p>
@@ -9127,7 +9124,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `Life in the city is exciting because there’s a lot of _________. (ENTERTAIN)
       `,
-        options: [],
+        
         answer: `entertainment`,
         rewrite: ``,
         explanation: `<p>Sau “a lot of” cần một danh từ</p>
@@ -9312,7 +9309,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: `<p><strong>Rewrite the sentences without changing their meanings.</strong></p>`,
         question: `Rising sea levels cause floods.
       `,
-        options: [],
+        
         answer: `there will be floods.`,
         rewrite: `If sea levels rise,`,
         explanation: `<p>Cấu trúc: If + S + V (simple present), S + will/can/shall + V</p>
@@ -9327,7 +9324,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `If we don't stop illegal hunters, they will kill endangered animals.
       `,
-        options: [],
+        
         answer: `stop illegal hunters, they will kill endangered animals`,
         rewrite: `Unless we`,
         explanation: `<p>Unless + S + V (thì hiện tại đơn), S+ will/ can/ shall + V = If not + S + V (thì hiện tại đơn), S+ will/ can/ shall + V</p>
@@ -9342,7 +9339,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `Polluted air causes a lot of health problems.
       `,
-        options: [],
+        
         answer: `there will be a lot of health problems`,
         rewrite: `If the air is polluted,`,
         explanation: `<p>Cấu trúc: If + S + V (simple present), S + will/can/shall + V</p>
@@ -9355,7 +9352,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `Be more eco - friendly, or we'll harm the environment.
       `,
-        options: [],
+        
         answer: `aren’t more eco - friendly, we'll harm the environment`,
         rewrite: `If we`,
         explanation: `<p>Cấu trúc: If + S + V (simple present), S + will/can/shall + V</p>
@@ -9370,7 +9367,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `Unless she has free time, she can't volunteer at the local animal shelter.
       `,
-        options: [],
+        
         answer: `doesn’t have free time, she can volunteer at the local animal shelter.`,
         rewrite: `If she `,
         explanation: `<p>Unless + S + V (thì hiện tại đơn), S+ will/ can/ shall + V = If not + S + V (thì hiện tại đơn), S+ will/ can/ shall + V</p>
@@ -9767,7 +9764,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: `<p><strong>Fill in the blank with the correct form of the word in the bracket. </strong></p>`,
         question: `The ______________ at our school’s anniversary was amazing. (PERFORM)
           `,
-        options: [],
+        
         answer: `performance`,
         rewrite: ``,
         explanation: `<p>Vị trí còn trống cần điền một danh từ số ít làm chủ ngữ cho câu.</p>
@@ -9782,7 +9779,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `This ______________ is so awful. He makes me look so ugly in my wedding album! (PHOTO)
           `,
-        options: [],
+        
         answer: `photographer`,
         rewrite: ``,
         explanation: `<p>Vị trí còn trống cần điền một danh từ chỉ người số ít làm chủ ngữ cho câu.</p>
@@ -9797,7 +9794,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `Many teenagers go through a difficult ______________ due to parental pressure. (CHILD)
           `,
-        options: [],
+        
         answer: `childhood`,
         rewrite: ``,
         explanation: `<p>Sau mạo từ “a” và tính từ “difficult” cần điền một danh từ số ít để tạo thành cụm danh từ.</p>
@@ -9812,7 +9809,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: ` In 2011, there was a massive ______________ in Japan. (EARTH)
           `,
-        options: [],
+        
         answer: `earthquake`,
         rewrite: ``,
         explanation: `<p>Vị trí còn trống cần điền một danh từ mang nghĩa “trận động đất”.</p>
@@ -9827,7 +9824,7 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: ``,
         question: `The film receives both positive and negative ______________ from the audience. (VIEW)
           `,
-        options: [],
+        
         answer: `reviews`,
         rewrite: ``,
         explanation: `<p>Vị trí còn trống cần điền một danh từ đứng sau tính từ “positive and negative”. Phía trước có từ “both” =&gt; danh từ phía sau chia ở dạng số nhiều.</p>
@@ -10037,13 +10034,13 @@ media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-6.mp3`,
         extra: `<p><strong>Rewrite the sentence using the word given in the bracket. DO NOT CHANGE THE GIVEN WORDS. </strong></p>`,
         question: `Both Mary and Bob use electronic devices for more than 5 hours a day. <strong>(SO)</strong>
           `,
-        options: [],
+        
         answer: `Mary uses electronic devices for more than 5 hours a day, so does Bob`,
         rewrite: ``,
         explanation: `<p>Cụm “so do/does + S”: diễn tả sự đồng tình trong câu khẳng định.</p>
 <p>Both Mary and Bob use electronic devices for more than 5 hours a day.</p>
 <p><em>(Cả Mary và Bob đều sử dụng thiết bị điện tử hơn 5 giờ mỗi ngày.)</em></p>
-options: [],
+
 <p><em>(Mary sử dụng thiết bị điện tử hơn 5 giờ mỗi ngày, Bob cũng vậy.)</em></p>`,
       },
       {
@@ -10051,7 +10048,7 @@ options: [],
         extra: ``,
         question: `Jill and Anna plan to meet each other once a week. <strong>(GET)</strong>
           `,
-        options: [],
+        
         answer: `Jill and Anna plan to get together once a week.`,
         rewrite: ``,
         explanation: `<p>Cấu trúc “meet each other” = “get together”: gặp nhau.</p>
@@ -10064,7 +10061,7 @@ options: [],
         extra: ``,
         question: `I was watching the news on TV. Suddenly, they reported an emergency notice about the typhoon. (WHEN)
       `,
-        options: [],
+        
         answer: `I was watching the news on TV when they reported an emergency notice about the typhoon.`,
         rewrite: ``,
         explanation: `<p>Câu diễn tả một hành động đang diễn ra trong quá khứ thì hành động khác xen vào =&gt; hành động đang diễn ra, kéo dài chia quá khứ tiếp diễn; hành động ngắn xen vào chia quá khứ đơn.</p>
@@ -10078,14 +10075,14 @@ options: [],
         extra: ``,
         question: `My dad watches sports news everyday. He loves it. (WATCHING)
       `,
-        options: [],
+        
         answer: `My dad loves watching sports news every day.`,
         rewrite: ``,
         explanation: `
 <p>Cấu trúc: S + love + V-ing <em>(yêu thích làm việc gì)</em></p>
 <p>My dad watches sports news every day. He loves it.</p>
 <p><em>(Bố tôi xem tin tức thể thao hàng ngày. Ông ấy yêu nó.)</em></p>
-options: [],
+
 <p><em>(</em><em>Bố tôi thích tin tức thể thao hàng ngày.)</em></p>`,
       },
       {
@@ -10093,13 +10090,13 @@ options: [],
         extra: ``,
         question: ` Everyone in my class is shorter than Bill. (TALLEST)
       `,
-        options: [],
+        
         answer: `Bill is the tallest person in my class.`,
         rewrite: ``,
         explanation: `<p>Cấu trúc câu so sánh nhất: S + be + the + tính từ ngắn – EST</p>
 <p>Everyone in my class is shorter than Bill.</p>
 <p><em>(Mọi người trong lớp tôi đều thấp hơn Bill.)</em></p>
-options: [],
+
 <p><em>(</em><em>Bill là người cao nhất trong lớp tôi.)</em></p>`,
       },
       {
@@ -10108,7 +10105,7 @@ options: [],
         media:`https://img.loigiaihay.com/picture/2024/1219/hk1-ta8-ilearn-de-8.mp3`,
         question: `Margaret wants to become a __________.
       `,
-        options: [],
+        
         answer: `doctor`,
         rewrite: ``,
         explanation: `<p>Sau mạo từ “a” cần danh từ số ít bắt đầu bằng phụ âm.</p>
@@ -10124,7 +10121,7 @@ options: [],
         extra: ``,
         question: `Patricia and Barbara want to be __________.
       `,
-        options: [],
+        
         answer: `rich`,
         rewrite: ``,
         explanation: `<p>Sau “become” cần một tính từ hoặc danh từ.</p>
@@ -10140,7 +10137,7 @@ options: [],
         extra: ``,
         question: `Ken will be a good __________ because he's funny.
       `,
-        options: [],
+        
         answer: `blogger`,
         rewrite: ``,
         explanation: `<p>Sau mạo từ “a” và tính từ “good” cần danh từ số ít.</p>
@@ -10162,7 +10159,7 @@ options: [],
         extra: ``,
         question: `The dream of Margaret’s mother was to become a__________.
       `,
-        options: [],
+        
         answer: `musician`,
         rewrite: ``,
         explanation: `<p>Sau mạo từ “a” cần danh từ số ít bắt đầu bằng phụ âm.</p>
@@ -10178,7 +10175,7 @@ options: [],
         extra: ``,
         question: `Margaret's father wanted to start a__________.
       `,
-        options: [],
+        
         answer: `family`,
         rewrite: ``,
         explanation: `<p>Sau mạo từ “a” cần danh từ số ít bắt đầu bằng phụ âm.</p>
@@ -10324,7 +10321,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `…………………..December
 
           `,
-        options: [],
+        
         answer: `17th seventeenth`,
         rewrite: ``,
         explanation: `<div>
@@ -10339,7 +10336,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         extra: ``,
         question: `Town ………………………
           `,
-        options: [],
+        
         answer: `Hall`,
         rewrite: ``,
         explanation: `<div>
@@ -10355,7 +10352,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `…………………………..pm
 
           `,
-        options: [],
+        
         answer: `7:30`,
         rewrite: ``,
         explanation: `<div>
@@ -10370,7 +10367,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         extra: ``,
         question: `………………………….ride
           `,
-        options: [],
+        
         answer: `helicopter`,
         rewrite: ``,
         explanation: `<div>
@@ -10386,7 +10383,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `Maggie……………………
 
           `,
-        options: [],
+        
         answer: `Boyle`,
         rewrite: ``,
         explanation: `<div>
@@ -10452,7 +10449,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
       {
         id: 41,
         extra: ``,
-        question: `The Internet allows us to communicate  ________friends from different parts of the world.
+        question: `The Internet allows us to communicate  ________friends from different parts of the world.
 
           `,
         options: [`to
@@ -10477,7 +10474,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `‘I was wondering if you’d like to go to Da Lat Flower Festival’ ‘- When does it take place?’
 
           `,
-        options: [`Not bad! 
+        options: [`Not bad! 
 `,`Are you sure?
 `,`For what?
 `,`Sure, I’d love to!
@@ -10525,7 +10522,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
           `,
         options: [`therefore
 `,`in contrast
-`,`namely 
+`,`namely 
 `,`so
 `],
         answer: `1`,
@@ -10565,7 +10562,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
       {
         id: 41,
         extra: ``,
-        question: `Mr. Ba: “Children in my village often fly their kites in dry rice fields.” - Mrs. Black: “______________”
+        question: `Mr. Ba: “Children in my village often fly their kites in dry rice fields.” - Mrs. Black: “______________”
 
       `,
         options: [`It’s right up my street!
@@ -10610,16 +10607,16 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
       {
         id: 41,
         extra: `<p><b>Read the passage. Circle the best answer A, B or C to fill in the blank.
-</b></p><p>The country is more beautiful than a town and (21)_______ to live in. Many people think so and go to the country for the summer holidays though they cannot live there all the year round. Some have a cottage (22) _________ in a village so that they can go there whenever they have time.
-</p><p>English villages are not all alike, but in some ways they are not different (23)________one another.  Almost every village has a church, the round or square tower of which can be seen for many miles around. Surrounding the church is the churchyard, where people are buried.
-</p><p>The village green is a wide stretch of grass, and houses or cottages are built round it. Country life is now fairly (24)_____ and many villages have water brought through pipes into each house. Most villages are so (25)______  some small towns that people can go there to buy what they can’t find in the village shop.
+</b></p><p>The country is more beautiful than a town and (21)_______ to live in. Many people think so and go to the country for the summer holidays though they cannot live there all the year round. Some have a cottage (22) _________ in a village so that they can go there whenever they have time.
+</p><p>English villages are not all alike, but in some ways they are not different (23)________one another.  Almost every village has a church, the round or square tower of which can be seen for many miles around. Surrounding the church is the churchyard, where people are buried.
+</p><p>The village green is a wide stretch of grass, and houses or cottages are built round it. Country life is now fairly (24)_____ and many villages have water brought through pipes into each house. Most villages are so (25)______  some small towns that people can go there to buy what they can’t find in the village shop.
 </p>`,
         question: `
       `,
         options: [`please
 `,`pleased
 `,`pleasure
-`,`pleasant 
+`,`pleasant 
 `],
         answer: `4`,
         rewrite: ``,
@@ -10687,8 +10684,8 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
       `,
         options: [`difficult
 `,`comfortable
-`,`enjoyable 
-`,`improved 
+`,`enjoyable 
+`,`improved 
 `],
         answer: `2`,
         rewrite: ``,
@@ -10706,7 +10703,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         extra: ``,
         question: `
       `,
-       options: [`far away 
+       options: [`far away 
 `,`out of
 `,`beyond
 `,`close to
@@ -10726,8 +10723,8 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         id: 41,
         extra: `<p><b>Read the passage. Circle the best answer A, B, C or D to each of the questions.
 </b></p><p>The Tay live mainly in the Northeastern part of Viet Nam. They live in large and crowded villages with hundreds of houses. They live in houses built on stilts. They are mainly farmers, and they grow rice on terraced fields. They also raise cattles and poultry. Tay traditional dress is made from homegrown cotton. There is usually not much embroidery or other decorations. Women wear skirts or trousers, with short shirts inside and long one on the outside.
-</p><p>They have many festivals and holidays in a year. The Lunar New Year and the mid-July festivals are the most lavishly organized. During festivals, people in many places play con throwing, badminton, tug-of-war, dragon dancing, or chess.
-</p><p>The Tay eat mainly sticky rice. On festival occasions, they make many kinds of cakes, such as banh chung (sticky rice square cakes), banh day (sticky rice round cakes) or banh khao (cakes made of white rice flour).
+</p><p>They have many festivals and holidays in a year. The Lunar New Year and the mid-July festivals are the most lavishly organized. During festivals, people in many places play con throwing, badminton, tug-of-war, dragon dancing, or chess.
+</p><p>The Tay eat mainly sticky rice. On festival occasions, they make many kinds of cakes, such as banh chung (sticky rice square cakes), banh day (sticky rice round cakes) or banh khao (cakes made of white rice flour).
 </p>`,
         question: `Which of the following best describes the main idea of the passage?
 
@@ -10756,7 +10753,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
 
       `,
        options: [`sticky rice
-`,`sticky rice and round cakes  
+`,`sticky rice and round cakes  
 `,`sticky rice and square cakes
 `,`square cakes
 `],
@@ -10800,12 +10797,12 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
       {
         id: 41,
         extra: ``,
-        question: `Which is TRUE of the Tay’s life?  
+        question: `Which is TRUE of the Tay’s life?  
 
       `,
         options: [`They mainly work in agriculture.
 `,`They work in industry.
-`,`They have one very important festival a year. 
+`,`They have one very important festival a year. 
 `,`They don’t eat sticky rice.
 `],
         answer: `1`,
@@ -10827,7 +10824,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `The word "lavishly" is closest in meaning to ______.
 
       `,
-        options: [`seriously 
+        options: [`seriously 
 `,`carefully
 `,`luxuriously
 `,`happily
@@ -10851,7 +10848,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `Study hard and you will pass your exam.
 
       `,
-        options: [],
+        
         answer: `you study hard, you will pass your exam`,
         rewrite: `If`,
         explanation: `<div>
@@ -10868,7 +10865,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `Duong is fond of travelling and has been everywhere.
 
       `,
-        options: [],
+        
         answer: `on travelling and has been everywhere.`,
         rewrite: `Duong is keen
 `,
@@ -10886,7 +10883,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `My mother cannot cook as well as
 
       `,
-        options: [],
+        
         answer: `cook better than my mother`,
         rewrite: `I can
 `,
@@ -10904,7 +10901,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `Despite being tired, he did the test very well.
 
       `,
-        options: [],
+        
         answer: `he was tired, he did the test very well`,
         rewrite: `Although
 `,
@@ -10923,7 +10920,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `A sports car goes faster than an ordinary one.
 
       `,
-        options: [],
+        
         answer: `more slowly than a sports car`,
         rewrite: `An ordinary car goes
 `,
@@ -10941,7 +10938,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `Nga eats more __________ than Tung does because she likes fast food. (HEALTHY)
 
       `,
-        options: [],
+        
         answer: `unhealthily`,
         rewrite: ``,
         explanation: `<div>
@@ -10958,7 +10955,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `The _______ houses of many ethnic groups are used to worship the ancestors. (COMMUNE)
 
       `,
-        options: [],
+        
         answer: `communal`,
         rewrite: ``,
         explanation: `<div>
@@ -10975,7 +10972,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `Most of the Central Highlands is _____ . (MOUNTAIN)
 
       `,
-        options: [],
+        
         answer: `mountainous`,
         rewrite: ``,
         explanation: `<div>
@@ -10992,7 +10989,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: `Do villagers today dress _____ as in the past? (TRADITION)
 
       `,
-        options: [],
+        
         answer: `traditionally`,
         rewrite: ``,
         explanation: `<div>
@@ -11009,7 +11006,7 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
         question: ` I am ______ in her hometown with a lot of paddy fields. (INTEREST)
 
       `,
-        options: [],
+        
         answer: `interested`,
         rewrite: ``,
         explanation: `<div>
@@ -11028,13 +11025,13 @@ media:`https://img.loigiaihay.com/picture/2023/1202/1701503294313-hk1-ta8-global
     questions: [
       {
         id: 41,
-        extra: `<p><b>Listen to 5 short conversations TWICE then choose the correct answers for the questions. 
+        extra: `<p><b>Listen to 5 short conversations TWICE then choose the correct answers for the questions. 
 </b></p>`,
 media:`https://img.loigiaihay.com/picture/2023/1206/1701833882177-hk1-ta8-global-de-2-part1.mp3`,
         question: `What’s in Mary’s bowl?
 
           `,
-        options: [`fish 
+        options: [`fish 
 `,`vegetable soup
 `,`chicken
 `],
@@ -11057,7 +11054,7 @@ media:`https://img.loigiaihay.com/picture/2023/1206/1701833882177-hk1-ta8-global
 
           `,
         options: [`on the stairs
-`,`on the table 
+`,`on the table 
 `,`on the floor
 `],
         answer: `1`,
@@ -11079,7 +11076,7 @@ media:`https://img.loigiaihay.com/picture/2023/1206/1701833882177-hk1-ta8-global
 
           `,
         options: [`kitten
-`,`parrot 
+`,`parrot 
 `,`rabbit
 `],
         answer: `3`,
@@ -11334,7 +11331,7 @@ question: `Her piano teacher is Mr Race.
 </b></p>`,
         question: `<p>Choose the best answer with the same meaning to the underlined word in the sentence below.</p><p>I am <u>crazy about</u> my children.</p>
           `,
-        options: [`keen on 
+        options: [`keen on 
 `,`worried
 `,`happy
 `,`sad
@@ -11359,7 +11356,7 @@ question: `Her piano teacher is Mr Race.
 
           `,
         options: [`walking
-`,`herding 
+`,`herding 
 `,`following
 `,`raising
 `],
@@ -11382,7 +11379,7 @@ question: `Her piano teacher is Mr Race.
           `,
         options: [`so
 `,`but
-`,`however 
+`,`however 
 `,`therefore
 `],
         answer: `4`,
@@ -11424,7 +11421,7 @@ question: `Her piano teacher is Mr Race.
         question: `She _________ sore eyes if she spends too much time on the computer.
 
           `,
-        options: [`have 
+        options: [`have 
 `,`has
 `,`will have
 `,`
@@ -11446,7 +11443,7 @@ had
 
       `,
         options: [`What
-`,`Where 
+`,`Where 
 `,`When
 `,`Why
 `],
@@ -11465,12 +11462,12 @@ had
       {
         id: 41,
         extra: ``,
-        question: `_________ youngest boy has just started going to _________ school.
+        question: `_________ youngest boy has just started going to _________ school.
 
       `,
         options: [`A – Ø
-`,`Ø – the 
-`,`an – Ø    
+`,`Ø – the 
+`,`an – Ø    
 `,`The – Ø
 `],
         answer: `4`,
@@ -11488,8 +11485,8 @@ had
         question: `Mono danced ________than Mr Buong, my teacher.
 
       `,
-        options: [`beautiful 
-`,`more beautiful 
+        options: [`beautiful 
+`,`more beautiful 
 `,`as beautiful
 `,`more beautifully
 `],
@@ -11530,7 +11527,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [`presents 
+        options: [`presents 
 `,`dreams
 `,`offers
 `,`wishes
@@ -11551,7 +11548,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [`wear 
+        options: [`wear 
 `,`put off
 `,`dress up
 `,`get
@@ -11574,7 +11571,7 @@ had
       `,
         options: [`sing
 `,`shout
-`,`cry 
+`,`cry 
 `,`speak
 `],
         answer: `1`,
@@ -11595,7 +11592,7 @@ had
       `,
         options: [`fireworks
 `,`fireplace
-`,`light 
+`,`light 
 `,`firecrackers
 `],
         answer: `2`,
@@ -11641,7 +11638,7 @@ had
       `,
         options: [`quiet
 `,`minor
-`,`major 
+`,`major 
 `,`clean
 `],
         answer: `3`,
@@ -11686,7 +11683,7 @@ had
 
       `,
         options: [`The writer was born in Bangkok
-`,`Bangkok is the capital city of Thailand    
+`,`Bangkok is the capital city of Thailand    
 `,`The writer’s house is very far from his school
 `,`Almost streets in Bangkok are crowded and busy
 `],
@@ -11709,7 +11706,7 @@ had
 
       `,
         options: [`His sister
-`,`His brother 
+`,`His brother 
 `,`His cousin
 `,`His classmates
 `],
@@ -11733,7 +11730,7 @@ had
       `,
         options: [`enjoys
 `,`read
-`,`wild animals 
+`,`wild animals 
 `,`natural
 `],
         answer: `2`,
@@ -11752,7 +11749,7 @@ had
       `,
         options: [`The
 `,`that
-`,`the 
+`,`the 
 `,`carps
 `],
         answer: `1`,
@@ -11771,8 +11768,8 @@ had
         question: `<p>Lan often goes to school <u>by</u> bus, <u>but</u> today she <u>goes</u> <u>on</u> foot.</p>
       `,
         options: [`by
-`,`but 
-`,`goes 
+`,`but 
+`,`goes 
 `,`on
 `],
         answer: `3`,
@@ -11792,7 +11789,7 @@ had
         question: `<p>I <u>looked</u> everywhere <u>for</u> my keys, <u>but</u> I couldn’t only find <u>your</u>.</p>
       `,
         options: [`looked
-`,`for 
+`,`for 
 `,`but
 `,`your
 `],
@@ -11813,8 +11810,8 @@ had
         question: `<p>I’m <u>becoming</u> increasingly <u>forgettable</u>. Last week I locked <u>myself</u> out of <u>the</u> house twice.</p>
       `,
         options: [`becoming
-`,`forgettable 
-`,`myself 
+`,`forgettable 
+`,`myself 
 `,`the
 `],
         answer: `2`,
@@ -11834,7 +11831,7 @@ had
         question: `I would like to use Facebook in my free time.
 
       `,
-        options: [],
+        
         answer: `of using Facebook in my free time.`,
         rewrite: `I am fond
 `,
@@ -11853,7 +11850,7 @@ had
         question: `Mr Hung is a more careful taxi driver than Mr Nam.
 
       `,
-        options: [],
+        
         answer: `the taxi more carefully than Mr Nam.`,
         rewrite: `Mr Hung drives
 `,
@@ -11872,7 +11869,7 @@ had
         question: `He had a good salary, but he was unhappy in his job.
 
       `,
-        options: [],
+        
         answer: `he had a good salary, he was unhappy in his job.`,
         rewrite: `Although
 `,
@@ -11892,7 +11889,7 @@ had
         question: `He/ fancy / play/ Monopoly / when / he / have/ leisure time.
 
       `,
-        options: [],
+        
         answer: `He fancies playing Monopoly when he has leisure time.`,
         rewrite: ``,
         explanation: `<div>
@@ -11909,7 +11906,7 @@ had
         question: `I/ visit/ my neighbours/ yesterday/ no one/ be/ home.
 
       `,
-        options: [],
+        
         answer: `I visited my neighbors yesterday, but no one was home.`,
         rewrite: ``,
         explanation: `<div>
@@ -11930,7 +11927,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -11940,7 +11937,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -11950,7 +11947,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -11960,7 +11957,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -11970,7 +11967,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -11980,7 +11977,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -11990,7 +11987,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12000,7 +11997,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12010,7 +12007,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12020,7 +12017,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12030,7 +12027,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12040,7 +12037,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12050,7 +12047,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12060,7 +12057,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12070,7 +12067,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12080,7 +12077,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12090,7 +12087,7 @@ had
         extra: ``,
         question: `
           `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12100,7 +12097,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12110,7 +12107,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12120,7 +12117,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12130,7 +12127,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12140,7 +12137,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12150,7 +12147,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12160,7 +12157,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12170,7 +12167,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12180,7 +12177,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12190,7 +12187,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12200,7 +12197,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12210,7 +12207,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12220,7 +12217,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12230,7 +12227,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12240,7 +12237,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12250,7 +12247,7 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
@@ -12260,14 +12257,13235 @@ had
         extra: ``,
         question: `
       `,
-        options: [],
+        
         answer: ``,
         rewrite: ``,
         explanation: ``,
       },
     ],
   },
-  // {
+  {
+    semester: 1,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><b>Choose the word choose the word whose underlined part is pronounced differently from the others.
+</b></p>`,
+        question: `
+          `,
+        options: [`c<u>o</u>mic`,`pr<u>o</u>duct`,`p<u>o</u>pular`,`hist<u>o</u>ry`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p >A. c<u>o</u>mic /ˈkɑː.mɪk/</p>
+<p >B. pr<u>o</u>duct /ˈprɑː.dʌkt/</p>
+<p >C. p<u>o</u>pular /ˈpɑː.pjə.lɚ/</p>
+<p >D. hist<u>o</u>ry /ˈhɪs.t̬ɚ.i/</p>
+<p >Các đáp án A, B, C âm “o” phát âm là /ɑː/; đáp án D âm “o” phát âm là /ɚ/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`ro<u>se</u>`,`compo<u>se</u>`,`vi<u>s</u>ual`,`mu<u>s</u>ic`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p >A. ro<u>se</u> /roʊz/ </p>
+<p >B. compo<u>se</u> /kəmˈpoʊz/</p>
+<p >C. vi<u>s</u>ual /ˈvɪʒ.u.əl/</p>
+<p >D. mu<u>s</u>ic /ˈmjuː.zɪk/</p>
+<p >Các đáp án A, B, D âm “s” phát âm là /z/; đáp án C âm “s” phát âm là /ʒ/.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Choose the word which has a different stress pattern from the others.
+</b></p>`,
+        question: `
+          `,
+        options: [`delta
+`,`entry 
+`,`jacket 
+`,`exhaust
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p >A. delta /ˈdel.tə/</p>
+<p >B. entry /ˈen.tri/</p>
+<p >C. jacket /ˈdʒæk.ɪt/</p>
+<p >D. exhaust /ɪɡˈzɑːst/</p>
+<p >Các đáp án A, B, C trọng âm rơi vào âm thứ 1, đáp án D trọng âm rơi vào âm thứ 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`violin
+`,`instrument 
+`,`preference  
+`,`recipe
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p >A. violin /ˌvaɪəˈlɪn/</p>
+<p >B. instrument /ˈɪn.strə.mənt/</p>
+<p >C. preference /ˈpref.ər.əns/</p>
+<p >D. recipe /ˈres.ə.pi/<strong></strong></p>
+<p >Các đáp án B, C, D trọng âm rơi vào âm thứ 1, đáp án A trọng âm rơi vào âm thứ 3.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Choose the correct answers.
+</b></p>`,
+        question: `It's a very casual time for fashion and tradition at the moment when young generations are wearing Ao dai with ______. 
+
+          `,
+        options: [`trainers
+`,`tops
+`,`dresses
+`,`hats
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p >A. trainers (n): giày thể thao</p>
+<p >B. tops (n): áo  </p>
+<p >C. dresses (n): váy</p>
+<p >D. hats (n): mũ</p>
+<p ><strong>Tạm dịch:</strong> Đây là thời điểm rất bình thường đối với thời trang và truyền thống khi các thế hệ trẻ mặc áo dài với giày thể thao.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The concept of a dance marathon is simple: ______ dance, move, or walk to music over the course of a long period of time.
+
+          `,
+        options: [`competitions  
+`,`competitors
+`,`competing
+`,`competitive
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p >A. competitions (n): cuộc thi </p>
+<p >B. competitors (n): các thí sinh, đối thủ </p>
+<p >C. competing (gerund): cạnh tranh</p>
+<p >D. competitive (adj): có tính cạnh tranh</p>
+<p >Vị trí còn trống cần điền một danh từ chỉ người làm chủ ngữ cho câu.</p>
+<p ><strong>Tạm dịch:</strong> Khái niệm về khiêu vũ marathon rất đơn giản: các thí sinh nhảy, di chuyển hoặc đi bộ theo nhạc trong một khoảng thời gian dài.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Blind people might develop supra-normal olfactory abilities, which means they have a very good ______ of smell. 
+
+          `,
+        options: [`scent 
+`,`scenery
+`,`scene
+`,`sense
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p >A. scent: mùi hương</p>
+<p >B. scenery: phong cảnh</p>
+<p >C. scene: khung cảnh</p>
+<p >D. sense: giác quan</p>
+<p ><strong>Tạm dịch:</strong> Người khiếm thị có thể phát triển khả năng khứu giác siêu thường, nghĩa là họ có khứu giác rất tốt.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My friend is not ______ about K-pop. She is a big fan of Vietnamese pop music.
+
+          `,
+        options: [`crazy
+`,`angry
+`,`anxious 
+`,`mad
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p >A. crazy (adj): điên (be crazy about sth: thích điên cuồng, say mê cái gì)</p>
+<p >B. angry (adj): tức giận</p>
+<p >C. anxious (adj): lo lắng</p>
+<p >D. mad (adj): điên</p>
+<p ><strong>Tạm dịch:</strong> Bạn tôi không cuồng K-pop. Cô là một fan cuồng nhiệt của nhạc pop Việt Nam.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Have you ever felt totally ______?
+
+          `,
+        options: [`exhaust  
+`,`exhausting   
+`,`exhausted  
+`,`exhaustive
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p >A. exhaust (v): làm kiệt sức</p>
+<p >B. exhausting (adj): gây kiệt sức</p>
+<p >C. exhausted (adj): kiệt sức</p>
+<p >D. exhaustive (adj): toàn diện</p>
+<p >Vị trí còn trống cần điền một tính từ chỉ trạng thái con người; cấu trúc “feel (+ adv) + adj”.</p>
+<p ><strong>Tạm dịch:</strong> Bạn đã bao giờ cảm thấy hoàn toàn kiệt sức chưa?</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Some foreigners can’t ______ the smell of durians.
+
+          `,
+        options: [`sit
+`,`stand
+`,`help 
+`,`hear
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p ><strong>Giải thích: </strong>Cấu trúc “can’t stand + N/V-ing”: không thể chịu đựng cái gì.</p>
+<p ><strong>Tạm dịch:</strong> Một số người nước ngoài không thể chịu được mùi sầu riêng.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Give the correct forms of the verbs.
+</b></p>`,
+        question: ` Look! The boys (play) ________ with the neighbour’s dog.
+
+          `,
+        
+        answer: `are playing`,
+        rewrite: ``,
+        explanation: `<p >Câu diễn tả hành động diễn ra ngay tại thời điểm nói; dấu hiệu: “Look!”: Nhìn kìa!. Chủ ngữ “the boys” là danh từ đếm được số nhiều =&gt; động từ tobe chia “are”.</p>
+<p ><strong>Tạm dịch:</strong> Nhìn kìa! Các cậu bé đang chơi với con chó nhà hàng xóm.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I (not wake / often) ________  up before seven o’clock.
+
+          `,
+        
+        answer: `don't often wake`,
+        rewrite: ``,
+        explanation: `<p >Dấu hiệu: câu có trạng từ chỉ tần suất “often” nên động từ chia hiện tại đơn.</p>
+<p ><strong>Tạm dịch:</strong> Tôi không thường xuyên thức dậy trước 7 giờ.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Please be quiet! Katy and I (talk) ________  on the phone.
+
+          `,
+        
+        answer: `are talking`,
+        rewrite: ``,
+        explanation: `<p >Câu diễn tả hành động diễn ra ngay tại thời điểm nói; dấu hiệu: “Please be quiet!”: Làm ơn giữ yên lặng =&gt; động từ chia hiện tại tiếp diễn.</p>
+<p ><strong>Tạm dịch:</strong> Xin hãy im lặng! Katy và tôi đang nói chuyện điện thoại.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `________ you (go) ________ out with your friends last night?
+
+          `,
+        
+        answer: `Did you go`,
+        rewrite: ``,
+        explanation: `<p >Câu có “last night”: đêm qua =&gt; động từ chia thì quá khứ đơn.</p>
+<p ><strong>Tạm dịch:</strong> Tối qua bạn có đi chơi với bạn bè không?</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `He (be) _______ very slim when he was a child. But now he (be) _______ so robust.
+
+          `,
+        
+        answer: `was; is`,
+        rewrite: ``,
+        explanation: `<p >Ở câu thứ nhất, vế sau ở thì quá khứ đơn =&gt; động từ phía trước chia thì quá khứ đơn. Ở câu thứ hai, dấu hiệu: có từ “now” =&gt; động từ chia hiện tại đơn.</p>
+<p ><strong>Tạm dịch:</strong> Khi còn nhỏ anh ấy rất mảnh khảnh. Nhưng bây giờ anh ấy rất mạnh mẽ.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I (not finish) ________ the book yet.
+
+          `,
+        
+        answer: `haven't finished`,
+        rewrite: ``,
+        explanation: `<p >Dấu hiệu: câu có từ “yet” =&gt; động từ chia thì hiện tại hoàn thành.</p>
+<p ><strong>Tạm dịch:</strong> Tôi vẫn chưa đọc xong cuốn sách.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` John and Marry (get) _______ married last year and they (have) ________ a daughter.
+
+          `,
+        
+        answer: `got; had`,
+        rewrite: ``,
+        explanation: `<p >Câu có “last year” =&gt; động từ chia thì quá khứ đơn.</p>
+<p ><strong>Tạm dịch:</strong> John và Marry kết hôn năm ngoái và họ có một cô con gái.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Miles (wrote) __________ an essay yesterday.
+
+      `,
+        
+        answer: `wrote`,
+        rewrite: ``,
+        explanation: `<p >Câu có “yesterday” =&gt; động từ chia thì quá khứ đơn.</p>
+<p ><strong>Tạm dịch:</strong> Miles đã viết một bài luận ngày hôm qua.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We used to (go) __________ to school by bus.
+
+      `,
+        
+        answer: `go`,
+        rewrite: ``,
+        explanation: `<p >Cấu trúc “used to + V-inf”: đã từng hay làm gì.</p>
+<p ><strong>Tạm dịch:</strong> Chúng tôi từng hay đến trường bằng xe buýt.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The boys (never / travel) _________ abroad before.
+
+      `,
+        
+        answer: `have never travelled`,
+        rewrite: ``,
+        explanation: `<p >Câu có “before” =&gt; động từ chia thì hiện tại hoàn thành.</p>
+<p ><strong>Tạm dịch:</strong> Các chàng trai chưa bao giờ đi du lịch nước ngoài trước đây.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Supply the correct form of the word given in each sentence.
+</b></p>`,
+        question: `During your time at the ______, you’ll have the chance to talk to the host family and find out how things are done in a very Vietnamese way. (HOME)
+
+      `,
+        
+        answer: `homestay`,
+        rewrite: ``,
+        explanation: `<p >Vị trí còn trống cần điền một danh từ.</p>
+<p ><strong>Tạm dịch:</strong> Trong thời gian ở nhà dân, bạn sẽ có cơ hội trò chuyện với gia đình chủ nhà và tìm hiểu cách thực hiện mọi việc theo cách rất Việt Nam.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Sudoku X is a brand new and irresistible twist on the ______ worldwide puzzle craze. (SENSE)
+
+      `,
+        
+        answer: `sensational`,
+        rewrite: ``,
+        explanation: `<p >Vị trí còn trống cần điền một tính từ bổ nghĩa cho cụm danh từ phía sau.</p>
+<p ><strong>Tạm dịch:</strong> Sudoku X là một trò chơi hoàn toàn mới và hấp dẫn trong cơn sốt giải đố giật gân trên toàn thế giới.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Let us ______ this year the seventy-eight years of Viet Nam’s independence. (CELEBRATION)
+
+      `,
+        
+        answer: `celebrate`,
+        rewrite: ``,
+        explanation: `<p >Cấu trúc câu đề nghị: “let sb V-inf”.</p>
+<p ><strong>Tạm dịch:</strong> Năm nay chúng ta hãy kỷ niệm 78 năm ngày độc lập của Việt Nam.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `People in the mountainous area of Northern Viet Nam might be a little ______ inept, but they are the kindest people I know. (SOCIETY)
+
+      `,
+        
+        answer: `socially`,
+        rewrite: ``,
+        explanation: `<p >Vị trí còn trống cần điền một trạng từ bổ nghĩa cho tính từ “inept” phía sau.</p>
+<p ><strong>Tạm dịch:</strong> Người dân miền núi phía Bắc Việt Nam có thể hơi khó hòa nhập với xã hội nhưng họ là những người tử tế nhất mà tôi biết.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A nurse is ______ your son how to give a safe and almost pain-free injection. (INSTRUCT)
+
+      `,
+        
+        answer: `instructing`,
+        rewrite: ``,
+        explanation: `<p >Phía trước có động từ tobe và phía sau là tân ngữ nên vị trí còn trống ta cần điền một động từ đuôi -ing thì hiện tại tiếp diễn.</p>
+<p ><strong>Tạm dịch:</strong> Một y tá đang hướng dẫn con trai bạn cách tiêm thuốc an toàn và hầu như không gây đau đớn.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Although Rachel claims that she does not look good in pictures, I think that she is the most ______ student in our class. (PHOTO)
+
+      `,
+        
+        answer: `photogenic`,
+        rewrite: ``,
+        explanation: `<p >Vị trí còn trống cần một tính từ bổ nghĩa cho danh từ “student”.</p>
+<p ><strong>Tạm dịch:</strong> Mặc dù Rachel nói rằng cô ấy trông không đẹp khi chụp ảnh nhưng tôi nghĩ rằng cô ấy là học sinh ăn ảnh nhất trong lớp chúng tôi.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Read. Choose the correct answers.
+</b></p><p>Taste or gustation is one of the five traditional senses including hearing, sight, touch and smell. Humans can distinguish five basic tastes. Each and every one of them is a message that tells us something about what we put into our mouth, so we can decide whether it should be eaten. A sweet taste can signal the presence of natural sugars and other carbohydrates found in many fruits and honey. They play an important role in giving and storing energy. Salty foods usually signal the presence of sodium. This element is necessary for maintaining our bodies’ water balance and circulating the flow of blood and nutrients. Bitter tastes can signal the presence of 35 different proteins found in plants. However, some of them are unpleasant to taste and can be toxic. A sour taste can signal the presence of acidic solutions like lemon juice and organic acids. Acids may indicate that food is no longer healthy and suitable to eat. Umami or savoury comes from protein building blocks (amino acids) found naturally in protein-rich foods like meats and cheese.
+</p>`,
+        question: `The five basic tastes include sweet, salty, bitter, sour and savoury.
+
+      `,
+        options: [`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p >Năm vị cơ bản bao gồm ngọt, mặn, đắng, chua và mặn. =&gt; Đúng.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Sodium plays an important role in giving and storing energy.
+
+      `,
+      options: [`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p >Natri đóng vai trò quan trọng trong việc cung cấp và dự trữ năng lượng. =&gt; Sai.</p>
+<p ><strong>Thông tin: </strong>Salty foods usually signal the presence of sodium. This element is necessary for maintaining our bodies’ water balance and circulating the flow of blood and nutrients.</p>
+<p ><strong>Tạm dịch:</strong> Thức ăn mặn thường báo hiệu sự hiện diện của natri. Yếu tố này cần thiết để duy trì sự cân bằng nước trong cơ thể chúng ta và lưu thông dòng máu và chất dinh dưỡng.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does the word “They” refer to?
+
+      `,
+        options: [`sugars and carbohydrates 
+`,`blood and nutrients
+`,`lemon juice and acidic solutions
+`,`protein-rich foods
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p >Từ “They” ám chỉ điều gì?</p>
+<p >A. đường và carbohydrate</p>
+<p >B. máu và chất dinh dưỡng</p>
+<p >C. Nước chanh và dung dịch axit</p>
+<p >D. thực phẩm giàu protein</p>
+<p ><strong>Thông tin: </strong>A sweet taste can signal the presence of natural sugars and other carbohydrates found in many fruits and honey. They (natural sugars and other carbohydrates) play an important role in giving and storing energy.</p>
+<p ><strong>Tạm dịch:</strong> Vị ngọt có thể báo hiệu sự hiện diện của đường tự nhiên và các loại carbohydrate khác có trong nhiều loại trái cây và mật ong. Chúng đóng vai trò quan trọng trong việc cung cấp và lưu trữ năng lượng.<strong></strong></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Why does the author mention “amino acids”?
+
+      `,
+        options: [`To explain how proteins can be found in meats and cheese.
+`,`To illustrate the use of protein building blocks in cooking.
+`,`To indicate that savory food can cause harm to human well-being.
+`,`To provide another biological term of the building blocks of proteins.
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p >Tại sao tác giả lại nhắc tới “axit amin”?</p>
+<p >A. Giải thích tại sao protein có thể được tìm thấy trong thịt và pho mát.</p>
+<p >B. Để minh họa việc sử dụng các khối xây dựng protein trong nấu ăn.</p>
+<p >C. Để chỉ ra rằng thức ăn mặn có thể gây hại cho sức khỏe con người.</p>
+<p >D. Để cung cấp một thuật ngữ sinh học khác cho các đơn vị cấu tạo nên protein.</p>
+<p ><strong>Thông tin: </strong>Umami or savoury comes from protein building blocks (amino acids) found naturally in protein-rich foods like meats and cheese.</p>
+<p ><strong>Tạm dịch:</strong> Vị umami hay vị đậm đà đến từ các khối xây dựng protein (axit amin) được tìm thấy tự nhiên trong thực phẩm giàu protein như thịt và phô mai.</p>`,
+      },
+     
+    ],
+  },
+  {
+    semester: 2,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><b>Choose the word choose the word whose underlined part is pronounced differently from the others.
+</b></p>`,
+        question: `
+          `,
+        options: [`<u>ou</u>tfit`,`flav<u>ou</u>r`,`bl<u>ou</u>se`,`tr<u>ou</u>ser`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. <u>ou</u>tfit /ˈaʊt.fɪt/</p>
+<p>B. flav<u>ou</u>r /ˈfleɪ.vər/</p>
+<p>C. bl<u>ou</u>se /blaʊz/</p>
+<p>D. tr<u>ou</u>ser /ˈtraʊ.zər/</p>
+<p>Các đáp án A, C, D âm “ou” phát âm là /aʊ/; đáp án B âm “ou” phát âm là /ə/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`zi<u>th</u>er`,`sou<u>th</u>ern`,`syn<u>th</u>etic`,`fur<u>th</u>est`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. zi<u>th</u>er /ˈzɪð.ər/</p>
+<p>B. sou<u>th</u>ern /ˈsʌð.ən/</p>
+<p>C. syn<u>th</u>etic /sɪnˈθet.ɪk/</p>
+<p>D. fur<u>th</u>est /ˈfɜː.ðɪst/</p>
+<p>Các đáp án A, B, D âm “th” phát âm là /ð/, đáp án C âm “th” phát âm là /θ/.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Choose the word which has a different stress pattern from the others.
+</b></p>`,
+        question: `
+          `,
+        options: [`durian
+`,`popular     
+`,`activist 
+`,`develop
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. durian /ˈdʒʊə.ri.ən/ </p>
+<p>B. popular /ˈpɒp.jə.lər/</p>
+<p>C. activist /ˈæk.tɪ.vɪst/</p>
+<p>D. develop /dɪˈvel.əp/</p>
+<p>Các đáp án A, B, C trọng âm rơi vào âm thứ 1, đáp án D trọng âm rơi vào âm thứ 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`comfortable     
+`,`ordinary 
+`,`superior      
+`,`terrifying
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. comfortable /ˈkʌm.fə.tə.bəl/ </p>
+<p>B. ordinary /ˈɔː.dən.əri/</p>
+<p>C. superior /suːˈpɪə.ri.ər/</p>
+<p>D. terrifying /ˈter.ə.faɪ.ɪŋ/</p>
+<p>Các đáp án A, B, D trọng âm rơi vào âm thứ 1, đáp án C trọng âm rơi vào âm thứ 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Choose the correct answers.
+</b></p>`,
+        question: `I thought this Pokémon game app was free, but ______ they charged me $10 for installation.
+          `,
+        options: [`apparently`,
+`obviously`,
+`generally`,
+`amazingly`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. apparently (adv): hình như</p>
+<p>B. obviously (adv): một cách rõ ràng</p>
+<p>C. generally (adv): nhìn chung</p>
+<p>D. amazingly (adv): thật ngạc nhiên</p>
+<p><strong>Tạm dịch:</strong> Tôi đã nghĩ rằng ứng dụng trò chơi Pokémon này miễn phí nhưng thật ngạc nhiên là họ tính phí cài đặt cho tôi 10 USD.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Gucci ______ flared trousers in their last fashion show in Milan.
+          `,
+        options: [`invented`,
+`presented`,
+`expressed`,
+`produced`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. invented (v): phát minh</p>
+<p>B. presented (v): trình bày, giới thiệu</p>
+<p>C. expressed (v): bày tỏ</p>
+<p>D. produced (v): sản xuất</p>
+<p><strong>Tạm dịch:</strong> Gucci giới thiệu quần ống loe trong buổi trình diễn thời trang cuối cùng của họ ở Milan.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She made a ______ drink using a banana, orange juice, milk and frozen blueberries. 
+          `,
+        options: [`delicious`,
+`very delicious`,
+`absolutely delicious`,
+`extremely delicious`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. delicious: ngon</p>
+<p>B. very delicious: rất ngon (tính từ “delicious” không đi với very)</p>
+<p>C. absolutely delicious: hoàn toàn ngon</p>
+<p>D. extremely delicious: cực kỳ ngon</p>
+<p><strong>Tạm dịch:</strong> Cô ấy làm một thức uống ngon bằng chuối, nước cam, sữa và quả việt quất đông lạnh.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Does your teenage daughter spend much money ______ clothes?
+          `,
+        options: [`in`,
+`on`,
+`for`,
+`X`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `Cấu trúc “spend money on sth/doing sth”: tiêu tiền vào cái gì
+<br/> Con gái tuổi teen của bạn có chi nhiều tiền cho quần áo không?`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I went to a coffee shop to order a latte. People ______ so loudly there.
+          `,
+        options: [`were chatting`,
+`are chatting`,
+`chatted`,
+`have chatted`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `Câu diễn tả một hành động đang xảy ra và một hành động khác xen vào. Hành động đang xảy ra, kéo dài chia thì quá khứ tiếp diễn; hành động xen vào chia quá khứ đơn.
+<br/><p><strong>Tạm dịch:</strong> Tôi đến quán cà phê để gọi một ly latte. Ở đó mọi người đang trò chuyện rất ồn ào.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `There didn’t use to be a museum there. When ______ it ______?
+          `,
+        options: [`did / open`,
+`used to / open`,
+`would / open`,
+`was / opening`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Câu này nói về một sự việc đã xảy ra và kết thúc trong quá khứ nên ta dùng thì quá khứ đơn.
+</p><p><strong>Tạm dịch:</strong> Ở đó chưa từng có bảo tàng. Nó mở cửa khi nào vậy?</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p ><strong>Give the correct forms of the verbs.</strong></p>`,
+        question: `Look! The boys (play) __________ with the neighbour’s dog.
+          `,
+        
+        answer: `are playing`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu: Câu có “Look!” => động từ chia hiện tại tiếp diễn. Chủ ngữ “the boys” là danh từ số nhiều nên tobe chia “are”.
+</p><p><strong>Tạm dịch:</strong> Nhìn kìa! Các cậu bé đang chơi với con chó nhà hàng xóm.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `When Dave (arrive)<strong></strong>________ , his mum (make) ________ the dinner.
+          `,
+        
+        answer: `arrived; was making`,
+        rewrite: ``,
+        explanation: `<p>Câu diễn tả một hành động đang xảy ra thì một hành động khác xen vào. Cấu trúc: “When + S1 + V-ed, S2 + was/were + V-ing”. Động từ đang xảy ra chia quá khứ tiếp diễn; động từ xen vào chia quá khứ đơn.
+</p><p><strong>Tạm dịch:</strong> Khi Dave đến, mẹ anh ấy đang chuẩn bị bữa tối.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `_______ you (ever / be) __________ to Seoul before?
+          `,
+        
+        answer: `Have you ever been`,
+        rewrite: ``,
+        explanation: `<p>Câu có “ever” và “before” => động từ chia hiện tại hoàn thành.
+</p><p><strong>Tạm dịch:</strong> Bạn đã từng đến Seoul chưa?</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Can you stop singing? I (have) ________ an online meeting.
+          `,
+        
+        answer: `am having`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> Bạn có thể ngừng hát được không? Tôi đang có một cuộc họp trực tuyến.</p>
+<p>Mệnh đề phía trước là câu mệnh lệnh thì hiện tại => Mệnh đề phía sau chia hiện tại tiếp diễn.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `James (cry) ________ because I ate all the chocolate.
+          `,
+        
+        answer: `cried`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> James khóc vì tôi đã ăn hết sôcôla.</p>
+<p>Mệnh đề phía sau chia quá khứ đơn => mệnh đề phía trước chia quá khứ đơn.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They (go) _________ to the cinema twice a month.
+          `,
+        
+        answer: `go`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> Họ đi xem phim hai lần một tháng.</p>
+<p>Dấu hiệu: câu có “twice a month” => động từ chia hiện tại đơn.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `There (be) ________ no one home when I (arrive) _______ last night.
+          `,
+        
+        answer: `was; arrived`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> Không có ai ở nhà khi tôi đến tối qua.</p>
+<p><Dấu hiệu: Câu có “last night” => động từ chia quá khứ đơn.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `_______ you (cook) ________? I smell something.
+      `,
+        
+        answer: `Are you cooking`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> Bạn đang nấu ăn à? Tôi ngửi thấy cái gì đó.</p>
+<p>Câu trả lời có động từ chỉ trạng thái “smell” => Câu hỏi chia hiện tại tiếp diễn.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Jia (just / clean) ________ the house, so she (be) _______ exhausted now.
+      `,
+        
+        answer: `has just cleaned; is`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> Jia vừa mới dọn dẹp nhà cửa nên bây giờ cô ấy đã kiệt sức rồi.</p>
+<p>Mệnh đề phía trước có “just” => chia hiện tại hoàn thành; mệnh đề phía sau có “now” => chia hiện tại tiếp diễn.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My brother (work) _________ out every day at the gym in order to build his body well.
+      `,
+        
+        answer: `works`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> Anh trai tôi tập thể dục hàng ngày để có thân hình đẹp.</p>
+<p>Câu có “every day” => động từ chia hiện tại đơn.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p ><strong>Supply the correct form of the word given in each sentence.</strong></p>`,
+        question: `She is always very __________ when handling fragile objects. (CARE)
+      `,
+        
+        answer: `careful`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> Cô ấy luôn rất cẩn thận khi xử lý những đồ vật dễ vỡ.</p>
+<p>Vị trí còn trống cần điền một tính từ mang nghĩa “cẩn thận”.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Super smellers are people who have a(n) _______ sense of smell, compared to the average person. (ORDINARY)
+      `,
+        
+        answer: `extraordinary`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> Những người có khứu giác siêu phàm là những người có khứu giác đặc biệt so với người bình thường.</p>
+<p>Vị trí còn trống cần điền một tính từ mang nghĩa “đặc biệt, siêu phàm”.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Skorts were out of fashion for many years, but now they're making a _______. (COME)
+      `,
+        
+        answer: `comeback`,
+        rewrite: ``,
+        explanation: `Vị trí còn trống cần điền một danh từ; cụm “make a comeback”: trở lại.
+<p>Tạm dịch: Quần váy đã lỗi thời trong nhiều năm nhưng giờ đây chúng đang quay trở lại.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Dior _______ is a French fragrance boutique offering unique perfumes and personalized consultations. (PERFUME)
+      `,
+        
+        answer: `perfumery`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> Xưởng nước hoa Dior là một cửa hàng nước hoa của Pháp cung cấp các loại nước hoa độc đáo và dịch vụ tư vấn cá nhân.</p>
+<p>Vị trí còn trống cần điền một danh từ.
+/p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `It is a __________ rule that one should always wear a seatbelt while driving. (GENERALLY)
+      `,
+        
+        answer: `general`,
+        rewrite: ``,
+        explanation: `<p><strong>Tạm dịch:</strong> Nguyên tắc chung là người ta phải luôn thắt dây an toàn khi lái xe.</p>
+<p>Vị trí còn trống cần điền một tính từ.
+</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p ><strong>Read. Choose the correct answers.</strong></p><p >It is not easy to work in the fragrance industry. Perfumers need an extraordinary sense of smell and a solid knowledge of chemistry, in addition to completing specialist studies in perfumery. Normally, it takes ten years of studies and training to be recruited a professional perfumer.</p>
+<p >Some consider perfumers as experts in chemistry and gas chromatography. In fact, they must be able to analyze chemical substances that form the additives in the fragrance and make detailed analysis of aromatic chemicals, as well as perform physical tests. At higher levels, they also take quality control measures and get involved in the preparation of a fragrance to make sure that the manufacturing process conforms to safety standards.</p>
+<p >As any other jobs, a perfumer may encounter challenges at work. It may be the problem of low engagement. Consumers do not engage in the perfume industry as much as they used to, because many brands focus on producing commonplace fragrances in large quantities. This results in the same products from different brands, or market saturation. As a result, perfumers are required to work harder to create their brands’ signature fragrances.</p>
+<p >Becoming a perfumer is a career choice. It thrusts you into an incredible world of unexpected, original and timeless scents. It also gives you a chance to let your creativity and imagination run wild as you develop fragrances that may become global success.</p>`,
+        question: `Professional perfumers need natural talents and certain knowledge.
+      `,
+        options: [`True`,'False'],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p><strong>Thông tin: </strong>Perfumers need an extraordinary sense of smell and a solid knowledge of chemistry.</p>
+<p><strong>Tạm dịch:</strong> Các nhà chế tạo nước hoa cần có khứu giác đặc biệt và kiến thức vững chắc về hóa học.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Becoming a perfumer is not a long process.
+      `,
+        options: [`True`,'False'],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p><strong>Thông tin: </strong>Normally, it takes ten years of studies and training to be recruited a professional perfumer.</p>
+<p><strong>Tạm dịch:</strong> Thông thường, phải mất mười năm học tập và rèn luyện mới tuyển được một chuyên gia nước hoa chuyên nghiệp.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Many brands are now mass-producing their unique perfumes.
+      `,
+        options: [`True`,'False'],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p><strong>Thông tin: </strong>As a result, perfumers are required to work harder to create their brands’ signature fragrances.</p>
+<p><strong>Tạm dịch:</strong> Do đó, các nhà sản xuất nước hoa buộc phải làm việc chăm chỉ hơn để tạo ra loại nước hoa đặc trưng cho thương hiệu của họ.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does the passage mainly discuss?
+      `,
+        options: [`The most popular perfume brands`,`How to create a perfume`,`Creativity`,`Perfumer job`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. Những nhãn hiệu nước hoa được ưa chuộng nhất</p>
+<p>B. Cách tạo nước hoa</p>
+<p>C. Tính sáng tạo</p>
+<p>D. Công việc của người pha chế nước hoa</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Which job does a perfumer NOT participate in?
+      `,
+        options: [`performing physical tests`,`taking quality control measures`,`analyze chemical substances`,`prepare safety standards`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. thực hiện các bài kiểm tra thể chất</p>
+<p>B. thực hiện các biện pháp kiểm soát chất lượng</p>
+<p>C. phân tích các chất hóa học</p>
+<p>D. chuẩn bị các tiêu chuẩn an toàn</p>`,
+      },
+     
+    ],
+  },
+  {
+    semester: 1,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p ><strong>I. Choose the word choose the word whose underlined part is pronounced differently from the others.</strong></p>`,
+        question: `
+          `,
+        options: [`f<u>oo</u>d `,
+`p<u>u</u>t `,
+`t<u>u</u>ne `,
+`r<u>u</u>de`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p >A. f<u>oo</u>d /fuːd/ </p>
+<p >B. p<u>u</u>t /pʊt/ </p>
+<p >C. t<u>u</u>ne /tʃuːn/ </p>
+<p >D. r<u>u</u>de /ruːd/</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`l<u>oo</u>k `,
+`b<u>oo</u>k `,
+`f<u>oo</u>t `,
+`bl<u>u</u>e`,],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p >A. l<u>oo</u>k /lʊk/ </p>
+<p >B. b<u>oo</u>k /bʊk/ </p>
+<p >C. f<u>oo</u>t /fʊt/ </p>
+<p >D. bl<u>u</u>e /bluː/</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p ><strong>II. Choose the word which has a different stress pattern from the others.</strong></p>`,
+        question: `
+          `,
+        options: [`interview`,
+`affirmative`,
+`amazingly `,
+`instruction`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p >A. interview /ˈɪn.tə.vjuː/ <strong></strong></p>
+<p >B. affirmative /əˈfɜː.mə.tɪv/</p>
+<p >C. amazingly /əˈmeɪ.zɪŋ.li/ </p>
+<p >D. instruction /ɪnˈstrʌk.ʃən/</p>
+<p >Các đáp án B, C, D trọng âm rơi vào âm thứ 2; đáp án A trọng âm rơi vào âm thứ 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`expensive `,
+`continuous`,
+`important `,
+`interested`,],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p >A. expensive /ɪkˈspen.sɪv/ </p>
+<p >B. continuous /kənˈtɪn.ju.əs/</p>
+<p >C. important /ɪmˈpɔː.tənt/ </p>
+<p >D. interested /ˈɪn.tres.tɪd/</p>
+<p >Các đáp án A, B, C trọng âm rơi vào âm thứ 2; đáp án D trọng âm rơi vào âm thứ 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p ><strong>II. Choose the correct answers.</strong></p>`,
+        question: ` The ___________ was surrounded by fans and paparazzi.
+          `,
+        options: [`celebrity `,
+`gadget `,
+`craze `,
+`fame`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p >A. celebrity (n): người nổi tiếng </p>
+<p >B. gadget (n): tiện ích </p>
+<p >C. craze (n): cơn sốt </p>
+<p >D. fame (n): danh tiếng</p>
+<p ><strong>Tạm dịch:</strong> Người nổi tiếng được bao quanh bởi người hâm mộ và các tay săn ảnh.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My grandfather always tells me about how he ___________ five miles to school every day when he was a kid.
+          `,
+        options: [`walks `,
+`used to walk`,
+`walk `,
+`walking`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p ><strong>Giải thích: </strong>Câu diễn tả một sự việc thường xuyên xảy ra trong quá khứ; vế sau chia quá khứ đơn =&gt; vế trước chia quá khứ đơn. Cấu trúc “used to + V-inf”: từng hay làm gì.</p>
+<p ><strong>Tạm dịch:</strong> Ông tôi luôn kể cho tôi nghe về việc ông thường đi bộ 5 dặm đến trường mỗi ngày khi còn nhỏ.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `___________, the concert is sold out and we can't get tickets anymore.
+          `,
+        options: [`Technically `,
+`Hopefully`,
+`Apparently `,
+`Beautifully`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p >A. Technically (adv): Về mặt kỹ thuật  </p>
+<p >B. Hopefully (adv): Hi vọng là</p>
+<p >C. Apparently (adv): Có vẻ, hình như </p>
+<p >D. Beautifully (adv): Đẹp đẽ</p>
+<p ><strong>Tạm dịch:</strong> Có vẻ như buổi hòa nhạc đã bán hết vé và chúng tôi không thể mua được vé nữa.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Vietnamese cuisine is _______ for its intense flavours and aromas that are sure to excite any food lover's palate.
+          `,
+        options: [`unknown `,
+`unpopular `,
+`infamous `,
+`famous`,],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p >A. unknown (adj): chưa được biết đến </p>
+<p >B. unpopular (adj): không được ưa chuộng </p>
+<p >C. infamous (adj): khét tiếng </p>
+<p >D. famous (adj): nổi tiếng</p>
+<p ><strong>Tạm dịch:</strong> Ẩm thực Việt Nam nổi tiếng với hương vị đậm đà và hương thơm chắc chắn sẽ kích thích khẩu vị của bất kỳ người yêu ẩm thực nào.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The ______ sense allows us to see the world around us.
+          `,
+        options: [`smell `,
+`touch `,
+`sight `,
+`taste`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p >A. smell: mùi </p>
+<p >B. touch: chạm; cảm giác </p>
+<p >C. sight: nhìn </p>
+<p >D. taste: vị</p>
+<p ><strong>Tạm dịch:</strong> Thị giác cho phép chúng ta nhìn thế giới xung quanh.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `This shirt is so nice. I will try it ___________.
+          `,
+        options: [`with `,
+`for `,
+`on `,
+`at`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p ><strong>Giải thích: </strong>Cụm động từ “try it on”: thử.</p>
+<p ><strong>Tạm dịch:</strong> Chiếc áo này đẹp quá. Tôi sẽ thử nó.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p ><strong>III. Give the correct forms of the verbs.</strong></p>`,
+        question: `I ______ (live) in this city for five years.
+          `,
+        
+        answer: `have lived`,
+        rewrite: ``,
+        explanation: `<p >Phía sau có khoảng thời gian “for five years” =&gt; động từ chia hiện tại hoàn thành.<strong></strong></p>
+<p ><strong>Tạm dịch:</strong> Tôi đã sống ở thành phố này được năm năm.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `He ______ (work) at that company from 2010 to 2015.
+          `,
+        
+        answer: `worked`,
+        rewrite: ``,
+        explanation: `<p >Câu diễn tả sự việc diễn ra trong quá khứ “from 2010 to 2015” =&gt; động từ chia quá khứ đơn.</p>
+<p ><strong>Tạm dịch:</strong> Anh ấy đã làm việc tại công ty đó từ năm 2010 đến năm 2015.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I _______ (have) dinner when they (come) _______ last night.
+          `,
+        
+        answer: `was having; came`,
+        rewrite: ``,
+        explanation: `<p >Câu diễn tả một sự việc đang xảy ra trong quá khứ thì một sự việc khác xen vào; sự việc đang xảy ra chia QKTD, sự việc xen vào chia QKĐ: S1 + was/were + V-ing + when + S2 + Ved.</p>
+<p ><strong>Tạm dịch:</strong> Tối qua tôi đang ăn tối thì họ tới.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We ______ (just/finish) our project so we (have) ________ so much free time now.
+          `,
+        
+        answer: `have just finished; have/are having`,
+        rewrite: ``,
+        explanation: `<p >Mệnh đề phía trước có “just” =&gt; động từ chia hiện tại hoàn thành; mệnh đề phía sau có “now” =&gt; động từ chia hiện tại đơn hoặc hiện tại tiếp diễn.</p>
+<p ><strong>Tạm dịch:</strong> Chúng tôi vừa hoàn thành dự án của mình nên hiện tại chúng tôi có rất nhiều thời gian rảnh.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `While John (work) ___________ in the office, his boss (call) ___________ him.
+          `,
+        
+        answer: `was working; called`,
+        rewrite: ``,
+        explanation: `<p >Câu diễn tả một sự việc đang xảy ra trong quá khứ thì một sự việc khác xen vào; sự việc đang xảy ra chia QKTD, sự việc xen vào chia QKĐ: S1 + was/were + V-ing + when + S2 + Ved.</p>
+<p ><strong>Tạm dịch:</strong> Khi John đang làm việc ở văn phòng thì sếp của anh ấy gọi cho anh ấy.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Can you tell them to stay quiet? They (talk) _____ too loud and I (have) _______ an online meeting now.
+          `,
+        
+        answer: `are talking; am having`,
+        rewrite: ``,
+        explanation: `<p >Mệnh đề trước là câu đề nghị; phía sau có từ “now” =&gt; động từ chia hiện tại tiếp diễn.</p>
+<p ><strong>Tạm dịch:</strong> Bạn có thể bảo họ giữ im lặng được không? Họ đang nói chuyện quá to và bây giờ tôi đang họp trực tuyến.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `He (watch) _______ this movie four times so far.
+          `,
+        
+        answer: `has watched`,
+        rewrite: ``,
+        explanation: `<p >Câu có cụm “four times so far” =&gt; động từ chia hiện tại hoàn thành.</p>
+<p ><strong>Tạm dịch:</strong> Tính đến nay anh ấy đã xem bộ phim này bốn lần.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They used to usually (have) ________ honest conversations but now they hardly (talk) ______ with each other.
+      `,
+        
+        answer: `have; talk`,
+        rewrite: ``,
+        explanation: `<p >Cấu trúc “used to + V-inf”: từng hay làm gì; mệnh đề phía sau có “now hardly” =&gt; động từ chia hiện tại đơn.</p>
+<p ><strong>Tạm dịch:</strong> Trước đây họ thường nói chuyện thẳng thắn nhưng giờ họ hiếm khi trò chuyện với nhau.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `_______ you (ever / try) _______ dishes in that famous restaurant?
+      `,
+        
+        answer: `Have you ever tried`,
+        rewrite: ``,
+        explanation: `<p >Câu hỏi về một trải nghiệm; trong câu có “ever” =&gt; động từ chia hiện tại hoàn thành.</p>
+<p ><strong>Tạm dịch:</strong> Bạn đã bao giờ thử món ăn ở nhà hàng nổi tiếng đó chưa?</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The dating rumours of that famous idol (spread) _______ do fast. I can see it everywhere on my Facebook newsfeed.
+      `,
+        
+        answer: `are spreading`,
+        rewrite: ``,
+        explanation: `<p >Câu diễn tả một sự việc đang xảy ra ở thời điểm hiện tại =&gt; động từ chia hiện tại tiếp diễn.</p>
+<p ><strong>Tạm dịch:</strong> Những tin đồn hẹn hò của thần tượng nổi tiếng đó lan đang truyền nhanh chóng. Tôi có thể nhìn thấy nó ở mọi nơi trên nguồn cấp dữ liệu mới trên Facebook của tôi.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: `<p ><strong>IV. Supply the correct form of the word given in each sentence.</strong></p>`,
+        question: `The violin is a beautiful musical ________. (INSTRUMENTAL)
+      `,
+        
+        answer: `instrument`,
+        rewrite: ``,
+        explanation: `<p >Vị trí còn trống cần điền một danh từ để tạo thành cụm từ mang nghĩa “nhạc cụ”.</p>
+<p ><strong>Tạm dịch:</strong> Đàn violin là một nhạc cụ tuyệt vời.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `It is ________ to stay hydrated during hot weather. (IMPORTANCE)
+      `,
+        
+        answer: `important`,
+        rewrite: ``,
+        explanation: `<p >Vị trí còn trống cần điền một tính từ, cấu trúc “it is important to do sth”.</p>
+<p ><strong>Tạm dịch:</strong> Điều quan trọng là phải uống đủ nước khi thời tiết nóng bức.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Can you _________ what the man looked like? (DESCRIPTION)
+      `,
+        
+        answer: `describe`,
+        rewrite: ``,
+        explanation: `<p >Vị trí còn trống cần điền một động từ.</p>
+<p ><strong>Tạm dịch:</strong> Bạn có thể mô tả người đàn ông đó trông như thế nào không?</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She was ________ beautiful in the wedding dress. (AMAZING)
+      `,
+        
+        answer: `amazingly`,
+        rewrite: ``,
+        explanation: `<p >Vị trí còn trống cần điền một trạng từ bổ nghĩa cho tính từ “beautiful” phía sau.</p>
+<p ><strong>Tạm dịch:</strong> Cô ấy đẹp tuyệt vời trong bộ váy cưới.</p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The history of ancient civilizations is a ________ subject. (FASCINATE)
+      `,
+        
+        answer: `fascinating`,
+        rewrite: ``,
+        explanation: `<p >Vị trí còn trống cần điền một tính từ bổ nghĩa cho danh từ “subject” phía sau.</p>
+<p ><strong>Tạm dịch:</strong> Lịch sử của các nền văn minh cổ đại là một chủ đề hấp dẫn.</p>
+<p ><strong>Đáp án: fascinating.</strong></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p ><strong>V. Read. Choose the correct answers.</strong></p><p >Sign languages are visual languages that use hand gestures, body movements, and facial expressions to communicate. They are not universal and differ from country to country. Sign languages have their own grammar, syntax, and vocabulary, just like spoken languages. They are used by millions of people worldwide, including the deaf community and people with hearing impairments.</p>
+<p >Sign languages are not just a mode of communication, but also an important part of the cultural identity of the deaf community. They are used to tell stories, express emotions, and convey complex ideas. Sign languages have been recognized as official languages in many countries, and efforts are being made to provide education and resources to deaf people to learn and use sign languages.</p>
+<p >However, sign languages still face many challenges, including limited access to education and employment opportunities in some countries, as well as a lack of recognition and support from some governments and societies. Despite these challenges, sign languages continue to thrive and evolve, enriching the lives of those who use them and promoting greater inclusivity and diversity in our world.</p>`,
+        question: `Sign languages have their own grammar, syntax, and vocabulary, just like spoken.
+      `,
+        options: [`True`,'False'],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p ><strong>Thông tin: </strong>Sign languages have their own grammar, syntax, and vocabulary, just like spoken languages.</p>
+<p ><strong>Tạm dịch:</strong> Ngôn ngữ ký hiệu có ngữ pháp, cú pháp và từ vựng riêng, giống như ngôn ngữ nói.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Sign languages all over the world are universally the same.
+      `,
+        options: [`True`,'False'],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p >Ngôn ngữ ký hiệu trên toàn thế giới đều giống nhau. =&gt; Sai.</p>
+<p ><strong>Thông tin: </strong>They are not universal and differ from country to country.</p>
+<p ><strong>Tạm dịch:</strong> Chúng không phổ biến và khác nhau giữa các quốc gia.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Which is not mentioned as a usage of sign language?
+      `,
+        options: [`telling stories`,
+`showing feelings`,
+`making requests`,
+`imparting complicated ideas`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p >Điều nào không được đề cập đến như cách sử dụng ngôn ngữ ký hiệu?</p>
+<p >A. kể chuyện</p>
+<p >B. thể hiện cảm xúc</p>
+<p >C. đưa ra yêu cầu</p>
+<p >D. truyền đạt những ý tưởng phức tạp</p>
+<p ><strong>Thông tin: </strong>They are used to tell stories, express emotions, and convey complex ideas.</p>
+<p ><strong>Tạm dịch:</strong> Chúng được sử dụng để kể chuyện, thể hiện cảm xúc và truyền đạt những ý tưởng phức tạp.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is the main characteristic of sign languages?
+      `,
+        options: [`They use hand gestures, body movements, and facial expressions.`,
+`They have no grammar or syntax.`,
+`They are universally the same.`,
+`They are primarily auditory languages.`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p >Đặc điểm chính của ngôn ngữ ký hiệu là gì?</p>
+<p >A. Họ sử dụng cử chỉ tay, cử động cơ thể và nét mặt.</p>
+<p >B. Chúng không có ngữ pháp hoặc cú pháp.</p>
+<p >C. Nhìn chung chúng giống nhau.</p>
+<p >D. Chúng chủ yếu là ngôn ngữ thính giác.</p>
+<p ><strong>Thông tin: </strong>Sign languages are visual languages that use hand gestures, body movements, and facial expressions to communicate.</p>
+<p ><strong>Tạm dịch:</strong> Ngôn ngữ ký hiệu là ngôn ngữ hình ảnh sử dụng cử chỉ tay, chuyển động cơ thể và nét mặt để giao tiếp.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is true about sign languages?
+      `,
+        options: [`They are solely used for communication, not cultural expression.`,
+`They have no unique grammar, syntax, or vocabulary.`,
+`They are not used by millions of people worldwide.`,
+`They are recognized as official languages in many countries.`,],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p >Điều gì đúng về ngôn ngữ ký hiệu?</p>
+<p >A. Chúng chỉ được sử dụng để giao tiếp chứ không phải để thể hiện văn hóa.</p>
+<p >B. Chúng không có ngữ pháp, cú pháp hoặc từ vựng độc đáo.</p>
+<p >C. Chúng không được hàng triệu người trên toàn thế giới sử dụng.</p>
+<p >D. Chúng được công nhận là ngôn ngữ chính thức ở nhiều quốc gia.</p>
+<p ><strong>Thông tin: </strong>Sign languages have been recognized as official languages in many countries.</p>
+<p ><strong>Tạm dịch:</strong> Ngôn ngữ ký hiệu đã được công nhận là ngôn ngữ chính thức ở nhiều quốc gia.</p>`,
+      },
+   
+    ],
+  },
+  {
+    semester: 1,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Choose the word whose underlined part is pronounced
+                    differently.
+                  </em>
+                </strong>
+              </p>`,
+        question: `
+          `,
+        options: [`<u>a</u>larm`,`<u>a</u>wful`,`m<u>a</u>terial`,`m<u>a</u>ture`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                      <p>
+                        <u>a</u>larm /əˈlɑːm/
+                      </p>
+                      <p>
+                        <u>a</u>wful /ˈɔː.fəl/
+                      </p>
+                      <p>
+                        m<u>a</u>terial /məˈtɪə.ri.əl/
+                      </p>
+                      <p>
+                        m<u>a</u>ture /məˈtʃʊər/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương án B được phát âm /ɔː/, các
+                        phương án còn lại phát âm /ə/.
+                      </p>
+                      
+                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`po<u>s</u>ter`,`land<u>s</u>cape`,`unu<u>s</u>ual`,`adole<u>s</u>cent`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                      <p>
+                        po<u>s</u>ter /ˈpəʊ.stər/
+                      </p>
+                      <p>
+                        land<u>s</u>cape /ˈlænd.skeɪp/
+                      </p>
+                      <p>
+                        unu<u>s</u>ual /ʌnˈjuː.ʒu.əl/
+                      </p>
+                      <p>
+                        adole<u>s</u>cent /ˌæd.əˈles.ənt/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương án C được phát âm /ʒ/, các
+                        phương án còn lại phát âm /s/.
+                      </p>
+                      
+                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`<u>sc</u>ene`,`e<u>sc</u>ape`,`<u>sc</u>ary`,`<u>c</u>reen`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                      <p>
+                        <u>sc</u>ene /siːn/
+                      </p>
+                      <p>
+                        e<u>sc</u>ape /ɪˈskeɪp/
+                      </p>
+                      <p>
+                        <u>sc</u>ary /ˈskeə.ri/
+                      </p>
+                      <p>
+                        <u>sc</u>reen /skriːn/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương án A được phát âm /s/, các
+                        phương án còn lại phát âm /sk/.
+                      </p>
+                     
+                    </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Choose the word that has a different stressed syllable from
+                    the rest.
+                  </em>
+                </strong>
+              </p>`,
+        question: `
+          `,
+        options: [`charger`,`cable`,`adult`,`degree`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                      <p>charger /ˈtʃɑː.dʒər/</p>
+                      <p>cable /ˈkeɪ.bəl/</p>
+                      <p>adult /ˈæd.ʌlt/</p>
+                      <p>degree /dɪˈɡriː/</p>
+                      <p>
+                        Phương án D có trọng âm 2, các phương án còn lại có
+                        trọng âm 1.
+                      </p>
+                     
+                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`entertaining`,`technology`,`peninsula`,`traditional`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                      <p>entertaining /en.təˈteɪ.nɪŋ/</p>
+                      <p>technology /tekˈnɒl.ə.dʒi/</p>
+                      <p>peninsula /pəˈnɪn.sjə.lə/</p>
+                      <p>traditional /trəˈdɪʃ.ən.əl/</p>
+                      <p>
+                        Phương án A có trọng âm 3, các phương án còn lại có
+                        trọng âm 2.
+                      </p>
+                      
+                    </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Choose the best option (A, B, C or D) to complete each of
+                    the following sentences.
+                  </em>
+                </strong>
+              </p>`,
+        question: ` My grandma made me this sweater, but I don’t really like it
+                    – it’s a bit __________.
+          `,
+        options: [`unusual`,`disgusting`,`awful`,`old-fashioned`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                      <p>unusual (adj): bất thường</p>
+                      <p>disgusting (adj): kinh tởm</p>
+                      <p>awful (adj): khủng khiếp</p>
+                      <p>old-fashioned (adj): lỗi thời</p>
+                      <p>
+                        My grandma made me this sweater, but I don’t really like
+                        it – it’s a bit <strong>old-fashioned.</strong>
+                      </p>
+                      <p>
+                        <em>
+                          (Bà tôi đã may cho tôi chiếc áo len này, nhưng tôi
+                          không thích nó lắm – nó hơi lỗi thời.)
+                        </em>
+                      </p>
+                      
+                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `When your __________ is dead, your phone doesn’t work.
+          `,
+        options: [`charger`,`battery`,`speaker`,`cable`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                      <p>charger (n): bộ sạc</p>
+                      <p>battery (n): pin</p>
+                      <p>speaker (n): loa</p>
+                      <p>cable (n): cáp</p>
+                      <p>
+                        When your<strong> battery </strong>is dead, your phone
+                        doesn’t work.
+                      </p>
+                      <p>
+                        <em>
+                          (Khi hết pin, điện thoại của bạn không hoạt động.)
+                        </em>
+                      </p>
+                      
+                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` A __________ happens when too much rain falls and rivers
+                    become too full, for example.
+          `,
+        options: [`tsunami`,`flood`,`drought`,`earthquake`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                      <p>tsunami (n): sóng thần</p>
+                      <p>flood (n): lũ lụt</p>
+                      <p>drought (n): hạn hán</p>
+                      <p>earthquake (n): động đất</p>
+                      <p>
+                        A <strong>flood </strong>happens when too much rain
+                        falls and rivers become too full, for example.
+                      </p>
+                      <p>
+                        <em>
+                          (Lũ lụt xảy ra khi mưa rơi quá nhiều và sông trở nên
+                          quá đầy chẳng hạn.)
+                        </em>
+                      </p>
+                      
+                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What happened in the film was so __________ that I couldn’t
+                    sleep afterwards.
+          `,
+        options: [`entertaining`,`funny`,`scary`,`childish`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>entertaining (adj): thú vị, giải trí</p>
+                      <p>funny (adj): hài hước</p>
+                      <p>scary (adj): đáng sợ</p>
+                      <p>childish (adj): trẻ con</p>
+                      <p>
+                        What happened in the film was so <strong>scary </strong>
+                        that I couldn’t sleep afterwards.
+                      </p>
+                      <p>
+                        <em>
+                          (Những gì diễn ra trong phim đáng sợ đến nỗi sau đó
+                          tôi không thể ngủ được.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I can’t wait to see the next __________ of this Korean
+                    drama!
+          `,
+        options: [`series`,`production`,`stage`,`episode`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>series (n): chuỗi</p>
+                      <p>production (n): sự sản xuất</p>
+                      <p>stage (n): giai đoạn</p>
+                      <p>episode (n): tập</p>
+                      <p>
+                        I can’t wait to see the next <strong>episode </strong>of
+                        this Korean drama!
+                      </p>
+                      <p>
+                        <em>
+                          (Tôi nóng lòng muốn xem tập tiếp theo của bộ phim
+                          truyền hình Hàn Quốc này!)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The __________ in a room can be at least 12°C in winter.
+                    It’s freezing!
+          `,
+        options: [`temperature`,`degrees`,`minus`,`atmosphere`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>temperature (n): nhiệt độ</p>
+                      <p>degrees (n): độ</p>
+                      <p>minus (n): số âm, dấu trừ</p>
+                      <p>atmosphere (n): bầu không khí</p>
+                      <p>
+                        The <strong>temperature </strong>in a room can be at
+                        least 12°C in winter. It’s freezing!
+                      </p>
+                      <p>
+                        <em>
+                          (Nhiệt độ trong phòng có thể ít nhất là 12°C vào mùa
+                          đông. Trời lạnh quá!)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `As we __________, we realize it becomes less important to
+                    have more friends than to have real ones.
+          `,
+        options: [`get together`,`get along`,`give up`,`grow up`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>get together (v): gặp mặt xã giao</p>
+                      <p>get along (v): thân thiết, hòa hợp</p>
+                      <p>give up (v): từ bỏ</p>
+                      <p>grow up (v): lớn lên</p>
+                      <p>
+                        As we <strong>grow up</strong>, we realize it becomes
+                        less important to have more friends than to have real
+                        ones.
+                      </p>
+                      <p>
+                        <em>
+                          (Khi lớn lên, chúng ta nhận ra rằng việc có nhiều bạn
+                          bè không quan trọng bằng việc có những người bạn thực
+                          sự.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Nothing can grow if there’s __________ because there’s no
+                    rain.
+          `,
+        options: [`drought`,`earthquake`,`typhoon`,`hurricane`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>drought (n): hạn hán</p>
+                      <p>earthquake (n): động đất</p>
+                      <p>typhoon (n): bão</p>
+                      <p>hurricane (n): cơn cuồng phong</p>
+                      <p>
+                        Nothing can grow if there’s <strong>drought </strong>
+                        because there’s no rain.
+                      </p>
+                      <p>
+                        <em>
+                          (Không có gì có thể phát triển nếu hạn hán vì không có
+                          mưa.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A _________ film uses drawings rather than real people.
+          `,
+        options: [`documentary`,`horror`,`cartoon`,`action`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>documentary (n): tài liệu</p>
+                      <p>horror (n): kinh dị</p>
+                      <p>cartoon (n): hoạt hình</p>
+                      <p>action (n): hành động</p>
+                      <p>
+                        A <strong>cartoon </strong>film uses drawings rather
+                        than real people.
+                      </p>
+                      <p>
+                        <em>
+                          (Phim hoạt hình sử dụng hình vẽ hơn là người thật.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `There is tremendous _________ to wear fashionable clothes,
+                    and it is especially strong among young people.
+          `,
+        options: [`parental pressure`,`threatening`,`peer pressure`,`bullying`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>parental pressure (n): áp lực cha mẹ</p>
+                      <p>threatening: đe dọa</p>
+                      <p>peer pressure: áp lực đồng trang lứa</p>
+                      <p>bullying: bắt nạt mạng</p>
+                      <p>
+                        There is tremendous <strong>peer pressure</strong> to
+                        wear fashionable clothes, and it is especially strong
+                        among young people.
+                      </p>
+                      <p>
+                        <em>
+                          (Áp lực từ bạn bè về việc phải mặc quần áo hợp thời
+                          trang là rất lớn, và áp lực này đặc biệt mạnh mẽ trong
+                          giới trẻ.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Write the correct forms of the words in brackets.</b></p>`,
+        question: `Some _____ are practicing in the skate park at the moment. (SKATE)
+          `,
+        
+        answer: `skaters`,
+        rewrite: ``,
+        explanation: `<p>
+                    16.Phía sau có động từ “are practicing” =&gt; vị trí
+                    còn trống cần điền danh từ chỉ người số nhiều làm chủ ngữ
+                    cho câu.
+                  </p>
+                  <p>skate (n): giày trượt băng</p>
+                  <p>skaters (n): vận động viên trượt băng</p>
+                  <p>
+                    Some <strong>skaters </strong>are practicing in the skate
+                    park at the moment.
+                  </p>
+                  <p>
+                    <em>
+                      (Hiện tại có một số vận động viên trượt băng đang tập
+                      luyện ở công viên trượt băng.)
+                    </em>
+                  </p>
+                  `,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Thousands of buildings collapsed in the ______ . It was very heartbreaking. (EARTH)
+          `,
+        
+        answer: `earthquake`,
+        rewrite: ``,
+        explanation: `<p>
+                    Vị trí còn trống cần điền một danh từ mang nghĩa “trận
+                    động đất” để phù hợp với nghĩa của câu.
+                  </p>
+                  <p>earth (n): trái đất</p>
+                  <p>earthquake (n): động đất</p>
+                  <p>
+                    Thousands of buildings collapsed in the
+                    <strong>earthquake</strong>. It was very heartbreaking.
+                  </p>
+                  <p>
+                    <em>
+                      (Hàng nghìn tòa nhà sụp đổ trong trận động đất. Điều này
+                      rất đau lòng.)
+                    </em>
+                  </p>
+                  `,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She has made a television _______ on poverty in our cities, which offers an insight into the
+              everyday lives of many poor people. (DOCUMENT)
+      `,
+        
+        answer: `documentary`,
+        rewrite: ``,
+        explanation: `<p>
+                    18. Vị trí còn trống cần điền một danh từ đi với
+                    “television” để tạo thành cụm “television documentary”: phim
+                    tài liệu truyền hình.
+                  </p>
+                  <p>document (n): tài liệu</p>
+                  <p>documentary (n): phim tài liệu</p>
+                  <p>
+                    She has made a television <strong>documentary </strong>on
+                    poverty in our cities, which offers an insight into the
+                    everyday lives of many poor people.
+                  </p>
+                  <p>
+                    <strong>
+                      <em>(</em>
+                    </strong>
+                    <em>
+                      Cô ấy đã thực hiện một bộ phim tài liệu truyền hình về
+                      tình trạng nghèo đói ở các thành phố của chúng ta, mang
+                      đến cái nhìn sâu sắc về cuộc sống hàng ngày của nhiều
+                      người nghèo.)
+                    </em>
+                  </p>
+                  `,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `During ______ significant changes in sleep occur. (ADULT)
+      `,
+        
+        answer: `adulthood`,
+        rewrite: ``,
+        explanation: `<p>
+                    19. Vị trí còn trống cần điền một danh từ mang nghĩa “tuổi
+                    trưởng thành”.
+                  </p>
+                  <p>adult (n): người trưởng thành</p>
+                  <p>adulthood (n): tuổi trưởng thành</p>
+                  <p>
+                    During <strong>adulthood</strong>, significant changes in
+                    sleep occur.
+                  </p>
+                  <p>
+                    <em>
+                      (Ở tuổi trưởng thành, giấc ngủ có những thay đổi đáng kể.)
+                    </em>
+                  </p>
+                  `,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My sister is a(n) vlogger. She makes videos for _____ on the internet. (VIEW)
+      `,
+        
+        answer: `viewers`,
+        rewrite: ``,
+        explanation: `<p>
+                    20. Cấu trúc “make sth for sb”: làm cái gì cho ai đó =&gt;
+                    Vị trí còn trống cần điền một danh từ số nhiều chỉ người.
+                  </p>
+                  <p>view (v): xem</p>
+                  <p>viewers (n): người xem</p>
+                  <p>
+                    My sister is a vlogger. She makes videos for
+                    <strong>viewers </strong>on the internet.
+                  </p>
+                  <p>
+                    <em>
+                      (Em gái tôi là một vlogger. Cô ấy làm video cho người xem
+                      trên internet.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Read the passage and decide if the following statements are
+                  True (T) or False (F).</b></p><p >
+              The Apple Watch was released in early 2015 by the Apple technology
+              company. It is a very useful device for many reasons.
+            </p>
+            <p >
+              When you have a message or social media update, the strap will
+              vibrate in different ways to inform you. The watch on the back has
+              some sensors and knows how much exercise you are doing, your heart
+              rate, and how many calories you have burned. The idea for this
+              function is to help people live a healthier lifestyle.
+            </p>
+            <p >
+              The watch is also said to be very accurate as it checks the time
+              against global time and always changes the time wherever you are
+              by using GPS. As well as this you can of course make phone calls
+              on the watch, send texts, emails, and you can use it to buy
+              things. It also works to control the music on your iPhone or see
+              what your iPhone camera sees.
+            </p>
+            <p >
+              However, there is one problem. The battery life is said to
+              probably be about a day, so you need to be charged every night.
+            </p>`,
+        question: `When you travel, you will need to set the time on the
+                    watch yourself.
+      `,
+        options: [`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        21. When you travel, you will need to set the time on
+                        the watch yourself.
+                      </p>
+                      <p>
+                        <em>
+                          (Khi đi du lịch, bạn sẽ cần phải tự mình chỉnh giờ
+                          trên đồng hồ.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>The watch is also said to be
+                        very accurate as it checks the time against global time
+                        and always changes the time wherever you are by using
+                        GPS.
+                      </p>
+                      <p>
+                        <em>
+                          (Đồng hồ cũng được cho là rất chính xác vì nó kiểm tra
+                          thời gian theo thời gian toàn cầu và luôn thay đổi
+                          thời gian mọi lúc mọi nơi bằng cách sử dụng GPS.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The watch knows how much exercise you are doing.
+      `,
+       options: [`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        22. The watch knows how much exercise you are doing.
+                      </p>
+                      <p>
+                        <em>(Đồng hồ biết bạn đang tập thể dục bao nhiêu.)</em>
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>The watch on the back has
+                        some sensors and knows how much exercise you are doing.
+                      </p>
+                      <p>
+                        <em>
+                          (Đồng hồ ở mặt sau có một số cảm biến và biết bạn đang
+                          tập thể dục bao nhiêu.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The strap of the watch will vibrate when there are new
+                    messages.
+      `,
+        options: [`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        23. The strap of the watch will vibrate when there are
+                        new messages.
+                      </p>
+                      <p>
+                        <em>(Dây đeo đồng hồ sẽ rung khi có tin nhắn mới.)</em>
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>When you have a message or
+                        social media update, the strap will vibrate in different
+                        ways to inform you.
+                      </p>
+                      <p>
+                        <em>
+                          (Khi bạn có tin nhắn hoặc cập nhật trên mạng xã hội,
+                          dây đeo sẽ rung theo nhiều cách khác nhau để thông báo
+                          cho bạn.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Apple Watch also has a camera so you can take pictures
+                    with it.
+      `,
+        options: [`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        24. Apple Watch also has a camera so you can take
+                        pictures with it.
+                      </p>
+                      <p>
+                        <em>
+                          (Apple Watch cũng có camera để bạn có thể chụp ảnh
+                          bằng nó.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>It also works to control the
+                        music on your iPhone or see what your iPhone camera
+                        sees.
+                      </p>
+                      <p>
+                        <em>
+                          (Nó cũng hoạt động để điều khiển nhạc trên iPhone của
+                          bạn hoặc xem camera iPhone của bạn nhìn thấy gì.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The watch doesn’t need to be recharged every day.
+      `,
+        options: [`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        25. The watch doesn’t need to be recharged every day.
+                      </p>
+                      <p>
+                        <em>(Đồng hồ không cần phải sạc lại hàng ngày.)</em>
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>The battery life is said to
+                        probably be about a day, so you need to be charged every
+                        night.
+                      </p>
+                      <p>
+                        <em>
+                          (Thời lượng pin được cho là có thể khoảng một ngày nên
+                          bạn cần phải sạc pin vào mỗi tối.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Choose the correct answer A, B, C, or D to fill in each
+                    blank in the following passage.
+                  </em>
+                </strong>
+              </p><p style="text-align: center;">Tornadoes</p>
+              <p >
+                A tornado is a kind of storm which looks like a huge funnel.
+                Tornados are the strongest winds on earth. They can (
+                <strong>1</strong>) _________ 480 km per hour. With such great
+                strength, a tornado causes a lot of damage. It can root up
+                trees, flatten buildings, and throw heavy things such as cars
+                hundreds of meters. It is especially dangerous (
+                <strong>2</strong>) _________ people in cars or mobile homes.
+              </p>
+              <p >
+                Tornadoes differ in their duration and the distance they travel.
+                Most (<strong>3</strong>) _________ less than ten minutes and
+                travel five to ten kilometers. Some special tornadoes can last
+                several hours and travel up to more than 150 km!
+              </p>
+              <p >
+                Tornadoes can occur almost (<strong>4</strong>) _________ on
+                earth, but most of them happen in the United States, especially
+                in the Great Plains region. This area may (<strong>5</strong>)
+                _________ more than 200 tornadoes in each year.
+              </p>`,
+        question: `Tornados are the strongest winds on earth. They can (1) _________ 480 km per hour.
+      `,
+        options: [`arrive`,`go to`,`reach`,`speed`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+                        arrive (v): <em>đến</em>
+                      </p>
+                      <p>
+                        go to (v):<em> đi đến</em>
+                      </p>
+                      <p>
+                        reach (v): <em>đạt</em>
+                      </p>
+                      <p>
+                        speed (v): <em>điều chỉnh tốc độ</em>
+                      </p>
+                      <p>
+                        They can (<strong>1</strong>) <strong>reach </strong>480
+                        km per hour.
+                      </p>
+                      <p><em>
+                            (Chúng có thể
+                            <span style="text-decoration: underline;">
+                              đạt tới
+                            </span>
+                            480 km một giờ.)
+                          </em>
+                        
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `It is especially dangerous (2) _________
+                    people in cars or mobile homes.
+      `,
+        options: [`for`,`to`,`in`,`at`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        Cấu trúc “be dangerous for sb”:
+                        <em>nguy hiểm cho ai</em>.
+                      </p>
+                      <p>
+                        It is especially dangerous (<strong>2</strong>)
+                        <strong>for </strong>people in cars or mobile homes.
+                      </p>
+                      <p>
+                        <span style="color: #808080;">
+                          <em>
+                            (Nó đặc biệt nguy hiểm đối
+                            <span style="text-decoration: underline;">với</span>
+                            những người ngồi trong ô tô hoặc nhà di động.)
+                          </em>
+                        </span>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Tornadoes differ in their duration and the distance they
+                    travel. Most (3) _________ less than ten
+                    minutes and travel five to ten kilometers.
+      `,
+      options: [`go`,`keep up`,`happen`,`last`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>
+                        go (v): <em>đi</em>
+                      </p>
+                      <p>
+                        keep up (v):<em> theo kịp</em>
+                      </p>
+                      <p>
+                        happen (v):<em> xảy ra</em>
+                      </p>
+                      <p>
+                        last (v): <em>kéo dài</em>
+                      </p>
+                      <p>
+                        Most (<strong>3</strong>)<strong> last</strong> less
+                        than ten minutes and travel five to ten kilometers.
+                      </p>
+                      <p>
+                        <span style="color: #808080;">
+                          <em>
+                            (Hầu hết chúng
+                            <span style="text-decoration: underline;">
+                              kéo dài
+                            </span>
+                            ít hơn mười phút và di chuyển từ năm đến mười km.)
+                          </em>
+                        </span>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Tornadoes can occur almost (4) _________ on
+                    earth, but most of them happen in the United States,
+                    especially in the Great Plains region.
+      `,
+      options: [`anywhere`,`anyone`,`whenever`,`any time`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        anywhere: <em>bất kỳ nơi đâu</em>
+                      </p>
+                      <p>
+                        anyone: <em>bất kỳ ai</em>
+                      </p>
+                      <p>
+                        whenever: <em>bất cứ khi nào</em>
+                      </p>
+                      <p>
+                        any time: <em>bất cứ lúc nào</em>
+                      </p>
+                      <p>
+                        Tornadoes can occur almost (<strong>4</strong>)
+                        <strong>anywhere </strong>on earth.
+                      </p>
+                      <p>
+                        <span style="color: #808080;">
+                          <em>
+                            (Lốc xoáy có thể xảy ra hầu hết
+                            <span style="text-decoration: underline;">
+                              bất cứ nơi nào
+                            </span>
+                            trên Trái Đất.)
+                          </em>
+                        </span>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `This area may (<strong>5</strong>) _________ more than 200
+                    tornadoes in each year.
+      `,
+      options: [`be`,`cause`,`provide`,`experience`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>
+                        be (v): <em>là</em>
+                      </p>
+                      <p>
+                        cause (v):<em> gây ra</em>
+                      </p>
+                      <p>
+                        provide (v): <em>cung cấp</em>
+                      </p>
+                      <p>
+                        experience (v): <em>trải qua</em>
+                      </p>
+                      <p>
+                        This area may (<strong>5</strong>)
+                        <strong>experience </strong>more than 200 tornadoes each
+                        year.
+                      </p>
+                      <p>
+                        <span style="color: #808080;">
+                          <em>
+                            (Khu vực này có thể
+                            <span style="text-decoration: underline;">
+                              trải qua
+                            </span>
+                            hơn 200 cơn lốc xoáy mỗi năm.)
+                          </em>
+                        </span>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Complete the second sentence so that it means the same as the
+                  first. Write NO MORE THAN THREE words.</b></p>`,
+        question: `<p>Can you help me with my laptop, please?</p><p>Do you mind _______ with my laptop, please?</p>
+      `,
+        
+        answer: `helping`,
+        rewrite: ``,
+        explanation: `<p>
+                    31.Cấu trúc đề nghị giúp đỡ, hỏi ý kiến: “Can you help
+                    me with + sth, + please?" = “Would/Do you mind + V-ing?”:
+                    Bạn có phiền ….?.
+                  </p>
+                  <p>Can you help me with my laptop, please?</p>
+                  <p>
+                    <em>
+                      (Bạn có thể giúp tôi với máy tính xách tay của tôi được
+                      không?)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; Do you mind <strong>helping </strong>with my laptop,
+                    please?
+                  </p>
+                  <p>
+                    <em>
+                      (Bạn có phiền giúp tôi với máy tính xách tay được không?)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>Mum usually says I can go to concerts in the afternoons.</p><p>Mum usually allows ______ to concerts in the afternoons.</p>
+      `,
+        
+        answer: `me to go`,
+        rewrite: ``,
+        explanation: `<p>
+                    32. Cấu trúc “allow sb to V” = “allow Ving”: cho phép (ai)
+                    làm gì.
+                  </p>
+                  <p>
+                    Mum usually says I can go to concerts in the afternoons.
+                  </p>
+                  <p>
+                    <em>
+                      (Mẹ thường nói tôi có thể đi xem hòa nhạc vào buổi chiều.)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; Mum usually allows <strong>me to go </strong>to
+                    concerts in the afternoons.
+                  </p>
+                  <p>
+                    <em>
+                      (Mẹ thường cho phép tôi đi xem hòa nhạc vào buổi chiều.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>Cars isn’t very interesting. I want to watch Ned!</p><p>Ned is ______ than Cars.</p>
+      `,
+        
+        answer: `more interesting`,
+        rewrite: ``,
+        explanation: `<p>
+                    33.Cấu trúc câu so sánh hơn với tính từ dài: “S1 +
+                    tobe + more + adj + than + S2”.
+                  </p>
+                  <p>
+                    <em>Cars</em> isn’t very interesting. I want to watch
+                    <em>Ned</em>!
+                  </p>
+                  <p>
+                    <em>(Cars không thú vị lắm. Tôi muốn xem Ned!)</em>
+                  </p>
+                  <p>
+                    =&gt; <em>Ned</em> is <strong>more interesting </strong>than
+                    <em>Cars</em>.
+                  </p>
+                  <p>
+                    <em>(Ned thú vị hơn Cars.)</em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>TV screens aren’t as good as cinema screens.</p><p>Cinema screens are _______ TV screens.</p>
+      `,
+        
+        answer: `better than`,
+        rewrite: ``,
+        explanation: `<p>
+                    34. Cấu trúc: “S1 + tobe + not + as + adj + as + S2” = “S2 +
+                    tobe + more adj/adj-er + than + S1”.
+                  </p>
+                  <p>TV screens aren’t as good as cinema screens.</p>
+                  <p>
+                    <em>
+                      (Màn hình TV không tốt bằng màn hình rạp chiếu phim.)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; Cinema screens are <strong>better than </strong>TV
+                    screens.
+                  </p>
+                  <p>
+                    <em>(Màn hình rạp chiếu phim tốt hơn màn hình TV.)</em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>I really want to see my cousins when they come next week!</p><p>I’m really looking ______ my cousins when they come next week.</p>
+          `,
+        
+        answer: `forward to seeing`,
+        rewrite: ``,
+        explanation: `<p>
+                    35. Cấu trúc “be looking forward to + V-ing”: mong chờ, mong
+                    đợi cái gì.
+                  </p>
+                  <p>
+                    I really want to see my cousins when they come next
+                    week!
+                  </p>
+                  <p>
+                    <em>
+                      (Tôi thực sự muốn gặp anh em họ của tôi khi họ đến vào
+                      tuần tới!)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; I’m really looking <strong>forward to seeing </strong>
+                    my cousins when they come next week.
+                  </p>
+                  <p>
+                    <em>
+                      (Tôi rất mong được gặp lại anh em họ của mình khi họ đến
+                      vào tuần tới.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Listen to a podcast about a festival called Diwali and
+                    choose A, B, C, or D.</b></p>`,
+        media:`https://img.loigiaihay.com/picture/2023/1211/1702265621227-hk1-ta8-discovery-de-2.mp3`,
+        question: `What is mentioned as a great way to integrate with locals
+                    while traveling?
+          `,
+        options: [`Trying new foods`,`Attending festivals`,`Learning the local language`,`Visiting museums`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        Điều gì được đề cập như một cách tuyệt vời để hòa nhập
+                        với người dân địa phương khi đi du lịch?
+                      </p>
+                      <p>A. Thử món ăn mới</p>
+                      <p>B. Tham dự lễ hội</p>
+                      <p>C. Học ngôn ngữ địa phương</p>
+                      <p>D. Tham quan bảo tàng</p>
+                      <p>
+                        <strong>Thông tin: </strong>festivals are the best way
+                        to integrate with locals and learn about the area whilst
+                        having some fun and taking some memorable photos.
+                      </p>
+                      <p>
+                        <em>
+                          (lễ hội là cách tốt nhất để hòa nhập với người dân địa
+                          phương và tìm hiểu về khu vực trong khi vui chơi và
+                          chụp một số bức ảnh đáng nhớ.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Why does Diwali’s date change each year?
+          `,
+        options: [`This festival can be celebrated in India in October or November.`,`This festival is celebrated across India to honor the
+                        solar calendar.`,`This festival is based on the Hindu lunar calendar.`,`This festival doesn’t have an exact date and Indian
+                        people can choose any date they like.`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Tại sao ngày Diwali lại thay đổi mỗi năm?</p>
+                      <p>
+                        A. Lễ hội này có thể được tổ chức ở Ấn Độ vào tháng 10
+                        hoặc tháng 11.
+                      </p>
+                      <p>
+                        B. Lễ hội này được tổ chức khắp Ấn Độ để tôn vinh dương
+                        lịch.
+                      </p>
+                      <p>C. Lễ hội này dựa trên lịch âm của đạo Hindu.</p>
+                      <p>
+                        D. Lễ hội này không có ngày chính xác và người dân Ấn Độ
+                        có thể chọn bất kỳ ngày nào họ thích.
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>The exact date changes each
+                        year because it is based on the Hindu lunar calendar.
+                      </p>
+                      <p>
+                        <em>
+                          (Ngày chính xác thay đổi mỗi năm vì nó dựa trên lịch
+                          âm của đạo Hindu.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is the significance of lighting clay lamps during
+                    Diwali?
+          `,
+        options: [`To signal the start of the festival`,`To ward off evil spirits`,`To represent the victory of good over evil and light
+                        over darkness`,`To guide travelers to the festival location`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+                        Ý nghĩa của việc thắp đèn đất sét trong lễ Diwali là gì?
+                      </p>
+                      <p>A. Để báo hiệu bắt đầu lễ hội</p>
+                      <p>B. Để xua đuổi tà ma</p>
+                      <p>
+                        C. Tượng trưng cho chiến thắng của cái thiện trước cái
+                        ác và ánh sáng trước bóng tối
+                      </p>
+                      <p>D. Hướng dẫn du khách đến địa điểm tổ chức lễ hội</p>
+                      <p>
+                        <strong>Thông tin: </strong>Diwali is a five-day
+                        celebration where clay lamps are lit to signify the
+                        victory of good over evil, light over darkness.
+                      </p>
+                      <p>
+                        <em>
+                          (Diwali là một lễ kỷ niệm kéo dài năm ngày, nơi đèn
+                          đất sét được thắp sáng để biểu thị chiến thắng của cái
+                          thiện trước cái ác, ánh sáng trước bóng tối.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `How long does Diwali typically last?
+          `,
+        options: [`One day`,`Three days`,`Five days`,`A whole month`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Diwali thường kéo dài bao lâu?</p>
+                      <p>A. Một ngày</p>
+                      <p>B. Ba ngày</p>
+                      <p>C. Năm ngày</p>
+                      <p>D. Cả một tháng</p>
+                      <p>
+                        <strong>Thông tin: </strong>Diwali is a five-day
+                        celebration.
+                      </p>
+                      <p>
+                        <em>(Diwali là một lễ kỷ niệm kéo dài năm ngày.)</em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Besides lighting lamps, what other activities are mentioned
+                    as part of Diwali celebrations?
+          `,
+        options: [`Taking part in parades`,`Exchanging gifts and feasting on traditional food`,`Engaging in friendly competitions`,`Listening to traditional music`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        Ngoài việc thắp đèn, những hoạt động nào khác được nhắc
+                        đến trong lễ kỷ niệm Diwali?
+                      </p>
+                      <p>A. Tham gia diễu hành</p>
+                      <p>
+                        B. Trao đổi quà tặng và thưởng thức các món ăn truyền
+                        thống
+                      </p>
+                      <p>C. Tham gia các cuộc thi giao hữu</p>
+                      <p>D. Nghe nhạc truyền thống</p>
+                      <p>
+                        <strong>Thông tin: </strong>It is a time for friends and
+                        family to come together to celebrate life, feast on
+                        traditional food, and exchange gifts.
+                      </p>
+                      <p>
+                        <em>
+                          (Đây là thời gian để bạn bè và gia đình cùng nhau kỷ
+                          niệm cuộc sống, thưởng thức các món ăn truyền thống và
+                          trao đổi quà tặng.)
+                        </em>
+                      </p>`,
+      },
+      
+    ],
+  },
+  {
+    semester: 2,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><b>Choose the word whose underlined part is pronounced differently.
+</b></p>`,
+        question: `
+          `,
+        options: [`p<u>oo</u>r`,`c<u>o</u>ld`,`p<u>ou</u>r`,`<u>aw</u>ful`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>p<u>oo</u>r /pɔːr/</p>
+<p>c<u>o</u>ld /kəʊld/</p>
+<p>p<u>ou</u>r /pɔːr/</p>
+<p><u>aw</u>ful /ˈɔː.fəl/</p>
+<p>Phần được gạch chân ở phương án B được phát âm /əʊ/, các phương án còn lại phát âm /ɔː/.</p>
+                                               </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`<p>class<u>i</u>cal</p>`,`<p>child<u>i</u>sh</p>`,`<p>ep<u>i</u>sode</p>`,`<p>m<u>i</u>me</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>class<u>i</u>cal /ˈklæs.ɪ.kəl/</p>
+<p>child<u>i</u>sh /ˈtʃaɪl.dɪʃ/</p>
+<p>ep<u>i</u>sode /ˈep.ɪ.səʊd/</p>
+<p>m<u>i</u>me /maɪm/</p>
+<p>Phần được gạch chân ở phương án D được phát âm /aɪ/, các phương án còn lại phát âm /ɪ/.</p>
+                                                </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`<p>toge<u>th</u>er</p>`,`<p>o<u>th</u>er</p>`,`<p><u>th</u>eir</p>`,`<p><u>th</u>inking</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>toge<u>th</u>er /təˈɡeð.ər/</p>
+<p>o<u>th</u>er /ˈʌð.ər/</p>
+<p><u>th</u>eir /ðeər/</p>
+<p><u>th</u>inking /ˈθɪŋ.kɪŋ/</p>
+<p>Phần được gạch chân ở phương án D được phát âm /θ/, các phương án còn lại phát âm /ð/.</p>
+                                                  </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Choose the word that has a different stressed syllable from the rest.
+</b></p>`,
+        question: `
+          `,
+        options: [`sunset
+`,`degree
+`,`sunshine
+`,`thunder
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>sunset /ˈsʌn.set/</p>
+<p>degree /dɪˈɡriː/</p>
+<p>sunshine /ˈsʌn.ʃaɪn/</p>
+<p>thunder /ˈθʌn.dər/</p>
+<p>Phương án B có trọng âm 2, các phương án còn lại có trọng âm 1.</p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options: [`romantic
+`,`producer
+`,`episode
+`,`dramatic
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>romantic /rəʊˈmæn.tɪk/</p>
+<p>producer /prəˈdʒuː.sər/</p>
+<p>episode /ˈep.ɪ.səʊd/</p>
+<p>dramatic /drəˈmæt.ɪk/</p>
+<p>Phương án C có trọng âm 1, các phương án còn lại có trọng âm 2.</p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Choose the best option (A, B, C or D) to complete each of the following sentences.
+</b></p>`,
+        question: `She doesn’t understand why he likes _________ games on his phone all the time. She thinks it’s a waste of time and battery.
+
+          `,
+        options: [`playing
+`,`play
+`,`plays
+`,`to playing
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>like + V-ing: thích làm gì</p>
+<p>playing (V-ing)</p>
+<p>play (V-inf)</p>
+<p>plays (V-s/es)</p>
+<p>to playing (to V-ing)</p>
+<p>She doesn’t understand why he likes <strong>playing </strong>games on his phone all the time. She thinks it’s a waste of time and battery.</p>
+<p><em>(Cô ấy không hiểu tại sao anh ấy lúc nào cũng thích chơi game trên điện thoại. Cô cho rằng việc đó thật lãng phí thời gian và pin.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They often share photos and videos on social media. They use a _______  to take pictures of themselves.
+
+          `,
+        options: [`remote control
+`,`earphones
+`,`selfie stick
+`,`printer
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>remote control (n): điều khiển từ xa</p>
+<p>earphones (n): tai nghe</p>
+<p>selfie stick (n): gậy chụp ảnh tự sướng</p>
+<p>printer (n): máy in</p>
+<p>They often share photos and videos on social media. They use a <strong>selfie stick</strong> to take pictures of themselves.</p>
+<p><em>(Họ thường chia sẻ ảnh và video trên mạng xã hội. Họ sử dụng gậy selfie để chụp ảnh mình.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Farmers faced difficulties during the __________ as their crops couldn’t grow without sufficient rainfall.
+
+          `,
+        options: [`drought
+`,`thunder
+`,`flood
+`,`earthquake
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>drought (n): hạn hán</p>
+<p>thunder (n): sấm sét</p>
+<p>flood (n): lũ lụt</p>
+<p>earthquake (n): động đất</p>
+<p>Farmers faced difficulties during the <strong>drought </strong>as their crops couldn’t grow without sufficient rainfall.</p>
+<p><em>(Nông dân gặp khó khăn trong thời kỳ hạn hán vì cây trồng của họ không thể phát triển nếu không có đủ lượng mưa.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `While we were hiking, we __________ across a cave hidden in the mountains.
+
+          `,
+        options: [`come
+`,`came
+`,`are coming
+`,`have come
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Câu diễn tả một hành động đang xảy ra trong quá khứ (were hiking) thì một hành động khác xen vào (came across a cave) =&gt; hành động xen vào động từ chia quá khứ đơn.</p>
+<p>come (hiện tại đơn)</p>
+<p>came (quá khứ đơn)</p>
+<p>are coming (hiện tại tiếp diễn)</p>
+<p>have come (hiện tại hoàn thành)</p>
+<p>While we were hiking, we <strong>came</strong> across a cave hidden in the mountains.</p>
+<p><em>(Khi đang đi bộ đường dài, chúng tôi tình cờ gặp một hang động ẩn sâu trong núi.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My favourite __________ film is “Home Alone”. It’s so funny to watch, especially when I’m alone.
+
+          `,
+        options: [`thriller 
+`,`romantic
+`,`sci-fi 
+`,`comedy
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>thriller (n): phim kinh dị</p>
+<p>romantic (n): phim tình cảm</p>
+<p>Sci-fi (n): khoa học viễn tưởng</p>
+<p>comedy (n): hài kịch</p>
+<p>My favourite <strong>comedy</strong> film is “Home Alone”. It’s so funny to watch, especially when I’m alone.</p>
+<p><em>(Bộ phim hài yêu thích của tôi là “Ở nhà một mình”. Thật là buồn cười khi xem, đặc biệt là khi tôi ở một mình.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The __________ of the series “Animals in the Wild” have to do research about wildlife for months.
+
+          `,
+        options: [`performances 
+`,`performers
+`,`producers
+`,`products
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>performances (n): màn biểu diễn</p>
+<p>performers (n): người biểu diễn</p>
+<p>producers (n): nhà sản xuất</p>
+<p>products (n): sản phẩm</p>
+<p>The <strong>producers </strong>of the series “Animals in the Wild” have to do research about wildlife for months.</p>
+<p><em>(Các nhà sản xuất loạt phim “Động vật trong hoang dã” phải nghiên cứu về động vật hoang dã trong nhiều tháng.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `“How __________ sugar would you like for your coffee?” – “Just a little bit, thanks.”
+
+          `,
+        options: [`much
+`,`many 
+`,`more 
+`,`∅
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Câu hỏi với “How much/many…?” dùng để hỏi về số lượng. Danh từ “sugar” là danh từ không đếm được =&gt; Dùng “how much”.</p>
+<p>“How <strong>much </strong>sugar would you like for your coffee?” – “Just a little bit, thanks.”</p>
+<p><em>(“Bạn muốn bao nhiêu đường cho cà phê của mình?” – “Một chút thôi, cảm ơn.”)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `__________ is a necessary skill for students to achieve good academic results.
+
+          `,
+        options: [`Abstract thinking
+`,`Think abstractly
+`,`Goal setting
+`,`Set goals
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Abstract thinking (n): Tư duy trừu tượng</p>
+<p>Think abstractly (v): Suy nghĩ trừu tượng</p>
+<p>Goal setting (n): đặt mục tiêu</p>
+<p>Set goals (v): đặt mục tiêu</p>
+<p>Vị trí còn trống cần điền một danh động từ làm chủ ngữ cho câu.</p>
+<p><strong>Goal setting</strong> is a necessary skill for students to achieve good academic results.</p>
+<p><em>(Đặt mục tiêu là kỹ năng cần thiết để học sinh đạt được kết quả học tập tốt.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Phil often __________ and cries, and nothing can cheer him up.
+
+          `,
+        options: [`gives up 
+`,`give up
+`,`break down
+`,`breaks down
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>give up (v): từ bỏ</p>
+<p>break down (v): suy sụp</p>
+<p>Chủ ngữ “Phil” là ngôi ba số ít =&gt; cần chia động từ.</p>
+<p>Phil often <strong>breaks down</strong> and cries, and nothing can cheer him up.</p>
+<p><em>(Phil thường suy sụp và khóc, và không gì có thể làm anh ấy vui lên.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Many physical changes such as voice changes occur during __________.
+
+          `,
+        options: [`childhood 
+`,`adolescence
+`,`adulthood
+`,`old age
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>childhood (n): tuổi thơ</p>
+<p>adolescence (n): tuổi thiếu niên</p>
+<p>adulthood (n): tuổi trưởng thành</p>
+<p>old age (n): tuổi già</p>
+<p>Many physical changes such as voice changes occur during <strong>adolescence.</strong></p>
+<p><em>(Nhiều thay đổi về thể chất như thay đổi giọng nói xảy ra ở tuổi thiếu niên.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Write the correct forms of the words in brackets.
+</b></p>`,
+        question: `She likes listening to music on her _______ when she is doing her homework. (SPEAK)
+
+          `,
+        options: [],
+        answer: `speaker`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>16.Phía trước có đại từ sở hữu “her”=&gt; vị trí còn trống cần điền một danh từ.</p>
+<p>speak (v): nói</p>
+<p>speaker (n): loa.</p>
+<p>She likes listening to music on her <strong>speaker </strong>when she is doing her homework.</p>
+<p><em>(Cô ấy thích nghe nhạc trên loa khi làm bài tập về nhà.)</em></p>
+                                           </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The sun slowly went down below the horizon, creating a beautiful ______. (SUN)
+
+          `,
+        options: [],
+        answer: `sunset`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>17. Vị trí còn trống cần điền một danh từ đứng sau tính từ “beautiful”.</p>
+<p>sun (n): mặt trời</p>
+<p>sunset (n): hoàng hôn</p>
+<p>The sun slowly went down below the horizon, creating a beautiful <strong>sunset.</strong></p>
+<p><em>(Mặt trời từ từ lặn xuống phía dưới đường chân trời tạo nên cảnh hoàng hôn tuyệt đẹp.)</em></p>
+                                           </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Reading novels is a healthy and interesting form of _____. (ENTERTAIN)
+
+      `,
+        options: [],
+        answer: `entertainment`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>18. Phía trước có cụm “form of” =&gt; vị trí còn trống cần điền một danh từ để tạo thành cụm hoàn chỉnh “form of entertainment”: hình thức giải trí.</p>
+<p>entertain (v): giải trí</p>
+<p>entertainment (n): giải trí</p>
+<p>Reading novels is a healthy and interesting form of <strong>entertainment.</strong></p>
+<p><em>(Đọc tiểu thuyết là một hình thức giải trí lành mạnh và thú vị.)</em></p>
+                                           </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She broke down when she found out her boyfriend was not ______ in her anymore. (INTEREST)
+
+      `,
+        options: [],
+        answer: `interested`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>19. Vị trí còn trống cần một tính từ để tạo thành cụm “be (not) interested in”: (không) thích thú với.</p>
+<p>interest (n): mối quan tâm</p>
+<p>interested (adj): thích thú, quan tâm</p>
+<p>She broke down when she found out her boyfriend was not <strong>interested </strong>in her anymore.</p>
+<p><em>(Cô suy sụp khi biết bạn trai không còn quan tâm đến mình nữa.)</em></p>
+                                           </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The ______ of the series “Man vs. Wild” is full of hard work and risks. (PRODUCE)
+
+      `,
+        options: [],
+        answer: `production`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>20. Vị trí còn trống cần một danh từ đứng giữa từ “the” và từ “of”.</p>
+<p>produce (v): sản xuất</p>
+<p>production (n): sản xuất</p>
+<p>The <strong>production </strong>of the series “Man vs. Wild” is full of hard work and risks.</p>
+<p><em>(Quá trình sản xuất loạt phim “Man vs. Wild” đầy vất vả và rủi ro.)</em></p>
+                                           </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Read the passage and choose the correct answer to each of the following questions.
+</b></p><p>There are many problems that young people have to face when they enter adolescence. At this age all feelings and emotions are very strong, and all problems seem very important.
+</p><p>Firstly, teenagers don’t get along with their parents, and they often disagree with each other. Parents do not understand why their children need to buy certain things, listen to certain music or spend most of their spare time with their friends.
+</p><p>Adolescents also have the same misunderstanding from their teachers. Some teachers think that students should always study. They do not understand that youth is the time for adolescents to play and try new things, to learn more about themselves and others.
+</p><p>Peer influence is another serious problem because it makes young people do bad things. Many people want to look older and more independent. They may start smoking, drinking beer and sometimes other alcoholic drinks. Some also get involved in school violence and bully younger students to become cooler in their friends’ eyes.
+</p>`,
+        question: `What is the passage mainly about?
+
+      `,
+        options: [`Disagreement between parents and their teenage children.
+`,`Peer influence among adolescents.
+`,`Many problems faced by teenagers.
+`,`What young people should do to study better.
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Đoạn văn chủ yếu nói về điều gì?</p>
+<p>A. Sự bất đồng giữa cha mẹ và con cái ở tuổi vị thành niên.)</p>
+<p>B. Ảnh hưởng của bạn bè trong thời niên thiếu.</p>
+<p>C. Nhiều vấn đề mà thanh thiếu niên phải đối mặt.</p>
+<p>D. Các bạn trẻ nên làm gì để học tập tốt hơn.</p>
+<p><strong>Thông tin: </strong>There are many problems that young people have to face when they enter adolescence.</p>
+<p><em>(Có rất nhiều vấn đề mà các bạn trẻ phải đối mặt khi bước vào tuổi thiếu niên.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `According to the passage, parents do not understand why __________.
+
+      `,
+        options: [`teenagers want to buy some particular things
+`,`the children start smoking
+`,`students do not like studying
+`,`the youth is the time for teenagers to try new things
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Theo đoạn văn, cha mẹ không hiểu tại sao ______</p>
+<p>A. thanh thiếu niên muốn mua một số thứ cụ thể.</p>
+<p>B. bọn trẻ bắt đầu hút thuốc.</p>
+<p>C. học sinh không thích học.</p>
+<p>D. tuổi trẻ là thời gian để thanh thiếu niên thử những điều mới.</p>
+<p><strong>Thông tin: </strong>Parents do not understand why their children need to buy certain things.</p>
+<p><em>(Cha mẹ không hiểu tại sao con cái họ cần mua một số thứ nhất định.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The phrasal verb <strong><em>get along</em></strong> in the passage is closest in meaning to __________.
+      `,
+        options: [`have a good relationship with someone
+`,`disagree with someone
+`,`be angry at someone
+`,`deliver something to someone
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Cụm động từ “get along - hòa hợp, có quan hệ tốt” trong đoạn văn có nghĩa gần nhất với</p>
+<p>A. có mối quan hệ tốt với ai đó</p>
+<p>B. không đồng ý với ai đó</p>
+<p>C. tức giận với ai đó</p>
+<p>D. giao cái gì đó cho ai đó</p>
+<p><strong>Thông tin: </strong>Firstly, teenagers don’t get along with their parents, and they often disagree with each other.</p>
+<p><em>(Thứ nhất, thanh thiếu niên không hòa hợp với cha mẹ và thường bất đồng quan điểm với nhau.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is the reason that makes many young people do bad things?
+
+      `,
+        options: [`argument with parents
+`,`pressure from peers
+`,`influence from teachers 
+`,`bullies at school
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Nguyên nhân nào khiến nhiều bạn trẻ làm điều xấu?</p>
+<p>A. tranh cãi với cha mẹ</p>
+<p>B. áp lực từ bạn bè đồng trang lứa</p>
+<p>C. ảnh hưởng từ giáo viên</p>
+<p>D. bắt nạt ở trường</p>
+<p><strong>Thông tin: </strong>Peer influence is another serious problem because it makes young people do bad things.</p>
+<p><em>(Ảnh hưởng của bạn bè là một vấn đề nghiêm trọng khác vì nó khiến người trẻ làm điều xấu.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does the word <strong><em><u>Some</u></em></strong> in the final paragraph refer to?
+      `,
+        options: [`bad things 
+`,`emotions
+`,`problems
+`,`adolescents
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Từ <strong><em>Some</em> </strong>ở đoạn cuối ám chỉ điều gì?</p>
+<p>A. những điều xấu</p>
+<p>B. cảm xúc</p>
+<p>C. vấn đề</p>
+<p>D. thanh thiếu niên</p>
+<p><strong>Thông tin: </strong>Peer influence is another serious problem because it makes <u>young people</u> do bad things… <u>Some</u> also get involved in school violence and bully younger students to become cooler in their friends’ eyes.</p>
+<p>(adolescents = young people).</p>
+<p><em>(Ảnh hưởng của bạn bè là một vấn đề nghiêm trọng khác vì nó khiến người trẻ làm điều xấu…. Một số còn tham gia vào bạo lực học đường và bắt nạt học sinh nhỏ tuổi hơn để trở nên ngầu hơn trong mắt bạn bè.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Read the passage and fill in each blank with the correct answer.
+</b></p><p style="text-align: center;">WHAT A DISASTER!</p>
+<p>It was a beautiful morning in June and the sun (26)_________. My parents and I were having a wonderful holiday in Hawaii. We swam in the sea and walked on the beach every day. On our last day, we decided (27)_________hiking up a volcano. We were climbing near the top of the volcano (28)_________we heard a loud noise coming from deep under the ground. Then, the volcano shook, smoke came out of the top, and lava came down the side. We were (29)_________! We ran as fast as we could back down the volcano. We felt worried because so much lava erupted from the top. Luckily, we got to the road and a bus picked us up just in time. We (30)_________quickly. Later, we watched the news to find out what happened. The eruption didn't injure anyone, bit destroyed some buildings and cars. We felt relieved because everyone was safe.
+</p>`,
+        question: `
+      `,
+        options: [`shone
+`,`was shining
+`,`had shone 
+`,`was shone
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div><p>Các câu phía sau trong đoạn văn động từ chia quá khứ tiếp diễn =&gt; vị trí còn trống động từ chia quá khứ tiếp diễn.</p>
+<p>shone (quá khứ đơn)</p>
+<p>was shining (quá khứ tiếp diễn)</p>
+<p>had shone (quá khứ hoàn thành)</p>
+<p>was shone (câu bị động)</p>
+<p>It was a beautiful morning in June and the sun (<strong>26</strong>)<strong> was shining</strong>.</p>
+<p><em>(Đó là một buổi sáng đẹp trời vào tháng Sáu và mặt trời đang chiếu sáng.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`to go
+`,`going
+`,`go
+`,`went
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Cấu trúc “decide + to V”: quyết định làm gì.</p>
+<p>to go (to v)</p>
+<p>going (V-ing)</p>
+<p>go (V-inf)</p>
+<p>went (V-inf)</p>
+<p>On our last day, we decided (<strong>27</strong>) <strong>to go</strong> hiking up a volcano.</p>
+<p><em>(Vào ngày cuối cùng của chúng tôi, chúng tôi quyết định đi leo núi lên núi lửa.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`while
+`,`before
+`,`after 
+`,`when
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Câu diễn tả một hành động đang diễn ra, kéo dài (were climbing) thì một hành động khác xen vào (heard a loud noise) =&gt; giữa hai mệnh đề dùng liên từ “when”.</p>
+<p>while: trong khi (diễn tả hai hành động diễn ra đồng thời)</p>
+<p>before: trước khi</p>
+<p>after : sau khi</p>
+<p>when: khi</p>
+<p>We were climbing near the top of the volcano (<strong>28</strong>) <strong>when</strong> we heard a loud noise coming from deep under the ground.</p>
+<p><em>(Chúng tôi đang leo gần đỉnh núi lửa thì nghe thấy một tiếng động lớn phát ra từ sâu dưới lòng đất.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`interested
+`,`terrified
+`,`excited 
+`,`confused
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>interested (adj): quan tâm, thích thú</p>
+<p>terrified (adj): kinh hãi</p>
+<p>excited (adj): phấn khích</p>
+<p>confused (adj): bối rối</p>
+<p>We were (<strong>29) terrified!</strong></p>
+<p><em>(Chúng tôi đã kinh hãi!)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`drove off
+`,`took off
+`,`put off
+`,`turned off
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>drove off (v): lái xe</p>
+<p>took off (v): rời đi</p>
+<p>put off (v): trì hoãn, tạm dừng</p>
+<p>turned off (v): tắt</p>
+<p>Luckily, we got to the road and a bus picked us up just in time. We (<strong>30</strong>) <strong>took off</strong> quickly.</p>
+<p><em>(May mắn thay, chúng tôi đã ra đến đường và một chiếc xe buýt đã đón chúng tôi vừa kịp lúc. Chúng tôi đã rời đi nhanh chóng.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Rearrange the given words to make complete sentences. Do not change the given words
+</b></p>`,
+        question: `new / a / iPod / buy / to / wants / he /. because/ music/ listening/ likes/ he/ to/ on/ his/ earphones/.
+
+      `,
+        options:[],
+        answer: `He wants to buy a new iPod because he likes listening to music on his earphones.`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>31.“want to V”: muốn làm gì; “like + V-ing”: thích làm gì.</p>
+<p><strong>Đáp án: </strong>He wants to buy a new iPod because he likes listening to music on his earphones.</p>
+<p><em>(Anh ấy muốn mua một chiếc iPod mới vì anh ấy thích nghe nhạc bằng tai nghe.)</em></p>                                            </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `camping / could / open air / the / us. / we / the / of / around / in / all / sounds / hear / wildlife / While
+
+      `,
+        options:[],
+        answer: `While camping in the open air, we could hear all the sounds of wildlife around us.`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>32.Dạng rút gọn mệnh đề của câu diễn tả một hành động đang diễn ra trong quá khứ thì một hành động khác xen vào: “While + V-ing, S + V-ed + O.”</p>
+<p><strong>Đáp án: </strong>While camping in the open air, we could hear all the sounds of wildlife around us.</p>
+<p><em>(Khi cắm trại ngoài trời, chúng tôi có thể nghe thấy tất cả âm thanh của động vật hoang dã xung quanh mình.)</em></p>                                            </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `rather / or / read / watch / would / a novel / you / some films / ?
+
+      `,
+        options:[],
+        answer: `Would you rather read a novel or watch some films?`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>33. Cấu trúc “would you rather + v-inf + or + v-inf?”: muốn làm gì hơn.</p>
+<p><strong>Đáp án: </strong>Would you rather read a novel or watch some films?</p>
+<p><em>(Bạn thích đọc tiểu thuyết hay xem phim hơn?)</em></p>                                            </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `neither / My mother / doesn’t / like / her photos / on / my sister. / and / Instagram, / does / posting
+
+      `,
+        options:[],
+        answer: `My mother doesn't like posting her photos on Instagram, and neither does my sister.`,
+        rewrite: ``,
+        explanation: ``,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `the / The / food. / providing / disaster / natural / by / of / were / the / victims / volunteers / helping
+      `,
+        options:[],
+        answer: `The volunteers were helping the victims of the natural disaster by providing food.`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p>35.Thì quá khứ tiếp diễn: S + was/ were V-ing</p>
+<p>“by + V-ing”: bằng cách nào</p>
+<p><strong>Đáp án: </strong>The volunteers were helping the victims of the natural disaster by providing food.</p>
+<p><em>(Các tình nguyện viên đang giúp đỡ các nạn nhân của thảm họa thiên nhiên bằng cách cung cấp thực phẩm.)</em></p>                                            </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Listen to an interview about the Winter Festival in Canada and choose the best answer for each question.
+</b></p>`,
+media:`https://img.loigiaihay.com/picture/2023/1211/1702277716627-hk1-ta8-discovery-de-4.mp3`,
+        question: `Where does the Winter Festival take place?
+
+      `,
+        options:[`In Josh’s city
+`,`Outside Josh’s city
+`,`Outside Josh’s country
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>36. Lễ hội mùa đông diễn ra ở đâu?</p>
+<p>A. Ở thành phố của Josh</p>
+<p>B. Bên ngoài thành phố của Josh</p>
+<p>C. Bên ngoài đất nước của Josh</p>
+<p><strong>Thông tin: </strong>Josh: Well, it’s the Winter Festival in my city.</p>
+<p><em>(À, đó là Lễ hội mùa đông ở thành phố của tôi.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is NOT true about Winter Festival?
+
+      `,
+        options:[`People celebrate the festival annually.
+`,`It’s a small local festival in Quebec.
+`,`There is a parade on the street.
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>37. Điều gì KHÔNG đúng về Lễ hội Mùa đông?</p>
+<p>A. Mọi người tổ chức lễ hội hàng năm.</p>
+<p>B. Đó là một lễ hội địa phương nhỏ ở Quebec.</p>
+<p>C. Có một cuộc diễu hành trên đường phố.</p>
+<p><strong>Thông tin: </strong>Josh: It takes place in February every year. It’s the biggest festival in my country too. We can watch a long, big parade on the streets.</p>
+<p><em>(Nó diễn ra vào tháng 2 hàng năm. Đây cũng là lễ hội lớn nhất ở đất nước tôi. Chúng ta có thể xem một cuộc diễu hành lớn và dài trên đường phố.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does Josh’s family love to do at the festival?
+
+      `,
+        options:[`Enjoying the snow.
+`,`Watching the parade. 
+`,`Joining in the parade.
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>38. Gia đình Josh thích làm gì ở lễ hội?</p>
+<p>A. Tận hưởng tuyết.</p>
+<p>B. Xem diễu hành.</p>
+<p>C. Tham gia diễu hành.</p>
+<p><strong>Thông tin:</strong> Josh: My family enjoys watching this parade every year.</p>
+<p><em>(Gia đình tôi thích xem cuộc diễu hành này hàng năm.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is special about the food during the Winter Festival?
+
+      `,
+        options:[`The food is cheaper.
+`,`The restaurants offer special menus.
+`,`There are more desserts.
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>39. Món ăn trong Lễ hội mùa đông có gì đặc biệt?</p>
+<p>A. Thức ăn rẻ hơn.</p>
+<p>B. Các nhà hàng cung cấp thực đơn đặc biệt.</p>
+<p>C. Có nhiều món tráng miệng hơn.</p>
+<p><strong>Thông tin: </strong>During the Winter Festival, there are special menus in the restaurants.</p>
+<p><em>(Trong Lễ hội mùa đông, các nhà hàng sẽ có thực đơn đặc biệt.)</em></p>
+                                                   </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What sport does John participate in the events?
+
+          `,
+        options:[`Hockey.
+`,`Skiing.
+`,`Snowboarding.
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>40. John tham gia môn thể thao nào trong các sự kiện?</p>
+<p>A. Khúc côn cầu</p>
+<p>B. Trượt tuyết</p>
+<p>C. Trượt ván trên tuyết</p>
+<p><strong>Thông tin: </strong>Josh: I sometimes take part in the local snowboarding race with my cousins.</p>
+<p><em>(Đôi khi tôi tham gia cuộc đua trượt ván trên tuyết ở địa phương với anh em họ của mình.)</em></p>
+                                                   </div>`,
+      },
+    ],
+  },
+  {
+    semester: 2,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><b>Listen and choose the correct answer to each of the following questions.
+</b></p>`,
+media:`https://img.loigiaihay.com/picture/2024/1031/1730358129118-giua-hk1-ta8-friends-plus-de-5.wav`,
+        question: `What do Sara and Lucy discuss in the conversation?
+
+          `,
+        options:[`Their favourite TV shows.
+`,`Their favourite books.
+`,`Their plans for the weekend.
+`,`Their work schedule.
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Sara và Lucy thảo luận về điều gì trong cuộc trò chuyện?</p>
+<p>A. Chương trình truyền hình yêu thích của họ</p>
+<p>B. Những cuốn sách yêu thích của họ</p>
+<p>C. Kế hoạch cuối tuần của họ</p>
+<p>D. Lịch làm việc của họ</p>
+<p><strong>Thông tin:</strong> <strong>Sara:</strong> I'm doing well too, thanks. So, what are your plans for the weekend?</p>
+<p><em>(</em><em>Mình cũng ổn, cảm ơn. Vậy thì, kế hoạch cuối tuần của bạn là gì?)</em></p>
+<p>Đáp án: C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is Lucy's response when Sara asks about her plans for the weekend?
+
+          `,
+        options:[`She wants to catch up on some work. 
+`,`She has already made plans.
+`,`She wants to go for a swim.
+`,`She hasn't made any plans yet.
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Lucy phản ứng như thế nào khi Sara hỏi về kế hoạch cuối tuần của cô ấy?</p>
+<p>A. Cô ấy muốn bắt kịp một số công việc</p>
+<p>B. Cô ấy đã lên kế hoạch rồi</p>
+<p>C. Cô ấy muốn đi bơi</p>
+<p>D. Cô ấy chưa có kế hoạch gì cả</p>
+<p><strong>Thông tin: </strong><strong>Lucy:</strong> Actually, I haven't made any plans yet. What about you?</p>
+<p><strong><em>(</em></strong><strong><em>Lucy: </em></strong><em>Thực ra, mình chưa có kế hoạch gì cả. Còn bạn?)</em></p>
+<p>Đáp án: D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does Sara suggest they do on the weekend?
+
+          `,
+        options:[`Go for a swim in the pool.
+`,`Go shopping.
+`,`Go to a movie.
+`,`Go for a hike in the countryside.
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Sara đề nghị họ làm gì vào cuối tuần?</p>
+<p>A. Đi bơi trong hồ bơi</p>
+<p>B. Đi mua sắm</p>
+<p>C. Đi xem phim</p>
+<p>D. Đi bộ đường dài ở vùng nông thôn</p>
+<p><strong>Thông tin: </strong><strong>Sara:</strong> I was thinking of going for a hike in the countryside, but I'm also open to other ideas.</p>
+<p><em>(</em><strong><em>Sara: </em></strong><em>Mình đang nghĩ đến việc đi bộ đường dài ở vùng nông thôn, nhưng mình cũng sẵn lòng với những ý tưởng khác.)</em></p>
+<p>Đáp án: D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What hiking trail do they decide to take?
+
+          `,
+        options:[`The trail at Richmond Park.
+`,`The trail at Greenwich Park.
+`,`The trail at Hyde Park.
+`,`The trail at Box Hill.
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Họ quyết định đi theo đường mòn nào?</p>
+<p>A. Đường mòn ở Richmond Park</p>
+<p>B. Đường mòn ở Greenwich Park</p>
+<p>C. Đường mòn ở Hyde Park</p>
+<p>D. Đường mòn ở Box Hill</p>
+<p><strong>Thông tin:</strong></p>
+<p><strong>Sara:</strong> I've heard that the trail at Box Hill is really beautiful, so we could try that one.</p>
+<p><em>(</em><em>Mình nghe nói đường mòn ở Box Hill rất đẹp, chúng ta có thể thử đường mòn đó.</em><em>)</em></p>
+<p><strong>Lucy:</strong> Yeah, I've heard about Box Hill too. Let's do that.</p>
+<p><em>(</em><em>Ừ, mình cũng nghe nói về Box Hill. Chúng ta làm thế đi.)</em></p>
+<p>Đáp án: D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does Lucy plan to do besides hiking?
+
+          `,
+        options:[`Watch a movie.
+`,`Go for a swim.
+`,`Visit a museum.
+`,`Catch up on some reading.
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Lucy dự định làm gì ngoài việc đi bộ đường dài?</p>
+<p>A. Xem phim</p>
+<p>B. Đi bơi</p>
+<p>C. Thăm viện bảo tàng</p>
+<p>D. Đọc sách</p>
+<p><strong>Thông tin:</strong></p>
+<p><strong>Sara:</strong> Do you have any other plans for the weekend?</p>
+<p>(<em>Bạn còn kế hoạch gì khác cho cuối tuần không?</em><em>)</em></p>
+<p><strong>Lucy:</strong> No, I think I'll just relax and catch up on some reading.</p>
+<p><em>(</em><em>Không, mình nghĩ mình sẽ chỉ thư giãn và đọc sách. )</em></p>
+<p>Đáp án: D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Which word has the underlined part pronounced differently from that of the others?
+</b></p>`,
+        question: `
+          `,
+        options:[`<p>gr<u>ou</u>p</p>`,`<p>b<u>oo</u>k</p>`,`<p>l<u>oo</u>k</p>`,`<p>c<u>oo</u>k</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A.group /ɡr<strong>uː</strong>p/</p>
+<p>B.book /b<strong>ʊ</strong>k/</p>
+<p>C.look /l<strong>ʊ</strong>k/</p>
+<p>D.cook/k<strong>ʊ</strong>k/</p>
+<p>Phần gạch chân của đáp án A phát âm /u:/, các đáp án còn lại phát âm /ʊ/.</p>
+<p>Đáp án: A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`<p>s<u>e</u>nsation</p>`,`<p>s<u>e</u>nse</p>`,`<p>sm<u>e</u>ll</p>`,`<p>resid<u>e</u>nt</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A.sensation /s<strong>e</strong>nˈseɪ.ʃən/</p>
+<p>B.sense /s<strong>e</strong>ns/</p>
+<p>C.smell/sm<strong>e</strong>l/</p>
+<p>D.resident/ˈrɛzɪd<strong>ə</strong>nt/</p>
+<p>Phần gạch chân trong trong đáp án D là âm /ə/, trong các phương án còn lại phát âm /e/.</p>
+<p>Đáp án: D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Which word has a different stress pattern from that of the others?
+</b></p>`,
+        question: `
+          `,
+        options:[`generally 
+`,`obviously
+`,`apparently
+`,`gadget
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. generally /ˈdʒɛn.ə.rə.li/</p>
+<p>B.obviously/ˈɒb.vi.əs.li</p>
+<p>C.apparently/əˈpær.ənt.li/</p>
+<p>D.gadget/ˈɡædʒ.ɪt/</p>
+<p>Trọng âm của từ trong đáp án C rơi vào âm thứ 2, các từ còn lại có trọng âm rơi vào âm thứ nhất.</p>
+<p>Đáp án: C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`resident
+`,`company
+`,`sensation
+`,`hopeful
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A.resident /ˈrɛzɪdənt/</p>
+<p>B.company /ˈkʌm.pə.ni/</p>
+<p>C.sensation/senˈseɪ.ʃən/</p>
+<p>D.hopeful /ˈhoʊp.fəl/</p>
+<p>Trọng âm của từ trong đáp án C rơi vào âm tiết thứ 2. Các từ còn lại có trọng âm rơi vào âm tiết thứ nhất.</p>
+<p>Đáp án: C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`interview
+`,`affirmative
+`,`amazingly
+`,`instruction
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A.interview /ˈɪntəvjuː/</p>
+<p>B.affirmative/əˈfɜːmətɪv/</p>
+<p>C.amazingly/əˈmeɪ.zɪŋ.li/</p>
+<p>D.instruction/ɪnˈstrʌk.ʃən/</p>
+<p>Trọng âm của từ trong đáp án A rơi vào âm thứ nhất, các từ còn lại có trọng âm rơi vào âm thứ 2.</p>
+<p>Đáp án: A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Choose the answer (A, B, C or D) that best fits the space in each question.
+</b></p>`,
+        question: `_______ has changed the way people communicate and consume information.
+
+          `,
+        options:[`TV
+`,`Life
+`,`Craze
+`,`Social media
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. TV (n): Ti vi</p>
+<p>B. Life (n): Cuộc sống</p>
+<p>C. Craze (n): Mốt, trào lưu</p>
+<p>D. Social media (n): Mạng xã hội</p>
+<p><strong>Socialmedia</strong>haschangedthewaypeoplecommunicateandconsumeinformation</p>
+<p><em>(Mạng xã hội đã thay đổi cách mọi người giao tiếp và tiêu thụ thông tin.)</em></p>
+<p>Đáp án: D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I _______ my friends in Sapa this time last year. The weather was really cold.
+
+          `,
+        options:[`to visit
+`,`visit 
+`,`visited 
+`,`was visiting
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>- Câu này là ở thì quá khứ tiếp diễn vì có dấu hiệu “this time last year”.</p>
+<p>- Cấu trúc câu khẳng định thì quá khứ tiếp diễn:</p>
+<p>Chủ ngữ số ít + was + động từ có đuôi -ing + trạng từ chỉ thời gian.</p>
+<p>I <strong>was</strong><strong> visiting </strong>my friends in Sapa this time last year. The weather was really cold.</p>
+<p><em>(Giờ này năm ngoái tôi đang đến thăm bạn tôi ở Sapa. Thời tiết rất lạnh.)</em></p>
+<p>Đáp án: D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Andy: I’m going to a wedding party next week, but I don’t know what to wear. – Mary: _______
+
+          `,
+        options:[`Let’s meet at a new clothing store on Sunday. We can find what suits you.
+`,`You can call me next week.
+`,`
+I’ll buy my sister a new dress.
+`,`Don’t worry. I’ll go on holiday that day.
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p><strong><em>Andy:</em></strong> I’m going to a wedding party next week, but I don’t know what to wear.</p>
+<p><em>(Mình sắp đi đến một tiệc cưới vào tuần sau, nhưnh mình chưa biết phải mặc gì cả.)</em></p>
+<p><strong><em>Mary:</em></strong><strong> _______</strong></p>
+<p>A. Let’s meet at a new clothing store on Sunday. We can find what suits you.</p>
+<p><em>(Hãy gặp nhau tại một cửa hàng quần áo mới vào Chủ nhật. Chúng ta có thể tìm thấy những gì phù hợp với bạn.)</em></p>
+<p>B. You can call me next week.</p>
+<p><em>(</em><em>Bạn có thể gọi cho tôi tuần tới</em><em>)</em></p>
+<p>C. I’ll buy my sister a new dress.</p>
+<p><em>(Tôi sẽ mua cho chị tôi cái váy mới)</em></p>
+<p>D. Don’t worry. I’ll go on holiday that day.</p>
+<p><em>(Đừng lo. Tôi sẽ đi nghỉ vào ngày đó)</em></p>
+<p>Đáp án: A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `High-tech _______ are everywhere in our modern world.
+
+          `,
+        options:[`utensils
+`,`
+fad
+`,`pole 
+`,`gadgets
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. utensils (n): dụng cụ nhà bếp</p>
+<p>B. fad (n): mốt nhất thời</p>
+<p>C. pole (n): cái cột</p>
+<p>D. gadgets (n): thiết bị, đồ dùng điện tử</p>
+<p>High-tech <strong>gadgets</strong> are everywhere in our modern world.</p>
+<p><em>(Nhưng đồ dụng công nghệ cao đang ở kháp nơi trong thế giới hiện đại của chúng ta.)</em></p>
+<p>Đáp án: D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I ______ sushi before.
+
+          `,
+        options:[`did not eat
+`,`ate not 
+`,`have not eaten
+`,`had not eaten
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>- Câu này dùng ở thì hiện tại hoàn thành vì có dấu hiệu “before”.</p>
+<p>- Cấu trúc câu khẳng định ở thì Hiện tại hoàn thành:</p>
+<p>Chủ ngữ số nhiều (They) + have + động từ dạng phân từ 2.</p>
+<p>I <strong>have not </strong>eaten sushi before.</p>
+<p><em>(T</em><em>ôi chưa từng ăn sushi trước đây.)</em></p>
+<p>Đáp án: C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The ______ sense allows us to perceive objects by touching them.
+
+          `,
+        options:[`smell 
+`,`touch
+`,`taste
+`,`sight
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. smell (n): khứu giác</p>
+<p>B. touch (n): xúc giác</p>
+<p>C. taste (n): vị giác</p>
+<p>D. sight (n): thị giác</p>
+<p><strong></strong>The<strong> touch</strong> sense allows us to perceive objects by touching them.</p>
+<p><em>(Xúc giác giúp ta nhận biết đồ vật bằng việc chạm vào chúng.)</em></p>
+<p>Đáp án: B</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The ___________ was surrounded by fans and paparazzi.
+
+          `,
+        options:[`celebrity
+`,`gadget
+`,`craze
+`,`fame
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. celebrity (n): người nổi tiếng</p>
+<p>B. gadget (n): thiết bị</p>
+<p>C. craze (n): mốt</p>
+<p>D. fame (n): danh tiếng</p>
+<p>The <strong>celebrity</strong> was surrounded by fans and paparazzi.</p>
+<p><em>(Người nổi tiếng đã bị bao quanh bởi người hâm mộ và các tay săn ảnh.)</em></p>
+<p>Đáp án: A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My grandfather always tells me about how he ___________ five miles to school every day when he was a kid.
+
+      `,
+        options:[`walks
+`,`used to walk
+`,`walk
+`,`walking
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Cấu trúc “used to” nhằm chỉ một hành động thường xảy ra hoặc một thói quen trong quá khứ mà hiện tại không còn nữa.</p>
+<p>Cấu trúc với “used to”: Chủ ngữ + used to + động từ nguyên mẫu.</p>
+<p>My grandfather always tells me about how he<strong> used to walk</strong> five miles to school every day when he was a kid.</p>
+<p><em>(Ông tôi luôn kể cho tôi về cách mà ông ấy từng đi bộ 5 dặm Anh đến trường mỗi ngày khi ông ấy còn nhỏ)</em></p>
+<p>Đáp án: B</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `'Do you have a favorite clothing brand?' – ‘___________’
+
+      `,
+        options:[`My favorite store is nice. I visit it all the time.
+`,`I have a few clothing brands that I really like, but I wouldn't say I have a favorite.
+`,`I really like my clothing brand.
+`,`I hope they will open new branches soon.
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>Do you have a favorite clothing brand?</p>
+<p><em>(Bạn có một thương hiệu quần áo yêu thích nào không? )</em></p>
+<p>A. My favorite store is nice I visit it all the time.</p>
+<p><em>(</em><em>Cửa hàng yêu thích của tôi rất đẹp</em><em>.</em> <em>Lúc</em><em> nào tôi cũng đến đó.)</em></p>
+<p>B. I have a few clothing brands that I really like but I wouldn't say I have a favorite:</p>
+<p><em>(</em><em>Tôi có một vài thương hiệu quần á</em><em>o </em><em>mà tôi thực sự thích</em> <em>nhưng tôi sẽ không nói tôi thực</em><em> sự là tín đồ cuat một thương hiệu nào đó.)</em></p>
+<p>C. I really like my clothing brand:</p>
+<p><em>(</em><em>Tôi thực sự thích thương hiệu quần áo của mình</em><em>.)</em></p>
+<p>D. I hope they will open new branches soon:</p>
+<p><em>(</em><em>Tôi hy vọng họ sẽ m</em><em>ở </em><em>các chi nhánh mới sớm</em><em>.)</em></p>
+<p>Đáp án: B</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `___________, the concert is sold out and we can't get tickets anymore.
+
+      `,
+        options:[`Technically
+`,`Hopefully 
+`,`Apparently 
+`,`Beautifully
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. Technically (adv): Về mặt kỹ thuật</p>
+<p>B. Hopefully (adv): Hy vọng là</p>
+<p>C. Apparently (adv): Rõ ràng là</p>
+<p>D. Beautifully (adv): Đẹp đẽ</p>
+<p><strong>Apparently</strong>, the concert is sold out and we can't get tickets anymore.</p>
+<p><em>(Rõ ràng, vé cho buổi hòa nhạc đã bán hết và chúng tôi không thể mua thêm tấm vé nào.) </em></p>
+<p>Đáp án: C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Choose the word (A, B, C or D) that best fits the blank space in the following passage.
+</b></p>
+<p>Clothing is a big part of how a teen (21) _________ himself or herself and shows his or her style. Teenagers often use what they wear to show who they are and what they like. With the rise of (22) _________ and online shopping, teenagers have access to a wide range of fashion options, from trendy and fashionable to vintage and eclectic.
+</p><p>Teenagers choose what to wear (23) _________ on both their personal style and how comfortable it is. Teenagers are wearing more and more clothes that are comfortable and useful, like athletic wear. Conscious consumers are also becoming more interested in brands that put an emphasis on sustainability and ethical production methods.
+</p><p>Teenagers can also be (24) _________ by the pressure to fit in with certain beauty standards and fashion trends. Teenagers should know that their worth and value are not based on what they wear or how they look. Instead, they should dress in a way that makes them feel (25) _________ and comfortable.
+</p><p>Overall, clothing is a big part of a teenager's life and a way for them to show who they are and what they like. Teenagers can make good decisions about what to wear by embracing their uniqueness and putting comfort and (26) _________ values first.
+</p>`,
+        question: `
+      `,
+        options:[`expresses
+`,`communicates 
+`,`thinks 
+`,`believes
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. expresses – express (v): thể hiện</p>
+<p>B. communicates – communicate (v): giao tiếp</p>
+<p>C. thinks – think (v): suy nghĩ</p>
+<p>D. believes – believe (v): tin rằng</p>
+<p>Clothing is a big part of how a teen <strong>expresses</strong> himself or herself and shows his or her style.</p>
+<p><em>(Trang phục là môt phần quan trọng trong cách mà một thiếu niên thể hiện bản thân và phong cách của mình.)</em></p>
+<p>Đáp án: A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`TV
+`,`social media 
+`,`clothes
+`,`social life
+`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. TV (n): tivi</p>
+<p>B. social media (n): mạng xã hội</p>
+<p>C. clothes (n): quần áo</p>
+<p>D. social life (n): đời sống xã hội</p>
+<p>With the rise of <strong>social media</strong> and online shopping, teenagers have access to a wide range of fashion options, from trendy and fashionable to vintage and eclectic.</p>
+<p><em>(</em><em>Với sự phát triển của mạng xã hội và mua sắm trực tuyến, thanh thiếu niên có thể</em><em> tiếp cận với</em><em> một loạt các lựa chọn thời trang, từ hợp thời trang và sành điệu đến cổ điển và đa dạng.</em><em>)</em></p>
+<p>Đáp án: B</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`played
+`,`made
+`,`based
+`,`found
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. played – play (v): chơi </p>
+<p>B. made – make (v): làm  </p>
+<p>C. based – base (v): dựa vào  </p>
+<p>D. found – find (v): tìm thấy</p>
+<p>base on (phr. v): dựa vào</p>
+<p>Teenagers choose what to wear <strong>based</strong> on both their personal style and how comfortable it is.</p>
+<p><em>(Thanh thiếu niên lựa chọn trang phục dựa trên cả phong cách cá nhân và sự thoải mái của nó. )</em></p>
+<p>Đáp án: C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`thought
+`,`touched
+`,`influenced
+`,`impressed
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. thought – think (v): nghĩ rằng  </p>
+<p>B. touched – touch (v): chạm vào </p>
+<p>C. influenced – influence (v): ảnh hưởng</p>
+<p>D. impressed – impress (v): gây ấn tượng</p>
+<p>Teenagers can also be <strong>influenced</strong> by the pressure to fit in with certain beauty standards and fashion trends.</p>
+<p><em>(Thanh thiếu niên cũng có thể bị ảnh hưởng bởi áp lực phải theo kịp một số tiêu chuẩn sắc đẹp và xu hướng thời trang nhất định.)</em></p>
+<p>Đáp án: C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`self-confidence 
+`,`confidence
+`,`confidently 
+`,`confident
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. self-confidence (n): sự tự tin vào chính mình  </p>
+<p>B. confidence (n): tự tin</p>
+<p>C. confidently (adv): một cách tự tin</p>
+<p>D. confident (adj): tự tin</p>
+<p>feel + tính từ: cảm thấy như thế nào</p>
+<p>Instead, they should dress in a way that makes them feel <strong>confident</strong> and comfortable.</p>
+<p><em>(Thay vào đó, họ nên ăn mặc theo cách khiến họ cảm thấy tự tin và thoải mái.)</em></p>
+<p>Đáp án: D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`familiar  
+`,`different
+`,`similar 
+`,`personal
+`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p>A. familiar (adj): quen thuộc  </p>
+<p>B. different (adj): khác nhau  </p>
+<p>C. similar (adj): giống nhau  </p>
+<p>D. personal (adj): thuộc về cá nhân</p>
+<p>Teenagers can make good decisions about what to wear by embracing their uniqueness and putting comfort and<strong> personal</strong> values first.</p>
+<p><em>(Thanh thiếu niên có thể đưa ra quyết định tốt về việc mặc gì bằng cách chấp nhận sự độc đáo của mình và đặt sự thoải mái và giá trị cá nhân lên hàng đầu.)</em></p>
+<p>Đáp án: D</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Read the following passage and do as direct.
+</b></p><p>Braille language is a system of raised dots that is used by people who are blind or visually impaired to read and write. The system was developed by Louis Braille in the early 19th century and has since become a widely accepted method of communication for people with visual impairments.
+</p><p>Each Braille character is made up of a combination of six dots arranged in two columns. These dots can be felt with the fingertips, allowing the reader to distinguish between different letters, numbers, and punctuation marks.
+</p><p>Braille language is an important tool for people who are blind or visually impaired to access information and communicate with others. It is used in a variety of settings, including schools, libraries, and workplaces, and is recognized as an official language in many countries.
+</p><p>Despite its importance, access to Braille language and resources can be limited for many people who are blind or visually impaired, particularly in developing countries. Efforts are being made to increase accessibility and promote the use of Braille language, including the development of Braille technology and the creation of Braille books and materials.
+</p>`,
+        question: `Braille language is a system of raised dots.
+
+      `,
+        options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p><strong>27. </strong><strong>True</strong></p>
+<p>Braille language is a system of raised dots that is used by people who are blind or visually impaired to read and write.</p>
+<p><em>(Ngôn ngữ Braille là một hệ thống các chấm nổi được sử dụng bởi những người khiếm thị hoặc có thị lực yếu để đọc và viết.)</em></p>
+<p><strong>Thông tin</strong>:  Braille language is a system of raised dots.</p>
+<p><em>(Ngôn ngữ Braille là một hệ thống các chấm nổi.)</em></p>
+<p>Đáp án: True</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Each Braille character is made up of six dots.
+
+      `,
+        options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p><strong>2</strong><strong>8</strong><strong>. </strong><strong>False</strong></p>
+<p>Each Braille character is made up of six dots.</p>
+<p><em>(Mỗi ký tự Braille được tạo thành từ sáu chấm.)</em></p>
+<p><strong>Thông tin</strong>: Each Braille character is made up of a combination of six dots arranged in two columns.</p>
+<p><em>(Mỗi ký tự Braille được tạo thành từ sự kết hợp của sáu chấm xếp thành hai cột.)</em></p>
+<p>Đáp án: False</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Braille language is not recognized as an official language.
+
+      `,
+        options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p><strong>29</strong><strong>. </strong><strong>False</strong></p>
+<p>Braille language is not recognized as an official language.</p>
+<p><em>(Ngôn ngữ Braille không được công nhận là ngôn ngữ chính thức.)</em></p>
+<p><strong>Thông tin: </strong>It is used in a variety of settings, including schools, libraries, and workplaces, and is recognized as an official language in many countries.</p>
+<p><em>(Nó được sử dụng trong nhiều bối cảnh, bao gồm trường học, thư viện và nơi làm việc, và được công nhận là một ngôn ngữ chính thức ở nhiều quốc gia.)</em></p>
+<p>Đáp án: False</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Access to Braille language and resources is limited.
+
+      `,
+        options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p><strong>3</strong><strong>0</strong><strong>. </strong><strong>True</strong></p>
+<p>Access to Braille language and resources is limited.</p>
+<p><em>(Việc tiếp cận ngôn ngữ và tài nguyên Braille bị hạn chế.)</em></p>
+<p><strong>Thông tin:</strong> Despite its importance, access to Braille language and resources can be limited for many people who are blind or visually impaired, particularly in developing countries.</p>
+<p><em>(Mặc dù quan trọng, việc tiếp cận ngôn ngữ và tài nguyên Braille có thể bị hạn chế đối với nhiều người khiếm thị, đặc biệt là ở các nước đang phát triển.)</em></p>
+<p>Đáp án: True</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is the main purpose of Braille language?
+
+      `,
+        options:[`To facilitate reading and writing for people who are blind or visually impaired.
+`,`To communicate with animals.
+`,`To replace spoken languages.
+`,`To enhance visual acuity.
+`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        <p><strong>3</strong><strong>1</strong><strong>. </strong><strong>A</strong></p>
+<p>What is the main purpose of Braille language?</p>
+<p><em>(</em><em>Mục đích chính của ngôn ngữ Braille là gì? </em><em>)</em></p>
+<p>A. To facilitate reading and writing for people who are blind or visually impaired.</p>
+<p><em>(</em><em>Để hỗ trợ đọc và viết cho người khiếm thị hoặc thị lực yếu. </em><em>)</em></p>
+<p>B. To communicate with animals.</p>
+<p><em>(</em><em>Để giao tiếp với động vật.</em><em>)</em></p>
+<p>C. To replace spoken languages.</p>
+<p><em>(</em><em>Để thay thế các ngôn ngữ nói. </em><em>)</em></p>
+<p>D. To enhance visual acuity.</p>
+<p><em>(</em><em>Để nâng cao thị lực.</em><em>)</em></p>
+<p><strong>Thông tin: </strong>Braille language is a system of raised dots that is used by people who are blind or visually impaired to read and write.</p>
+<p><em>(Ngôn ngữ Braille là một hệ thống các chấm nổi được sử dụng bởi những người mù hoặc khiếm thị để đọc và viết.)</em></p>
+<p>Đáp án:A</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is true about the accessibility of Braille language?
+
+      `,
+        options:[`Efforts are not being made to promote the use of Braille technology.
+`,`It is widely accessible to people who are blind or visually impaired in all countries.
+`,`Access to Braille language and resources can be limited, especially in developing countries.
+`,`Braille language is not recognized as an official language anywhere.
+`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<div>
+                                                        
+<p>What is true about the accessibility of Braille language?</p>
+<p><em>(</em><em>Điều gì đúng về khả năng tiếp cận ngôn ngữ Braille? </em><em>)</em></p>
+<p>A. Efforts are not being made to promote the use of Braille technology.</p>
+<p><em>(</em><em>Không có nỗ lực nào đang được thực hiện để thúc đẩy việc sử dụng công nghệ Braille. </em><em>)</em></p>
+<p>B. It is widely accessible to people who are blind or visually impaired in all countries.</p>
+<p><em>(</em><em>Nó được tiếp cận rộng rãi đối với người khiếm thị ở tất cả các quốc gia.</em><em>)</em><em> </em></p>
+<p>C. Access to Braille language and resources can be limited, especially in developing countries.</p>
+<p><em>(</em><em>Việc truy cập vào ngôn ngữ và tài nguyên Braille có thể bị hạn chế, đặc biệt ở các nước đang phát triển. </em><em>)</em></p>
+<p>D. Braille language is not recognized as an official language anywhere.</p>
+<p><em>(</em><em>Ngôn ngữ Braille không được công nhận là ngôn ngữ chính thức ở bất kỳ nơi nào.</em><em>)</em></p>
+<p><strong>Thông tin: </strong>Despite its importance, access to Braille language and resources can be limited for many people who are blind or visually impaired, particularly in developiountries.</p>
+<p><em>(Mặc dù rất quan trọng, việc tiếp cận ngôn ngữ và tài nguyên Braille có thể bị hạn chế đối với nhiều người mù hoặc khiếm thị, đặc biệt là ở các nước đang phát triển.)</em></p>
+<p>Đáp án: C</p>                                                    </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Rearrange the groups of words in a correct order to make complete sentences.
+</b></p>`,
+        question: `someone when we / We naturally / see them / want to join /enjoying themselves.
+
+      `,
+        options:[],
+        answer: `We naturally want to join someone when we see them enjoying themselves. 
+`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p><strong>3</strong><strong>3.</strong></p>
+<p><strong>Kiến thức:</strong> Câu phức</p>
+<p><strong>Giải thích</strong><strong>: </strong></p>
+<p>Cấu trúc câu phức với “when” ở thì hiện tại đơn:</p>
+<p>Chủ ngữ 1 + động từ 1 + when + chủ ngữ 2 + động từ 2.</p>
+
+<p><em>(Chúng ta tự nhiên muốn tham gia với ai đó khi chúng ta thấy họ đang vui vẻ.)</em></p>                                            </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `lots of / pizza with / on top. / cheese and / vegetables / I love
+ 
+      `,
+        options:[],
+        answer: `I love pizza with lots of cheese and vegetables on top.`,
+        rewrite: ``,
+        explanation: `Chủ ngữ ngôi thứ nhất + động từ nguyên mẫu + tân ngữ.
+ <br/>(Tôi thích pizza với nhiều phô mai và rau ở trên.)
+ `,
+      },
+           {
+        id: 41,
+        extra: ``,
+        question: `Fish and chips / on Fridays. / dish that is enjoyed / by many / people, especially / is a classic British
+ 
+          `,
+        options:[],
+        answer: `Fish and chips is a classic British dish that is enjoyed by many people, especially on Fridays. 
+ `,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p><strong>3</strong><strong>5.</strong></p>
+<p><strong>Kiến thức:</strong> Câu khẳng định ở thì hiện tại đơn, đại từ quan hệ</p>
+<p><strong>Giải thích</strong><strong>: </strong></p>
+<p>- Cấu trúc câu hiện tại đơn với động từ thường:</p>
+<p>Chủ ngữ số ít + is + a/an + danh từ đếm được số ít.</p>
+<p>- Trong câu này, từ “that” là một đại quan hệ, thay thế cho “Fish and chips”.</p>
+<p><strong>Đáp án</strong><strong>:</strong> Fish and chips is a classic British dish that is enjoyed by many people, especially on Fridays. </p>
+<p><em>(Cá và khoai tây chiên là một món ăn cổ điển của Anh được nhiều người yêu thích, đặc biệt là vào các ngày thứ Sáu.)</em></p>                                            </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `up of millions / of cells, each / The human / body is made / with a unique / function.
+ 
+          `,
+        options:[],
+        answer: `The human body is made up of millions of cells, each with a unique function.`,
+        rewrite: ``,
+        explanation: `<div>
+                                                <p><strong>3</strong><strong>6.</strong></p>
+<p><strong>Kiến thức:</strong> Câu bị động ở thì hiện tại đơn</p>
+<p><strong>Giải thích</strong><strong>: </strong></p>
+<p>Cấu trúc câu bị động ở thì hiện tại đơn:</p>
+<p>Chủ ngữ số ít + is + động từ dạng phân từ 2.</p>
+<p><strong>Đáp án:</strong> The human body is made up of millions of cells, each with a unique function.</p>
+<p><em>(</em><em>Cơ thể con người được tạo thành từ hàng triệu tế bào, mỗi tế bào có một chức năng riêng biệt.</em><em>)</em></p>                                            </div>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Rewrite each of the following sentences in another way so that it means almost the same as the sentence printed before it.
+ </b></p>`,
+        question: `These red trainers are more expensive than the blue ones.
+ 
+          `,
+        options:[],
+        answer: `trainers are cheaper than the red ones.`,
+        rewrite: `These blue
+ `,
+        explanation: `<div>
+                                  
+<p><strong>Kiến thức:</strong> So sánh hơn</p>
+<p><strong>Giải thích</strong><strong>: </strong></p>
+<p>- Câu gốc: These red trainers are more expensive than the blue ones.</p>
+<p><em>(Đôi giày thể thao màu đỏ đắt hơn đôi màu xanh dương.)</em></p>
+<p>- Cấu trúc so sánh hơn: Chủ ngữ + động từ to be + tính từ dạng so sánh hơn + than + tân ngữ.</p>
+
+<p><em>(Đôi giày thể thao màu xanh dương rẻ hơn đôi màu đỏ.)</em></p>                                            </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Max enjoyed surfing the internet, but now he doesn’t.
+ 
+          `,
+        options:[],
+        answer: `to enjoy surfing the Internet.`,
+        rewrite: `Max used
+ `,
+        explanation: `<div>
+                                                <p><strong>3</strong><strong>8.</strong></p>
+<p><strong>Kiến thức:</strong> Cấu trúc “used to”</p>
+<p><strong>Giải thích</strong><strong>: </strong></p>
+<p>- Câu gốc: Max enjoyed surfing the internet, but now he doesn’t.</p>
+<p><em>(Max đã từng rất thích lướt mạng, nhưng giờ anh ấy không thích nữa.) </em></p>
+<p>- Cấu trúc “used to” nói về một hành động xảy ra thường xuyên trong quá khứ nhưng hiện tại không còn nữa: Chủ ngữ + used to + động từ nguyên mẫu + tân ngữ.</p>
+
+<p><em>(Max đã từng rất thích lướt mạng.)</em></p>                                            </div>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Mary has been living in London for six months.
+ 
+          `,
+        options:[],
+        answer: `living in London six months ago.`,
+        rewrite: `Mary began
+ `,
+        explanation: `<div>
+                                                <p><strong>3</strong><strong>9.</strong></p>
+<p><strong>Kiến thức:</strong> Câu khẳng định ở thì quá khứ đơn</p>
+<p><strong>Giải thích</strong><strong>: </strong></p>
+<p>- Câu gốc: Mary has been living in London for six months.</p>
+<p><em>(Mary sống ở Luân Đôn được 6 tháng rồi.)</em></p>
+<p>- Cấu trúc câu khẳng định ở thì quá khứ đơn:</p>
+<p>Chủ ngữ + động từ ở thì quá khứ + trạng từ chỉ nơi chốn + khoảng thời gian + ago.</p>
+<p><em>(Mary bắt đầu sống ở Luân Đôn từ 6 tháng trước.)</em></p>                                            </div>`,
+      },
+          {
+        id: 41,
+        extra: ``,
+        question: `Jack has not played the guitar for ten years.
+ 
+          `,
+        options:[],
+        answer: `playing the guitar ten years ago.`,
+        rewrite: ` Jack stopped
+ `,
+        explanation: `<div>
+                                               
+<p><strong>Kiến thức:</strong> Câu khẳng định ở thì quá khứ đơn</p>
+<p><strong>Giải thích</strong><strong>: </strong></p>
+<p>- Câu gốc: Jack has not played the guitar for ten years.</p>
+<p><em>(Jack không chơi đàn ghi-ta được 10 năm rồi.)</em></p>
+<p>- Cấu trúc câu khẳng định ở thì quá khứ đơn:</p>
+<p>Chủ ngữ + động từ ở thì quá khứ + trạng từ chỉ nơi chốn + khoảng thời gian + ago.</p>
+
+<p><em>(Jack dừng chơi ghi-ta từ 10 năm trước.)</em></p>                                            </div>`,
+      },
+    ],
+  },
+  {
+    semester: 1,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><strong>I. Choose the word choose the word whose underlined part is pronounced differently from the others.</strong></p>`,
+        question: `
+          `,
+        options:[`<p>bl<u>o</u>ck</p>`,`<p>n<u>o</u>vel</p>`,`<p>y<u>ou</u>r</p>`,`<p>iP<u>o</u>d<strong></strong></p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. bl<u>o</u>ck /blɒk/</p>
+<p>B. n<u>o</u>vel /ˈnɒv.əl/</p>
+<p>C. y<u>ou</u>r /jɔːr/</p>
+<p>D. iP<u>o</u>d /ˈaɪ.pɒd/</p>
+<p>Phần được gạch chân ở phương án C được phát âm /ɔː/, các phương án còn lại phát âm /ɒ/</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`rep<u>o</u>rter`,`techn<u>o</u>logy`,`perf<u>o</u>rm`,`r<u>o</u>ar`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. rep<u>o</u>rter /rɪˈpɔː.tər/</p>
+<p>B. techn<u>o</u>logy /tekˈnɒl.ə.dʒi/</p>
+<p>C. perf<u>o</u>rm /pəˈfɔːm/</p>
+<p>D. r<u>o</u>ar /rɔːr/</p>
+<p>Phần được gạch chân ở phương án B được phát âm /ɒ/, các phương án còn lại phát âm /ɔː/</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`p<u>oo</u>r`,
+`c<u>o</u>ld`,
+`p<u>ou</u>r`,
+`<u>aw</u>ful`,],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. p<u>oo</u>r /pɔːr/</p>
+<p>B. c<u>o</u>ld /kəʊld/</p>
+<p>C. p<u>ou</u>r /pɔːr/</p>
+<p>D. <u>aw</u>ful /ˈɔː.fəl/</p>
+<p>Phần được gạch chân ở phương án D được phát âm /ɔː/, các phương án còn lại phát âm /əʊ/</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>II. Choose the word which has a different stress pattern from the others.</strong></p>`,
+        question: `
+          `,
+        options:[`unusual`,
+`boring `,
+`normal`,
+`clever`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p><strong>Giải thích:</strong></p>
+<p>A. unusual /ʌnˈjuː.ʒu.əl/</p>
+<p>B. boring /ˈbɔː.rɪŋ/</p>
+<p>C. normal /ˈnɔː.məl/</p>
+<p>D. clever /ˈklev.ər/</p>
+<p>Phương án A có trọng âm 2, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`charger`,
+`battery`,
+`dictionary`,
+`electronic`,],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. charger /ˈtʃɑː.dʒər/</p>
+<p>B. battery /ˈbæt.ər.i/</p>
+<p>C. dictionary /ˈdɪk.ʃən.ər.i/</p>
+<p>D. electronic /el.ekˈtrɒn.ɪk/</p>
+<p>Phương án D có trọng âm 3, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>VOCABULARY &amp; GRAMMAR</strong></p>
+<p><strong>I. Choose the correct answers.</strong></p>`,
+        question: `He _______ his tablet every day to read e-books and watch music videos.
+          `,
+        options:[`use`,
+`uses`,
+`is using`,
+`are using`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu thì hiện tại đơn “every day” <em>(mỗi ngày)</em> =&gt; Cấu trúc thì hiện tại đơn với động từ thường, chủ ngữ số ít “he” <em>(anh ấy)</em> ở dạng khẳng định: S + Vs/es.</p>
+<p>He <strong>uses</strong> his tablet every day to read e-books and watch music videos.</p>
+<p><strong>Tạm dịch:</strong> <em>Anh ấy sử dụng máy tính bảng hàng ngày để đọc sách điện tử và xem video ca nhạc.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She _______ taking selfies with a selfie stick. She thinks it’s strange.
+          `,
+        options:[`don’t like`,
+`doesn’t like`,
+`isn’t liking`,
+`not like`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p><strong>Giải thích:</strong></p>
+<p>- Thì hiện tại đơn diễn tả thói quen hoặc sở thích.</p>
+<p>- Cấu trúc thì hiện tại đơn với động từ thường chủ ngữ số ít “she” <em>(cô ấy)</em> ở dạng phủ định: S + doesn’t + Vo (nguyên thể).</p>
+<p>She <strong>doesn’t like</strong> taking selfies with a selfie stick. She thinks it’s strange.</p>
+<p><strong>Tạm dịch:</strong> <em>Cô ấy không thích chụp ảnh selfie bằng gậy selfie. Cô ấy nghĩ nó thật kỳ lạ.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Duy ________ me a gift on my birthday.
+          `,
+        options:[`buys always`,
+`always buys`,
+`is always buying`,
+`always buying`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu thì hiện tại đơn “always” <em>(luôn luôn)</em> =&gt; Cấu trúc thì hiện tại đơn với động từ thường, chủ ngữ số ít “Duy” ở dạng khẳng định: S + always + Vs/es.</p>
+<p>Duy <strong>always buys </strong>me a gift on my birthday.</p>
+<p><strong>Tạm dịch:</strong> <em>Duy luôn mua quà cho tôi vào ngày sinh nhật.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She doesn’t understand why he likes _________ games on his phone all the time. She thinks it’s a waste of time and battery.
+          `,
+        options:[`playing`,
+`play`,
+`plays`,
+`to playing`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Theo sau động từ “like” <em>(thích)</em> cần một động từ ở dạng V-ing.</p>
+<p>She doesn’t understand why he likes <strong>playing</strong> games on his phone all the time. She thinks it’s a waste of time and battery.</p>
+<p><strong>Tạm dịch:</strong> <em>Cô không hiểu tại sao anh ấy lúc nào cũng thích chơi game trên điện thoại. Cô cho rằng việc đó thật lãng phí thời gian và pin.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Farmers faced difficulties during the __________ as their crops couldn’t grow without sufficient rainfall.
+          `,
+        options:[`drought`,
+`thunder`,
+`flood`,
+`earthquake`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. drought (n): hạn hán</p>
+<p>B. thunder (n): sấm</p>
+<p>C. flood (n): lũ lụt</p>
+<p>D. earthquake (n): động đất</p>
+<p>Farmers faced difficulties during the <strong>drought</strong> as their crops couldn’t grow without sufficient rainfall.</p>
+<p><strong>Tạm dịch:</strong> <em>Nông dân gặp khó khăn trong thời kỳ hạn hán vì cây trồng của họ không thể phát triển nếu không có đủ lượng mưa.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>II. Give the correct forms of the verbs in brackets.</strong></p>`,
+        question: `My brother __________ (play) video games every evening.
+          `,
+        options:[],
+        answer: `plays`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu thì hiện tại đơn “every evening” <em>(mỗi tối)</em> =&gt; Cấu trúc thì hiện tại đơn với động từ thường, chủ ngữ số ít “my brother” <em>(anh trai tôi)</em> ở dạng khẳng định: S + Vs/es.</p>
+<p>My brother <strong>plays</strong> (play) video games every evening.</p>
+<p><strong>Tạm dịch:</strong> <em>Anh trai tôi chơi trò chơi điện tử vào mỗi buổi tối.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Right now, my sister __________ (watch) a movie on her tablet.
+          `,
+        options:[],
+        answer: `is watching`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu thì hiện tại tiếp diễn “right now” <em>(ngay bây giờ)</em> =&gt; Cấu trúc thì hiện tại tiếp diễn với chủ ngữ số ít “my sister” <em>(chị gái tôi)</em> ở dạng khẳng định: S + is + V-ing.</p>
+<p>Right now, my sister <strong>is watching</strong> (watch) a movie on her tablet.</p>
+<p><strong>Tạm dịch:</strong> <em>Bây</em><em> </em><em>giờ</em><em>, chị tôi đang xem một bộ phim trên máy tính bảng của chị ấy.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My parents __________ (use) the smart speaker to play music in the living room.
+          `,
+        options:[],
+        answer: `use`,
+        rewrite: ``,
+        explanation: `<p>- Thì hiện tại đơn diễn tả hành động ở hiện tại, một thói quen hoặc một sở thích.</p>
+<p>- Cấu trúc thì hiện tại đơn với động từ thường chủ ngữ số nhiều “my parents” <em>(ba mẹ tôi)</em> ở dạng khẳng định: S + Vo (nguyên thể).</p>
+<p>My parents <strong>use</strong> (use) the smart speaker to play music in the living room.</p>
+<p><strong>Tạm dịch:</strong> <em>Bố mẹ tôi sử dụng loa thông minh để phát nhạc trong phòng khách.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We __________ (use) the computer to do homework.
+          `,
+        options:[],
+        answer: `use`,
+        rewrite: ``,
+        explanation: `<p>- Thì hiện tại đơn diễn tả hành động ở hiện tại, một thói quen hoặc một sở thích.</p>
+<p>- Cấu trúc thì hiện tại đơn với động từ thường chủ ngữ số nhiều “we” <em>(chúng tôi)</em> ở dạng khẳng định: S + Vo (nguyên thể).</p>
+<p>We <strong>use</strong> (use) the computer to do homework.</p>
+<p><strong>Tạm dịch:</strong> <em>Chúng tôi sử dụng máy tính để làm bài tập về nhà.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` My dad __________ (prefer) to read e-books on his e-reader rather than physical books.
+          `,
+        options:[],
+        answer: `prefers`,
+        rewrite: ``,
+        explanation: `<p>- Thì hiện tại đơn diễn tả một thói quen hoặc một sở thích.</p>
+<p>- Cấu trúc thì hiện tại đơn với động từ thường chủ ngữ số ít “my dad” <em>(ba tôi)</em> ở dạng khẳng định: S + Vs/es.</p>
+<p>My dad <strong>prefers</strong> (prefer) to read e-books on his e-reader rather than physical books.</p>
+<p><strong>Tạm dịch:</strong> <em>Bố tôi thích (thích) đọc sách điện tử trên máy đọc sách điện tử hơn là sách giấy.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>II. Give the correct forms of the words in brackets.</strong></p>`,
+        question: `After the volcanic __________, a thick layer of dust covered nearby towns, causing disruptions in transportation. <strong>(ERUPT)</strong>
+          `,
+        options:[],
+        answer: `eruption`,
+        rewrite: ``,
+        explanation: `<p>Sau tính từ “volcanic” <em>(núi lửa)</em> cần một danh từ.</p>
+<p>erupt (v): phun trào</p>
+<p>=&gt; eruption (n): sự phun trào</p>
+<p>After the volcanic <strong>eruption</strong>, a thick layer of dust covered nearby towns, causing disruptions in transportation.</p>
+<p><strong>Tạm dịch:</strong> <em>Sau vụ phun trào núi lửa, một lớp bụi dày bao phủ các thị trấn lân cận, gây gián đoạn giao thông.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The weather turned __________ with dark clouds, strong winds, and heavy rain. <strong>(STORM)</strong>
+          `,
+        options:[],
+        answer: `stormy`,
+        rewrite: ``,
+        explanation: `<p>Sau động từ “turn” <em>(trở nên)</em> cần một tính từ.</p>
+<p>storrm (n): cơn bão</p>
+<p>=&gt; stormy (adj): có bão</p>
+<p>The weather turned <strong>stormy</strong> with dark clouds, strong winds, and heavy rain.</p>
+<p><strong>Tạm dịch:</strong> <em>Thời tiết trở nên giông bão với mây đen, gió mạnh và mưa lớn.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The sun slowly went down below the horizon, creating a beautiful __________. <strong>(SUN)</strong>
+      `,
+        options:[],
+        answer: `sunset`,
+        rewrite: ``,
+        explanation: `<p>Sau tính từ “beautiful” <em>(đẹp)</em> cần một danh từ.</p>
+<p>sun (n): mặt trời</p>
+<p>=&gt; sunset (n): hoàng hôn</p>
+<p>The sun slowly went down below the horizon, creating a beautiful <strong>sunset</strong>.</p>
+<p><strong>Tạm dịch:</strong> <em>Mặt trời từ từ lặn xuống phía dưới đường chân trời, tạo nên cảnh hoàng hôn tuyệt đẹp.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The hot summer sun made the temperature rise, and it felt like a __________ day. <strong>(BOIL)</strong>
+      `,
+        options:[],
+        answer: `boiling`,
+        rewrite: ``,
+        explanation: `<p>Trước danh từ “day” <em>(ngày)</em> cần một tính từ.</p>
+<p>boil (v): sôi</p>
+<p>=&gt; boiling (adj): sôi sục</p>
+<p>The hot summer sun made the temperature rise, and it felt like a <strong>boiling</strong> day.</p>
+<p><strong>Tạm dịch:</strong> <em>Nắng hè oi bức khiến nhiệt độ tăng cao, cảm giác như một ngày nóng như lửa đốt.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Japan’s high __________ helps its forests recover quickly after logging. <strong>(RAIN)</strong>
+      `,
+        options:[],
+        answer: `rainfall`,
+        rewrite: ``,
+        explanation: `<p>Sau tính từ “high” <em>(cao)</em> cần một danh từ.</p>
+<p>rain (v): mưa</p>
+<p>=&gt; rainfall (n): lượng mưa</p>
+<p>Japan’s high <strong>rainfall</strong> helps its forests recover quickly after logging.</p>
+<p><strong>Tạm dịch:</strong> <em>Lượng mưa lớn ở Nhật Bản giúp rừng phục hồi nhanh chóng sau khai thác gỗ.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>READING</strong></p>
+<p><strong>Read the text and decide each statement below is T (True) or F (False).</strong></p>
+<p align="center"><strong>Surviving in the Andes</strong></p>
+<p style="text-align: justify;">On October 13, 1972, a plane crashed into an Andes mountain. Some passengers managed to survive. Walking in freezing temperatures, the survivors sought shelter inside the wreckage. They had little food and no hope of rescue.</p>
+<p style="text-align: justify;">Two months later, three passengers named Roberto Canessa, Nando Parrado, and Antonio Vizintin decided to find help. The journey was hard and tiring. However, instead of finding an escape, they saw more icy peaks.</p>
+<p style="text-align: justify;">But hope remained. Parrado saw two snow-free peaks about 65 kilometers away. Vizintin went back to the plane due to the lack of food while the others decided to keep going. Fortunately, they found a small river and felt the warmth of the sun. The snow disappeared, replaced by colorful flowers. Canessa exclaimed, "This is the valley! This is the way out."</p>
+<p style="text-align: justify;">Ten days later, on December 21st, the exhausted men arrived in the town of Los Maitenes in Chile. A rescue team came to save the other passengers in the high Andes.</p>
+<p style="text-align: justify;">They all survived while waiting for help. The memories of the crash stayed with them, but their suffering was over.</p>`,
+        question: `The survivors didn’t have enough food in the Andes mountain.
+      `,
+        options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>The survivors didn’t have enough food in the Andes mountain. <em></em></p>
+<p><span ><em>(Những người sống sót không có đủ thức ăn trên núi Andes.)</em></span></p>
+<p><strong>Thông tin:</strong> They had little food and no hope of rescue.</p>
+<p><strong>Tạm dịch:</strong> Họ có ít thức ăn và không có hy vọng được giải cứu.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Three of the survivors decided to find help after 1 month. 
+      `,
+      options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Three of the survivors decided to find help after 1 month.</p>
+<p><span ><em>(Ba trong số những người sống sót quyết định tìm kiếm sự giúp đỡ sau 1 tháng.)</em></span></p>
+<p><strong>Thông tin:</strong> Two months later, three passengers named Roberto Canessa, Nando Parrado, and Antonio Vizintin decided to find help.</p>
+<p><strong>Tạm dịch:</strong> <em>Hai tháng sau, ba hành khách tên Roberto Canessa, Nando Parrado và Antonio Vizintin quyết định tìm kiếm sự giúp đỡ.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Vizintin returned to the crash site because he lost hope.
+      `,
+      options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Vizintin returned to the crash site because he lost hope.</p>
+<p><span ><em>(Vizintin quay lại địa điểm máy bay rơi vì hết hy vọng.)</em></span></p>
+<p><strong>Thông tin:</strong> Vizintin went back to the plane due to the lack of food.<strong></strong></p>
+<p><strong>Tạm dịch:</strong> <em>Vizintin phải quay lại máy bay vì thiếu thức ăn.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Canessa and Parrado arrived in Los Maitenes on December 21st.
+      `,
+      options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Canessa and Parrado arrived in Los Maitenes on December 21st.</p>
+<p><span ><em>(Canessa và Parrado đến Los Maitenes vào ngày 21 tháng 12.)</em></span></p>
+<p><strong>Thông tin: </strong>Ten days later, on December 21st, the exhausted men arrived in the town of Los Maitenes in Chile.</p>
+<p><strong>Tạm dịch:</strong> <em>Mười ngày sau, vào ngày 21 tháng 12, những người đàn ông kiệt sức đã đến thị trấn Los Maitenes ở Chile.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `All the passengers who survived the crash were rescued.
+      `,
+      options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>All the passengers who survived the crash were rescued.</p>
+<p><span ><em>(Tất cả hành khách sống sót sau vụ tai nạn đều được giải cứu.)</em></span></p>
+<p><strong>Thông tin: </strong>A<strong> </strong>rescue team came to save the other passengers in the high Andes. They all survived while waiting for help.</p>
+<p><strong>Tạm dịch:</strong> <em>Một đội cứu hộ đã đến cứu những hành khách khác trên vùng cao Andes. Tất cả họ đều sống sót trong khi chờ đợi sự giúp đỡ.</em></p><p><strong><u>Dịch bài đọc</u></strong></p>
+<p><em>  <strong>Sống sót trên dãy Andes</strong></em></p>
+<p ><em>Vào ngày 13 tháng 10 năm 1972, một chiếc máy bay đã đâm vào dãy núi Andes. Một số hành khách đã sống sót. Đi bộ trong nhiệt độ đóng băng, những người sống sót tìm nơi trú ẩn bên trong đống đổ nát. Họ có rất ít thức ăn và không có hy vọng được giải cứu.</em></p>
+<p ><em>Hai tháng sau, ba hành khách tên Roberto Canessa, Nando Parrado và Antonio Vizintin quyết định tìm kiếm sự giúp đỡ. Cuộc hành trình thật khó khăn và mệt mỏi. Tuy nhiên, thay vì tìm lối thoát, họ lại nhìn thấy nhiều đỉnh núi băng giá hơn.</em></p>
+<p ><em>Nhưng hy vọng vẫn còn. Parrado nhìn thấy hai đỉnh núi không có tuyết cách đó khoảng 65 km. Vizintin quay lại máy bay vì thiếu thức ăn trong khi những người khác quyết định đi tiếp. May mắn thay, họ tìm thấy một con sông nhỏ và cảm nhận được sự ấm áp của mặt trời. Tuyết biến mất, thay vào đó là những bông hoa đầy màu sắc. Canessa kêu lên: "Đây là thung lũng! Đây là lối thoát."</em></p>
+<p ><em>Mười ngày sau, vào ngày 21 tháng 12, những người đàn ông kiệt sức đã đến thị trấn Los Maitenes ở Chile. Một đội cứu hộ đã đến cứu những hành khách khác trên dãy High Andes.</em></p>
+<p ><em>Tất cả họ đều sống sót trong khi chờ đợi sự giúp đỡ. Ký ức về vụ tai nạn vẫn còn đọng lại trong họ, nhưng nỗi đau khổ của họ đã qua.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>WRITING</strong></p>
+<p><strong>Make complete sentences using the prompts.</strong></p>`,
+        question: `Skateboarders / not / always / wear / helmets / the park.
+      `,
+        options:[],
+        answer: `Skateboarders do not always wear helmets at the park.`,
+        rewrite: ``,
+        explanation: `<p>- Cấu trúc viết câu thì hiện tại đơn ở dạng phủ định chủ ngữ số nhiều với trạng từ “always”<em> (luôn luôn)</em>: S + do not + always + Vo (nguyên thể)</p>
+<p>at the park: ở công viên</p>
+<p>Đáp án: <strong>Skateboarders do not always wear helmets at the park.</strong></p>
+<p><strong>Tạm dịch: </strong><em>Người trượt ván không phải lúc nào cũng đội mũ bảo hiểm ở công viên.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `There / a mirror / next to / the bathtub / the bathroom.
+      `,
+        options:[],
+        answer: `There is a mirror next to the bathtub in the bathroom.`,
+        rewrite: ``,
+        explanation: `<p>- Cấu trúc viết câu với “There is” <em>(có): </em>There is + a /an + danh từ đếm được số ít</p>
+<p>- in the bathroom: trong phòng tắm</p>
+<p>Đáp án: <strong>There is a mirror next to the bathtub in the bathroom.</strong></p>
+<p><strong>Tạm dịch: </strong><em>Có một chiếc gương bên cạnh bồn tắm trong phòng tắm.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What / you / usually / do / at the weekend?
+      `,
+        options:[],
+        answer: `What do you usually do at the weekend?`,
+        rewrite: ``,
+        explanation: `<p>- Thì hiện tại đơn diễn tả thói quen hoặc sở thích.</p>
+<p>- Cấu trúc câu hỏi dạng Wh- ở thì hiện tại đơn với động từ thường chủ ngữ ngôi thứ 2 “you” <em>(bạn)</em>: Wh - + do + S + Vo (nguyên thể)?<strong></strong></p>
+<p>Đáp án: <strong>What do you usually do at the weekend?</strong></p>
+<p><strong>Tạm dịch: </strong><em>Bạn thường làm gì vào cuối tuần?</em><strong></strong></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` Where / you / buy / your / jeans?
+      `,
+        options:[],
+        answer: `Where do you buy your jeans?`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc câu hỏi dạng Wh- ở thì hiện tại đơn với động từ thường chủ ngữ ngôi thứ 2 “you” <em>(bạn)</em>: Wh - + do + S + Vo (nguyên thể)?<strong></strong></p>
+<p>Đáp án: <strong>Where do you buy your jeans?</strong></p>
+<p><strong>Tạm dịch: </strong><em>Quần jeans bạn mua ở đâu?</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `anybody / play / football / yesterday?
+      `,
+        options:[],
+        answer: `Did anybody play football yesterday?`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu nhận biết thì quá khứ đơn “yesterday”<em> (hôm qua)</em> =&gt; Cấu trúc thì quá khứ đơn với động từ thường ở dạng câu hỏi: Did + S + Vo?</p>
+<p>Đáp án: <strong>Did anybody play football yesterday?</strong></p>
+<p><strong>Tạm dịch: </strong><em>Hôm qua có ai chơi bóng đá không?</em></p>`,
+      },      
+    ],
+  },
+  {
+    semester: 1,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><strong>I. Choose the word choose the word whose underlined part is pronounced differently from the others</strong><strong>.</strong></p>`,
+        question: `
+          `,
+        options:[`p<u>a</u>th`,
+`d<u>a</u>m`,
+`c<u>a</u>ve`,
+`v<u>a</u>lley`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. p<u>a</u>th /pæθ/</p>
+<p>B. d<u>a</u>m /dæm/</p>
+<p>C. c<u>a</u>ve /keɪv/</p>
+<p>D. v<u>a</u>lley /ˈvæl.i/</p>
+<p>Phần được gạch chân ở phương án C được phát âm /ei/, các phương án còn lại phát âm /æ/</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`surv<u>i</u>val`,
+`v<u>i</u>ctim`,
+`hurr<u>i</u>cane`,
+`d<u>i</u>saster`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. surv<u>i</u>val /səˈvaɪ.vəl/</p>
+<p>B. v<u>i</u>ctim /ˈvɪk.tɪm/</p>
+<p>C. hurr<u>i</u>cane /ˈhʌr.ɪ.kən/</p>
+<p>D. d<u>i</u>saster /dɪˈzɑː.stər/</p>
+<p>Phần được gạch chân ở phương án A được phát âm /ai/, các phương án còn lại phát âm /i/</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>I</strong><strong>I. </strong><strong>C</strong><strong>hoose the word which has a different stress pattern from the others</strong><strong>.</strong></p>`,
+        question: `
+          `,
+        options:[`sunset`,
+`degree`,
+`sunshine`,
+`thunder`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. sunset /ˈsʌn.set/</p>
+<p>B. degree /dɪˈɡriː/</p>
+<p>C. sunshine /ˈsʌn.ʃaɪn/</p>
+<p>D. thunder /ˈθʌn.dər/</p>
+<p>Phương án B có trọng âm 2, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`landslide`,
+`earthquake`,
+`lightning`,
+`typhoon`,],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. landslide /ˈlænd.slaɪd/</p>
+<p>B. earthquake /ˈɜːθ.kweɪk/</p>
+<p>C. lightning /ˈlaɪt.nɪŋ/</p>
+<p>D. typhoon /taɪˈfuːn/</p>
+<p>Phương án D có trọng âm 2, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`pioneer`,
+`volcanic`,
+`eruption`,
+`tsunami`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. pioneer /ˌpaɪəˈnɪər/</p>
+<p>B. volcanic /vɒlˈkæn.ɪk/</p>
+<p>C. eruption /ɪˈrʌp.ʃən/</p>
+<p>D. tsunami /tsuːˈnɑː.mi/</p>
+<p>Phương án A có trọng âm 3, các phương án còn lại có trọng âm 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>VOCABULARY</strong><strong> &amp; GRAMMAR</strong></p>
+<p><strong>I</strong><strong>. </strong><strong>Choose the correct answers.</strong></p>`,
+        question: `My phone’s dead. Can you give me the ____?
+          `,
+        options:[`battery`,
+`speaker`,
+`charger`,
+`earphones`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. battery (n): pin</p>
+<p>B. speaker (n): loa</p>
+<p>C. charger (n): bộ sạc</p>
+<p>D. earphones (n): tai nghe</p>
+<p>My phone’s dead. Can you give me the <strong>charger</strong>?</p>
+<p><strong>Tạm dịch:</strong> <em>Điện thoại của tôi tắt nguồn rồi. Bạn có thể cho tôi bộ sạc được không</em>?<em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Let’s look for ____ in the forest, such as spiders and bats!
+          `,
+        options:[`leaves`,
+`wildlife`,
+`bears`,
+`pets`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. leaves (n): chiếc lá</p>
+<p>B. wildlife (n): động vật hoang dã</p>
+<p>C. bears (n): con gấu</p>
+<p>D. pets (n): thú cưng</p>
+<p>Let’s look for <strong>wildlife</strong> in the forest, such as spiders and bats!</p>
+<p><strong>Tạm dịch:</strong> <em>Hãy cùng tìm kiếm động vật hoang dã trong rừng, chẳng hạn như nhện và dơi!</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A ____ means that everywhere is under water.
+          `,
+        options:[`drought`,
+`flood`,
+`rain`,
+`landslide`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. drought (n): hạn hán</p>
+<p>B. flood (n): lũ lụt</p>
+<p>C. rain (n): mưa</p>
+<p>D. landslide (n): sạt lở đất</p>
+<p>A <strong>flood</strong> means that everywhere is under water.</p>
+<p><strong>Tạm dịch:</strong> <em>Lũ lụt có nghĩa là mọi nơi đều chìm trong nước.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `There are old stuffs stored in the _______ long time ago.
+          `,
+        options:[`washing machine     `,
+`laundry room `,
+`bathtub`,
+`basement`,],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. washing machine (n): máy giặt  </p>
+<p>B. laundry room (n): phòng giặt đồ</p>
+<p>C. bathtub (n): bồn tắm</p>
+<p>D. basement (n): tầng hầm</p>
+<p>There are old stuffs stored in the <strong>basement</strong> long time ago.</p>
+<p><strong>Tạm dịch:</strong> <em>Có những đồ cũ được cất giữ dưới tầng hầm từ lâu.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I can’t eat this chesse. It’s ________!
+          `,
+        options:[`tasty `,
+`disgusting `,
+`yummy`,
+`affordable`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. tasty (adj): ngon</p>
+<p>B. disgusting (adj): ghê, kinh tởm</p>
+<p>C. yummy (adj): ngon</p>
+<p>D. affordable (adj): giá cả phải chăng</p>
+<p>I can’t eat this cheese. It’s <strong>disgusting</strong>!</p>
+<p><strong>Tạm dịch:</strong> <em>Tôi không thể ăn phô mai này. Nó thật ghê!</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>II. Give the correct forms of the verbs in brackets.</strong></p>`,
+        question: `They finish downloading some songs from the internet. They decide _______ (make) a playlist for their party.
+          `,
+        options:[],
+        answer: `to make`,
+        rewrite: ``,
+        explanation: `<p>Sau động từ “decide” <em>(quyết định)</em> cần một động từ ở dạng to V (nguyên thể).</p>
+<p>They finish downloading some songs from the internet. They decide <strong>to make</strong> (make) a playlist for their party.</p>
+<p><strong>Tạm dịch:</strong> <em>Họ tải xong một số bài hát từ internet. Họ quyết định tạo một danh sách phát cho bữa tiệc của mình.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `While we _____________ (do) some shopping last week, we _____________ (see) our favourite singer.
+          `,
+        options:[],
+        answer: `were doing; saw`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc câu với “while” <em>(trong khi)</em> diễn tả hai hành động cắt nhau trong quá khứ: While + S + was / were + V-ing, S + V2/ed.</p>
+<p>While we <strong>were doing</strong> (do) some shopping last week, we <strong>saw</strong> (see) our favourite singer.</p>
+<p><strong>Tạm dịch:</strong> <em>Trong khi chúng tôi đang đi mua sắm vào tuần trước, chúng tôi đã gặp ca sĩ yêu thích của mình.</em><em></em></p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Yesterday _____________ (be) Saturday, and I _____________ (meet) my friends in town.
+          `,
+        options:[],
+        answer: `was; met`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu hiệu nhận biết thì quá khứ đơn “yesterday” <em>(hôm qua)</em> =&gt; Cấu trúc thì quá khứ đơn với động từ thường ở dạng câu khẳng định: S + V2/ed.</p>
+<p>be – was / were</p>
+<p>meet – met (v): gặp</p>
+<p>Yesterday <strong>was</strong> (be) Saturday, and I <strong>met</strong> (meet) my friends in town.</p>
+<p><strong>Tạm dịch:</strong> <em>Hôm qua là thứ bảy, và tôi đã gặp bạn bè của mình trong thị trấn.</em><em></em></p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `How often ________ she _______ (go) to the gym?
+          `,
+        options:[],
+        answer: `does; go`,
+        rewrite: ``,
+        explanation: `<p>- Thì hiện tại đơn diễn tả thói quen hoặc sở thích.</p>
+<p>- Cấu trúc thì hiện tại đơn với động từ thường chủ ngữ số ít “she” (cô ấy) ở dạng câu hỏi Wh: Wh- + does + S + Vo (nguyên thể)?</p>
+<p>How often <strong>does</strong> she <strong>go</strong> (go) to the gym?</p>
+<p><strong>Tạm dịch:</strong> <em>Cô ấy có thường xuyên đến phòng tập thể dục không?</em><em></em></p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The powerful tsunami in 2004 __________ (cause) widespread damage in coastal areas of several countries in Southeast Asia.
+          `,
+        options:[],
+        answer: `caused`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu hiệu nhận biết thì quá khứ đơn “in 2004” <em>(vào năm 2004)</em>=&gt; Cấu trúc thì quá khứ đơn với động từ thường ở dạng câu khẳng định: S + V2/ed.</p>
+<p>The powerful tsunami in 2004 <strong>caused</strong> (cause) widespread damage in coastal areas of several countries in Southeast Asia.</p>
+<p><strong>Tạm dịch:</strong> <em>Trận sóng thần mạnh năm 2004 đã gây ra thiệt hại trên diện rộng ở các khu vực ven biển của một số quốc gia ở Đông Nam Á.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>II. Give the correct forms of the words in brackets.</strong></p>`,
+        question: `They prefer to use their phones instead of a digital camera to take pictures because they think it’s more _______ . <strong>(TIME)</strong>
+          `,
+        options:[],
+        answer: `time – saving`,
+        rewrite: ``,
+        explanation: `<p>Sau động từ tobe “it’s” cần một tính từ.</p>
+<p>time (n): thời gian</p>
+<p>=&gt; time – saving (adj): tiết kiệm thời gian</p>
+<p>They prefer to use their phones instead of a digital camera to take pictures because they think it’s more <strong>time – saving</strong>.</p>
+<p><strong>Tạm dịch:</strong> <em>Họ thích sử dụng điện thoại thay vì máy ảnh kỹ thuật số để chụp ảnh vì họ cho rằng như vậy sẽ tiết kiệm thời gian hơn.</em><em></em></p>
+<p>Đáp án: time – saving.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She likes to watch music videos on YouTube. She thinks they are very _______. <strong>(ENTERTAIN)</strong>
+          `,
+        options:[],
+        answer: `entertaining`,
+        rewrite: ``,
+        explanation: `<p>Sau động từ tobe “are” cần một tính từ.</p>
+<p>entertain (v): giải trí</p>
+<p>=&gt; entertaining (adj): mang tính giải trí</p>
+<p>She likes to watch music videos on YouTube. She thinks they are very <strong>entertaining</strong>.</p>
+<p><strong>Tạm dịch:</strong> <em>Cô ấy thích xem video âm nhạc trên YouTube. Cô ấy nghĩ chúng rất mang tính giải trí.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She has a hobby of collecting ________ technological devices like a smartphone-controlled paper airplane. <strong>(USUAL)</strong>
+      `,
+        options:[],
+        answer: `unusual`,
+        rewrite: ``,
+        explanation: `<p>Trước cụm danh từ “technological devices” <em>(thiết bị công nghệ) </em>cần một tính từ.</p>
+<p>usual (adj): thông thường</p>
+<p>=&gt; unusual (adj): khác thường</p>
+<p>She has a hobby of collecting <strong>unusual</strong> technological devices like a smartphone-controlled paper airplane.</p>
+<p><strong>Tạm dịch:</strong> <em>Cô có sở thích sưu tập các thiết bị công nghệ khác thường như máy bay giấy điều khiển bằng điện thoại thông minh.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She likes listening to music on her ________ when she is doing her homework. <strong>(SPEAK)</strong>
+      `,
+        options:[],
+        answer: `speaker`,
+        rewrite: ``,
+        explanation: `<p>Sau tính từ sở hữu “her” <em>(của cô ấy)</em> cần một danh từ.</p>
+<p>speak (v): nói</p>
+<p>=&gt; speaker (n): cái loa</p>
+<p>She likes listening to music on her <strong>speaker</strong> when she is doing her homework.</p>
+<p><strong>Tạm dịch:</strong> <em>Cô ấy thích nghe nhạc trên loa khi làm bài tập về nhà.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Jane’s mother is so _________. Her outfits in 80s are still not dated now. <strong>(FASHION)</strong>
+      `,
+        options:[],
+        answer: `fashionable`,
+        rewrite: ``,
+        explanation: `<p>Sau động từ tobe “is” cần một tính từ.</p>
+<p><strong>Fashion (n): thời trang</strong></p>
+<p>=&gt; fashionable (adj): hợp thời trang</p>
+<p>Jane’s mother is so <strong>fashionable</strong>. Her outfits in the 80s are still not dated now.</p>
+<p><strong>Tạm dịch:</strong> <em>Mẹ của Jane rất thời trang. Trang phục của cô hồi những năm 80 đến nay vẫn chưa lỗi thời.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>READING</strong></p>
+<p><strong>Read the text then write A (Smart fork), B (Smart toothbrush) or C (Selfie toaster)</strong><strong> next to each statement.</strong></p>
+<p align="center"><strong>Unusual gadget</strong></p>
+<p style="text-align: justify;">Some technology gadgets are very common and useful, but some technology gadgets are very strange and unusual.</p>
+<p style="text-align: justify;"><strong><em>A. </em></strong><strong><em>A smart fork</em></strong></p>
+<p style="text-align: justify;">This is a fork that can connect to your phone via Bluetooth. It can measure how fast you eat. It can also flash lights to remind you to slow down if you eat too quickly. Some people think this gadget is clever and helpful. But some think it is annoying and unnecessary.</p>
+<p style="text-align: justify;"><strong><em>B. </em></strong><strong><em>A smart toothbrush</em></strong></p>
+<p style="text-align: justify;">Do you want to prevent dental problems? Then you might need a smart toothbrush. It can connect to your phone via Bluetooth. It can track how long you brush and which areas you miss. It can also give you feedback and tips to improve your brushing technique. Some people think this gadget is useful and reliable. But some think it is boring.<strong><em></em></strong></p>
+<p><strong><em>C. </em></strong><strong><em>A selfie toaster</em></strong></p>
+<p>This is a toaster that can toast your face on a slice of bread. You can upload your photo to the toaster via a USB cable, and it will burn your image on the bread. Some people think this gadget is fun and entertaining. But some think it is silly and wasteful.</p>`,
+        question: `This gadget can receive photos from your phone via a USB cable.
+      `,
+        options:['A','B','C'],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>This gadget can receive photos from your phone via a USB cable.</p>
+<p><span style="color: #888888;"><em>(Tiện ích này có thể nhận ảnh từ điện thoại của bạn qua cáp USB.)</em></span></p>
+<p><strong>Thông tin: </strong>You can upload your photo to the toaster via a USB cable.</p>
+<p><strong>Tạm dịch:</strong> <em>Bạn có thể tải ảnh của mình lên máy nướng bánh mì qua cáp USB.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `This gadget can track the time you spend on brushing your teeth.
+      `,
+        options:['A','B','C'],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>This gadget can track the time you spend on brushing your teeth.</p>
+<p><span style="color: #888888;"><em>(Tiện ích này có thể theo dõi thời gian bạn dành cho việc đánh răng.)</em></span></p>
+<p><strong>Thông tin: </strong>It can track how long you brush and which areas you miss.</p>
+<p><strong>Tạm dịch:</strong> <em>Nó có thể theo dõi thời gian bạn chải và những vùng bạn bỏ sót.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `This gadget has lights on it.
+      `,
+       options:['A','B','C'],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>This gadget has lights on it.</p>
+<p><span style="color: #888888;"><em>(Tiện ích này có đèn trên đó.)</em></span></p>
+<p><strong>Thông tin: </strong>It can also flash lights to remind you to slow down if you eat too quickly.</p>
+<p><strong>Tạm dịch:</strong> <em>Nó cũng có thể nháy đèn để nhắc bạn ăn chậm lại nếu ăn quá nhanh.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `This gadget is to prevent dental problems.
+      `,
+        options:['A','B','C'],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>This gadget is to prevent dental problems.</p>
+<p><span style="color: #888888;"><em>(Tiện ích này là để ngăn ngừa các vấn đề về răng miệng.)</em></span></p>
+<p><strong>Thông tin: </strong>Do you want to prevent dental problems? Then you might need a smart toothbrush.</p>
+<p><strong>Tạm dịch:</strong> <em>Bạn có muốn ngăn ngừa các vấn đề về răng miệng không? Vậy, bạn có thể cần một bàn chải đánh răng thông minh.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `This gadget burns your image on the bread.
+      `,
+       options:['A','B','C'],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>This gadget burns your image on the bread.</p>
+<p><span style="color: #888888;"><em>(Tiện ích này ghi hình ảnh của bạn trên bánh mì.)</em></span></p>
+<p><strong>Thông tin: </strong>You can upload your photo to the toaster via a USB cable, and it will burn your image on the bread.</p>
+<p><strong>Tạm dịch:</strong> <em>Bạn có thể tải ảnh của mình lên máy nướng bánh mì qua cáp USB và nó sẽ ghi ảnh của bạn lên bánh mì.</em><em></em></p>
+<p><strong><u>Dịch bài đọc</u></strong></p>
+<p align="center"><strong><em>Tiện ích khác thường</em></strong></p>
+<p style="text-align: justify;"><em>Một số tiện ích công nghệ rất phổ biến và hữu ích, nhưng một số tiện ích công nghệ lại rất lạ và khác thường.</em></p>
+<p style="text-align: justify;"><em>A</em><em>. </em><em>Nĩa thông minh</em></p>
+<p style="text-align: justify;"><em>Đây là một chiếc nĩa có thể kết nối với điện thoại của bạn qua Bluetooth. Nó có thể đo tốc độ bạn ăn. Nó cũng có thể nhấp nháy đèn để nhắc bạn ăn chậm lại nếu bạn ăn quá nhanh. Một số người cho rằng tiện ích này thông minh và hữu ích. Nhưng một số người cho rằng điều đó thật khó chịu và không cần thiết.</em></p>
+<p style="text-align: justify;"><em>B</em><em>. </em><em>Bàn chải đánh răng thông minh B</em></p>
+<p style="text-align: justify;"><em>Bạn có muốn ngăn ngừa các vấn đề về răng miệng? Sau đó, bạn có thể cần một bàn chải đánh răng thông minh. Nó có thể kết nối với điện thoại của bạn qua Bluetooth. Nó có thể theo dõi thời gian bạn chải và những khu vực bạn bỏ sót. Nó cũng có thể cung cấp cho bạn thông tin phản hồi và lời khuyên để cải thiện kỹ thuật đánh răng của bạn. Một số người cho rằng tiện ích này hữu ích và đáng tin cậy. Nhưng một số người cho rằng nó nhàm chán.</em></p>
+<p style="text-align: justify;"><em>C</em><em>. </em><em>Máy nướng bánh mì selfie</em></p>
+<p style="text-align: justify;"><em>Đây là một chiếc máy nướng bánh mì có thể nướng khuôn mặt của bạn trên một lát bánh mì. Bạn có thể tải ảnh của mình lên máy nướng bánh mì thông qua cáp USB và nó sẽ ghi hình ảnh của bạn lên bánh mì. Một số người cho rằng tiện ích này rất thú vị và mang tính giải trí. Nhưng một số người cho rằng điều đó là ngớ ngẩn và lãng phí.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>WRITING</strong></p>
+<p><strong>Rewrite sentences keeping the same meaning. Use the given words in the brackets.</strong></p>`,
+        question: `I can’t wait to go shopping on Saturday!<strong> (FORWARD)</strong>
+      `,
+        options:[],
+        answer: `I am looking forward to going shopping on Saturday.`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu với “forward” <em>(mong đợi)</em>: S + look forward + to V-ing.</p>
+<p>I can’t wait to go shopping on Saturday!</p>
+<p><strong>Tạm dịch:</strong> <em>Tôi nóng lòng muốn đi mua sắm vào thứ bảy!</em><em></em></p>
+<p>Đáp án: <strong>I am looking forward to going shopping on Saturday.</strong></p>
+<p><span style="color: #888888;"><em>(Tôi rất mong được đi mua sắm vào thứ bảy.)</em></span></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Abby finds reading books boring. <strong>(DISLIKE)</strong>
+      `,
+        options:[],
+        answer: `Abby dislikes reading books`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu với “dislike” <em>(không thích)</em> chủ ngữ số ít ở thì hiện tại đơn: S + dislikes + V-ing.</p>
+<p>Abby finds reading books boring.</p>
+<p><strong>Tạm dịch:</strong> <em>Abby thấy việc đọc sách thật nhàm chán.</em><em></em></p>
+<p>Đáp án: <strong>Abby dislikes reading books.</strong></p>
+<p><span style="color: #888888;"><em>(Abby không thích đọc sách.)</em></span></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The young would rather use smartphones to take photos than use cameras. <strong>(PREFER)</strong>
+      `,
+        options:[],
+        answer: `The young prefer using smartphones to using cameras to take photos`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu với “prefer” <em>(thích)</em> diễn tả việc thích cái này hơn cái kia với chủ ngữ số nhiều “the young” <em>(giới trẻ)</em> ở thì hiện tại đơn: S + prefer + V-ing + TO + V-ing.</p>
+<p>The young would rather use smartphones to take photos than use cameras.</p>
+<p><strong>Tạm dịch:</strong> <em>Giới trẻ thích sử dụng điện thoại thông minh để chụp ảnh hơn là sử dụng máy ảnh.</em><em></em></p>
+<p>Đáp án: <strong>The young prefer using smartphones to using cameras to take photos.</strong></p>
+<p><span style="color: #888888;"><em>(Giới trẻ thích sử dụng điện thoại thông minh hơn là sử dụng máy ảnh để chụp ảnh.)</em></span></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `It is necessary to charge your phone before it reaches 20%. <strong>(NEED)</strong>
+      `,
+        options:[],
+        answer: `You need to charge your phone before it reaches 20%.`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu với “need” <em>(cần)</em> ở thì hiện tại đơn chủ ngữ số nhiều: S + need + to V (nguyên thể).</p>
+<p>It is necessary to charge your phone before it reaches 20%.</p>
+<p><strong>Tạm dịch:</strong> <em>Cần phải sạc điện thoại của bạn trước khi nó đạt 20%.</em></p>
+<p>Đáp án: <strong>You need to charge your phone before it reaches 20%.</strong></p>
+<p><span style="color: #888888;"><em>(Bạn cần sạc điện thoại trước khi nó tụt xuống 20%.)</em></span></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `It is Lan’s decision to buy her son a tablet instead of a computer for his birthday present. <strong>(DECIDE)</strong>
+      `,
+        options:[],
+        answer: `Lan decides to buy her son a tablet instead of a computer for his birthday present`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu với “decide” <em>(quyết định)</em> ở thì hiện tại đơn chủ ngữ số ít “Lan” ở dạng khẳng định: S + decides + TO V (nguyên thể).</p>
+<p>It is Lan’s decision to buy her son a tablet instead of a computer for his birthday present.</p>
+<p><strong>Tạm dịch:</strong> <em>Lan quyết định mua cho con trai mình một chiếc máy tính bảng thay vì máy tính để làm quà sinh nhật.</em><em></em></p>
+<p>Đáp án: <strong>Lan decides to buy her son a tablet instead of a computer for his birthday present.</strong></p>
+<p><span style="color: #888888;"><em>(Lan quyết định mua cho con trai một chiếc máy tính bảng thay vì máy tính làm quà sinh nhật.)</em></span></p>`,
+      },
+      
+    ],
+  },
+  {
+    semester: 1,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><strong>I. Choose the word choose the word whose underlined part is pronounced differently from the others</strong><strong>.</strong></p>`,
+        question: `
+          `,
+        options:[`<u>ch</u>arge`,
+`tou<u>ch</u>`,
+`wat<u>ch</u>`,
+`<u>ch</u>emistry`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. <u>ch</u>arge/tʃɑːdʒ/</p>
+<p>B. tou<u>ch</u>/tʌtʃ/</p>
+<p>C. wat<u>ch</u> /wɒtʃ/</p>
+<p>D. <u>ch</u>emistry /ˈkem.ɪ.stri/</p>
+<p>Phần được gạch chân ở phương án D được phát âm /k/, các phương án còn lại phát âm /tʃ/</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`<u>c</u>oast`,
+`<u>c</u>ondition`,
+`so<u>c</u>ial`,
+`vol<u>c</u>anic`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. <u>c</u>oast/kəʊst/</p>
+<p>B. <u>c</u>ondition/kənˈdɪʃ.ən/</p>
+<p>C. so<u>c</u>ial/ˈsəʊ.ʃəl/</p>
+<p>D. vol<u>c</u>anic/vɒlˈkæn.ɪk/</p>
+<p>Phần được gạch chân ở phương án C được phát âm /ʃ/, các phương án còn lại phát âm /k/</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p><strong>I</strong><strong>I. </strong><strong>C</strong><strong>hoose the word which has a different stress pattern from the others</strong><strong>.</strong></p>
+          `,
+        options:[`victim`,
+`peninsula`,
+`eruption`,
+`disaster`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. victim /ˈvɪk.tɪm/</p>
+<p>B. peninsula /pəˈnɪn.sjə.lə/</p>
+<p>C. eruption /ɪˈrʌpt/</p>
+<p>D. disaster /dɪˈzɑː.stər/</p>
+<p>Phương án A có trọng âm 1, các phương án còn lại có trọng âm 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`perform`,
+`unusual`,
+`connection`,
+`gadget`,],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. perform /pəˈfɔːm/</p>
+<p>B. unusual /ʌnˈjuː.ʒu.əl/</p>
+<p>C. connection /kəˈnek.ʃən/</p>
+<p>D. gadget /ˈɡædʒ. ɪt/</p>
+<p>Phương án D có trọng âm 1, các phương án còn lại có trọng âm 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`reliable`,
+`event`,
+`hurricane`,
+`typhoon`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. reliable /rɪˈlaɪ.ə.bəl/</p>
+<p>B. event /ɪˈvent/</p>
+<p>C. hurricane /ˈhʌr.ɪ.kən/</p>
+<p>D. typhoon /taɪˈfuːn/</p>
+<p>Phương án C có trọng âm 1, các phương án còn lại có trọng âm 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>VOCABULARY</strong><strong> &amp; GRAMMAR</strong></p>
+<p><strong>I</strong><strong>. </strong><strong>Choose the correct answers.</strong></p>`,
+        question: `They __________ a picnic when the heavy rain poured down. They had to seek shelter.
+          `,
+        options:[`had`,
+`have`,
+`were having`,
+`have had`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu “When” <em>(khi)</em> diễn tả hành động cắt nhau trong quá khứ: S + was / were + V-ing + when + S + V2/ed.</p>
+<p>They <strong>were having</strong> a picnic when the heavy rain poured down. They had to seek shelter.</p>
+<p><strong>Tạm dịch:</strong> <em>Họ đang đi dã ngoại thì trời đổ mưa lớn. Họ phải tìm nơi trú ẩn.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A ________ is a very strong wind.
+          `,
+        options:[`drought`,
+`tsunami`,
+`hurricane`,
+`volcanic`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. drought (n): hạn hán</p>
+<p>B. tsunami (n): sóng thần</p>
+<p>C. hurricane (n): bão</p>
+<p>D. volcanic (n): núi lửa</p>
+<p>A <strong>hurricane</strong> is a very strong wind.</p>
+<p><strong>Tạm dịch:</strong> <em>Bão là một cơn gió rất mạnh.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She uses a/an _________ to learn about new words. She thinks it’s very useful.
+          `,
+        options:[`remote control`,
+`iPod`,
+`Internet`,
+`electronic dictionary`,],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. remote control (n): điều khiển từ xa</p>
+<p>B. iPod (n): máy nghe nhạc</p>
+<p>C. Internet (n): mạng</p>
+<p>D. electronic dictionary (n): từ điển điện tử</p>
+<p>She uses an <strong>electronic dictionary</strong> to learn about new words. She thinks it’s very useful.</p>
+<p><strong>Tạm dịch:</strong> <em>Cô ấy sử dụng từ điển điện tử để học từ mới. Cô ấy nghĩ nó rất hữu ích.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `There was a great _________ in the sky yesterday.
+          `,
+        options:[`waterfall`,
+`sunset`,
+`path`,
+`dust`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. waterfall (n): thác nước</p>
+<p>B. sunset (n): hoàng hôn</p>
+<p>C. path (n): con đường</p>
+<p>D. dust (n): bụi</p>
+<p>There was a great <strong>sunset</strong> in the sky yesterday.</p>
+<p><strong>Tạm dịch:</strong> <em>Hoàng hôn</em><em> </em><em>đẹp</em><em> tuyệt vời trên bầu trời ngày hôm qua.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She _______ uploading her pictures to Instagram. She hopes to get many likes and comments.
+          `,
+        options:[`look forward to`,
+`looking forward to`,
+`is looking forward to`,
+`Both A and C are correct.`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. look forward to =&gt; sai do chủ ngữ “she” <em>(cô ấy)</em> là chủ ngữ số ít nên động từ “look” phải thêm “s”</p>
+<p>B. looking forward to =&gt; sai thì của động từ.</p>
+<p>C. is looking forward to: đang mong đợi</p>
+<p>D. Both A and C are correct: cả A và C đều đúng =&gt; sai</p>
+<p>She <strong>is looking forward to </strong>uploading her pictures to Instagram. She hopes to get many likes and comments.</p>
+<p><strong>Tạm dịch:</strong> <em>Cô ấy rất mong được tải ảnh của mình lên Instagram. Cô hy vọng sẽ nhận được nhiều lượt thích và bình luận.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>II. Give the correct forms of the verbs in brackets.</strong></p>`,
+        question: `While he _______ (study) the map, she was checking the trail markers to ensure they were on the right path.
+          `,
+        options:[],
+        answer: `was studying`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu với “While” diễn tả hai hành động song song trong quá khứ: S + was / were + V-ing while + S + was / were + V-ing.</p>
+<p>While he <strong>was studying</strong> (study) the map, she was checking the trail markers to ensure they were on the right path.</p>
+<p><strong>Tạm dịch:</strong> <em>Trong khi anh ấy đang nghiên cứu bản đồ, cô ấy đang kiểm tra các điểm đánh dấu đường mòn để đảm bảo họ đi đúng hướng.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `_______ he ________ (see) any wild animals during his safari trip in Africa last month?
+          `,
+        options:[],
+        answer: `Did; see`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu nhận biết thì quá khứ đơn “last month” <em>(tháng trước)</em> =&gt; Cấu trúc thì quá khứ đơn với động từ thường ở dạng câu hỏi: Did + S + Vo?</p>
+<p><strong>Did</strong> he <strong>see</strong> (see) any wild animals during his safari trip in Africa last month?</p>
+<p><strong>Tạm dịch:</strong> <em>Anh ấy có nhìn thấy bất kỳ động vật hoang dã nào trong chuyến đi săn ở Châu Phi vào tháng trước không?</em><em></em></p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `He doesn’t like ________ (go) out at the weekends. He prefers ________ (stay) at home.
+          `,
+        options:[],
+        answer: `going; to stay`,
+        rewrite: ``,
+        explanation: `<p>- Vị trí 1: Sau động từ “like” <em>(thích)</em> cần một động từ ở dạng V-ing.</p>
+<p>- Vị trí 2: Sau động từ “prefer” <em>(thích)</em> cần một động từ ở dạng to V.</p>
+<p>He doesn’t like <strong>going </strong>(go) out at the weekends. He prefers <strong>to stay</strong> (stay) at home.</p>
+<p><strong>Tạm dịch:</strong> <em>Anh ấy không thích đi chơi vào cuối tuần. Anh ấy thích ở nhà hơn.</em></p>
+`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Listen! It ________ (rain) outside.
+          `,
+        options:[],
+        answer: `is raining`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu thì hiện tại tiếp diễn “Listen!” <em>(hãy lắng nghe) </em>=&gt; Cấu trúc thì hiện tại tiếp diễn với chủ ngữ số ít “it” ở dạng khẳng định: S + is + V-ing.</p>
+<p>Listen! It <strong>is raining</strong> (rain) outside.</p>
+<p><strong>Tạm dịch:</strong> <em>Nghe</em><em> </em><em>kìa</em><em>! Bên ngoài trời đang mưa.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She always ________ (check) her phone’s battery before going out.
+          `,
+        options:[],
+        answer: `checks`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu nhận biết thì hiện tại đơn “always” <em>(luôn luôn)</em> =&gt; Cấu trúc viết câu thì hiện tại đơn với động từ thường ở dạng khẳng định chủ ngữ số ít “she” <em>(cô ấy)</em>: S + Vs/es.</p>
+<p>She always <strong>checks</strong> (check) her phone’s battery before going out.</p>
+<p><strong>Tạm dịch:</strong> <em>Cô ấy luôn kiểm tra pin điện thoại của mình trước khi ra ngoài.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>II. Give the correct forms of the words in brackets.</strong></p>`,
+        question: `It’s ________ outside. You need to dress warmly enough before you go out. <strong>(FREEZE)</strong>
+          `,
+        options:[],
+        answer: `freezing`,
+        rewrite: ``,
+        explanation: `<p>Sau động từ tobe “it’s” cần một tính từ.</p>
+<p>freeze (v): đông lạnh</p>
+<p>=&gt; freezing (adj): lạnh cóng</p>
+<p>It’s <strong>freezing</strong> outside. You need to dress warmly enough before you go out.</p>
+<p><strong>Tạm dịch:</strong> <em>Bên ngoài trời lạnh cóng. Bạn cần ăn mặc đủ ấm trước khi ra ngoài.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We’re not allowed to use our phones at ______________.<strong> (MEAL)</strong>
+          `,
+        options:[],
+        answer: `mealtime`,
+        rewrite: ``,
+        explanation: `<p>Sau giới từ “at” cần một danh từ.</p>
+<p>meal (n): bữa ăn</p>
+<p>=&gt; mealtime (n): giờ ăn</p>
+<p>We’re not allowed to use our phones at mealtime.</p>
+<p><strong>Tạm dịch:</strong> <em>Chúng tôi không được phép sử dụng điện thoại trong giờ ăn.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My new laptop is a MacBook – a famous worldwide technology brand. So I think it’s _________ enough to use.<strong> (RELY)</strong>
+      `,
+        options:[],
+        answer: `reliable`,
+        rewrite: ``,
+        explanation: `<p>Sau động từ tobe “it’s” cần một tính từ.</p>
+<p>Rely (v): dựa vào</p>
+<p>=&gt; reliable (adj): đáng tin cậy</p>
+<p>My new laptop is a MacBook – a famous worldwide technology brand. So I think it’s <strong>reliable</strong> enough to use</p>
+<p><strong>Tạm dịch:</strong> <em>Máy tính xách tay mới của tôi là MacBook – một thương hiệu công nghệ nổi tiếng trên toàn thế giới. Vì vậy tôi nghĩ nó đủ tin cậy để sử dụng</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A selfie stick is _______ when you want to take a photo of a big group.<strong> (USE)</strong>
+      `,
+        options:[],
+        answer: `useful`,
+        rewrite: ``,
+        explanation: `<p>Sau động từ tobe “is” cần một tính từ.</p>
+<p>use (v): sử dụng</p>
+<p>=&gt; useful (adj): hữu ích</p>
+<p>A selfie stick is <strong>useful</strong> when you want to take a photo of a big group.</p>
+<p><strong>Tạm dịch:</strong> <em>Gậy selfie rất hữu ích khi bạn muốn chụp ảnh nhóm đông người.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The typhoon last year was terrible because of its massive _________. <strong>(DESTROY)</strong>
+      `,
+        options:[],
+        answer: `destruction`,
+        rewrite: ``,
+        explanation: `<p>Sau tính từ sở hữu “its” <em>(của nó)</em> cần một danh từ.</p>
+<p>destroy (v): phá hủy</p>
+<p>=&gt; destruction (n): sự phá hủy</p>
+<p>The typhoon last year was terrible because of its massive <strong>destruction</strong>.</p>
+<p><strong>Tạm dịch:</strong> <em>Cơn bão năm ngoái thật khủng khiếp vì sức tàn phá khủng khiếp của nó.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>READING</strong></p>
+<p><strong>Read the text and choose the correct answers.</strong></p>
+<p style="text-align: justify;">Imagine you have a smartphone and you want to stay in a hotel. What if you don’t need a hotel key, or even have to wait at the Registration desk, to enter your room? You can just use your phone to open the door! That’s the idea of a hotel company that wants to send digital keys to guests’ phones via an app instead of giving them the normal and easy to lose plastic cards. Guests could arrive and go straight to their rooms without waiting at Reception Desk. The hotel company has more than 1,000 hotels in many countries. It plans to try the system soon at two of its hotels – one in New York City and one in California. The app will work with new iPhone models and new Android phones. The app will use Bluetooth to unlock the room with a touch. The hotel company thinks this will be the new way that people will want to enter a hotel.</p>`,
+        question: `In their new invention, what will the company send to guests?
+      `,
+        options:[`digital key`,
+`plastic card`,
+`QR code`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Trong phát minh mới của mình, công ty sẽ gửi đến khách hàng những gì?</p>
+<p>A. chìa khóa kỹ thuật số</p>
+<p>B. thẻ nhựa</p>
+<p>C. Mã QR</p>
+<p><strong>Thông tin: </strong>“That’s the idea of a hotel company that wants to send digital keys to guests’ phones via an app”.</p>
+<p><strong>Tạm dịch: </strong><em>Đó là ý tưởng của một công ty khách sạn muốn gửi chìa khóa kỹ thuật số tới điện thoại của khách thông qua ứng dụng.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `With the new invention, what do guests need to do to receive rooms?
+      `,
+        options:[`Wait at Reception Desk`,
+`Take plastic card`,
+`Nothing`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Với phát minh mới, khách cần làm gì để nhận phòng?</p>
+<p>A. Chờ ở bàn tiếp tân</p>
+<p>B. Lấy thẻ nhựa</p>
+<p>C. Không có gì</p>
+<p><strong>Thông tin: </strong>“Guests could arrive and go straight to their rooms without waiting at Reception Desk”</p>
+<p><strong>Tạm dịch:</strong> <em>Khách có thể đến và đi thẳng về phòng mà không cần phải đợi ở quầy lễ tân</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Which is NOT TRUE when you use this app?
+      `,
+        options:[`It gives you a physical key. `,
+`It can be installed in both iPhone and Samsung mobile phones. `,
+`You can go into your room without seeing receptionist when checking in.`,],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Điều nào KHÔNG ĐÚNG khi bạn sử dụng ứng dụng này?</p>
+<p>A. Nó cung cấp cho bạn một chìa khoá vật lý.</p>
+<p>B. Nó có thể được cài đặt trên cả điện thoại di động iPhone và Samsung.</p>
+<p>C. Bạn có thể vào phòng mà không cần gặp nhân viên lễ tân khi nhận phòng.</p>
+<p><strong>Thông tin: </strong>“The app will work with new iPhone models and new Android phones. The app will use Bluetooth to unlock the room with a touch.”<strong></strong></p>
+<p><strong>Tạm dịch:</strong> <em>Ứng dụng sẽ hoạt động với các mẫu iPhone mới và điện thoại Android mới. Ứng dụng sẽ sử dụng Bluetooth để mở khóa phòng bằng một cú chạm.</em><em></em></p>
+<p>“Guests could arrive and go straight to their rooms without waiting at Reception Desk”</p>
+<p><strong>Tạm dịch:</strong> <em>Khách có thể đến và đi thẳng về phòng mà không cần phải đợi ở quầy lễ tân</em><em>.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Where will the company try the new system?
+      `,
+        options:[`New York City`,
+`California`,
+`Both A and B`,],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Công ty sẽ thử hệ thống mới ở đâu?</p>
+<p>A. Thành phố New York</p>
+<p>B. California</p>
+<p>C. Cả A và B</p>
+<p><strong>Thông tin: </strong>“It plans to try the system soon at two of its hotels – one in New York City and one in California.”</p>
+<p><strong>Tạm dịch:</strong> <em>Họ có kế hoạch sớm thử nghiệm hệ thống này tại hai khách sạn của mình – một ở Thành phố New York và một ở California.</em><em></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does the app use to unlock the room?
+      `,
+        options:[`Wifi`,
+`Bluetooth`,
+`QR code`,],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Ứng dụng dùng gì để mở khóa phòng?</p>
+<p>A. Wifi</p>
+<p>B. Bluetooth</p>
+<p>C. Mã QR</p>
+<p><strong>Thông tin: </strong>“The app will use Bluetooth to unlock the room with a touch.”</p>
+<p><strong>Tạm dịch:</strong> <em>Ứng dụng sẽ sử dụng Bluetooth để mở khóa phòng bằng một cú chạm.</em><em></em></p><p><strong><u>Dịch bài đọc</u></strong></p>
+<p style="text-align: justify;"><em>Hãy tưởng tượng bạn có một chiếc điện thoại thông minh và bạn muốn ở trong một khách sạn. Điều gì sẽ xảy ra nếu bạn không cần chìa khóa khách sạn hoặc thậm chí phải đợi ở bàn Đăng ký để vào phòng? Bạn chỉ có thể sử dụng điện thoại của bạn để mở cửa! Đó là ý tưởng của một công ty khách sạn muốn gửi chìa khóa kỹ thuật số tới điện thoại của khách thông qua một ứng dụng thay vì đưa cho họ những chiếc thẻ nhựa thông thường và dễ thất lạc. Khách hàng có thể đến và đi thẳng về phòng mà không cần phải đợi ở quầy lễ tân. Công ty khách sạn có hơn 1.000 khách sạn ở nhiều quốc gia. Họ có kế hoạch sớm thử nghiệm hệ thống này tại hai khách sạn của mình – một ở Thành phố New York và một ở California. Ứng dụng sẽ hoạt động với các mẫu iPhone mới và điện thoại Android mới. Ứng dụng sẽ sử dụng Bluetooth để mở khóa phòng bằng một cú chạm. Công ty khách sạn cho rằng đây sẽ là cách mới mà mọi người muốn vào khách sạn.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>WRITING</strong></p>
+<p><strong>Rearrange the given words to make complete sentences. Do not change the given words.</strong></p>`,
+        question: `shelter / approached / As / inside / sought / people / storm / homes. / the / their
+      `,
+        options:[],
+        answer: `As the storm approached, people sought shelter inside their homes`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu với “As”<em> (khi)</em>: As + S + V, S + V.</p>
+<p><strong>Đáp án: As the storm approached, people sought shelter inside their homes.</strong></p>
+<p><span style="color: #888888;"><em>(Khi cơn bão đến gần, người dân tìm nơi trú ẩn trong nhà.)</em></span></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `the / sunset / watching / I / at / sea. / swimming / dolphins / the coast, / saw / the / was / I While / in
+      `,
+        options:[],
+        answer: `While I was watching the sunset at the coast, I saw dolphins swimming in the sea`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu với “While” <em>(trong khi)</em> diễn tả hai hành động cắt nhau trong quá khứ: While + S + was / were + V-ing, S + V2/ed.</p>
+<p><strong>Đáp án: While I was watching the sunset at the coast, I saw dolphins swimming in the sea.</strong></p>
+<p><span style="color: #888888;"><em>(Khi tôi đang ngắm hoàng hôn ở bờ biển, tôi thấy cá heo bơi lội dưới biển.)</em></span></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `after / survivors / struck. / earthquake / The / for / searched / rescue / the / team
+      `,
+        options:[],
+        answer: `The rescue team searched for survivors after the earthquake struck`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu với “After”<em> (sau khi)</em>: S + V + after + S + V.</p>
+<p><strong>Đáp án:</strong> <strong>The rescue team searched for survivors after the earthquake struck.</strong></p>
+<p><span style="color: #888888;"><em>(Lực lượng cứu hộ tìm kiếm người sống sót sau trận động đất.)</em></span></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `camping / could / open air / the / us. / we / the / of / around / in / all / sounds / hear / wildlife / While
+      `,
+        options:[],
+        answer: `While camping in the open air, we could hear the sounds of wildlife all around us.`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu với “While” <em>(trong khi)</em> diễn tả hai hành động cắt nhau trong quá khứ khi cả hai mệnh đề có cùng chủ ngữ: While + V-ing, S + V2/ed.</p>
+<p><strong>Đáp án: While camping in the open air, we could hear the sounds of wildlife all around us.</strong></p>
+<p><span style="color: #888888;"><em>(Trong khi cắm trại ngoài trời, chúng tôi có thể nghe thấy âm thanh của động vật hoang dã xung quanh mình.)</em></span></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `the / The / food. / providing / disaster / natural / by / of / were / the / victims / volunteers / helping
+      `,
+        options:[],
+        answer: `The volunteers were helping the victims of the natural disaster by providing food`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc viết câu thì quá khứ tiếp diễn chủ ngữ số nhiều “the volunteers” <em>(những tình nguyện viên)</em>: S + were + V-ing.</p>
+<p>Theo sau ‘by” <em>(bằng cách)</em> cần một động từ ở dạng V-ing.</p>
+<p><strong>Đáp án: The volunteers were helping the victims of the natural disaster by providing food.</strong></p>
+<p><span style="color: #888888;"><em>(Các tình nguyện viên đang giúp đỡ các nạn nhân của thảm họa thiên nhiên bằng cách cung cấp thực phẩm.)</em></span></p>
+          `,
+      },
+     
+    ],
+  },
+
+  {
+    semester: 1,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><strong>
+                  <em>
+                    Listen to five different conversations. Choose the best
+                    option (A, B, C or D).
+                  </em>
+                </strong>
+              </p>`,
+        media:`https://img.loigiaihay.com/picture/2023/1204/1701659936100-hk1-ta8-right-de-1.mp3`,
+        question: `What does Mary want to be in the future?
+          `,
+        options:[`a forest firefighter`,`a zookeeper`,`a vet`,`a designer`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        Mary muốn trở thành người như thế nào trong tương lai?
+                      </p>
+                      <p>A. một lính cứu hỏa rừng</p>
+                      <p>B. một người trông coi vườn thú</p>
+                      <p>C. một bác sĩ thú y</p>
+                      <p>D. một nhà thiết kế</p>
+                      <p>
+                        <strong>Thông tin: </strong>I think I'll be a zookeeper
+                        when I grow up.
+                      </p>
+                      <p>
+                        <em>
+                          (Tôi nghĩ tôi sẽ trở thành người trông coi vườn thú
+                          khi lớn lên.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does Mark like best about his city?
+          `,
+        options:[`the traffic`,`the museum`,`the local dishes`,`the entertainment`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Mark thích điều gì nhất ở thành phố của anh ấy?</p>
+                      <p>A. giao thông</p>
+                      <p>B. bảo tàng</p>
+                      <p>C. các món ăn địa phương</p>
+                      <p>D. giải trí</p>
+                      <p>
+                        <strong>Thông tin: </strong>But what I love most about
+                        my city is the local food.
+                      </p>
+                      <p>
+                        <em>
+                          (Nhưng điều tôi yêu thích nhất ở thành phố của mình là
+                          ẩm thực địa phương.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What are the students going to do this weekend?
+          `,
+        options:[`recycle plastic bottles`,`go to the beach`,`collect rubbish`,`join the clean-up day`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Cuối tuần này học sinh sẽ làm gì?</p>
+                      <p>A. tái chế chai nhựa</p>
+                      <p>B. đi biển</p>
+                      <p>C. thu gom rác</p>
+                      <p>D. tham gia ngày dọn dẹp</p>
+                      <p>
+                        <strong>Thông tin: </strong>However, you will have to
+                        collect plastic bottles at home, and recycle them.
+                      </p>
+                      <p>
+                        <em>
+                          (Tuy nhiên, bạn sẽ phải thu gom chai nhựa ở nhà và tái
+                          chế chúng.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Which animal did the girl decide to write about?
+          `,
+        options:[`<p>the lemur</p>`,`<p>the gorilla</p>`,`<p>the sea turtle</p>`,`<p>the macaw</p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cô gái quyết định viết về con vật nào?</p>
+                      <p>A. vượn cáo</p>
+                      <p>B. khỉ đột</p>
+                      <p>C. rùa biển</p>
+                      <p>D. vẹt đuôi dài</p>
+                      <p>
+                        <strong>Thông tin: </strong>I heard you wrote about the
+                        sea turtles.
+                      </p>
+                      <p>
+                        <em>(Tôi nghe nói bạn viết về rùa biển.)</em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Where did the car crash happen?
+          `,
+        options:[`<p>in front of the restaurant</p>`,`<p>in front of the shop</p>`,`<p>in front of the school</p>`,`<p>in front of the library</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Vụ tai nạn ô tô xảy ra ở đâu?</p>
+                      <p>A. trước nhà hàng</p>
+                      <p>B. trước cửa hàng</p>
+                      <p>C. trước trường học</p>
+                      <p>D. trước thư viện</p>
+                      <p>
+                        <strong>Thông tin: </strong>It was in front of the
+                        restaurant, you're our school, I think two people were
+                        injured.
+                      </p>
+                      <p>
+                        <em>
+                          (Đó là ở phía trước nhà hàng, bạn là trường học của
+                          chúng tôi, tôi nghĩ có hai người bị thương.)
+                        </em>
+                      </p><p >
+                        <strong>Bài nghe:</strong>
+                      </p>
+                      <p>
+                        <strong>
+                          <em>1. What does Mary want to be in the future?</em>
+                        </strong>
+                      </p>
+                      <p >
+                        <strong>Drew:</strong> This dress looks great Mary, you
+                        are always very creative. I'm sure you will become an
+                        excellent designer in the future.
+                      </p>
+                      <p >
+                        <strong>Mary:</strong> Thanks. I prefer working at the
+                        zoo and looking after the animals. I think I'll be a
+                        zookeeper when I grow up. What about you, Drew?
+                      </p>
+                      <p >
+                        <strong>Drew:</strong> I want to be a forest
+                        firefighter.
+                      </p>
+                      <p >
+                        <strong>Mary:</strong> That's cool.
+                      </p>
+                      <p>
+                        <strong>
+                          <em>2. What does Mark like best about his city?</em>
+                        </strong>
+                      </p>
+                      <p >
+                        <strong>Mie: </strong>I'm really excited about coming to
+                        your city next summer, Mark.
+                      </p>
+                      <p >
+                        <strong>Mark: </strong>Me too, Mie.
+                      </p>
+                      <p >
+                        <strong>Mie: </strong>Tell me a bit about your city.
+                      </p>
+                      <p >
+                        <strong>Mark: </strong>Well, the traffic is quite busy,
+                        but there's lots of entertainment and you can go
+                        shopping and lots of shops and malls. There's also a
+                        famous museum. But what I love most about my city is the
+                        local food. It's very delicious.
+                      </p>
+                      <p>
+                        <strong>
+                          <em>
+                            3. What are the students going to do this weekend?
+                          </em>
+                        </strong>
+                      </p>
+                      <p >
+                        <strong>Mr Jones: </strong>Everyone's attention please.
+                        We are going to have a clean up day at the beach this
+                        weekend.
+                      </p>
+                      <p >
+                        <strong>Students: </strong>Wow, how can Mr. Jones?
+                      </p>
+                      <p >
+                        <strong>Mr Jones: </strong>It was canceled because of
+                        the big storm coming in. However, you will have to
+                        collect plastic bottles at home, and recycle them. And
+                        you need to send me pictures of your results. Is that
+                        clear to everyone?
+                      </p>
+                      <p >
+                        <strong>Students:</strong>Yes, Mr. Jones.
+                      </p>
+                      <p>
+                        <strong>
+                          <em>
+                            4. Which animal did the girl decide to write about?
+                          </em>
+                        </strong>
+                      </p>
+                      <p >
+                        <strong>Laura’s friend:</strong> Laura, did you finish
+                        your homework about endangered animals?
+                      </p>
+                      <p >
+                        <strong>Laura: </strong>Yes, I just finished it
+                        yesterday. I heard you wrote about the sea turtles,
+                        right?
+                      </p>
+                      <p >
+                        <strong>Laura’s friend:</strong> Exactly. What animals
+                        did you write about?
+                      </p>
+                      <p >
+                        <strong>Laura:</strong>Well, I wanted to write about the
+                        gorilla, but I didn't know much about this animal. Then
+                        the Lemur was quite difficult to write. so I chose
+                        Macaw.
+                      </p>
+                      <p>
+                        <em>
+                          <strong>5. Where did the car crash happen?</strong>
+                        </em>
+                      </p>
+                      <p >
+                        <strong>A:</strong> The shop is going to close. Why are
+                        you so late?
+                      </p>
+                      <p >
+                        <strong>B:</strong> I got stuck in traffic. There was a
+                        car crash on my way here, and the rovers were crowded.
+                      </p>
+                      <p >
+                        <strong>A:</strong> Oh really? Or was a car crash?
+                      </p>
+                      <p >
+                        <strong>B:</strong> It was in front of the restaurant,
+                        you're our school, I think two people were injured.
+                      </p>
+                      <p >
+                        <strong>A:</strong> Oh, tears. That's bad.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>
+                  <em>
+                    Choose the word that has the underlined part pronounced
+                    differently from the others.
+                  </em>
+                </strong>
+              </p>`,
+        question: `
+          `,
+        options:[`perf<u>o</u>rm`,`r<u>o</u>cky`,`b<u>o</u>ring`,`imp<u>o</u>rtant`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        perf<u>o</u>rm /pəˈfɔːm/
+                      </p>
+                      <p>
+                        r<u>o</u>cky /ˈrɒk.i/
+                      </p>
+                      <p>
+                        b<u>o</u>ring /ˈbɔː.rɪŋ/
+                      </p>
+                      <p>
+                        imp<u>o</u>rtant /ɪmˈpɔː.tənt/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương B được phát âm /ɒ/, các
+                        phương án còn lại phát âm /ɔː/.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`leave<u>s</u>`,`enjoy<u>s</u>`,`pollute<u>s</u>`,`avoid<u>s</u>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cách phát âm đuôi -s, -es:</p>
+                      <p>
+                        - Đuôi s, es phát âm là /iz/ khi tận cùng là các âm /s/,
+                        /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/.
+                      </p>
+                      <p>
+                        - Đuôi s, es phát âm là /s / khi tận cùng là các âm /p/,
+                        /f/, /t/, /k/, /ө/.
+                      </p>
+                      <p>
+                        - Đuôi s, es phát âm là /z/ khi tận cùng là các âm còn
+                        lại.
+                      </p>
+                      <p>
+                        leave<u>s</u> /liːvz/
+                      </p>
+                      <p>
+                        enjoy<u>s</u> /ɪnˈdʒɔɪz/
+                      </p>
+                      <p>
+                        pollute<u>s</u> /pəˈluːts/
+                      </p>
+                      <p>
+                        avoid<u>s</u> /əˈvɔɪdz/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương C được phát âm /s/, các
+                        phương án còn lại phát âm /z/.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`happen<u>ed</u>`,`appear<u>ed</u>`,`erupt<u>ed</u>`,`destroy<u>ed</u>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cách phát âm đuôi -ed</p>
+                      <p>
+                        Đuôi /ed/ được phát âm là /t/: Khi động từ kết thúc bằng
+                        âm /s/, /f/, /p/, /ʃ/, /tʃ/, /k/.
+                      </p>
+                      <p>
+                        Đuôi /ed/ được phát âm là /id/: Khi động từ kết thúc
+                        bằng âm /t/ hoặc /d
+                      </p>
+                      <p>
+                        Đuôi /ed/ được phát âm là /d/: Với những trường hợp còn
+                        lại.
+                      </p>
+                      <p>
+                        happen<u>ed</u> /ˈhæp.ənd/
+                      </p>
+                      <p>
+                        appear<u>ed </u>/əˈpɪərd/
+                      </p>
+                      <p>
+                        erupt<u>ed</u> /ɪˈrʌptid/
+                      </p>
+                      <p>
+                        destroy<u>ed</u> /dɪˈstrɔɪd/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương C được phát âm /ɪd/, các
+                        phương án còn lại phát âm /d/.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>
+                  <em>
+                    Choose the word that has a stress pattern different from the
+                    others.
+                  </em>
+                </strong>
+              </p>`,
+        question: `
+          `,
+        options:[`<p>design</p>`,`<p>village</p>`,`<p>shelter</p>`,`<p>province</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>design /dɪˈzaɪn/</p>
+                      <p>village /ˈvɪl.ɪdʒ/</p>
+                      <p>shelter /ˈʃel.tər/</p>
+                      <p>province /ˈprɒv.ɪns/</p>
+                      <p>
+                        Phương án A có trọng âm 2, các phương án còn lại có
+                        trọng âm 1.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`<p>important</p>`,`<p>historic</p>`,`<p>exciting</p>`,`<p>beautiful</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>important /ɪmˈpɔː.tənt/</p>
+                      <p>historic /hɪˈstɒr.ɪk/</p>
+                      <p>exciting /ɪkˈsaɪ.tɪŋ/</p>
+                      <p>beautiful /ˈbjuː.tɪ.fəl/</p>
+                      <p>
+                        Phương án D có trọng âm 1, các phương án còn lại có
+                        trọng âm 2.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>
+                  <em>Choose the best option (A, B, C or D).</em>
+                </strong>
+              </p>`,
+        question: `Many people love going to Hội An for its _____________
+                    buildings. They are old and unique. 
+          `,
+        options:[`<p>modern</p>`,`<p>historic</p>`,`<p>friendly</p>`,` busy`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>modern (adj): hiện đại</p>
+                      <p>historic (adj): lịch sử</p>
+                      <p>friendly (adj): thân thiện</p>
+                      <p>busy (adj): bận</p>
+                      <p>
+                        Many people love going to Hội An for its
+                        <strong>historic</strong> buildings. They are old and
+                        unique.
+                      </p>
+                      <p>
+                        <em>
+                          (Nhiều người thích đến Hội An vì những tòa nhà lịch sử
+                          ở đây. Chúng cũ và độc đáo.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The building _________ while my family was sleeping at this
+                    time yesterday.
+          `,
+        options:[`<p>shook</p>`,`<p>blew</p>`,`<p>erupted</p>`,`<p>overflowed</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>shook (v): rung chuyển</p>
+                      <p>blew (v): thổi</p>
+                      <p>erupted (v): phun trào</p>
+                      <p>overflowed (v): tràn</p>
+                      <p>
+                        The building <strong>shook</strong> while my family was
+                        sleeping at this time yesterday.
+                      </p>
+                      <p>
+                        <em>
+                          (Tòa nhà rung chuyển khi gia đình tôi đang ngủ vào giờ
+                          này ngày hôm qua.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Kim is planning __________ the Times Square in New York
+                    City.
+          `,
+        options:[`<p>visit</p>`,`<p>visits</p>`,`<p>to visit</p>`,`<p>visiting</p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>plan + to V: có kế hoạch làm gì</p>
+                      <p>
+                        Kim is planning <strong>to visit Times</strong> Square
+                        in New York City.
+                      </p>
+                      <p>
+                        <em>
+                          (Kim đang có kế hoạch đến thăm Quảng trường Thời đại ở
+                          thành phố New York.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `In May 2010, heavy rains caused floods in _____ Nashville,
+                    the USA. The flood waters covered all the areas of
+                    _________city.
+          `,
+        options:[`<p>the/the</p>`,`<p>the / a</p>`,`<p>-/a</p>`,`<p>-/ the</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>
+                        Nashville là tên một thành phố =&gt; Không cần mạo từ
+                      </p>
+                      <p>
+                        “city” chỉ thành phố Nashville đã được người nói đề cập
+                        trước đó =&gt; dùng mạo từ “the”
+                      </p>
+                      <p>
+                        In May 2010, heavy rains caused floods in Nashville, the
+                        USA. The flood waters covered all the areas of
+                        <strong>the </strong>city.
+                      </p>
+                      <p>
+                        <em>
+                          (Tháng 5/2010, mưa lớn gây lũ lụt ở Nashville, Mỹ.
+                          Nước lũ bao trùm toàn bộ khu vực của thành phố.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I suggest _________ clean-up events at the beach every
+                    week.
+          `,
+        options:[`<p>join</p>`,`<p>joins</p>`,`<p>to join</p>`,`<p>joining</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>suggest + V-ing: đề xuất làm gì</p>
+                      <p>
+                        I suggest <strong>joining</strong> clean-up events at
+                        the beach every week.
+                      </p>
+                      <p>
+                        <em>
+                          (Tôi khuyên bạn nên tham gia các sự kiện dọn dẹp bãi
+                          biển hàng tuần.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>
+                    <strong>
+                      <em>John: </em>
+                    </strong>
+                    "Hey, did you hear about the plane crash yesterday? Many
+                    people were lost." -
+                    <em>
+                      <strong>Sarah:</strong>
+                    </em>
+                    "________________”
+                  </p>
+          `,
+        options:[`<p>How terrible!</p>`,`<p>It's nice of you to say so.</p>`,`<p>Thank you.</p>`,`<p>I'm well.</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. Thật khủng khiếp!</p>
+                      <p>B. Thật tốt khi bạn nói như vậy.</p>
+                      <p>C. Cảm ơn bạn.</p>
+                      <p>D. Tôi ổn.</p>
+                      <p>
+                        <strong>
+                          <em>John: </em>
+                        </strong>
+                        "Hey, did you hear about the plane crash yesterday? Many
+                        people were lost." - Sarah: "
+                        <strong>How terrible!</strong>”
+                      </p>
+                      <p>
+                        <em>
+                          (John: "Này, cậu có nghe nói về vụ tai nạn máy bay
+                          ngày hôm qua không? Nhiều người đã mất tích." - Sarah:
+                          "Thật kinh khủng!")
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The emergency lighting __________ as soon as the
+                    electricity_________ cut.
+          `,
+        options:[`<p>work / is</p>`,`<p>will work / will be</p>`,`<p>will work/ is</p>`,`<p>work / will be</p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+                        Cấu trúc: S1 + V (tương lai đơn) + as soon as + S2 + V
+                        (hiện tại đơn/hiện tại hoàn thành): nói về 2 hành động
+                        nối tiếp diễn ra ở tương lai chưa diễn ra ở thời điểm
+                        nói.
+                      </p>
+                      <p>
+                        The emergency lighting <strong>will work</strong> as
+                        soon as the electricity <strong>is</strong> cut.
+                      </p>
+                      <p>
+                        <em>
+                          (Hệ thống chiếu sáng khẩn cấp sẽ hoạt động ngay khi
+                          mất điện.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The documentary about the Titanic shipwreck ___________ at 8
+                    p.m on Channel 4.
+      `,
+        options:[`<p>starts</p>`,`<p>is going to start</p>`,`<p>will start</p>`,`<p>is starting</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        Thì hiện tại đơn nói về một lịch trình có sẵn, chương
+                        trình, thời gian biểu cố định.
+                      </p>
+                      <p>
+                        The documentary about the Titanic shipwreck
+                        <strong>starts</strong> at 8 p.m on Channel 4.
+                      </p>
+                      <p>
+                        <em>
+                          (Phim tài liệu về vụ đắm tàu Titanic bắt đầu lúc 8 giờ
+                          tối trên Kênh 4.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Everybody was___________ when the disaster happened.
+      `,
+        options:[`<p>terrified</p>`,`<p>relieved</p>`,` <p>relaxed</p>`,`<p>excited</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>terrified (adj): kinh hãi</p>
+                      <p>relieved (adj): nhẹ nhõm</p>
+                      <p>relaxed (adj): thư giãn</p>
+                      <p>excited (adj): vui mừng</p>
+                      <p>
+                        Everybody was <strong>terrified</strong> when the
+                        disaster happened.
+                      </p>
+                      <p>
+                        <em>
+                          (Mọi người đều vô cùng kinh hãi khi thảm họa xảy ra.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The town was ________ with a lot of volunteers from
+                    different places.
+      `,
+        options:[`<p>quiet</p>`,`<p>crowded</p>`,`<p>beautiful</p>`,`<p>empty</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>quiet (adj): yên tĩnh</p>
+                      <p>crowded (adj): đông đúc</p>
+                      <p>beautiful (adj): đẹp</p>
+                      <p>empty (adj): trống không, vắng vẻ</p>
+                      <p>
+                        The town was <strong>crowded </strong>with a lot of
+                        volunteers from different places.
+                      </p>
+                      <p>
+                        <em>
+                          (Thị trấn đông đúc với rất nhiều tình nguyện viên từ
+                          nhiều nơi khác nhau.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<strong>
+                <em>Give the correct form of the words in brackets.</em>
+              </strong>`,
+        question: `Henry doesn’t like living in the cities because there’s too
+              much_______ in the air. (POLLUTE)
+      `,
+        options:[],
+        answer: `pollution`,
+        rewrite: ``,
+        explanation: `<p>21.Sau “much” cần một danh từ.</p>
+                  <p>pollute (v): ô nhiễm</p>
+                  <p>pollution (n): sự ô nhiễm</p>
+                  <p>
+                    Henry doesn’t like living in the cities because there’s too
+                    much <strong>pollution</strong> in the air.
+                  </p>
+                  <p>
+                    <em>
+                      (Henry không thích sống ở thành phố vì không khí quá ô
+                      nhiễm.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We can save many endangered animals if we stop ________ hunting. (LEGAL)
+      `,
+        options:[],
+        answer: `illegal`,
+        rewrite: ``,
+        explanation: `<p>
+                    22.“hunting” là một danh từ =&gt; Chỗ trống cần điền
+                    một tính từ.
+                  </p>
+                  <p>legal (adj): hợp pháp</p>
+                  <p>illegal (adj): bất hợp pháp</p>
+                  <p>
+                    We can save many endangered animals if we stop
+                    <strong>illegal</strong> hunting.
+                  </p>
+                  <p>
+                    <em>
+                      (Chúng ta có thể cứu được nhiều loài động vật có nguy cơ
+                      tuyệt chủng nếu chúng ta ngừng săn bắt trái phép.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `In West End, you can enjoy the ________ 
+              city life and go shopping in the crowded high streets. (EXCITE)
+      `,
+        options:[],
+        answer: `exciting`,
+        rewrite: ``,
+        explanation: `<p>23. Sau mạo từ “the” cần một danh từ.</p>
+                  <p>excite (v): kích động</p>
+                  <p>exciting (adj): thú vị</p>
+                  <p>
+                    In the West End, you can enjoy the <strong>exciting</strong>
+                    city life and go shopping in the crowded high streets.
+                  </p>
+                  <p>
+                    <em>
+                      (Ở West End, bạn có thể tận hưởng cuộc sống thành phố thú
+                      vị và đi mua sắm trên những con phố đông đúc.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Everyone was relieved after the ________ put out the fire. (FIRE)
+      `,
+        options:[],
+        answer: `firefighter`,
+        rewrite: ``,
+        explanation: `<p>24. Sau mạo từ “the” cần một danh từ.</p>
+                  <p>fire (n): ngọn lửa</p>
+                  <p>firefighter (n): lính cứu hỏa</p>
+                  <p>
+                    Everyone was relieved after the <strong>firefighter</strong>
+                    put out the fire.
+                  </p>
+                  <p>
+                    <em>
+                      (Mọi người thở phào nhẹ nhõm sau khi lính cứu hỏa dập tắt
+                      đám cháy.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Dolphins are friendly animals, but you must be ________ when you are around them. (CARE)
+      `,
+        options:[],
+        answer: `careful`,
+        rewrite: ``,
+        explanation: `<p>
+                    25. Cấu trúc: S + be + adj =&gt; cần một tính từ chủ động để
+                    mô tả tính chất của sự vật
+                  </p>
+                  <p>care (n): quan tâm</p>
+                  <p>careful (adj): cẩn thận</p>
+                  <p>
+                    Dolphins are friendly animals, but you must be
+                    <strong>careful</strong> when you are around them.
+                  </p>
+                  <p>
+                    <em>
+                      (Cá heo là loài động vật thân thiện nhưng bạn phải cẩn
+                      thận khi ở gần chúng.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>
+                  <em>
+                    Read the text about global warming. Choose the best option
+                    (A, B, C or D).
+                  </em>
+                </strong>
+              </p>
+              <p >GLOBAL WARMING</p>
+              <p >
+                Many natural (<strong>1</strong>) __________, such as floods,
+                storms and heat waves, are caused by global warming. The
+                question is what causes global warming? Most scientists agree
+                that human activities are to blame For warming the Earth. The
+                increased temperature can cause a number of environmental
+                issues. Firstly, this causes rain to come more frequently and
+                makes storms (<strong>2</strong>) __________even stronger.
+              </p>
+              <p >
+                Secondly, global warming makes ice caps melt. When ice caps
+                melt, the sea level will (<strong>3</strong>) __________– which
+                is dangerous to people living near the sea. Finally, global
+                warming also causes changes in (<strong>4</strong>) __________
+                environment, which destroys many animals habitats. Many animals
+                are now threatened by habitat (<strong>5</strong>) __________.
+              </p>
+              <p >
+                It is critical to protect the environment. To prevent the Earth
+                from warming, we must be prepared and find solutions to help
+                save our planet.
+              </p>`,
+        question: `Many natural (<strong>1</strong>) __________, such as
+                    floods, storms and heat waves, are caused by global warming.
+      `,
+        options:[`<p>crashes</p>`,`<p>disasters</p>`,`<p>accidents</p>`,`<p>experiences</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>crashes (n): sự cố</p>
+                      <p>disasters (n): thiên tai</p>
+                      <p>accidents (n): tai nạn</p>
+                      <p>experiences (n): kinh nghiệm</p>
+                      <p>
+                        Many natural (<strong>1</strong>)
+                        <strong>disasters</strong>, such as floods, storms and
+                        heat waves, are caused by global warming.
+                      </p>
+                      <p>
+                        <em>
+                          (Nhiều thiên tai (1), chẳng hạn như lũ lụt, bão và
+                          sóng nhiệt, là do sự nóng lên toàn cầu.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` Firstly, this causes rain to come more frequently and makes
+                    storms (<strong>2</strong>) __________even stronger.
+      `,
+        options:[`<p>become</p>`,`<p>becomes</p>`,`<p>to become</p>`,`<p>becoming</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>make + V-inf: khiến</p>
+                      <p>
+                        Firstly, this causes rain to come more frequently and
+                        makes storms (<strong>2</strong>)
+                        <strong> become </strong>even stronger.
+                      </p>
+                      <p>
+                        <em>
+                          (Thứ nhất, điều này khiến mưa đến thường xuyên hơn và
+                          khiến bão (2) càng mạnh hơn.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` When ice caps melt, the sea level will (<strong>3</strong>)
+                    __________– which is dangerous to people living near the
+                    sea.
+      `,
+        options:[`<p>dry up</p>`,`<p>disappear</p>`,`<p>rise</p>`,`<p>pollute</p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>dry up (v): cạn kiệt</p>
+                      <p>disappear (v): biến mất</p>
+                      <p>rise (v): tăng lên</p>
+                      <p>pollute (v): ô nhiễm</p>
+                      <p>
+                        When ice caps melt, the sea level will (
+                        <strong>3</strong>) <strong>rise</strong>– which is
+                        dangerous to people living near the sea.
+                      </p>
+                      <p>
+                        <em>
+                          (Khi băng tan, mực nước biển sẽ (3) dâng lên - điều
+                          này gây nguy hiểm cho những người sống gần biển.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Finally, global warming also causes changes in (
+                    <strong>4</strong>) __________ environment, which destroys
+                    many animals habitats.
+      `,
+        options:[`<p>a</p>`,`<p>an</p>`,`<p>the</p>`,`<p>–</p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+                        “The” khi nói về một vật riêng hoặc một người mà cả
+                        người nghe và người nói đều biết.
+                      </p>
+                      <p>
+                        Finally, global warming also causes changes in (
+                        <strong>4</strong>) <strong>the</strong> environment,
+                        which destroys many animals' habitats.
+                      </p>
+                      <p>
+                        <em>
+                          (Cuối cùng, sự nóng lên toàn cầu cũng gây ra những
+                          thay đổi trong (4) môi trường, phá hủy môi trường sống
+                          của nhiều loài động vật.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Many animals are now threatened by habitat (
+                    <strong>5</strong>) __________.
+      `,
+        options:[`<p>loss</p>`,`<p>lost</p>`,`<p>lose</p>`,`<p>loose</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>loss (n): sự mất mát</p>
+                      <p>lost (adj): thất lạc</p>
+                      <p>lose (v): mất</p>
+                      <p>loose (adj): lỏng lẻo</p>
+                      <p>
+                        Many animals are now threatened by habitat
+                        <strong>(5) loss</strong>.
+                      </p>
+                      <p>
+                        <em>
+                          (Nhiều loài động vật hiện đang bị đe dọa do mất môi
+                          trường sống.)
+                        </em>
+                      </p><p >
+                        <em>SỰ NÓNG LÊN TOÀN CẦU</em>
+                      </p>
+                      <p >
+                        <em>
+                          Nhiều thiên tai (1), chẳng hạn như lũ lụt, bão và sóng
+                          nhiệt, là do sự nóng lên toàn cầu. Câu hỏi đặt ra là
+                          nguyên nhân gây ra hiện tượng nóng lên toàn cầu? Hầu
+                          hết các nhà khoa học đều đồng ý rằng các hoạt động của
+                          con người là nguyên nhân khiến Trái đất nóng lên.
+                          Nhiệt độ tăng lên có thể gây ra một số vấn đề về môi
+                          trường. Thứ nhất, điều này khiến mưa đến thường xuyên
+                          hơn và khiến bão (2) càng mạnh hơn.
+                        </em>
+                      </p>
+                      <p >
+                        <em>
+                          Thứ hai, hiện tượng nóng lên toàn cầu làm băng tan.
+                          Khi băng tan, mực nước biển sẽ (3) dâng cao gây nguy
+                          hiểm cho người dân sống gần biển. Cuối cùng, sự nóng
+                          lên toàn cầu cũng gây ra những thay đổi trong (4) môi
+                          trường, phá hủy môi trường sống của nhiều loài động
+                          vật. Nhiều loài động vật hiện đang bị đe dọa do mất
+                          môi trường sống (5).
+                        </em>
+                      </p>
+                      <p >
+                        <em>
+                          Điều quan trọng là phải bảo vệ môi trường. Để ngăn
+                          chặn Trái đất nóng lên, chúng ta phải chuẩn bị và tìm
+                          giải pháp giúp cứu hành tinh của chúng ta.
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>
+                <em>
+                  Read the text about Skeleton Coast. Write R (right) or W
+                  (wrong).
+                </em>
+              </strong></p><p >The Skeleton Coast</p>
+            <p >
+              The Skeleton Coast is the coastline of southern Africa. It got its
+              name because people found many bones from whales and seals there.
+              There were also a lot of human bones along the coast. This place
+              is famous for having a large number of shipwrecks, over a thousand
+              in fact. When sailors hear about the Skeleton Coast, they are
+              usually terrified.
+            </p>
+            <p >
+              In 1912, a ship called The Gertrud Woermann II sank and
+              disappeared into the ocean. The ship was carrying hundreds of
+              people, horses, and other items when it was destroyed by a strong
+              storm. The Winston was another shipwreck off the Skeleton Coast.
+              It hit the shore on 17 October, 1970. People can still see parts
+              of the ship along the coast.
+            </p>
+            <p >
+              Sometimes a shipwreck comes with treasure. The discovery of the
+              Bom Jesus was in April 2008, and a worker found many gold coins
+              from the shipwreck. Most of the coins were of Spanish origin.
+              However, it is believed that the ship came from Portugal, and it
+              was sailing to India.
+            </p>`,
+        question: `People found many bones of animals and humans along the
+                    coast.
+      `,
+        options:[`<p>Right</p>`,`<p>Wrong</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        31.People found many bones of animals and humans
+                        along the coast.
+                      </p>
+                      <p>
+                        <em>
+                          (Người ta tìm thấy nhiều xương của động vật và con
+                          người dọc bờ biển.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>It got its name because
+                        people found many bones from whales and seals there.
+                        There were also a lot of human bones along the coast.
+                      </p>
+                      <p>
+                        <em>
+                          (Nó có tên như vậy vì người ta tìm thấy nhiều xương
+                          của cá voi và hải cẩu ở đó. Ngoài ra còn có rất nhiều
+                          xương người dọc theo bờ biển.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Skeleton Coast is a favourite place for sailors.
+      `,
+        options:[`<p>Right</p>`,`<p>Wrong</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        32. Skeleton Coast is a favourite place for sailors.
+                      </p>
+                      <p>
+                        <em>
+                          (Skeleton Coast là địa điểm yêu thích của các thủy
+                          thủ.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>When sailors hear about the
+                        Skeleton Coast, they are usually terrified.
+                      </p>
+                      <p>
+                        <em>
+                          (Khi các thủy thủ nghe về Skeleton Coast, họ thường
+                          rất sợ hãi.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A strong storm caused the shipwreck of The Gertrud
+                    Woermann II.
+      `,
+        options:[`<p>Right</p>`,`<p>Wrong</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        33. A strong storm caused the shipwreck of The Gertrud
+                        Woermann II.
+                      </p>
+                      <p>
+                        <em>
+                          (Một cơn bão mạnh đã gây ra vụ đắm tàu The Gertrud
+                          Woermann II.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>The ship was carrying
+                        hundreds of people, horses, and other items when it was
+                        destroyed by a strong storm.
+                      </p>
+                      <p>
+                        <em>
+                          (Con tàu chở hàng trăm người, ngựa và các vật dụng
+                          khác thì bị một cơn bão mạnh phá hủy.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Parts of The Winston disappeared completely after the
+                    shipwreck.
+      `,
+        options:[`<p>Right</p>`,`<p>Wrong</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        34. Parts of The Winston disappeared completely after
+                        the shipwreck.
+                      </p>
+                      <p>
+                        <em>
+                          (Các bộ phận của Winston biến mất hoàn toàn sau vụ đắm
+                          tàu.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>People can still see parts
+                        of the ship along the coast.
+                      </p>
+                      <p>
+                        <em>
+                          (Người ta vẫn có thể nhìn thấy các phần của con tàu
+                          dọc theo bờ biển.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The Bom Jesus was a Spanish ship.
+      `,
+        options:[`<p>Right</p>`,`<p>Wrong</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>35. The Bom Jesus was a Spanish ship.</p>
+                      <p>
+                        <em>(Bom Jesus là một con tàu của Tây Ban Nha.)</em>
+                      </p>
+                      <p>
+                        <strong>Thông tin: </strong>However, it is believed that
+                        the ship came from Portugal, and it was sailing to
+                        India.
+                      </p>
+                      <p>
+                        <em>
+                          (Tuy nhiên, người ta tin rằng con tàu đến từ Bồ Đào
+                          Nha và đang đi đến Ấn Độ.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>
+                <em>Rearrange the given words to make complete sentences.</em>
+              </strong></p>`,
+        question: `wants/ landscape/ to/ brother/ become/ a/ gardener./ My
+      `,
+        options:[],
+        answer: `My brother wants to become a landscape gardener`,
+        rewrite: ``,
+        explanation: `<p>36.Cấu trúc câu: S + V + O</p>
+                  <p>
+                    S: Tính từ sở hữu + danh từ =&gt; My brother
+                    <em>(anh trai tôi)</em>
+                  </p>
+                  <p>
+                    V: want + to V =&gt; wants to be come
+                    <em>(muốn trở thành)</em>
+                  </p>
+                  <p>
+                    O: mạo từ + danh từ =&gt; a landscape gardener
+                    <em>(người làm vườn cảnh)</em>
+                  </p>
+                  <p>
+                    <strong>
+                      =&gt; My brother wants to become a landscape gardener.
+                    </strong>
+                  </p>
+                  <p>
+                    <em>
+                      (Anh trai tôi muốn trở thành một người làm vườn cảnh.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Lily/ in/ explosion/ was/ when/ the/ reading/ happened./
+                library/ the
+      `,
+        options:[],
+        answer: `Lily was reading in the library when the explosion happened`,
+        rewrite: ``,
+        explanation: `<p>
+                    37.Cấu trúc thì quá khứ đơn và quá khứ tiếp diễn với
+                    “when”:
+                  </p>
+                  <p>
+                    + thì quá khứ đơn: hành động ngắn =&gt; the explosion
+                    happened <em>(vụ nổ xảy ra)</em>
+                  </p>
+                  <p>
+                    + thì quá khứ tiếp diễn: hành động kéo dài =&gt; Lily was
+                    reading in the libraty
+                    <em>(Lily đang đọc trong thư viện)</em>
+                  </p>
+                  <p>
+                    <strong>
+                      =&gt; Lily was reading in the library when the explosion
+                      happened.
+                    </strong>
+                  </p>
+                  <p>
+                    <em>
+                      (Lily đang đọc sách trong thư viện thì vụ nổ xảy ra.)
+                    </em>
+                  </p>
+                  <p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>
+                <em>Rewrite the sentences without changing their meanings.</em>
+              </strong></p>`,
+        question: `If we don't stop illegal pet trade, many animals will be
+                endangered.
+      `,
+        options:[],
+        answer: ` we stop illegal pet trade, many animals will be
+                    endangered`,
+        rewrite: `Unless`,
+        explanation: `<p>
+                    38. Unless + S + V (thì hiện tại đơn), S+ will/ can/ shall +
+                    V = If not + S + V (thì hiện tại đơn), S+ will/ can/ shall +
+                    V
+                  </p>
+                  <p>
+                    If we don't stop illegal pet trade, many animals will be
+                    endangered.
+                  </p>
+                  <p>
+                    <em>
+                      (Nếu chúng ta không ngăn chặn việc buôn bán thú cưng bất
+                      hợp pháp, nhiều loài động vật sẽ gặp nguy hiểm.)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; Unless
+                    <strong>
+                      we stop the illegal pet trade, many animals will be
+                      endangered.
+                    </strong>
+                  </p>
+                  <p>
+                    <em>
+                      (Trừ khi chúng ta ngăn chặn việc buôn bán thú cưng bất hợp
+                      pháp, nhiều loài động vật sẽ gặp nguy hiểm.)
+                    </em>
+                  </p>
+                  `,
+      },
+      {
+        id: 41,
+        extra: `My parents don't like living in the city because there's too
+                much traffic.`,
+        question: `
+      `,
+        options:[],
+        answer: `living in the city because there's too much traffic`,
+        rewrite: `My parents hate`,
+        explanation: `<p>39.don’t like + V-ing = hate + V-ing: ghét làm gì</p>
+                  <p>
+                    My parents don't like living in the city because there's too
+                    much traffic.
+                  </p>
+                  <p>
+                    <em>
+                      (Bố mẹ tôi không thích sống ở thành phố vì có quá nhiều xe
+                      cộ qua lại.)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; My parents hate <strong>living in the</strong>
+                    <strong>city because there's too much traffic.</strong>
+                  </p>
+                  <p>
+                    <em>
+                      (Bố mẹ tôi ghét sống ở thành phố vì có quá nhiều xe cộ qua
+                      lại.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Don't use your car too much, or you'll make the air more
+                polluted.
+          `,
+        options:[],
+        answer: `use your car too much, you'll make the air more polluted.`,
+        rewrite: `If`,
+        explanation: `<p>
+                    40. Cấu trúc: If + S + V (simple present), S +
+                    will/can/shall + V
+                  </p>
+                  <p>
+                    Don't use your car too much, or you'll make the air more
+                    polluted.
+                  </p>
+                  <p>
+                    <em>
+                      (Đừng sử dụng ô tô quá nhiều, nếu không bạn sẽ làm cho
+                      không khí trở nên ô nhiễm hơn.)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; If you
+                    <strong>
+                      use your car too much, you'll make the air more polluted.
+                    </strong>
+                  </p>
+                  <p>
+                    <em>
+                      (Nếu bạn sử dụng ô tô quá nhiều, bạn sẽ làm cho không khí
+                      trở nên ô nhiễm hơn.)
+                    </em>
+                  </p>`,
+      },
+    ],
+  },
+  {
+    semester: 1,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Choose the word whose underlined parts pronounced
+                    differently from the others.
+                  </em>
+                </strong>
+              </p>`,
+        question: `
+          `,
+        options:[`pr<u>o</u>vince`,`pr<u>o</u>blem`,`ign<u>o</u>re`,`sh<u>o</u>pping`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+                        pr<u>o</u>vince /ˈprɒv.ɪns/
+                      </p>
+                      <p>
+                        pr<u>o</u>blem /ˈprɒb.ləm/
+                      </p>
+                      <p>
+                        ign<u>o</u>re /ɪɡˈnɔːr/
+                      </p>
+                      <p>
+                        sh<u>o</u>pping /ˈʃɒp.ɪŋ/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương C được phát âm /ɔː/, các
+                        phương án còn lại phát âm /ɒ/.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`c<u>a</u>p`,`m<u>a</u>ny`,`pl<u>a</u>n`,`c<u>a</u>rry`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        c<u>a</u>p /kæp/
+                      </p>
+                      <p>
+                        m<u>a</u>ny
+                        /ˈmen.i/
+                      </p>
+                      <p>
+                        pl<u>a</u>n /plæn/
+                      </p>
+                      <p>
+                        c<u>a</u>rry /ˈkær.i/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương B được phát âm /e/, các
+                        phương án còn lại phát âm /æ/.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`<u>ai</u>r`,`entert<u>ai</u>n`,`r<u>ai</u>n`,`afr<u>ai</u>d`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        <u>ai</u>r
+                        /eər/
+                      </p>
+                      <p>
+                        entert<u>ai</u>
+                        n/en.təˈteɪn/
+                      </p>
+                      <p>
+                        <u>rai</u>n /reɪn/
+                      </p>
+                      <p>
+                        afr<u>ai</u>d /əˈfreɪd/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương A được phát âm /eə/, các
+                        phương án còn lại phát âm /eɪ/.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Choose the word that has a stress pattern different from the
+                    others.
+                  </em>
+                </strong>
+              </p>`,
+        question: `
+          `,
+        options:[`<p>heavy</p>`,`<p>traffic</p>`,`<p>earthquake</p>`,`<p>protect</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>
+                        heavy /ˈhev.i/     
+                      </p>
+                      <p>traffic /ˈtræf.ɪk/</p>
+                      <p>
+                        earthquake /ˈɜːθ.kweɪk/    
+                         
+                      </p>
+                      <p>protect /prəˈtekt/</p>
+                      <p>
+                        Phương án D có trọng âm 2, các phương án còn lại có
+                        trọng âm 1.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+       options:[`<p>pollution</p>`,`<p>rainforest</p>`,`<p>tsunami</p>`,`<p>volcano</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        pollution /pəˈluː.ʃən/    
+                      </p>
+                      <p>rainforest/ˈreɪn.fɒr.ɪst/</p>
+                      <p>tsunami /tsuːˈnɑː.mi/</p>
+                      <p>volcano /vɒlˈkeɪ.nəʊ/</p>
+                      <p>
+                        Phương án B có trọng âm 1, các phương án còn lại có
+                        trọng âm 2.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>Choose the correct options.</em>
+                </strong>
+              </p>`,
+        question: `We went on holiday to the countryside to enjoy
+                    the_________air. 
+          `,
+        options:[`<p>peaceful</p>`,`<p>clean</p>`,`<p>quiet</p>`,`<p>calm</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        peaceful (adj): bình yên    
+                            
+                      </p>
+                      <p>clean (adj): sạch sẽ</p>
+                      <p>quiet (adj): yên tĩnh</p>
+                      <p>
+                        calm (adj): bình
+                        tĩnh
+                      </p>
+                      <p>
+                        We went on holiday to the countryside to enjoy the
+                        <strong> clean </strong>
+                        air.
+                      </p>
+                      <p>
+                        <span >
+                          <em>
+                            (Chúng tôi đi nghỉ ở vùng nông thôn để tận hưởng
+                            không khí
+                            <span >
+                              trong lành
+                            </span>
+                            .)
+                          </em>
+                        </span>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The building was shaking for 2 minutes during the ___ last
+                    night.
+          `,
+        options:[`<p>earthquake</p>`,`<p>landslide</p>`,`<p>tsunami</p>`,`<p>storm</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>earthquake (n): động đất</p>
+                      <p>landslide (n): lở đất</p>
+                      <p>tsunami (n): sóng thần</p>
+                      <p>storm (n): bão</p>
+                      <p>
+                        The building was shaking for 2 minutes during the
+                        <strong>earthquake</strong> last night.
+                      </p>
+                      <p>
+                        <em>
+                          (Tòa nhà đã rung chuyển trong 2 phút trong trận động
+                          đất đêm qua.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `_______ need to be caring because they took after animals.
+          `,
+        options:[`<p>Road sweepers</p>`,`<p>Zookeepers</p>`,`<p>Forest firefighters</p>`,`<p>Landscape gardeners</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Road sweepers (n): lao công</p>
+                      <p>Zookeepers (n): người giữ vườn thú</p>
+                      <p>Forest firefighters (n): lính cứu hỏa rừng</p>
+                      <p>Landscape gardeners (n): người làm vườn</p>
+                      <p>
+                        <strong>Zookeepers</strong> need to be caring because
+                        they take after animals.
+                      </p>
+                      <p>
+                        <em>
+                          (Những người trông coi vườn thú cần phải được quan tâm
+                          vì họ chăm sóc động vật.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `People in big cities are often_________, so they don't have
+                    much time to relax. 
+                  `,
+        options:[`<p>crowded</p>`,`<p>busy</p>`,`<p>friendly</p>`,`<p>modern</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        crowded (adj): đông đúc   
+                         
+                      </p>
+                      <p>busy (adj): bận rộn</p>
+                      <p>friendly (adj): thân thiện</p>
+                      <p>modern(adj): hiện đại</p>
+                      <p>
+                        People in big cities are often<strong> busy</strong>, so
+                        they don't have much time to
+                        relax.
+                      </p>
+                      <p>
+                        <em>
+                          (Người dân ở các thành phố lớn thường bận rộn nên
+                          không có nhiều thời gian để thư giãn.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Did you see the car_________in Merritt Street this morning?
+          `,
+        options:[`<p>flood</p>`,`<p>eruption</p>`,`<p>disaster</p>`,`<p>crash</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>flood (n): lũ lụt</p>
+                      <p>eruption (n): sự phun trào</p>
+                      <p>disaster (n): thảm họa</p>
+                      <p>crash (n): va chạm</p>
+                      <p>
+                        Did you see the car <strong>crash </strong>in Merritt
+                        Street this morning?
+                      </p>
+                      <p>
+                        <em>
+                          (Bạn có thấy vụ đâm xe ở phố Merritt sáng nay không?)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>They ______ to Việt Nam tomorrow.</p>
+          `,
+        options:[`<p>travelled</p>`,`<p>travel</p>`,`<p>were travelling</p>`,`<p>are travelling</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>
+                        Dùng thì hiện tại tiếp diễn để nói về một kế hoạch trong
+                        tương lai và đã được dự định từ trước và đã có sự sắp
+                        xếp, chuẩn bị
+                      </p>
+                      <p>
+                        They <strong>are travelling</strong> to Việt Nam
+                        tomorrow.
+                      </p>
+                      <p>
+                        <em>(Họ sẽ đi du lịch đến Việt Nam vào ngày mai.)</em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>Do you like __________ in the city?</p>
+          `,
+        options:[`<p>living</p>`,`<p>to live</p>`,`<p>live</p>`,`<p>are living</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>like + V-ing: thích làm gì</p>
+                      <p>
+                        Do you like <strong>living</strong> in the city?
+                      </p>
+                      <p>
+                        <em>(Bạn có thích sống ở thành phố không?)</em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Lots of animals live in____ Sonoran Desert in___ Arizona, USA.
+          `,
+        options:[`<p>-, the</p>`,`<p>-, -</p>`,`<p>the, -</p>`,`<p>the, the</p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+                        ‘Sonoran Desert’ là tên sa mạc, ‘Arizona’ là một
+                        địa phương<strong>-&gt;</strong>the, -
+                      </p>
+                      <p>
+                        Lots of animals live in<strong>the</strong>
+                        Sonoran Desert in Arizona, USA.
+                      </p>
+                      <p>
+                        <em>
+                          (Rất nhiều động vật sống ở sa mạc Sonoran ở Arizona,
+                          Mỹ.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>They ________ when the volcano erupted.</p>
+          `,
+        options:[`<p>didn't sleep</p>`,`<p>weren't sleeping</p>`,`<p>aren’t sleeping</p>`,`<p>don't sleep</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        Hành động ‘sleep’ đang xảy ra trong quá khứ (QKTD) thì
+                        bị hành động ‘erupt’ cắt ngang (QKĐ) -&gt; weren't
+                        sleeping.
+                      </p>
+                      <p>
+                        They <strong>weren’t sleeping</strong> when the volcano
+                        erupted.
+                      </p>
+                      <p>
+                        <em>(Họ không ngủ khi núi lửa phun trào.)</em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We _________to the countryside for our holiday at the moment.
+          `,
+        options:[`<p>are going</p>`,`<p>were going</p>`,`<p>go</p>`,`<p>went</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        Thì hiện tại tiếp diễn diễn tả một hành động đang xảy ra
+                        tại thời điểm nói;
+                      </p>
+                      <p>
+                        “at the moment” là dấu hiệu của thì hiện tại tiếp diễn
+                        =&gt; Động từ chia ở thì hiện tại tiếp diễn;
+                      </p>
+                      <p>
+                        We <strong>are going </strong>to the countryside for our
+                        holiday at the moment.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>
+                <em>Give the correct form of the word in the brackets.</em>
+              </strong></p>`,
+        question: `Forest firefighters need to be brave because their job is ________ (DANGER)</p>
+          `,
+        options:[],
+        answer: `dangerous`,
+        rewrite: ``,
+        explanation: `<p>
+                    16.Cấu trúc: S + be + adj =&gt; cần một tính từ chủ
+                    động để mô tả tính chất của sự vật
+                  </p>
+                  <p>danger (n): sự nguy hiểm</p>
+                  <p>dangerous (adj): nguy hiểm</p>
+                  <p>
+                    Forest firefighters need to be brave because their job is
+                    <strong>dangerous</strong>.
+                  </p>
+                  <p>
+                    <em>
+                      (Lính cứu hỏa rừng cần phải dũng cảm vì công việc của họ
+                      rất nguy hiểm.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Macaws are endangered because of ________
+              pet trade. People sell and keep them as pets. (LEGAL)
+          `,
+        options:[],
+        answer: `illegal`,
+        rewrite: ``,
+        explanation: `<p>
+                    17. Chỗ trống cần điền một tính từ để tạo thành một cụm danh
+                    từ.
+                  </p>
+                  <p>legal (adj): hợp pháp</p>
+                  <p>illegal (adj): bất hợp pháp</p>
+                  <p>
+                    Macaws are endangered because of <strong>illegal</strong>
+                    pet trade. People sell and keep them as pets.
+                  </p>
+                  <p>
+                    <em>
+                      (Vẹt đuôi dài đang bị đe dọa vì buôn bán vật nuôi bất hợp
+                      pháp. Người ta bán và nuôi chúng như thú cưng.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The air will become more _______ if we use lots of cars on roads. (POLLUTE)
+      `,
+        options:[],
+        answer: `polluted`,
+        rewrite: ``,
+        explanation: `<p>
+                    18. Sau động từ "become" và hình thức so sánh hơn “more” cần
+                    một tính từ.
+                  </p>
+                  <p>pollute (v): ô nhiễm</p>
+                  <p>polluted (adj): ô nhiễm</p>
+                  <p>
+                    The air will become more <strong>polluted</strong> if we use
+                    lots of cars on roads.
+                  </p>
+                  <p>
+                    <em>
+                      (Không khí sẽ trở nên ô nhiễm hơn nếu chúng ta sử dụng
+                      nhiều ô tô trên đường.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The volcanic _______ destroyed the village with lava. (ERUPT)
+      `,
+        options:[],
+        answer: `eruption`,
+        rewrite: ``,
+        explanation: `<p>
+                    19. Sau tính từ “volcanic” <em>(núi lửa) </em>cần một danh
+                    từ để tạo thành cụm danh từ.
+                  </p>
+                  <p>erupt (v): phun trào</p>
+                  <p>eruption (n): sự phun trào</p>
+                  <p>
+                    The volcanic <strong>eruption</strong> destroyed the village
+                    with lava.
+                  </p>
+                  <p>
+                    <em>
+                      (Vụ phun trào núi lửa đã phá hủy ngôi làng bằng dung
+                      nham.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Life in the city is exciting because there’s a lot of _____ (ENTERTAIN)
+      `,
+        options:[],
+        answer: `entertainment`,
+        rewrite: ``,
+        explanation: `<p>20. Sau “a lot of” cần một danh từ</p>
+                  <p>entertain (v): giải trí</p>
+                  <p>entertainment (n): sự giải trí</p>
+                  <p>
+                    Life in the city is exciting because there’s a lot of
+                    <strong>entertainment</strong>.
+                  </p>
+                  <p>
+                    <em>
+                      (Cuộc sống ở thành phố rất thú vị vì có rất nhiều hoạt
+                      động giải trí.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>
+                <em>
+                  Read the text and decide if the statements are True, False or
+                  Not given.
+                </em>
+              </strong></p><p >
+              Hello readers! I just moved to a new city. I want to tell you all
+              about it. I live in Toronto, Canada. It's a big city with lot of
+              people. I like walking through the city and looking at the
+              historic buildings. Not everything is old, though. There are lots
+              of modem malls and shops, too. The busy streets and lifestyle make
+              it a fun place to live. Why don't you leave a comment below about
+              where you live? Bye for now!
+            </p>
+            <p >
+              Hi Jo, Brian here! Toronto sounds great. Let me tell you about
+              where I live! I live in a small town, Nagara-on-the-Lake in
+              Canada. We don’t have busy streets and there isn't much
+              entertainment, but we have lots of historic buildings and modem
+              shops. In fact, my town is very popular with tourists. They like
+              the friendly local people and the beautiful scenery with full of
+              trees and flowers.
+            </p>`,
+        question: `Toronto is very crowded.
+      `,
+        options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Toronto is very crowded.</p>
+                      <p>
+                        <em>(Toronto rất đông đúc.)</em>
+                      </p>
+                      <p>
+                        <strong>Thông tin:</strong>It's a big city with
+                        lot of people.
+                      </p>
+                      <p>
+                        <em>(Đó là một thành phố lớn với rất nhiều người.)</em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Jo likes looking at the historic buildings.
+      `,
+      options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        <em>(Jo thích nhìn ngắm các tòa nhà lịch sử.)</em>
+                      </p>
+                      <p>
+                        <strong>Thông tin:</strong>I like walking through
+                        the city and looking at the historic buildings.
+                      </p>
+                      <p>
+                        <em>
+                          (Tôi thích đi dạo quanh thành phố và ngắm nhìn những
+                          tòa nhà lịch sử.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Jo often visits the malls.
+      `,
+      options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        <em>(Jo thường tham quan các trung tâm thương mại.)</em>
+                      </p>
+                      <p>
+                        <strong>Thông tin:</strong>There are lots of modem
+                        malls and shops, too.
+                      </p>
+                      <p>
+                        <em>
+                          (Có rất nhiều trung tâm mua sắm và cửa hàng hiện đại.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Not many tourists visit Niagara-on-the-Lake.
+      `,
+        options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        <em>
+                          (Không có nhiều khách du lịch đến thăm
+                          Niagara-on-the-Lake.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin:</strong>In fact, my town is
+                        very popular with tourists
+                      </p>
+                      <p>
+                        <em>
+                          (Trên thực tế, thị trấn của tôi rất nổi tiếng với
+                          khách du lịch)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The two places have historic buildings and modern shops.
+      `,
+        options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        <em>
+                          (Hai nơi có tòa nhà lịch sử và cửa hàng hiện đại.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin:</strong>There are lots of modem
+                        malls and shops, too -<strong></strong>but we have
+                        lots of historic buildings and modem shops.
+                      </p>
+                      <p>
+                        <em>
+                          (Cũng có rất nhiều trung tâm mua sắm và cửa hàng hiện
+                          đại - nhưng chúng tôi có rất nhiều tòa nhà lịch sử và
+                          cửa hàng hiện đại.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p >
+                <strong>
+                  <em>
+                    Read the text and choose the correct answer to fill in each
+                    blank.
+                  </em>
+                </strong>
+              </p>
+              <p >
+                Landslides are the mass movement of rocks or earth (
+                <strong>1</strong>) _________ a slope. Landslides occur more
+                frequently in some mountainous areas. They may come suddenly (
+                <strong>2</strong>) _________ a storm or heavy rain. When you
+                hear a warning about a landslide in your area, you (
+                <strong>3</strong>) _________ do the following:
+              </p>
+              <p >
+                - Follow the instructions about emergency information given by
+                authorities.
+              </p>
+              <p >
+                - Go to a public shelter if you feel it is (<strong>4</strong>)
+                _________ to remain in your home.
+              </p>
+              <p >
+                - Listen to unusual sounds, such as trees cracking, or rocks
+                knocking together.
+              </p>
+              <p >
+                - Stay away from the slide area. There may be a danger of
+                additional slides.
+              </p>
+              <p >
+                - (<strong>5</strong>) _________ for flooding, which may occur
+                after a landslide.
+              </p>
+              <p >
+                - Stay cautious after the storm. Don’t do the clean-up until the
+                storm is over.
+              </p>`,
+        question: `Landslides are the mass movement of rocks or earth (
+                    <strong>1</strong>) _________ a slope.
+      `,
+        options:[`<p>up</p>`,`<p>down</p>`,`<p>on</p>`,`<p>under</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>up: lên</p>
+                      <p>down: xuống</p>
+                      <p>on: trên</p>
+                      <p>under: dưới</p>
+                      <p>
+                        Landslides are the mass movement of rocks or earth (
+                        <strong>1</strong>) <strong>down</strong> a slope.
+                      </p>
+                      <p>
+                        <em>
+                          (Sạt lở đất là sự chuyển động khối lượng của đá hoặc
+                          đất (1) xuống một sườn dốc.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They may come suddenly (<strong>2</strong>) _________ a
+                    storm or heavy rain.
+      `,
+        options:[`<p>when</p>`,`<p>as soon as</p>`,`<p>before</p>`,`<p>after</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>when: khi</p>
+                      <p>as soon as: ngay khi</p>
+                      <p>before: trước khi</p>
+                      <p>after: sau khi</p>
+                      <p>
+                        They may come suddenly (<strong>2</strong>)
+                        <strong>after</strong> a storm or heavy rain.
+                      </p>
+                      <p>
+                        <em>
+                          (Họ có thể đến bất ngờ (2) sau một cơn bão hoặc mưa
+                          lớn.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `When you hear a warning about a landslide in your area, you
+                    (<strong>3</strong>) _________ do the following:
+      `,
+        options:[`<p>should</p>`,`<p>must</p>`,`<p>will</p>`,`<p>may</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>should: nên</p>
+                      <p>must: phải</p>
+                      <p>will: sẽ</p>
+                      <p>may: có thể</p>
+                      <p>
+                        When you hear a warning about a landslide in your area,
+                        you (<strong>3</strong>)<strong> should</strong> do the
+                        following:
+                      </p>
+                      <p>
+                        <em>
+                          (Khi bạn nghe thấy cảnh báo về lở đất trong khu vực
+                          của bạn, bạn (3) nên làm như sau:)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `- Go to a public shelter if you feel it is (
+                    <strong>4</strong>) _________ to remain in your home.
+      `,
+        options:[`<p>safe</p>`,`<p>careful</p>`,`<p>unsafe</p>`,`<p>careless</p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>safe (adj): an toàn</p>
+                      <p>careful (adj): cẩn thận</p>
+                      <p>unsafe (adj): không an toàn</p>
+                      <p>careless (adj): cẩu thả</p>
+                      <p>
+                        Go to a public shelter if you feel it is (
+                        <strong>4</strong>) <strong>unsafe</strong> to remain in
+                        your home.
+                      </p>
+                      <p>
+                        <em>
+                          (Đi đến nơi trú ẩn công cộng nếu bạn cảm thấy (4)
+                          không an toàn khi ở trong nhà của mình.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `- (<strong>5</strong>) _________ for flooding, which may
+                    occur after a landslide.
+      `,
+        options:[`<p>Look</p>`,`<p>Watch</p>`,`<p>Search</p>`,`<p>Care</p>s`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Look (+for): tìm kiếm</p>
+                      <p>Watch (+for): đề phòng</p>
+                      <p>Search (+for): tìm kiếm</p>
+                      <p>Care (+for): chăm sóc</p>
+                      <p>
+                        (<strong>5</strong>) <strong>Watch</strong> for
+                        flooding, which may occur after a landslide.
+                      </p>
+                      <p>
+                        <em>
+                          ((5) Đề phòng lũ lụt có thể xảy ra sau một trận lở
+                          đất.)
+                        </em>
+                      </p><p >
+                        <strong>Đoạn văn hoàn chỉnh:</strong>
+                      </p>
+                      <p >
+                        Landslides are the mass movement of rocks or earth (
+                        <strong>1</strong>) <strong>down</strong> a slope.
+                        Landslides occur more frequently in some mountainous
+                        areas. They may come suddenly (<strong>2</strong>)
+                        <strong>after</strong> a storm or heavy rain. When you
+                        hear a warning about a landslide in your area, you (
+                        <strong>3</strong>) <strong>should</strong> do the
+                        following:
+                      </p>
+                      <p >
+                        - Follow the instructions about emergency information
+                        given by authorities.
+                      </p>
+                      <p >
+                        - Go to a public shelter if you feel it is (
+                        <strong>4</strong>) <strong>unsafe</strong> to remain in
+                        your home.
+                      </p>
+                      <p >
+                        - Listen to unusual sounds, such as trees cracking, or
+                        rocks knocking together.
+                      </p>
+                      <p >
+                        - Stay away from the slide area. There may be a danger
+                        of additional slides.
+                      </p>
+                      <p >
+                        - (<strong>5</strong>) <strong>Watch</strong> for
+                        flooding, which may occur after a landslide.
+                      </p>
+                      <p >
+                        - Stay cautious after the storm. Don’t do the clean-up
+                        until the storm is over.
+                      </p>
+                      <p >
+                        <strong>Tạm dịch:</strong>
+                      </p>
+                      <p >
+                        <em>
+                          Sạt lở đất là sự chuyển động khối lượng của đá hoặc
+                          đất (1) xuống một sườn dốc. Sạt lở đất xảy ra thường
+                          xuyên hơn ở một số khu vực miền núi. Họ có thể đến bất
+                          ngờ (2) sau một cơn bão hoặc mưa lớn. Khi bạn nghe
+                          thấy cảnh báo về lở đất trong khu vực của bạn, bạn (3)
+                          nên làm như sau:
+                        </em>
+                      </p>
+                      <p >
+                        <em>
+                          - Thực hiện theo hướng dẫn về thông tin khẩn cấp do cơ
+                          quan chức năng đưa ra.
+                        </em>
+                      </p>
+                      <p >
+                        <em>
+                          - Đi đến nơi trú ẩn công cộng nếu bạn cảm thấy việc ở
+                          trong nhà là (4) không an toàn.
+                        </em>
+                      </p>
+                      <p >
+                        <em>
+                          - Nghe những âm thanh bất thường như tiếng cây gãy,
+                          tiếng đá va vào nhau.
+                        </em>
+                      </p>
+                      <p >
+                        <em>
+                          - Tránh xa khu vực trượt. Có thể có nguy cơ trượt
+                          thêm.
+                        </em>
+                      </p>
+                      <p >
+                        <em>- (5) Đề phòng lũ lụt có thể xảy ra sau lở đất.</em>
+                      </p>
+                      <p >
+                        <em>
+                          - Hãy thận trọng sau cơn bão. Đừng dọn dẹp cho đến khi
+                          cơn bão kết thúc.
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>
+                <em>Rewrite the sentences without changing their meanings.</em>
+              </strong></p>`,
+        question: `Rising sea levels cause floods.
+      `,
+        options:[],
+        answer: `there will be floods.`,
+        rewrite: `If sea levels rise,`,
+        explanation: `<p>
+                    31.Cấu trúc: If + S + V (simple present), S +
+                    will/can/shall + V
+                  </p>
+                  <p>Rising sea levels cause floods.</p>
+                  <p>
+                    <em>(Mực nước biển dâng cao gây lũ lụt.)</em>
+                  </p>
+                  <p>
+                    <strong>
+                      <em>=&gt; </em>
+                    </strong>
+                    If sea levels rise, <strong>there will be floods.</strong>
+                  </p>
+                  <p>
+                    <em>(Nếu mực nước biển dâng cao sẽ có lũ lụt.)</em>
+                    
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `If we don't stop illegal hunters, they will kill endangered
+                animals.
+      `,
+        options:[],
+        answer: `stop illegal hunters, they will kill endangered animals.`,
+        rewrite: `Unless we`,
+        explanation: `<p>
+                    32. Unless + S + V (thì hiện tại đơn), S+ will/ can/ shall +
+                    V = If not + S + V (thì hiện tại đơn), S+ will/ can/ shall +
+                    V
+                  </p>
+                  <p>
+                    If we don't stop illegal hunters, they will kill endangered
+                    animals.
+                  </p>
+                  <p>
+                    <em>
+                      (Nếu chúng ta không ngăn chặn những kẻ săn bắt trái phép,
+                      họ sẽ giết hại những loài động vật có nguy cơ tuyệt
+                      chủng.)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; Unless we
+                    <strong>
+                      stop illegal hunters, they will kill endangered animals.
+                    </strong>
+                    
+                  </p>
+                  <p>
+                    <em>
+                      (Trừ khi chúng ta ngăn chặn những kẻ săn bắt trái phép, họ
+                      sẽ giết hại những loài động vật có nguy cơ tuyệt chủng.)
+                    </em>
+                    
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Polluted air causes a lot of health problems.
+      `,
+        options:[],
+        answer: `there will be a lot of health problems`,
+        rewrite: `If the air is polluted,`,
+        explanation: `<p>
+                    33. Cấu trúc: If + S + V (simple present), S +
+                    will/can/shall + V
+                  </p>
+                  <p>Polluted air causes a lot of health problems.</p>
+                  <p>
+                    <em>
+                      (Không khí bị ô nhiễm gây ra nhiều vấn đề sức khỏe.)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; If the air is polluted,
+                    <strong>there will be a lot of health problems.</strong>
+                  </p>
+                  <p>
+                    <em>
+                      (Nếu không khí bị ô nhiễm sẽ có nhiều vấn đề sức khỏe.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Be more eco - friendly, or we'll harm the environment.
+      `,
+        options:[],
+        answer: `aren’t more eco - friendly, we'll harm the environment.`,
+        rewrite: `If we`,
+        explanation: `<p>
+                    34. Cấu trúc: If + S + V (simple present), S +
+                    will/can/shall + V
+                  </p>
+                  <p>Be more eco - friendly, or we'll harm the environment.</p>
+                  <p>
+                    <em>
+                      (Không khí ô nhiễm gây ra nhiều vấn đề về sức khỏe.)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; If we
+                    <strong>
+                      aren’t more eco - friendly, we'll harm the environment.
+                    </strong>
+                  </p>
+                  <p>
+                    <em>
+                      (Nếu không khí bị ô nhiễm, sẽ có rất nhiều vấn đề về sức
+                      khỏe.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Unless she has free time, she can't volunteer at the local
+                animal shelter.
+      `,
+        options:[],
+        answer: `doesn’t have free time, she can volunteer at the local animal shelter.`,
+        rewrite: `If she`,
+        explanation: `<p>
+                    35. Unless + S + V (thì hiện tại đơn), S+ will/ can/ shall +
+                    V = If not + S + V (thì hiện tại đơn), S+ will/ can/ shall +
+                    V
+                  </p>
+                  <p>
+                    Unless she has free time, she can't volunteer at the local
+                    animal shelter.
+                  </p>
+                  <p>
+                    <em>
+                      (Trừ khi có thời gian rảnh, cô ấy không thể làm tình
+                      nguyện viên ở trại động vật địa phương.)
+                    </em>
+                  </p>
+                  <p>
+                    =&gt; If she
+                    <strong>
+                      doesn’t have free time, she can volunteer at the local
+                      animal shelter.
+                    </strong>
+                  </p>
+                  <p>
+                    <em>
+                      (Nếu cô ấy không có thời gian rảnh, cô ấy có thể làm tình
+                      nguyện viên ở trại động vật địa phương.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Listen to Brian telling Alice about his holiday. For
+                    questions (1-5), choose the correct options (A, B, C or D).
+                  </em>
+                </strong>
+              </p>`,
+        media:`https://img.loigiaihay.com/picture/2023/1210/1702193416492-hk1-ta8-right-de-2.mp3`,
+        question: `What did Brian do on his holiday?
+      `,
+        options:[`<p>volunteered with animals</p>`,`<p>saw a performance</p>`,`<p>visited museums</p>`,`<p>visited his grandparents</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Brian đã làm gì vào kỳ nghỉ của mình?</p>
+                      <p>A. tình nguyện với động vật</p>
+                      <p>B. xem một buổi biểu diễn</p>
+                      <p>C. thăm viện bảo tàng</p>
+                      <p>D. thăm ông bà của mình</p>
+                      <p>
+                        <strong>Thông tin:</strong> But this year my family
+                        decided to help endangered animals instead of visiting
+                        tourists sights.
+                      </p>
+                      <p>
+                        <em>
+                          (Nhưng năm nay gia đình tôi quyết định giúp đỡ các
+                          loài động vật có nguy cơ tuyệt chủng thay vì tham quan
+                          các điểm tham quan của khách du lịch.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Where did he stay?
+      `,
+        options:[`<p>in a city in Brazil</p>`,`<p>in the countryside</p>`,`<p>in his grandparents’ house</p>`,`<p>in a rainforest</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Anh ấy ở đâu?</p>
+                      <p>A. trong một thành phố ở Brazil</p>
+                      <p>B. ở nông thôn</p>
+                      <p>C. ở nhà ông bà ngoại</p>
+                      <p>D. trong rừng nhiệt đới</p>
+                      <p>
+                        <strong>Thông tin:</strong> We stayed in a rainforest in
+                        Brazil.
+                      </p>
+                      <p>
+                        <em>
+                          (Chúng tôi ở trong một khu rừng nhiệt đới ở Brazil.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What destroyed the animals’ habitat?
+      `,
+        options:[`<p>a forest fire</p>`,`<p>a storm</p>`,`<p>a flood</p>`,`<p>tourists</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Điều gì đã phá hủy môi trường sống của động vật?</p>
+                      <p>A. cháy rừng</p>
+                      <p>B. một cơn bão</p>
+                      <p>C. lũ lụt</p>
+                      <p>D. khách du lịch</p>
+                      <p>
+                        <strong>Thông tin:</strong> There was a terrible storm a
+                        few weeks ago and it destroyed the animal's habitat.
+                      </p>
+                      <p>
+                        <em>
+                          (Có một cơn bão khủng khiếp cách đây vài tuần và nó đã
+                          phá hủy môi trường sống của động vật.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What was his favourite part of the holiday?
+      `,
+        options:[`<p>building macaws’ nests</p>`,`<p>planting trees</p>`,`<p>cleaning up beaches</p>`,`<p>taking care of baby seals</p>`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Phần yêu thích của anh ấy trong kỳ nghỉ là gì?</p>
+                      <p>A. xây tổ vẹt đuôi dài</p>
+                      <p>B. trồng cây</p>
+                      <p>C. làm sạch bãi biển</p>
+                      <p>D. chăm sóc hải cẩu con</p>
+                      <p>
+                        <strong>Thông tin:</strong> We also took care of baby
+                        seals. That was my favorite part.
+                      </p>
+                      <p>
+                        <em>
+                          (Chúng tôi cũng chăm sóc hải cẩu con. Đó là phần ưa
+                          thích của tôi.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Where did Alice go on her holiday?
+          `,
+        options:[`<p>to a big city</p>`,`<p>to Brazil</p>`,`<p>to the countryside</p>`,`<p>to a rainforest</p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Alice đã đi đâu vào kỳ nghỉ của mình?</p>
+                      <p>A. đến một thành phố lớn</p>
+                      <p>B. đến Brazil</p>
+                      <p>C. về nông thôn</p>
+                      <p>D. đến một khu rừng nhiệt đới</p>
+                      <p>
+                        <strong>Thông tin:</strong> I went to the countryside to
+                        visit my grandparents.
+                      </p>
+                      <p>
+                        <em>(Tôi về quê thăm ông bà ngoại.)</em>
+                      </p>`,
+      },
+       
+    ],
+  },
+  {
+    semester: 2,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><strong><em>Listen to five different conversations. Choose the best option (A, B, C or D).</em></strong></p>`,
+        media:`https://img.loigiaihay.com/picture/2023/1204/1701659936100-hk1-ta8-right-de-1.mp3`,
+        question: `What does Mary want to be in the future?
+          `,
+        options:[`<p>a forest firefighter</p>   `,`<p>a zookeeper&nbsp;</p> `,`<p>a vet</p>`,`<p>a designer</p>`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Mary muốn trở thành người như thế nào trong tương lai?</p>
+<p>A. một lính cứu hỏa rừng</p>
+<p>B. một người trông coi vườn thú</p>
+<p>C. một bác sĩ thú y</p>
+<p>D. một nhà thiết kế</p>
+<p><strong>Thông tin: </strong>I think I'll be a zookeeper when I grow up.</p>
+<p><em>(Tôi nghĩ tôi sẽ trở thành người trông coi vườn thú khi lớn lên.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does Mark like best about his city?
+          `,
+        options:[`<p>the traffic</p> `,`<p>the museum</p>`,`<p>the local dishes</p>`,`<p>the entertainment</p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Mark thích điều gì nhất ở thành phố của anh ấy?</p>
+<p>A. giao thông</p>
+<p>B. bảo tàng</p>
+<p>C. các món ăn địa phương</p>
+<p>D. giải trí</p>
+<p><strong>Thông tin: </strong>But what I love most about my city is the local food.</p>
+<p><em>(Nhưng điều tôi yêu thích nhất ở thành phố của mình là ẩm thực địa phương.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What are the students going to do this weekend?
+          `,
+        options:[`<p>recycle plastic bottles</p>`,`<p>go to the beach</p>`,`<p>collect rubbish</p>`,`<p>join the clean-up day</p>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Cuối tuần này học sinh sẽ làm gì?</p>
+<p>A. tái chế chai nhựa</p>
+<p>B. đi biển</p>
+<p>C. thu gom rác</p>
+<p>D. tham gia ngày dọn dẹp</p>
+<p><strong>Thông tin: </strong>However, you will have to collect plastic bottles at home, and recycle them.</p>
+<p><em>(Tuy nhiên, bạn sẽ phải thu gom chai nhựa ở nhà và tái chế chúng.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Which animal did the girl decide to write about?
+          `,
+        options:[`<p>the lemur</p> `,`<p>the gorilla&nbsp;</p> `,`<p>the sea turtle</p>  `,`<p>the macaw</p>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cô gái quyết định viết về con vật nào?</p>
+<p>A. vượn cáo</p>
+<p>B. khỉ đột</p>
+<p>C. rùa biển</p>
+<p>D. vẹt đuôi dài</p>
+<p><strong>Thông tin: </strong>I heard you wrote about the sea turtles.</p>
+<p><em>(Tôi nghe nói bạn viết về rùa biển.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Where did the car crash happen?
+          `,
+        options:[`<p>in front of the restaurant</p> `,`<p>in front of the shop</p> `,`<p>in front of the school&nbsp;</p> `,`<p>in front of the library</p> `],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Vụ tai nạn ô tô xảy ra ở đâu?</p>
+<p>A. trước nhà hàng</p>
+<p>B. trước cửa hàng</p>
+<p>C. trước trường học</p>
+<p>D. trước thư viện</p>
+<p><strong>Thông tin: </strong>It was in front of the restaurant, you're our school, I think two people were injured.</p>
+<p><em>(Đó là ở phía trước nhà hàng, bạn là trường học của chúng tôi, tôi nghĩ có hai người bị thương.)</em></p><p ><strong>Bài nghe:</strong></p>
+<p><strong><em>1. What does Mary want to be in the future?</em></strong></p>
+<p ><strong>Drew:</strong> This dress looks great Mary, you are always very creative. I'm sure you will become an excellent designer in the future.</p>
+<p ><strong>Mary:</strong> Thanks. I prefer working at the zoo and looking after the animals. I think I'll be a zookeeper when I grow up. What about you, Drew?</p>
+<p ><strong>Drew:</strong> I want to be a forest firefighter.</p>
+<p ><strong>Mary:</strong> That's cool.</p>
+<p><strong><em>2. What does Mark like best about his city?</em></strong></p>
+<p ><strong>Mie: </strong>I'm really excited about coming to your city next summer, Mark.</p>
+<p ><strong>Mark: </strong>Me too, Mie.</p>
+<p ><strong>Mie: </strong>Tell me a bit about your city.</p>
+<p ><strong>Mark: </strong>Well, the traffic is quite busy, but there's lots of entertainment and you can go shopping and lots of shops and malls. There's also a famous museum. But what I love most about my city is the local food. It's very delicious.</p>
+<p><strong><em>3. What are the students going to do this weekend?</em></strong></p>
+<p ><strong>Mr Jones: </strong>Everyone's attention please. We are going to have a clean up day at the beach this weekend.</p>
+<p ><strong>Students: </strong>Wow, how can Mr. Jones?</p>
+<p ><strong>Mr Jones: </strong>It was canceled because of the big storm coming in. However, you will have to collect plastic bottles at home, and recycle them. And you need to send me pictures of your results. Is that clear to everyone?</p>
+<p ><strong>Students:</strong>Yes, Mr. Jones.</p>
+<p><strong><em>4. Which animal did the girl decide to write about?</em></strong></p>
+<p ><strong>Laura’s friend:</strong> Laura, did you finish your homework about endangered animals?</p>
+<p ><strong>Laura: </strong>Yes, I just finished it yesterday. I heard you wrote about the sea turtles, right?</p>
+<p ><strong>Laura’s friend:</strong> Exactly. What animals did you write about?</p>
+<p ><strong>Laura:</strong>Well, I wanted to write about the gorilla, but I didn't know much about this animal. Then the Lemur was quite difficult to write. so I chose Macaw.</p>
+<p><em><strong>5. Where did the car crash happen?</strong></em></p>
+<p ><strong>A:</strong> The shop is going to close. Why are you so late?</p>
+<p ><strong>B:</strong> I got stuck in traffic. There was a car crash on my way here, and the rovers were crowded.</p>
+<p ><strong>A:</strong> Oh really? Or was a car crash?</p>
+<p ><strong>B:</strong> It was in front of the restaurant, you're our school, I think two people were injured.</p>
+<p ><strong>A:</strong> Oh, tears. That's bad.</p>`,
+      },
+      {
+        id: 41,
+        extra: ` <p><strong><em>Choose the word that has the underlined part pronounced differently from the others.</em></strong></p>`,
+        question: `
+          `,
+        options:[`<p>perf<u>o</u>rm&nbsp;</p>`,
+                                                        `<p>r<u>o</u>cky&nbsp;&nbsp;</p> `,
+                                                        `<p>b<u>o</u>ring</p> `,
+                                                        `<p>imp<u>o</u>rtant</p>  `,     ],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>perf<u>o</u>rm &nbsp;/pəˈfɔːm/</p>
+<p>r<u>o</u>cky &nbsp;/ˈrɒk.i/</p>
+<p>b<u>o</u>ring &nbsp;/ˈbɔː.rɪŋ/</p>
+<p>imp<u>o</u>rtant /ɪmˈpɔː.tənt/</p>
+<p>Phần được gạch chân ở phương B được phát âm /ɒ/, các phương án còn lại phát âm /ɔː/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`<p>leave<u>s</u>`,`enjoy<u>s</u>&nbsp;`,`pollute<u>s</u>`,`avoid<u>s</u></p>` ],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cách phát âm đuôi -s, -es:</p>
+<p>- Đuôi s, es phát âm là /iz/ khi tận cùng là các âm /s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/.</p>
+<p>- Đuôi s, es phát âm là /s / khi tận cùng là các âm /p/, /f/, /t/, /k/, /ө/.</p>
+<p>- Đuôi s, es phát âm là /z/ khi tận cùng là các âm còn lại.</p>
+<p>leave<u>s</u> &nbsp;/liːvz/</p>
+<p>enjoy<u>s</u> &nbsp;/ɪnˈdʒɔɪz/</p>
+<p>pollute<u>s</u> /pəˈluːts/</p>
+<p>avoid<u>s</u> &nbsp;/əˈvɔɪdz/</p>
+<p>Phần được gạch chân ở phương C được phát âm /s/, các phương án còn lại phát âm /z/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`<p>happen<u>ed</u>&nbsp;`,`appear<u>ed</u>`,`erupt<u>ed</u>`,`destroy<u>ed</u></p>  `],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cách phát âm đuôi -ed</p>
+<p>Đuôi /ed/ được phát âm là /t/: Khi động từ kết thúc bằng âm /s/, /f/, /p/, /ʃ/, /tʃ/, /k/.</p>
+<p>Đuôi /ed/ được phát âm là /id/: Khi động từ kết thúc bằng âm /t/ hoặc /d</p>
+<p>Đuôi /ed/ được phát âm là /d/: Với những trường hợp còn lại.</p>
+<p>happen<u>ed</u> /ˈhæp.ənd/</p>
+<p>appear<u>ed </u>/əˈpɪərd/</p>
+<p>erupt<u>ed</u> /ɪˈrʌptid/</p>
+<p>destroy<u>ed</u> /dɪˈstrɔɪd/</p>
+<p>Phần được gạch chân ở phương C được phát âm /ɪd/, các phương án còn lại phát âm /d/.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Choose the word that has a stress pattern different from the others.</em></strong></p>`,
+        question: `
+          `,
+        options:[ `design`,`village`,`shelter&nbsp;`,`province`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>design /dɪˈzaɪn/</p>
+<p>village /ˈvɪl.ɪdʒ/</p>
+<p>shelter /ˈʃel.tər/</p>
+<p>province /ˈprɒv.ɪns/</p>
+<p>Phương án A có trọng âm 2, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`important`,`historic`,`exciting`,`beautiful`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>important /ɪmˈpɔː.tənt/</p>
+<p>historic /hɪˈstɒr.ɪk/</p>
+<p>exciting /ɪkˈsaɪ.tɪŋ/</p>
+<p>beautiful /ˈbjuː.tɪ.fəl/</p>
+<p>Phương án D có trọng âm 1, các phương án còn lại có trọng âm 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Choose the best option (A, B, C or D).</em></strong></p> `,
+        question: `<p>Many people love going to Hội An for its _____________ buildings. They are old and unique.&nbsp; &nbsp;</p>
+          `,
+        options:[`modern`,`historic`,`friendly`,`busy`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>modern (adj): hiện đại</p>
+<p>historic (adj): lịch sử</p>
+<p>friendly (adj): thân thiện</p>
+<p>busy (adj): bận</p>
+<p>Many people love going to Hội An for its <strong>historic</strong> buildings. They are old and unique.</p>
+<p><em>(Nhiều người thích đến Hội An vì những tòa nhà lịch sử ở đây. Chúng cũ và độc đáo.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The building _________ while my family was sleeping at this time yesterday.
+          `,
+        options:[`shook`,`blew`,`erupted`,`overflowed`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>shook (v): rung chuyển</p>
+<p>blew (v): thổi</p>
+<p>erupted (v): phun trào</p>
+<p>overflowed (v): tràn</p>
+<p>The building <strong>shook</strong> while my family was sleeping at this time yesterday.</p>
+<p><em>(Tòa nhà rung chuyển khi gia đình tôi đang ngủ vào giờ này ngày hôm qua.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Kim is planning __________ the Times Square in New York City.
+          `,
+        options:[`visit`,`visits`,`to visit`,`visiting`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>plan + to V: có kế hoạch làm gì</p>
+<p>Kim is planning <strong>to visit Times</strong> Square in New York City.</p>
+<p><em>(Kim đang có kế hoạch đến thăm Quảng trường Thời đại ở thành phố New York.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `In May 2010, heavy rains caused floods in _____ Nashville, the USA. The flood waters covered all the areas of _________city.
+          `,
+        options:[`the/the`,`the / a`,`-/a`,`-/ the`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Nashville là tên một thành phố Không cần mạo từ</p>
+<p>“city” chỉ thành phố Nashville đã được người nói đề cập trước đó dùng mạo từ “the”</p>
+<p>In May 2010, heavy rains caused floods in Nashville, the USA. The flood waters covered all the areas of <strong>the </strong>city.</p>
+<p><em>(Tháng 5/2010, mưa lớn gây lũ lụt ở Nashville, Mỹ. Nước lũ bao trùm toàn bộ khu vực của thành phố.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I suggest _________ clean-up events at the beach every week.
+          `,
+        options:[`join`,`joins`,`to join`,`joining`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>suggest + V-ing: đề xuất làm gì</p>
+<p>I suggest <strong>joining</strong> clean-up events at the beach every week.</p>
+<p><em>(Tôi khuyên bạn nên tham gia các sự kiện dọn dẹp bãi biển hàng tuần.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<strong><em>John: </em></strong>"Hey, did you hear about the plane crash yesterday? Many people were lost." - <em><strong>Sarah:</strong></em> "________________”
+          `,
+        options:[`How terrible!`,`It's nice of you to say so.`,`Thank you.`,`I'm well.`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. Thật khủng khiếp!</p>
+<p>B. Thật tốt khi bạn nói như vậy.</p>
+<p>C. Cảm ơn bạn.</p>
+<p>D. Tôi ổn.</p>
+<p><strong><em>John: </em></strong>"Hey, did you hear about the plane crash yesterday? Many people were lost." - Sarah: " <strong>How terrible!</strong>”</p>
+<p><em>(John: "Này, cậu có nghe nói về vụ tai nạn máy bay ngày hôm qua không? Nhiều người đã mất tích." - Sarah: "Thật kinh khủng!")</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The emergency lighting __________ as soon as the electricity_________ cut.
+          `,
+        options:[`work / is`,`will work / will be`,`will work/ is`,`work / will be`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc: S1 + V (tương lai đơn) + as soon as + S2 + V (hiện tại đơn/hiện tại hoàn thành): nói về 2 hành động nối tiếp diễn ra ở tương lai chưa diễn ra ở thời điểm nói.</p>
+<p>The emergency lighting <strong>will work</strong> as soon as the electricity <strong>is</strong> cut.</p>
+<p><em>(Hệ thống chiếu sáng khẩn cấp sẽ hoạt động ngay khi mất điện.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The documentary about the Titanic shipwreck ___________ at 8 p.m on Channel 4.
+      `,
+        options:[`starts`,`is going to start`,`will start`,`is starting`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Thì hiện tại đơn nói về một lịch trình có sẵn, chương trình, thời gian biểu cố định.</p>
+<p>The documentary about the Titanic shipwreck <strong>starts</strong> at 8 p.m on Channel 4.</p>
+<p><em>(Phim tài liệu về vụ đắm tàu Titanic bắt đầu lúc 8 giờ tối trên Kênh 4.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Everybody was___________ when the disaster happened.
+      `,
+        options:[`terrified`,`relieved`,`relaxed`,`excited`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>terrified (adj): kinh hãi</p>
+<p>relieved (adj): nhẹ nhõm</p>
+<p>relaxed (adj): thư giãn</p>
+<p>excited (adj): vui mừng</p>
+<p>Everybody was <strong>terrified</strong> when the disaster happened.</p>
+<p><em>(Mọi người đều vô cùng kinh hãi khi thảm họa xảy ra.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The town was ________ with a lot of volunteers from different places.
+      `,
+        options:[`quiet`,`crowded`,`beautiful`,`empty`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>quiet (adj): yên tĩnh</p>
+<p>crowded (adj): đông đúc</p>
+<p>beautiful (adj): đẹp</p>
+<p>empty (adj): trống không, vắng vẻ</p>
+<p>The town was <strong>crowded </strong>with a lot of volunteers from different places.</p>
+<p><em>(Thị trấn đông đúc với rất nhiều tình nguyện viên từ nhiều nơi khác nhau.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Give the correct form of the words in brackets.</em></strong></p> `,
+        question: `Henry doesn’t like living in the cities because there’s too much _______ in the air. (POLLUTE)
+      `,
+        options:[],
+        answer: `pollution`,
+        rewrite: ``,
+        explanation: `<p>21.Sau “much” cần một danh từ.</p>
+<p>pollute (v): ô nhiễm</p>
+<p>pollution (n): sự ô nhiễm</p>
+<p>Henry doesn’t like living in the cities because there’s too much <strong>pollution</strong> in the air.</p>
+<p><em>(Henry không thích sống ở thành phố vì không khí quá ô nhiễm.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We can save many endangered animals if we stop _______ hunting. (LEGAL)
+      `,
+        options:[],
+        answer: `illegal`,
+        rewrite: ``,
+        explanation: `<p>22.“hunting” là một danh từ Chỗ trống cần điền một tính từ.</p>
+<p>legal (adj): hợp pháp</p>
+<p>illegal (adj): bất hợp pháp</p>
+<p>We can save many endangered animals if we stop <strong>illegal</strong> hunting.</p>
+<p><em>(Chúng ta có thể cứu được nhiều loài động vật có nguy cơ tuyệt chủng nếu chúng ta ngừng săn bắt trái phép.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `In West End, you can enjoy the _______ city life and go shopping in the crowded high streets. (EXCITE)
+      `,
+        options:[],
+        answer: `exciting`,
+        rewrite: ``,
+        explanation: `<p>23. Sau mạo từ “the” cần một danh từ.</p>
+<p>excite (v): kích động</p>
+<p>exciting (adj): thú vị</p>
+<p>In the West End, you can enjoy the <strong>exciting</strong> city life and go shopping in the crowded high streets.</p>
+<p><em>(Ở West End, bạn có thể tận hưởng cuộc sống thành phố thú vị và đi mua sắm trên những con phố đông đúc.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Everyone was relieved after the______put out the fire. (FIRE)
+      `,
+        options:[],
+        answer: `firefighter`,
+        rewrite: ``,
+        explanation: `<p>24. Sau mạo từ “the” cần một danh từ.</p>
+<p>fire (n): ngọn lửa</p>
+<p>firefighter (n): lính cứu hỏa</p>
+<p>Everyone was relieved after the <strong>firefighter</strong> put out the fire.</p>
+<p><em>(Mọi người thở phào nhẹ nhõm sau khi lính cứu hỏa dập tắt đám cháy.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Dolphins are friendly animals, but you must be _______ when you are around them. (CARE)
+      `,
+        options:[],
+        answer: `careful`,
+        rewrite: ``,
+        explanation: `<p>25. Cấu trúc: S + be + adj cần một tính từ chủ động để mô tả tính chất của sự vật</p>
+<p>care (n): quan tâm</p>
+<p>careful (adj): cẩn thận</p>
+<p>Dolphins are friendly animals, but you must be <strong>careful</strong> when you are around them.</p>
+<p><em>(Cá heo là loài động vật thân thiện nhưng bạn phải cẩn thận khi ở gần chúng.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Read the text about global warming. Choose the best option (A, B, C or D).</em></strong></p>
+<p style="text-align: center;">GLOBAL WARMING</p>
+<p >Many natural (<strong>1</strong>) __________, such as floods, storms and heat waves, are caused by global warming. The question is what causes global warming? Most scientists agree that human activities are to blame For warming the Earth. The increased temperature can cause a number of environmental issues. Firstly, this causes rain to come more frequently and makes storms (<strong>2</strong>) __________even stronger.</p>
+<p >Secondly, global warming makes ice caps melt. When ice caps melt, the sea level will (<strong>3</strong>) __________– which is dangerous to people living near the sea. Finally, global warming also causes changes in (<strong>4</strong>) __________ environment, which destroys many animals habitats. Many animals are now threatened by habitat (<strong>5</strong>) __________.</p>
+<p >It is critical to protect the environment. To prevent the Earth from warming, we must be prepared and find solutions to help save our planet.</p>                `,
+        question: `Many natural (<strong>1</strong>) __________, such as floods, storms and heat waves, are caused by global warming.
+      `,
+        options:[`crashes`,`disasters`,`accidents`,`experiences`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>crashes (n): sự cố</p>
+<p>disasters (n): thiên tai</p>
+<p>accidents (n): tai nạn</p>
+<p>experiences (n): kinh nghiệm</p>
+<p>Many natural (<strong>1</strong>) <strong>disasters</strong>, such as floods, storms and heat waves, are caused by global warming.</p>
+<p><em>(Nhiều thiên tai (1), chẳng hạn như lũ lụt, bão và sóng nhiệt, là do sự nóng lên toàn cầu.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Firstly, this causes rain to come more frequently and makes storms (<strong>2</strong>) __________even stronger.
+      `,
+        options:[`become`,`becomes`,`to become`,`becoming`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>make + V-inf: khiến</p>
+<p>Firstly, this causes rain to come more frequently and makes storms (<strong>2</strong>)<strong> become </strong>even stronger.</p>
+<p><em>(Thứ nhất, điều này khiến mưa đến thường xuyên hơn và khiến bão (2) càng mạnh hơn.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `When ice caps melt, the sea level will (<strong>3</strong>) __________– which is dangerous to people living near the sea.
+      `,
+        options:[`dry up`,`disappear`,`rise`,`pollute`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>dry up (v): cạn kiệt</p>
+<p>disappear (v): biến mất</p>
+<p>rise (v): tăng lên</p>
+<p>pollute (v): ô nhiễm</p>
+<p>When ice caps melt, the sea level will (<strong>3</strong>) <strong>rise</strong>– which is dangerous to people living near the sea.</p>
+<p><em>(Khi băng tan, mực nước biển sẽ (3) dâng lên - điều này gây nguy hiểm cho những người sống gần biển.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Finally, global warming also causes changes in (<strong>4</strong>) __________ environment, which destroys many animals habitats.
+      `,
+        options:[`a`,`an`,`the`,`–`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>“The” khi nói về một vật riêng hoặc một người mà cả người nghe và người nói đều biết.</p>
+<p>Finally, global warming also causes changes in (<strong>4</strong>) <strong>the</strong> environment, which destroys many animals' habitats.</p>
+<p><em>(Cuối cùng, sự nóng lên toàn cầu cũng gây ra những thay đổi trong (4) môi trường, phá hủy môi trường sống của nhiều loài động vật.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Many animals are now threatened by habitat (<strong>5</strong>) __________.
+      `,
+        options:[`loss`,`lost`,`lose`,`loose`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>loss (n): sự mất mát</p>
+<p>lost (adj): thất lạc</p>
+<p>lose (v): mất</p>
+<p>loose (adj): lỏng lẻo</p>
+<p>Many animals are now threatened by habitat <strong>(5) loss</strong>.</p>
+<p><em>(Nhiều loài động vật hiện đang bị đe dọa do mất môi trường sống.)</em></p><p style="text-align: center;">GLOBAL WARMING</p>
+<p >Many natural (<strong>1</strong>) <strong>disasters</strong>, such as floods, storms and heat waves, are caused by global warming. The question is what causes global warming? Most scientists agree that human activities are to blame For warming the Earth. The increased temperature can cause a number of environmental issues. Firstly, this causes rain to come more frequently and makes storms (<strong>2</strong>) <strong>become </strong>even stronger.</p>
+<p >Secondly, global warming makes ice caps melt. When ice caps melt, the sea level will (<strong>3</strong>) <strong>rise</strong> which is dangerous to people living near the sea. Finally, global warming also causes changes in (<strong>4</strong>) <strong>the </strong>environment, which destroys many animals' habitats. Many animals are now threatened by habitat (<strong>5</strong>) <strong>loss</strong>.</p>
+<p >It is critical to protect the environment. To prevent the Earth from warming, we must be prepared and find solutions to help save our planet.</p>
+<p ><strong>Tạm dịch:</strong></p>
+<p style="text-align: center;"><em>SỰ NÓNG LÊN TOÀN CẦU</em></p>
+<p ><em>Nhiều thiên tai (1), chẳng hạn như lũ lụt, bão và sóng nhiệt, là do sự nóng lên toàn cầu. Câu hỏi đặt ra là nguyên nhân gây ra hiện tượng nóng lên toàn cầu? Hầu hết các nhà khoa học đều đồng ý rằng các hoạt động của con người là nguyên nhân khiến Trái đất nóng lên. Nhiệt độ tăng lên có thể gây ra một số vấn đề về môi trường. Thứ nhất, điều này khiến mưa đến thường xuyên hơn và khiến bão (2) càng mạnh hơn.</em></p>
+<p ><em>Thứ hai, hiện tượng nóng lên toàn cầu làm băng tan. Khi băng tan, mực nước biển sẽ (3) dâng cao gây nguy hiểm cho người dân sống gần biển. Cuối cùng, sự nóng lên toàn cầu cũng gây ra những thay đổi trong (4) môi trường, phá hủy môi trường sống của nhiều loài động vật. Nhiều loài động vật hiện đang bị đe dọa do mất môi trường sống (5).</em></p>
+<p ><em>Điều quan trọng là phải bảo vệ môi trường. Để ngăn chặn Trái đất nóng lên, chúng ta phải chuẩn bị và tìm giải pháp giúp cứu hành tinh của chúng ta.</em></p>      `,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Read the text about Skeleton Coast. Write R (right) or W (wrong).</em></strong></p><p style="text-align: center;">The Skeleton Coast</p>
+<p >The Skeleton Coast is the coastline of southern Africa. It got its name because people found many bones from whales and seals there. There were also a lot of human bones along the coast. This place is famous for having a large number of shipwrecks, over a thousand in fact. When sailors hear about the Skeleton Coast, they are usually terrified.</p>
+<p >In 1912, a ship called The Gertrud Woermann II sank and disappeared into the ocean. The ship was carrying hundreds of people, horses, and other items when it was destroyed by a strong storm. The Winston was another shipwreck off the Skeleton Coast. It hit the shore on 17 October, 1970. People can still see parts of the ship along the coast.</p>
+<p >Sometimes a shipwreck comes with treasure. The discovery of the Bom Jesus was in April 2008, and a worker found many gold coins from the shipwreck. Most of the coins were of Spanish origin. However, it is believed that the ship came from Portugal, and it was sailing to India.</p>`,
+        question: `People found many bones of animals and humans along the coast.
+      `,
+        options:[`Right`,`Wrong`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: ` <p>31.People found many bones of animals and humans along the coast.</p>
+<p><em>(Người ta tìm thấy nhiều xương của động vật và con người dọc bờ biển.)</em></p>
+<p><strong>Thông tin: </strong>It got its name because people found many bones from whales and seals there. There were also a lot of human bones along the coast.</p>
+<p><em>(Nó có tên như vậy vì người ta tìm thấy nhiều xương của cá voi và hải cẩu ở đó. Ngoài ra còn có rất nhiều xương người dọc theo bờ biển.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Skeleton Coast is a favourite place for sailors.
+      `,
+      options:[`Right`,`Wrong`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>32. Skeleton Coast is a favourite place for sailors.</p>
+<p><em>(Skeleton Coast là địa điểm yêu thích của các thủy thủ.)</em></p>
+<p><strong>Thông tin: </strong>When sailors hear about the Skeleton Coast, they are usually terrified.</p>
+<p><em>(Khi các thủy thủ nghe về Skeleton Coast, họ thường rất sợ hãi.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A strong storm caused the shipwreck of The Gertrud Woermann II.
+      `,
+       options:[`Right`,`Wrong`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>33. A strong storm caused the shipwreck of The Gertrud Woermann II.</p>
+<p><em>(Một cơn bão mạnh đã gây ra vụ đắm tàu The Gertrud Woermann II.)</em></p>
+<p><strong>Thông tin: </strong>The ship was carrying hundreds of people, horses, and other items when it was destroyed by a strong storm.</p>
+<p><em>(Con tàu chở hàng trăm người, ngựa và các vật dụng khác thì bị một cơn bão mạnh phá hủy.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Parts of The Winston disappeared completely after the shipwreck.
+      `,
+      options:[`Right`,`Wrong`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>34. Parts of The Winston disappeared completely after the shipwreck.</p>
+<p><em>(Các bộ phận của Winston biến mất hoàn toàn sau vụ đắm tàu.)</em></p>
+<p><strong>Thông tin: </strong>People can still see parts of the ship along the coast.</p>
+<p><em>(Người ta vẫn có thể nhìn thấy các phần của con tàu dọc theo bờ biển.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The Bom Jesus was a Spanish ship.
+      `,
+        options:[`Right`,`Wrong`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>35. The Bom Jesus was a Spanish ship.</p>
+<p><em>(Bom Jesus là một con tàu của Tây Ban Nha.)</em></p>
+<p><strong>Thông tin: </strong>However, it is believed that the ship came from Portugal, and it was sailing to India.</p>
+<p><em>(Tuy nhiên, người ta tin rằng con tàu đến từ Bồ Đào Nha và đang đi đến Ấn Độ.)</em></p><p><strong>Tạm dịch: </strong></p>
+<p style="text-align: center;"><em>Bờ biển Skeleton</em></p>
+<p ><em>Bờ biển Skeleton là bờ biển phía nam châu Phi. Nó có tên như vậy vì người ta tìm thấy nhiều xương của cá voi và hải cẩu ở đó. Ngoài ra còn có rất nhiều xương người dọc theo bờ biển. Nơi này nổi tiếng vì có số lượng lớn các vụ đắm tàu, thực tế là hơn một nghìn. Khi các thủy thủ nghe về Skeleton Coast, họ thường rất sợ hãi.</em></p>
+<p ><em>Năm 1912, con tàu mang tên Gertrud Woermann II bị chìm và biến mất dưới đại dương. Con tàu chở hàng trăm người, ngựa và các vật dụng khác thì bị một cơn bão mạnh phá hủy. Winston là một con tàu đắm khác ngoài khơi Skeleton Coast. Nó dạt vào bờ vào ngày 17 tháng 10 năm 1970. Người ta vẫn có thể nhìn thấy các phần của con tàu dọc theo bờ biển.</em></p>
+<p ><em>Đôi khi một vụ đắm tàu đi kèm với kho báu. Bom Jesus được phát hiện vào tháng 4 năm 2008 và một công nhân đã tìm thấy nhiều đồng tiền vàng từ con tàu đắm. Hầu hết các đồng tiền đều có nguồn gốc từ Tây Ban Nha. Tuy nhiên, người ta tin rằng con tàu đến từ Bồ Đào Nha và đang đi đến Ấn Độ.</em></p>           `,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Rearrange the given words to make complete sentences.</em></strong></p> `,
+        question: `wants/ landscape/ to/ brother/ become/ a/ gardener./ My
+      `,
+        options:[],
+        answer: `My brother wants to become a landscape gardener`,
+        rewrite: ``,
+        explanation: ` <p>36.Cấu trúc câu: S + V + O</p>
+<p>S: Tính từ sở hữu + danh từ My brother <em>(anh trai tôi)</em></p>
+<p>V: want + to V wants to be come <em>(muốn trở thành)</em></p>
+<p>O: mạo từ + danh từ a landscape gardener <em>(người làm vườn cảnh)</em></p>
+<p><em>(Anh trai tôi muốn trở thành một người làm vườn cảnh.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Lily/ in/ explosion/ was/ when/ the/ reading/ happened./ library/ the
+      `,
+        options:[],
+        answer: `Lily was reading in the library when the explosion happened.`,
+        rewrite: ``,
+        explanation: `<p>37.Cấu trúc thì quá khứ đơn và quá khứ tiếp diễn với “when”:</p>
+<p>+ thì quá khứ đơn: hành động ngắn the explosion happened <em>(vụ nổ xảy ra)</em></p>
+<p>+ thì quá khứ tiếp diễn: hành động kéo dài Lily was reading in the libraty <em>(Lily đang đọc trong thư viện)</em></p>
+
+<p><em>(Lily đang đọc sách trong thư viện thì vụ nổ xảy ra.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Rewrite the sentences without changing their meanings.</em></strong></p> `,
+        question: `If we don't stop illegal pet trade, many animals will be endangered.
+      `,
+        options:[],
+        answer: `we stop the illegal pet trade, many animals will be endangered`,
+        rewrite: `Unless`,
+        explanation: `<p>38. Unless + S + V (thì hiện tại đơn), S+ will/ can/ shall + V = If not + S + V (thì hiện tại đơn), S+ will/ can/ shall + V</p>
+<p>If we don't stop illegal pet trade, many animals will be endangered.</p>
+<p><em>(Nếu chúng ta không ngăn chặn việc buôn bán thú cưng bất hợp pháp, nhiều loài động vật sẽ gặp nguy hiểm.)</em></p>
+<p>Unless <strong>we stop the illegal pet trade, many animals will be endangered.</strong></p>
+<p><em>(Trừ khi chúng ta ngăn chặn việc buôn bán thú cưng bất hợp pháp, nhiều loài động vật sẽ gặp nguy hiểm.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My parents don't like living in the city because there's too much traffic.
+      `,
+        options:[],
+        answer: `living in the</strong> <strong>city because there's too much traffic`,
+        rewrite: `My parents hate`,
+        explanation: `<p>39.don’t like + V-ing = hate + V-ing: ghét làm gì</p>
+<p>My parents don't like living in the city because there's too much traffic.</p>
+<p><em>(Bố mẹ tôi không thích sống ở thành phố vì có quá nhiều xe cộ qua lại.)</em></p>
+<p>My parents hate <strong>living in the</strong> <strong>city because there's too much traffic.</strong></p>
+<p><em>(Bố mẹ tôi ghét sống ở thành phố vì có quá nhiều xe cộ qua lại.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Don't use your car too much, or you'll make the air more polluted.
+      `,
+        options:[],
+        answer: `use your car too much, you'll make the air more polluted`,
+        rewrite: `If`,
+        explanation: `<p>40. Cấu trúc: If + S + V (simple present), S + will/can/shall + V</p>
+<p>Don't use your car too much, or you'll make the air more polluted.</p>
+<p><em>(Đừng sử dụng ô tô quá nhiều, nếu không bạn sẽ làm cho không khí trở nên ô nhiễm hơn.)</em></p>
+<p>If you <strong>use your car too much, you'll make the air more polluted.</strong></p>
+<p><em>(Nếu bạn sử dụng ô tô quá nhiều, bạn sẽ làm cho không khí trở nên ô nhiễm hơn.)</em></p> `,
+      },
+    ],
+  },
+  {
+    semester: 2,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><strong><em>Choose the word whose underlined parts pronounced differently from the others.</em></strong></p>`,
+        question: `
+          `,
+        options:[`pr<u>o</u>vince`,`pr<u>o</u>blem`,`ign<u>o</u>re`,`sh<u>o</u>pping`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>pr<u>o</u>vince /ˈprɒv.ɪns/</p>
+<p>pr<u>o</u>blem /ˈprɒb.ləm/</p>
+<p>ign<u>o</u>re /ɪɡˈnɔːr/</p>
+<p>sh<u>o</u>pping /ˈʃɒp.ɪŋ/</p>
+<p>Phần được gạch chân ở phương C được phát âm /ɔː/, các phương án còn lại phát âm /ɒ/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`c<u>a</u>p`,`m<u>a</u>ny`,`pl<u>a</u>n`,`c<u>a</u>rry`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>c<u>a</u>p /kæp/</p>
+<p>m<u>a</u>ny /ˈmen.i/</p>
+<p>pl<u>a</u>n /plæn/</p>
+<p>c<u>a</u>rry /ˈkær.i/</p>
+<p>Phần được gạch chân ở phương B được phát âm /e/, các phương án còn lại phát âm /æ/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`<u>ai</u>r`,`entert<u>ai</u>n`,`r<u>ai</u>n`,`afr<u>ai</u>d`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p><u>ai</u>r /eər/</p>
+<p>entert<u>ai</u>n/en.təˈteɪn/</p>
+<p><u>rai</u>n /reɪn/</p>
+<p>afr<u>ai</u>d /əˈfreɪd/</p>
+<p>Phần được gạch chân ở phương A được phát âm /eə/, các phương án còn lại phát âm /eɪ/.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Choose the word that has a stress pattern different from the others.</em></strong></p>`,
+        question: `
+          `,
+        options:[`heavy`,`traffic`,`earthquake`,`protect`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>heavy /ˈhev.i/     </p>
+<p>traffic /ˈtræf.ɪk/</p>
+<p>earthquake /ˈɜːθ.kweɪk/      </p>
+<p>protect /prəˈtekt/</p>
+<p>Phương án D có trọng âm 2, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`pollution`,`rainforest`,`tsunami`,`volcano`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>pollution /pəˈluː.ʃən/    </p>
+<p>rainforest/ˈreɪn.fɒr.ɪst/</p>
+<p>tsunami /tsuːˈnɑː.mi/</p>
+<p>volcano /vɒlˈkeɪ.nəʊ/</p>
+<p>Phương án B có trọng âm 1, các phương án còn lại có trọng âm 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Choose the correct options.</em></strong></p>`,
+        question: `We went on holiday to the countryside to enjoy the_________air.
+          `,
+        options:[`peaceful`,`clean`,`quiet`,`calm`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>peaceful (adj): bình yên         </p>
+<p>clean (adj): sạch sẽ</p>
+<p>quiet (adj): yên tĩnh</p>
+<p>calm (adj): bình tĩnh</p>
+<p>We went on holiday to the countryside to enjoy the<strong> clean </strong>air.</p>
+<p><span >trong lành</span></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The building was shaking for 2 minutes during the ___ last night.
+          `,
+        options:[`earthquake`,`landslide`,`tsunami`,`storm`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>earthquake (n): động đất</p>
+<p>landslide (n): lở đất</p>
+<p>tsunami (n): sóng thần</p>
+<p>storm (n): bão</p>
+<p>The building was shaking for 2 minutes during the <strong>earthquake</strong> last night.</p>
+<p><em>(Tòa nhà đã rung chuyển trong 2 phút trong trận động đất đêm qua.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `_______ need to be caring because they took after animals.
+          `,
+        options:[`Road sweepers`,`Zookeepers`,`Forest firefighters`,`Landscape gardeners`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Road sweepers (n): lao công</p>
+<p>Zookeepers (n): người giữ vườn thú</p>
+<p>Forest firefighters (n): lính cứu hỏa rừng</p>
+<p>Landscape gardeners (n): người làm vườn</p>
+<p><strong>Zookeepers</strong> need to be caring because they take after animals.</p>
+<p><em>(Những người trông coi vườn thú cần phải được quan tâm vì họ chăm sóc động vật.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `People in big cities are often_________, so they don't have much time to relax. 
+          `,
+        options:[`crowded`,`busy`,`friendly`,`modern`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>crowded (adj): đông đúc     </p>
+<p>busy (adj): bận rộn</p>
+<p>friendly (adj): thân thiện</p>
+<p>modern(adj): hiện đại</p>
+<p>People in big cities are often<strong> busy</strong>, so they don't have much time to relax.</p>
+<p><em>(Người dân ở các thành phố lớn thường bận rộn nên không có nhiều thời gian để thư giãn.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Did you see the car_________in Merritt Street this morning?
+          `,
+        options:[`flood`,`eruption`,`disaster`,`crash`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>flood (n): lũ lụt</p>
+<p>eruption (n): sự phun trào</p>
+<p>disaster (n): thảm họa</p>
+<p>crash (n): va chạm</p>
+<p>Did you see the car <strong>crash </strong>in Merritt Street this morning?</p>
+<p><em>(Bạn có thấy vụ đâm xe ở phố Merritt sáng nay không?)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They ______ to Việt Nam tomorrow.
+          `,
+        options:[`travelled`,`travel`,`were travelling`,`are travelling`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Dùng thì hiện tại tiếp diễn để nói về một kế hoạch trong tương lai và đã được dự định từ trước và đã có sự sắp xếp, chuẩn bị</p>
+<p>They <strong>are travelling</strong> to Việt Nam tomorrow.</p>
+<p><em>(Họ sẽ đi du lịch đến Việt Nam vào ngày mai.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Do you like __________ in the city?
+          `,
+        options:[`living`,`to live`,`live`,`are living`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>like + V-ing: thích làm gì</p>
+<p>Do you like <strong>living</strong> in the city?</p>
+<p><em>(Bạn có thích sống ở thành phố không?)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Lots of animals live in____ Sonoran Desert in___ Arizona, USA.
+          `,
+        options:[`-, the`,`-, -`,`the, -`,`the, the`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>‘Sonoran Desert’ là tên sa mạc, ‘Arizona’ là một địa phương<strong>-&gt;</strong>the, -</p>
+<p>Lots of animals live in<strong>the</strong>Sonoran Desert in Arizona, USA.</p>
+<p><em>(Rất nhiều động vật sống ở sa mạc Sonoran ở Arizona, Mỹ.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They ________ when the volcano erupted.
+          `,
+        options:[`didn't sleep`,`weren't sleeping`,`aren’t sleeping`,`don't sleep`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Hành động ‘sleep’ đang xảy ra trong quá khứ (QKTD) thì bị hành động ‘erupt’ cắt ngang (QKĐ) -&gt; weren't sleeping.</p>
+<p>They <strong>weren’t sleeping</strong> when the volcano erupted.</p>
+<p><em>(Họ không ngủ khi núi lửa phun trào.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We _________to the countryside for our holiday at the moment.
+          `,
+        options:[`are going`,`were going`,`go`,`went`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Thì hiện tại tiếp diễn diễn tả một hành động đang xảy ra tại thời điểm nói;</p>
+<p>“at the moment” là dấu hiệu của thì hiện tại tiếp diễn =&gt; Động từ chia ở thì hiện tại tiếp diễn;</p>
+<p>We <strong>are going </strong>to the countryside for our holiday at the moment.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Give the correct form of the word in the brackets.</em></strong></p>`,
+        question: `Forest firefighters need to be brave because their job is_______ . (DANGER)
+          `,
+        options:[],
+        answer: `dangerous`,
+        rewrite: ``,
+        explanation: `<p>16.Cấu trúc: S + be + adj =&gt; cần một tính từ chủ động để mô tả tính chất của sự vật</p>
+<p>danger (n): sự nguy hiểm</p>
+<p>dangerous (adj): nguy hiểm</p>
+<p>Forest firefighters need to be brave because their job is <strong>dangerous</strong>.</p>
+<p><em>(Lính cứu hỏa rừng cần phải dũng cảm vì công việc của họ rất nguy hiểm.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Macaws are endangered because of_______ pet trade. People sell and keep them as pets. (LEGAL)
+          `,
+        options:[],
+        answer: `illegal`,
+        rewrite: ``,
+        explanation: `<p>17. Chỗ trống cần điền một tính từ để tạo thành một cụm danh từ.</p>
+<p>legal (adj): hợp pháp</p>
+<p>illegal (adj): bất hợp pháp</p>
+<p>Macaws are endangered because of <strong>illegal</strong> pet trade. People sell and keep them as pets.</p>
+<p><em>(Vẹt đuôi dài đang bị đe dọa vì buôn bán vật nuôi bất hợp pháp. Người ta bán và nuôi chúng như thú cưng.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The air will become more_______ if we use lots of cars on roads. (POLLUTE)
+      `,
+        options:[],
+        answer: `polluted`,
+        rewrite: ``,
+        explanation: `<p>18. Sau động từ "become" và hình thức so sánh hơn “more” cần một tính từ.</p>
+<p>pollute (v): ô nhiễm</p>
+<p>polluted (adj): ô nhiễm</p>
+<p>The air will become more <strong>polluted</strong> if we use lots of cars on roads.</p>
+<p><em>(Không khí sẽ trở nên ô nhiễm hơn nếu chúng ta sử dụng nhiều ô tô trên đường.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The volcanic_______ destroyed the village with lava. (ERUPT)
+      `,
+        options:[],
+        answer: `eruption`,
+        rewrite: ``,
+        explanation: `<p>19. Sau tính từ “volcanic” <em>(núi lửa) </em>cần một danh từ để tạo thành cụm danh từ.</p>
+<p>erupt (v): phun trào</p>
+<p>eruption (n): sự phun trào</p>
+<p>The volcanic <strong>eruption</strong> destroyed the village with lava.</p>
+<p><em>(Vụ phun trào núi lửa đã phá hủy ngôi làng bằng dung nham.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Life in the city is exciting because there’s a lot of_______ . (ENTERTAIN)
+      `,
+        options:[],
+        answer: `entertainment`,
+        rewrite: ``,
+        explanation: `<p>20. Sau “a lot of” cần một danh từ</p>
+<p>entertain (v): giải trí</p>
+<p>entertainment (n): sự giải trí</p>
+<p>Life in the city is exciting because there’s a lot of <strong>entertainment</strong>.</p>
+<p><em>(Cuộc sống ở thành phố rất thú vị vì có rất nhiều hoạt động giải trí.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p ><strong><em>Read the text and decide if the statements are True, False or Not given.</em></strong></p>
+<p >Hello readers! I just moved to a new city. I want to tell you all about it. I live in Toronto, Canada. It's a big city with lot of people. I like walking through the city and looking at the historic buildings. Not everything is old, though. There are lots of modem malls and shops, too. The busy streets and lifestyle make it a fun place to live. Why don't you leave a comment below about where you live? Bye for now!</p>
+<p >Hi Jo, Brian here! Toronto sounds great. Let me tell you about where I live! I live in a small town, Nagara-on-the-Lake in Canada. We don’t have busy streets and there isn't much entertainment, but we have lots of historic buildings and modem shops. In fact, my town is very popular with tourists. They like the friendly local people and the beautiful scenery with full of trees and flowers.</p>  `,
+        question: `Toronto is very crowded.
+      `,
+        options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Toronto is very crowded.</p>
+<p><em>(Toronto rất đông đúc.)</em></p>
+<p><strong>Thông tin:</strong>It's a big city with lot of people.</p>
+<p><em>(Đó là một thành phố lớn với rất nhiều người.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Jo likes looking at the historic buildings.
+      `,
+        options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>22. Jo likes looking at the historic buildings.</p>
+<p><em>(Jo thích nhìn ngắm các tòa nhà lịch sử.)</em></p>
+<p><strong>Thông tin:</strong>I like walking through the city and looking at the historic buildings.</p>
+<p><em>(Tôi thích đi dạo quanh thành phố và ngắm nhìn những tòa nhà lịch sử.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Jo often visits the malls.
+      `,
+        options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>23. Jo often visits the malls.</p>
+<p><em>(Jo thường tham quan các trung tâm thương mại.)</em></p>
+<p><strong>Thông tin:</strong>There are lots of modem malls and shops, too.</p>
+<p><em>(Có rất nhiều trung tâm mua sắm và cửa hàng hiện đại.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Not many tourists visit Niagara-on-the-Lake.
+      `,
+        options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>24. Not many tourists visit Niagara-on-the-Lake.</p>
+<p><em>(Không có nhiều khách du lịch đến thăm Niagara-on-the-Lake.)</em></p>
+<p><strong>Thông tin:</strong>In fact, my town is very popular with tourists</p>
+<p><em>(Trên thực tế, thị trấn của tôi rất nổi tiếng với khách du lịch)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The two places have historic buildings and modern shops.
+      `,
+        options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p><em>(Hai nơi có tòa nhà lịch sử và cửa hàng hiện đại.)</em></p>
+<p><strong>Thông tin:</strong>There are lots of modem malls and shops, too -<strong></strong>but we have lots of historic buildings and modem shops.</p>
+<p><em>(Cũng có rất nhiều trung tâm mua sắm và cửa hàng hiện đại - nhưng chúng tôi có rất nhiều tòa nhà lịch sử và cửa hàng hiện đại.)</em></p><p ><strong>Tạm dịch:</strong></p>
+<p ><em>Xin chào độc giả! Tôi vừa chuyển đến một thành phố mới. Tôi muốn nói với bạn tất cả về nó. Tôi sống ở Toronto, Canada. Đó là một thành phố lớn với rất nhiều người. Tôi thích đi dạo quanh thành phố và ngắm nhìn những tòa nhà lịch sử. Tuy nhiên, không phải mọi thứ đều cũ. Có rất nhiều trung tâm mua sắm và cửa hàng hiện đại. Những con phố sầm uất và lối sống khiến nơi đây trở thành một nơi thú vị để sinh sống. Tại sao bạn không để lại bình luận bên dưới về nơi bạn sống? Tạm biệt nhé!</em></p>
+<p ><em>Xin chào Jo, Brian đây! Toronto nghe tuyệt vời. Hãy để tôi kể cho bạn nghe về nơi tôi sống! Tôi sống ở một thị trấn nhỏ, Nagara-on-the-Lake ở Canada. Chúng tôi không có những con phố đông đúc và không có nhiều hoạt động giải trí, nhưng chúng tôi có rất nhiều tòa nhà lịch sử và các cửa hàng hiện đại. Trên thực tế, thị trấn của tôi rất nổi tiếng với khách du lịch. Họ thích những người dân địa phương thân thiện và phong cảnh đẹp với đầy cây và hoa.</em></p>          `,
+      },
+      {
+        id: 41,
+        extra: ` <p ><strong><em>Read the text and choose the correct answer to fill in each blank.</em></strong></p>
+<p >Landslides are the mass movement of rocks or earth (<strong>1</strong>) _________ a slope. Landslides occur more frequently in some mountainous areas. They may come suddenly (<strong>2</strong>) _________ a storm or heavy rain. When you hear a warning about a landslide in your area, you (<strong>3</strong>) _________ do the following:</p>
+<p >- Follow the instructions about emergency information given by authorities.</p>
+<p >- Go to a public shelter if you feel it is (<strong>4</strong>) _________ to remain in your home.</p>
+<p >- Listen to unusual sounds, such as trees cracking, or rocks knocking together.</p>
+<p >- Stay away from the slide area. There may be a danger of additional slides.</p>
+<p >- (<strong>5</strong>) _________ for flooding, which may occur after a landslide.</p>
+<p >- Stay cautious after the storm. Don’t do the clean-up until the storm is over.</p>`,
+        question: `Landslides are the mass movement of rocks or earth (<strong>1</strong>) _________ a slope.
+      `,
+        options:[`up`,`down`,`on`,`under`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>up: lên</p>
+<p>down: xuống</p>
+<p>on: trên</p>
+<p>under: dưới</p>
+<p>Landslides are the mass movement of rocks or earth (<strong>1</strong>) <strong>down</strong> a slope.</p>
+<p><em>(Sạt lở đất là sự chuyển động khối lượng của đá hoặc đất (1) xuống một sườn dốc.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They may come suddenly (<strong>2</strong>) _________ a storm or heavy rain.
+      `,
+        options:[`when`,`as soon as`,`before`,`after`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>when: khi</p>
+<p>as soon as: ngay khi</p>
+<p>before: trước khi</p>
+<p>after: sau khi</p>
+<p>They may come suddenly (<strong>2</strong>) <strong>after</strong> a storm or heavy rain.</p>
+<p><em>(Họ có thể đến bất ngờ (2) sau một cơn bão hoặc mưa lớn.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `When you hear a warning about a landslide in your area, you (<strong>3</strong>) _________ do the following:
+      `,
+        options:[`should`,`must`,`will`,`may`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>should: nên</p>
+<p>must: phải</p>
+<p>will: sẽ</p>
+<p>may: có thể</p>
+<p>When you hear a warning about a landslide in your area, you (<strong>3</strong>)<strong> should</strong> do the following:</p>
+<p><em>(Khi bạn nghe thấy cảnh báo về lở đất trong khu vực của bạn, bạn (3) nên làm như sau:)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `- Go to a public shelter if you feel it is (<strong>4</strong>) _________ to remain in your home.
+      `,
+        options:[`safe`,`careful`,`unsafe`,`careless`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>safe (adj): an toàn</p>
+<p>careful (adj): cẩn thận</p>
+<p>unsafe (adj): không an toàn</p>
+<p>careless (adj): cẩu thả</p>
+<p>Go to a public shelter if you feel it is (<strong>4</strong>) <strong>unsafe</strong> to remain in your home.</p>
+<p><em>(Đi đến nơi trú ẩn công cộng nếu bạn cảm thấy (4) không an toàn khi ở trong nhà của mình.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `- (<strong>5</strong>) _________ for flooding, which may occur after a landslide.
+      `,
+        options:[`Look`,`Watch`,`Search`,`Care`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Look (+for): tìm kiếm</p>
+<p>Watch (+for): đề phòng</p>
+<p>Search (+for): tìm kiếm</p>
+<p>Care (+for): chăm sóc</p>
+<p>(<strong>5</strong>) <strong>Watch</strong> for flooding, which may occur after a landslide.</p>
+<p><em>((5) Đề phòng lũ lụt có thể xảy ra sau một trận lở đất.)</em></p> <p ><strong>Đoạn văn hoàn chỉnh:</strong></p>
+<p >Landslides are the mass movement of rocks or earth (<strong>1</strong>) <strong>down</strong> a slope. Landslides occur more frequently in some mountainous areas. They may come suddenly (<strong>2</strong>) <strong>after</strong> a storm or heavy rain. When you hear a warning about a landslide in your area, you (<strong>3</strong>) <strong>should</strong> do the following:</p>
+<p >- Follow the instructions about emergency information given by authorities.</p>
+<p >- Go to a public shelter if you feel it is (<strong>4</strong>) <strong>unsafe</strong> to remain in your home.</p>
+<p >- Listen to unusual sounds, such as trees cracking, or rocks knocking together.</p>
+<p >- Stay away from the slide area. There may be a danger of additional slides.</p>
+<p >- (<strong>5</strong>) <strong>Watch</strong> for flooding, which may occur after a landslide.</p>
+<p >- Stay cautious after the storm. Don’t do the clean-up until the storm is over.</p>
+<p ><strong>Tạm dịch:</strong></p>
+<p ><em>Sạt lở đất là sự chuyển động khối lượng của đá hoặc đất (1) xuống một sườn dốc. Sạt lở đất xảy ra thường xuyên hơn ở một số khu vực miền núi. Họ có thể đến bất ngờ (2) sau một cơn bão hoặc mưa lớn. Khi bạn nghe thấy cảnh báo về lở đất trong khu vực của bạn, bạn (3) nên làm như sau:</em></p>
+<p ><em>- Thực hiện theo hướng dẫn về thông tin khẩn cấp do cơ quan chức năng đưa ra.</em></p>
+<p ><em>- Đi đến nơi trú ẩn công cộng nếu bạn cảm thấy việc ở trong nhà là (4) không an toàn.</em></p>
+<p ><em>- Nghe những âm thanh bất thường như tiếng cây gãy, tiếng đá va vào nhau.</em></p>
+<p ><em>- Tránh xa khu vực trượt. Có thể có nguy cơ trượt thêm.</em></p>
+<p ><em>- (5) Đề phòng lũ lụt có thể xảy ra sau lở đất.</em></p>
+<p ><em>- Hãy thận trọng sau cơn bão. Đừng dọn dẹp cho đến khi cơn bão kết thúc.</em></p>    `,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Rewrite the sentences without changing their meanings.</em></strong></p>`,
+        question: `Rising sea levels cause floods.
+      `,
+        options:[],
+        answer: `there will be floods`,
+        rewrite: `If sea levels rise,`,
+        explanation: `p>31.Cấu trúc: If + S + V (simple present), S + will/can/shall + V</p>
+<p>Rising sea levels cause floods.</p>
+<p><em>(Mực nước biển dâng cao gây lũ lụt.)</em></p>
+<p><strong><em>=&gt; </em></strong>If sea levels rise, <strong>there will be floods.</strong></p>
+<p><em>(Nếu mực nước biển dâng cao sẽ có lũ lụt.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `If we don't stop illegal hunters, they will kill endangered animals.
+      `,
+        options:[],
+        answer: `stop illegal hunters, they will kill endangered animals`,
+        rewrite: `Unless we`,
+        explanation: `<p>32. Unless + S + V (thì hiện tại đơn), S+ will/ can/ shall + V = If not + S + V (thì hiện tại đơn), S+ will/ can/ shall + V</p>
+<p>If we don't stop illegal hunters, they will kill endangered animals.</p>
+<p><em>(Nếu chúng ta không ngăn chặn những kẻ săn bắt trái phép, họ sẽ giết hại những loài động vật có nguy cơ tuyệt chủng.)</em></p>
+<p>=&gt; Unless we <strong>stop illegal hunters, they will kill endangered animals.</strong></p>
+<p><em>(Trừ khi chúng ta ngăn chặn những kẻ săn bắt trái phép, họ sẽ giết hại những loài động vật có nguy cơ tuyệt chủng.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Polluted air causes a lot of health problems.
+      `,
+        options:[],
+        answer: `there will be a lot of health problems`,
+        rewrite: `If the air is polluted,`,
+        explanation: `<p>33. Cấu trúc: If + S + V (simple present), S + will/can/shall + V</p>
+<p>Polluted air causes a lot of health problems.</p>
+<p><em>(Không khí bị ô nhiễm gây ra nhiều vấn đề sức khỏe.)</em></p>
+<p>=&gt; If the air is polluted, <strong>there will be a lot of health problems.</strong></p>
+<p><em>(Nếu không khí bị ô nhiễm sẽ có nhiều vấn đề sức khỏe.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Be more eco - friendly, or we'll harm the environment.
+      `,
+        options:[],
+        answer: `aren’t more eco - friendly, we'll harm the environment`,
+        rewrite: `If we `,
+        explanation: `<p>34. Cấu trúc: If + S + V (simple present), S + will/can/shall + V</p>
+<p>Be more eco - friendly, or we'll harm the environment.</p>
+<p><em>(Không khí ô nhiễm gây ra nhiều vấn đề về sức khỏe.)</em></p>
+<p>=&gt; If we <strong>aren’t more eco - friendly, we'll harm the environment.</strong></p>
+<p><em>(Nếu không khí bị ô nhiễm, sẽ có rất nhiều vấn đề về sức khỏe.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Unless she has free time, she can't volunteer at the local animal shelter.
+      `,
+        options:[],
+        answer: `doesn’t have free time, she can volunteer at the local animal shelter`,
+        rewrite: `If she`,
+        explanation: `<p>35. Unless + S + V (thì hiện tại đơn), S+ will/ can/ shall + V = If not + S + V (thì hiện tại đơn), S+ will/ can/ shall + V</p>
+<p>Unless she has free time, she can't volunteer at the local animal shelter.</p>
+<p><em>(Trừ khi có thời gian rảnh, cô ấy không thể làm tình nguyện viên ở trại động vật địa phương.)</em></p>
+<p>=&gt; If she <strong>doesn’t have free time, she can volunteer at the local animal shelter.</strong></p>
+<p><em>(Nếu cô ấy không có thời gian rảnh, cô ấy có thể làm tình nguyện viên ở trại động vật địa phương.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Listen to Brian telling Alice about his holiday. For questions (1-5), choose the correct options (A, B, C or D).</em></strong></p>`,
+        media:`https://img.loigiaihay.com/picture/2023/1210/1702193416492-hk1-ta8-right-de-2.mp3`,
+        question: `What did Brian do on his holiday?
+      `,
+        options:[`volunteered with animals`,`saw a performance`,`visited museums`,`visited his grandparents`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Brian đã làm gì vào kỳ nghỉ của mình?</p>
+<p>A. tình nguyện với động vật</p>
+<p>B. xem một buổi biểu diễn</p>
+<p>C. thăm viện bảo tàng</p>
+<p>D. thăm ông bà của mình</p>
+<p><strong>Thông tin:</strong> But this year my family decided to help endangered animals instead of visiting tourists sights.</p>
+<p><em>(Nhưng năm nay gia đình tôi quyết định giúp đỡ các loài động vật có nguy cơ tuyệt chủng thay vì tham quan các điểm tham quan của khách du lịch.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Where did he stay?
+      `,
+        options:[`in a city in Brazil`,`in the countryside`,`in his grandparents’ house`,`in a rainforest`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Anh ấy ở đâu?</p>
+<p>A. trong một thành phố ở Brazil</p>
+<p>B. ở nông thôn</p>
+<p>C. ở nhà ông bà ngoại</p>
+<p>D. trong rừng nhiệt đới</p>
+<p><strong>Thông tin:</strong> We stayed in a rainforest in Brazil.</p>
+<p><em>(Chúng tôi ở trong một khu rừng nhiệt đới ở Brazil.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What destroyed the animals’ habitat?
+      `,
+        options:[`a forest fire`,`a storm`,`a flood`,`tourists`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Điều gì đã phá hủy môi trường sống của động vật?</p>
+<p>A. cháy rừng</p>
+<p>B. một cơn bão</p>
+<p>C. lũ lụt</p>
+<p>D. khách du lịch</p>
+<p><strong>Thông tin:</strong> There was a terrible storm a few weeks ago and it destroyed the animal's habitat.</p>
+<p><em>(Có một cơn bão khủng khiếp cách đây vài tuần và nó đã phá hủy môi trường sống của động vật.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What was his favourite part of the holiday?
+      `,
+        options:[`building macaws’ nests`,`planting trees`,`cleaning up beaches`,`taking care of baby seals`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Phần yêu thích của anh ấy trong kỳ nghỉ là gì?</p>
+<p>A. xây tổ vẹt đuôi dài</p>
+<p>B. trồng cây</p>
+<p>C. làm sạch bãi biển</p>
+<p>D. chăm sóc hải cẩu con</p>
+<p><strong>Thông tin:</strong> We also took care of baby seals. That was my favorite part.</p>
+<p><em>(Chúng tôi cũng chăm sóc hải cẩu con. Đó là phần ưa thích của tôi.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Where did Alice go on her holiday?
+      `,
+        options:[`to a big city`,`to Brazil`,`to the countryside`,`to a rainforest`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Alice đã đi đâu vào kỳ nghỉ của mình?</p>
+<p>A. đến một thành phố lớn</p>
+<p>B. đến Brazil</p>
+<p>C. về nông thôn</p>
+<p>D. đến một khu rừng nhiệt đới</p>
+<p><strong>Thông tin:</strong> I went to the countryside to visit my grandparents.</p>
+<p><em>(Tôi về quê thăm ông bà ngoại.)</em></p>`,
+      },
+    ],
+  },
+  {
+    semester: 2,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><strong><em>Choose the word whose underlined part is pronounced differently from the others.</em></strong></p>  `,
+        question: `
+          `,
+        options:[`h<u>o</u>liday`,`n<u>o</u>thing`,`st<u>o</u>p`,`v<u>o</u>lcanic`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>h<u>o</u>liday /'hɒlədei/</p>
+<p>n<u>o</u>thing /'nʌθiŋ/</p>
+<p>st<u>o</u>p /stɒp/</p>
+<p>volcanic /vɒl'kænik/</p>
+<p>Phần được gạch chân ở phương án B được phát âm /ʌ/, các phương án còn lại phát âm /ɒ/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`w<span >a</span>rm`,`f<u>a</u>rm`,`h<u>a</u>rm`,`st<u>a</u>rt`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>w<u>a</u>rm /wɔ:m/</p>
+<p>f<u>a</u>rm /fɑːm/</p>
+<p>h<u>a</u>rm /hɑ:m/</p>
+<p>st<u>a</u>rt /'stɑ:t/</p>
+<p>Phần được gạch chân ở phương án A được phát âm /ɔ:/, các phương án còn lại phát âm /ɑ:/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`climb<u>ed</u>`,`destroy<u>ed</u>`,`explod<u>ed</u>`,`injur<u>ed</u>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Các quy tắc khi phát âm từ có đuôi “-ed”</p>
+<p>- Phát âm là /ɪd/: với các động từ kết thúc bằng âm /t/ hoặc /d/ (theo phiên âm).</p>
+<p>- Phát âm là /t/: với các động từ kết thúc bằng âm vô thanh như là /k/, /p/, /s/, /f/, /tʃ/, /ʃ/.</p>
+<p>- Phát âm là /d/: với các động từ kết thúc bằng các âm còn lại.</p>
+<p>climb<u>ed</u> /klaɪmd/</p>
+<p>destroy<u>ed</u> /dɪˈstrɔɪd/</p>
+<p>explod<u>ed</u> /ɪkˈspləʊdid/</p>
+<p>injur<u>ed</u> /ˈɪn.dʒəd/</p>
+<p>Phần được gạch chân ở phương án C được phát âm /ɪd/, các phương án còn lại phát âm /d/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ` <p><strong><em>Choose the word that has a tress pattern different from the others.</em></strong></p> `,
+        question: `
+          `,
+        options:[`reduce`,`river`,`problem`,`forest`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>reduce /rɪˈdʒuːs/    </p>
+<p>river /ˈrɪv.ər/</p>
+<p>problem /ˈprɒb.ləm/     </p>
+<p>forest /ˈfɒr.ɪst/</p>
+<p>Phương án A có trọng âm 2, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`gardener`,`energy`,`beautiful`,`recycle`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>gardener /ˈɡɑː.dən.ər/  </p>
+<p>energy /ˈen.ə.dʒi/</p>
+<p>beautiful /ˈbjuː.tɪ.fəl/     </p>
+<p>recycle /ˌriːˈsaɪ.kəl/</p>
+<p>Phương án D có trọng âm 2, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Choose the best option to complete each of the following questions.</em></strong></p>        `,
+        question: `There are a lot of __________ in the countryside. However, there are not many of them in big cities.
+          `,
+        options:[`malls`,`cottages`,`tall buildings`,`cars`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>malls (n): trung tâm mua sắm</p>
+<p>cottages (n): nhà tranh</p>
+<p>tall buildings (n): tòa nhà cao tầng</p>
+<p>cars (n): ô tô</p>
+<p>There are a lot of <strong>cottages</strong> in the countryside. However, there are not many of them in big cities.</p>
+<p><em>(Có rất nhiều ngôi nhà ở nông thôn. Tuy nhiên, số lượng này ở các thành phố lớn không nhiều.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `__________ is one of the negative sides of cities.
+          `,
+        options:[`Clean air`,`Little traffic`,`Heavy traffic`,`Beautiful scenery`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Clean air: không khí sạch</p>
+<p>Little traffic: ít xe cộ</p>
+<p>Heavy traffic: giao thông đông đúc</p>
+<p>Beautiful scenery: phong cảnh đẹp</p>
+<p><strong>Heavy traffic</strong> is one of the negative sides of cities.</p>
+<p><em>(Giao thông đông đúc là một trong những mặt tiêu cực của thành phố.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Peter always __________ to the lake near his village, but today he ________ his new bike.
+          `,
+        options:[`walks / is riding`,`walk / ride`,`walks/rides`,`walk/ is riding`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Dùng thì Hiện tại đơn để diễn tả hành động thường xuyên xảy ra, một thói quen ở hiện tại. Còn thì Hiện tại tiếp diễn dùng để diễn tả hành động sẽ xảy ra trong tương lai gần mà đã được lên kế hoạch từ trước.</p>
+<p>Peter always <strong>walks</strong> to the lake near his village, but today he <strong>is riding</strong> his new bike.</p>
+<p><em>(Peter luôn đi bộ đến hồ gần làng của anh ấy, nhưng hôm nay anh ấy đang cưỡi ngựa.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `At weekends, Lisa's mum often lets her ________ shopping at the nearby market.
+          `,
+        options:[`goes`,`go`,`to go`,`going`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc: Let + O + V bare: cho ai làm gì</p>
+<p>At weekends, Lisa's mum often lets her <strong>go</strong> shopping at the nearby market.</p>
+<p><em>(Vào cuối tuần, mẹ Lisa thường cho cô ấy đi mua sắm ở chợ gần đó.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The firefighters __________ when the fire was spreading through the building.
+          `,
+        options:[`go`,`goes`,`were going`,`came`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Diễn tả một hành động đang xảy ra trong quá khứ thì có một hành động khác chen vào. Hành động đang xảy ra chia ở thì quá khứ tiếp diễn, hành động chen vào chia thì quá khứ đơn.</p>
+<p>The firefighters <strong>came</strong> when the fire was spreading through the building.</p>
+<p><em>(Lực lượng cứu hỏa có mặt khi ngọn lửa lan rộng khắp tòa nhà.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Fiona looked out of the window and suddenly _________ a loud explosion.
+          `,
+        options:[`hear`,`hears`,`heard`,`was hearing`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Dấu hiệu “looked out” thì quá khứ đơn, sau “and” cũng chia thì quá khứ đơn</p>
+<p>Fiona looked out of the window and suddenly <strong>heard</strong> a loud explosion.</p>
+<p><em><u>(</u></em><em>Fiona nhìn ra ngoài cửa sổ và đột nhiên nghe thấy một tiếng nổ lớn.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A lot of ___________ flowed into the village during the volcano eruption last week.
+          `,
+        options:[`lava`,`wave`,`water`,`wind`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>lava (n): sóng</p>
+<p>wave (n): sóng</p>
+<p>water (n): nước</p>
+<p>wind (n): gió</p>
+<p>A lot of <strong>lava</strong> flowed into the village during the volcano eruption last week.</p>
+<p><em>(Rất nhiều dung nham chảy vào làng trong vụ phun trào núi lửa tuần trước.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A dangerous _________ dragged rocks, mud and trees down to the village.
+          `,
+        options:[`shipwreck`,`shipwreck`,`landslide`,`fire`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>shipwreck (n): đắm tàu</p>
+<p>explosion (n): vụ nổ</p>
+<p>landslide (n): lở đất</p>
+<p>fire (n): lửa</p>
+<p>A dangerous <strong>landslide</strong> dragged rocks, mud and trees down to the village.</p>
+<p><em>(Một trận lở đất nguy hiểm đã kéo đá, bùn và cây cối xuống tận bản.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Collecting rubbish is one of __________ effective ways to protect our environment.
+          `,
+        options:[`a`,`an`,`the`,`-`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>“the” đứng trước so sánh nhất.</p>
+<p>Collecting rubbish is one of <strong>the</strong> most effective ways to protect our environment.</p>
+<p><em>(Thu gom rác là một trong những cách hiệu quả để bảo vệ môi trường của chúng ta.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `To become a volunteer at Dolphins Plus, you must be a ___________ person. The dolphins here need love and care.
+          `,
+        options:[`creative`,`friendly`,`brave`,`caring`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>creative (adj): sáng tạo</p>
+<p>friendly (adj): thân thiện</p>
+<p>brave(adj): dũng cảm</p>
+<p>caring(adj): quan tâm</p>
+<p>To become a volunteer at Dolphins Plus, you must be a <strong>caring</strong> person. The dolphins here need love and care.</p>
+<p><em>(Để trở thành tình nguyện viên tại Dolphins Plus, bạn phải là một người biết quan tâm. Những chú cá heo ở đây cần được yêu thương và chăm sóc.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Give the correct form of the words in the brackets. </em></strong></p>`,
+        question: `Art _______ can visit Raul Speek Gallery to see wonderful works of art. (LOVE)
+          `,
+        options:[],
+        answer: `lovers`,
+        rewrite: ``,
+        explanation: `p>16.Trước động từ “can” cần một danh từ đóng vai trò làm chủ ngữ, phía trước không có mạo từ nên chia danh từ ở dạng số nhiều là “lovers”.</p>
+<p>love (v): yêu</p>
+<p>lovers (n): người yêu</p>
+<p>Art <strong>lovers</strong> can visit Raul Speek Gallery to see wonderful works of art.</p>
+<p><em>(Những người yêu thích nghệ thuật có thể ghé thăm Phòng trưng bày Raul Speek để xem những tác phẩm nghệ thuật tuyệt vời.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Saigon Zoo is one of the famous tourist _______ in Ho Chi Minh City. (ATTRACT)
+          `,
+        options:[],
+        answer: `attractions`,
+        rewrite: ``,
+        explanation: `<p>17. Cấu trúc: One of the most + danh từ số nhiều, nên chia thành “attractions”.</p>
+<p>attract (v): thu hút</p>
+<p>attraction (n): sự thu hút</p>
+<p>Saigon Zoo is one of the famous tourist<strong> attractions</strong> in Ho Chi Minh City.</p>
+<p><em>(Vườn bách thú Sài Gòn là một trong những địa điểm du lịch nổi tiếng ở Thành phố Hồ Chí Minh.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `You were very _______ because nothing happened to you in the accident. (LUCK)
+      `,
+        options:[],
+        answer: `lucky`,
+        rewrite: ``,
+        explanation: `<p>18. luck (n): may mắn</p>
+<p>lucky (adj): may mắn</p>
+<p>Sau động từ tobe có thể chia tính từ hoặc danh từ. Ở đây động từ “tobe” chỉ tính chất nên chia tính từ.</p>
+<p>You were very <strong>lucky</strong> because nothing happened to you in the accident.</p>
+<p><em>(Bạn thật may mắn vì không có chuyện gì xảy ra với bạn trong vụ tai nạn đó.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Scientists found a lot of toxic elements in the _______ areas in the Atlantic Ocean. (POLLUTE)
+      `,
+        options:[],
+        answer: `pollution`,
+        rewrite: ``,
+        explanation: `<p>19. Sau mạo từ “the” cần một danh từ.</p>
+<p>pollute (v): ô nhiễm</p>
+<p>pollution (n): sự ô nhiễm</p>
+<p>Scientists found a lot of toxic elements in the <strong>pollution</strong> areas in the Atlantic Ocean.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `At Dolphin Plus, animal _______ make sure all the dolphins get the right vitamins and minerals in their food. (NUTRITION)
+      `,
+        options:[],
+        answer: `nutritionists`,
+        rewrite: ``,
+        explanation: `<p>make sure all the dolphins get the right vitamins and minerals in their food. (NUTRITION)</p>                                        
+                                            
+                                            
+                                                <p>20. Sau danh từ “animal” cần một danh từ để tạo thành 1 cụm danh từ; “make” ở dụng nguyên thể, không chia =&gt; danh từ ở dạng số nhiều.</p>
+<p>nutrition (n): dinh dưỡng</p>
+<p>nutritionists (n): chuyên gia dinh dưỡng</p>
+<p>At Dolphin Plus, animal <strong>nutritionists</strong> make sure all the dolphins get the right vitamins and minerals in their food.</p>
+<p><em>(Tại Dolphin Plus, các chuyên gia dinh dưỡng động vật đảm bảo tất cả cá heo đều nhận được vitamin và khoáng chất phù hợp trong thức ăn của chúng.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p ><strong><em>Read a blog post about Nam's village. Choose the best option (A, B, C or D).</em></strong></p>
+<p >Hello, my name is Nam. I'm from Vietnam, a small country in Southeast Asia. Today, I (<strong>21</strong>) _________to tell you about my daily life in my lovely village. I love this place (<strong>22</strong>) _________life here is relaxing. I can enjoy the clean air and beautiful scenery. On my way to school in the morning, I can (<strong>21</strong>) _________ grasshoppers buzzing. It's very peaceful. There aren't as many cars or traffic jams as in the city. My father sometimes (<strong>24</strong>) _________me to a beach near our village. We enjoy swimming in the blue seawater. Many people in my village are fishermen, and we can buy fresh seafood from them. Although there aren't (<strong>25</strong>) _________shops or tall buildings in my village, I think it is an ideal place to live.</p> `,
+        question: `
+      `,
+        options:[`write`,`am writing`,`writing`,`to write`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Trong câu có “today” (hôm nay) dùng thì hiện tại tiếp diễn: S + am/ is/ are V-ing</p>
+<p>Today, I (<strong>21</strong>) <strong>am writing </strong>to tell you about my daily life in my lovely village.</p>
+<p><em>(Hôm nay, tôi (21) viết thư để kể cho bạn nghe về cuộc sống hàng ngày của tôi ở ngôi làng thân yêu của tôi.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`so`,`but`,`because`,`or`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>so: vì vậy</p>
+<p>but: nhưng</p>
+<p>because: bởi vì</p>
+<p>or: hoặc</p>
+<p>I love this place (<strong>22</strong>) <strong>because </strong>life here is relaxing.</p>
+<p><em>(Tôi yêu nơi này (22) vì cuộc sống ở đây thật thư giãn.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`hear`,`hearing`,`to hear`,`hears`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Sau động từ khuyết thiếu động từ ở dạng nguyên thể.</p>
+<p>On my way to school in the morning, I can (<strong>21</strong>) <strong>hear</strong> grasshoppers buzzing.</p>
+<p><em>(Trên đường đến trường vào buổi sáng, tôi có thể nghe thấy tiếng châu chấu vo ve.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`asks`,`allows`,`guides`,`takes`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>asks (v): hỏi</p>
+<p>allows (v): cho phép</p>
+<p>guides (v): hướng dẫn</p>
+<p>takes (v): đưa đến</p>
+<p>My father sometimes (<strong>24</strong>)<strong> takes </strong>me to a beach near our village.</p>
+<p><em>(Cha tôi đôi khi (24) đưa tôi đến một bãi biển gần làng của chúng tôi.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`a lot`,`many`,`a few`,`some`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>a lot (+of + N số nhiều): nhiều</p>
+<p>many (+ N số nhiều đếm được): nhiều</p>
+<p>a few (+ N đếm được số nhiều): chỉ có một ít, một vài thôi nhưng vẫn đủ dùng</p>
+<p>some (+ N đếm được số nhiều): một vài</p>
+<p>Although there aren't (<strong>25</strong>) <strong>many</strong> shops or tall buildings in my village, I think it is an ideal place to live.</p>
+<p><em>(Mặc dù không có (25) nhiều cửa hàng hoặc nhà cao tầng ở làng tôi nhưng tôi nghĩ đó là một nơi lý tưởng để sinh sống.)</em></p><p ><strong>Đoạn văn hoàn chỉnh:</strong></p>
+<p >Hello, my name is Nam. I'm from Vietnam, a small country in Southeast Asia. Today, I (<strong>21</strong>) <strong>am writing </strong>to tell you about my daily life in my lovely village. I love this place (<strong>22</strong>) <strong>because </strong>life here is relaxing. I can enjoy the clean air and beautiful scenery. On my way to school in the morning, I can (<strong>21</strong>) <strong>hear</strong> grasshoppers buzzing. It's very peaceful. There aren't as many cars or traffic jams as in the city. My father sometimes (<strong>24</strong>) <strong>takes </strong>me to a beach near our village. We enjoy swimming in the blue seawater. Many people in my village are fishermen, and we can buy fresh seafood from them. Although there aren't (<strong>25</strong>) <strong>many </strong>shops or tall buildings in my village, I think it is an ideal place to live.</p>
+<p ><strong>Tạm dịch:</strong></p>
+<p ><em>Xin chào, tôi tên là Nam. Tôi đến từ Việt Nam, một quốc gia nhỏ ở Đông Nam Á. Hôm nay, tôi (21) viết thư để kể cho bạn nghe về cuộc sống hàng ngày của tôi ở ngôi làng thân yêu của tôi. Tôi yêu nơi này (22) vì cuộc sống ở đây thật thư giãn. Tôi có thể tận hưởng không khí trong lành và phong cảnh đẹp. Trên đường đến trường vào buổi sáng, tôi có thể nghe thấy tiếng châu chấu vo ve. Nó rất yên bình. Không có nhiều ô tô hay ùn tắc giao thông như trong thành phố. Cha tôi đôi khi (24) đưa tôi đến một bãi biển gần làng của chúng tôi. Chúng tôi thích thú bơi lội trong làn nước biển trong xanh. Nhiều người trong làng tôi làm nghề đánh cá và chúng tôi có thể mua hải sản tươi sống từ họ. Mặc dù không có (25) nhiều cửa hàng hoặc nhà cao tầng ở làng tôi, tôi nghĩ đó là một nơi lý tưởng để sinh sống.</em></p>  `,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Read the text about a typhoon. Choose the best answer (A, B, C or D).</em></strong></p>
+<p >TYPHOON NEWS</p>
+<p >In the afternoon of September 27, a super typhoon named Noru hit the mainland of central Vietnam. Noru, according to the government, would be the strongest storm in Vietnam over the past two decades.</p>
+<p >Although people were aware of the danger, there was severe property damage. The strong winds blew away thousands of house roofs and washed away a large number of facilities. The streets were flooded because of the heavy rains. Over 5,000 big trees fell across the road. The storm also destroyed all crops and fish farming. Rainstorms and landslides in mountainous areas made life difficult for the locals. According to reports, at least 10,000 homes were in trouble. Đà Nẵng and Quang Nam severely suffered from this typhoon. There was no human loss as the police evacuated locals to safe places before the storm swept through. However, flooding after the storm caused the death of two people.</p>
+<p >The typhoon had a huge impact, however, governmental officers and volunteers from different parts of the country worked hard to improve local people's living conditions after the typhoon. Schools, shops, offices and farms quickly reopened.</p>  `,
+        question: `How many households did the storm affect?
+      `,
+        options:[`more than 10,000`,`less than 10,000`,`10,000`,`minimum of 10,000`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Bão đã ảnh hưởng đến bao nhiêu hộ gia đình?</p>
+<p>A. hơn 10.000</p>
+<p>B. dưới 10.000</p>
+<p>C. 10.000</p>
+<p>D. tối thiểu 10.000</p>
+<p><strong>Thông tin:</strong> According to reports, at least 10,000 homes were in trouble.</p>
+<p><em>(Theo báo cáo, ít nhất 10.000 ngôi nhà gặp rắc rối.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What did Typhoon Noru destroy?
+      `,
+        options:[`streets`,`houses`,`farms`,`all of them`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. đường phố</p>
+<p>B. nhà</p>
+<p>C. trang trại</p>
+<p>D. tất cả chúng</p>
+<p><strong>Thông tin:</strong> The strong winds blew away thousands of house roofs and washed away a large number of facilities. The streets were flooded because of the heavy rains. Over 5,000 big trees fell across the road. The storm also destroyed all crops and fish farming.</p>
+<p><em>(Những cơn gió mạnh đã thổi bay hàng nghìn mái nhà và cuốn trôi nhiều công trình. Đường phố ngập lụt vì mưa lớn. Hơn 5.000 cây lớn đổ ngang đường. Cơn bão cũng phá hủy toàn bộ mùa màng và nuôi cá.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Which of the following is the closest in meaning to the word <strong><em>evacuated</em></strong>?
+      `,
+        options:[`brought`,`provided`,`supported`,`built`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Từ nào sau đây có nghĩa gần nhất với từ “evacuated”?</p>
+<p>A. mang</p>
+<p>B. cung cấp</p>
+<p>C. hỗ trợ</p>
+<p>D. được xây dựng</p>
+<p>evacuated = brought: sơ tán</p>
+<p><strong>Thông tin:</strong> There was no human loss as the police evacuated locals to safe places before the storm swept through.</p>
+<p><em>(Không có thiệt hại về người khi cảnh sát sơ tán người dân địa phương đến nơi an toàn trước khi cơn bão quét qua.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `According to the text, which of the following statements is NOT true?
+      `,
+        options:[`There were no deaths in the storm.`,`The typhoon brought heavy rains and powerful winds.`,`The government didn't take any actions to help the local people.`,`The storm caused serious damage to local property.`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. Không có người chết trong cơn bão.</p>
+<p>B. Bão mang theo mưa lớn và gió mạnh.</p>
+<p>C. Chính phủ đã không có hành động nào để giúp đỡ người dân địa phương.</p>
+<p>D. Cơn bão đã gây thiệt hại nghiêm trọng cho tài sản ở địa phương.</p>
+<p><strong>Thông tin:</strong> The typhoon had a huge impact, however, governmental officers and volunteers from different parts of the country worked hard to improve local people's living conditions after the typhoon.</p>
+<p><em>(Cơn bão có tác động rất lớn, tuy nhiên, các quan chức chính phủ và tình nguyện viên từ nhiều nơi trên cả nước đã làm việc chăm chỉ để cải thiện điều kiện sống của người dân địa phương sau cơn bão.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is the text mainly about?
+      `,
+        options:[`The cause of Typhoon Noru`,`The impact of Typhoon Noru`,`The direction of Typhoon Noru`,`The way local people faced Typhoon Noru`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Văn bản chủ yếu nói về điều gì?</p>
+<p>A. Nguyên nhân bão Noru</p>
+<p>B. Tác động của bão Noru</p>
+<p>C. Hướng đi của bão Noru</p>
+<p>D. Cách người dân đối phó với bão Nor</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Rewrite the sentences using the words in brackets.</em></strong></p> `,
+        question: `Quảng Ninh Province has got many famous tourist attractions. (THERE)
+      `,
+        options:[],
+        answer: `There are many famous tourist attractions in Quảng Ninh Province`,
+        rewrite: ``,
+        explanation: ` <p>31.S + have/has + V-ed + many + Danh từ số nhiều = There are + many + Danh từ số nhiều</p>
+<p>Quảng Ninh Province has got many famous tourist attractions.</p>
+<p><em>(Tỉnh Quảng Ninh có nhiều địa điểm du lịch nổi tiếng.)</em></p>
+<p>=&gt; <strong>There are many famous tourist attractions in Quảng Ninh Province.</strong></p>
+<p><em>(Có rất nhiều địa điểm du lịch nổi tiếng ở tỉnh Quảng Ninh.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My father does not like using his smartphone at bedtime. (AVOIDS)
+      `,
+        options:[],
+        answer: `My father avoids using his smartphone at bedtime`,
+        rewrite: ``,
+        explanation: `<p>32. avoid + V-ing: tránh làm gì</p>
+<p>My father does not like using his smartphone at bedtime.</p>
+<p><em>(Bố tôi không thích sử dụng điện thoại thông minh vào giờ đi ngủ.)</em></p>
+<p><strong>=&gt; My father avoids using his smartphone at bedtime.</strong></p>
+<p><em>(Bố tôi tránh sử dụng điện thoại thông minh vào giờ đi ngủ.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Tourists love travelling to the countryside to enjoy the clean air. (BECAUSE)
+      `,
+        options:[],
+        answer: `Tourists love travelling to the countryside because they can enjoy the clean air`,
+        rewrite: ``,
+        explanation: `<p>33.Cấu trúc because: Because+S+V+(O)</p>
+<p>Nó có tác dụng diễn tả mối quan hệ giữa nguyên nhân và kết quả.</p>
+<p>Because dùng để nhấn mạnh vào vế diễn đạt nguyên nhân dẫn để kết quả.</p>
+<p>Tourists love travelling to the countryside to enjoy the clean air.</p>
+<p><em>(Khách du lịch thích đi du lịch về vùng nông thôn để tận hưởng không khí trong lành.)</em></p>
+<p><strong>=&gt; Tourists love travelling to the countryside because they can enjoy the clean air.</strong></p>
+<p><em>(Khách du lịch thích đi du lịch về vùng nông thôn vì họ có thể tận hưởng không khí trong lành.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `You don't join this trip. You will not have the chance to see the sharks. (IF)
+      `,
+        options:[],
+        answer: `If you join this trip, you will have the chance to see the sharks`,
+        rewrite: ``,
+        explanation: `<p>34.Cấu trúc: If + S + V (simple present), S + will/can/shall + V</p>
+<p>You don't join this trip. You will not have the chance to see the sharks.</p>
+<p>(Bạn không tham gia chuyến đi này. Bạn sẽ không có cơ hội nhìn thấy cá mập.)</p>
+<p><strong>=&gt; If you join this trip, you will have the chance to see the sharks.</strong></p>
+<p><em>(Nếu bạn tham gia chuyến đi này, bạn sẽ có cơ hội nhìn thấy cá mập.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` We arrive at the beach. We will collect the rubbish. (AS SOON AS)
+      `,
+        options:[],
+        answer: `As soon as we arrive at the beach, we will collect the rubbish.`,
+        rewrite: ``,
+        explanation: `<p>35. Cấu trúc: S1 + V (tương lai đơn) + as soon as + S2 + V (hiện tại đơn/hiện tại hoàn thành): nói về 2 hành động nối tiếp diễn ra ở tương lai chưa diễn ra ở thời điểm nói.</p>
+<p>We arrive at the beach. We will collect the rubbish.</p>
+<p><em>(Chúng tôi đến bãi biển. Chúng tôi sẽ thu gom rác.)</em></p>
+<p><strong>=&gt; As soon as we arrive at the beach, we will collect the rubbish.</strong></p>
+<p><em>(Ngay khi chúng tôi đến bãi biển, chúng tôi khi thu gom rác.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Listen to an interview about an accident and complete the gaps.</em></strong></p>`,
+        media:`https://img.loigiaihay.com/picture/2023/1210/1702199521301-hk1-ta8-right-de-3.mp3`,
+        question: `Jane heard a loud noise when she was in her _______ .
+      `,
+        options:[],
+        answer: `car`,
+        rewrite: ``,
+        explanation: `<p>36. Jane heard a loud noise when she was in her<strong>car</strong>.</p>
+<p><em>(Jane nghe thấy một tiếng động lớn khi cô ấy đang ở trong xe của mình.)</em></p>
+<p><strong>Thông tin: </strong>Last week, I was driving my car when I heard a loud noise.</p>
+<p><em>(Tuần trước, tôi đang lái xe thì nghe thấy một tiếng động lớn.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` The accident was a(n) _______ .
+      `,
+        options:[],
+        answer: `explosion`,
+        rewrite: ``,
+        explanation: `<p>37. The accident was an<strong>explosion</strong>.</p>
+<p><em>(Vụ tai nạn là một vụ nổ.)</em></p>
+<p><strong>Thông tin: </strong>No, it was an explosion.</p>
+<p><em>(Không, đó là một vụ nổ.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She saw smoke and _______ .
+      `,
+        options:[],
+        answer: `fire`,
+        rewrite: ``,
+        explanation: ` <p>38. She saw smoke and<strong>fire</strong>.</p>
+<p><em>(Cô nhìn thấy khói và lửa.)</em></p>
+<p><strong>Thông tin: </strong>There was smoke and fire everywhere.</p>
+<p><em>(Khắp nơi đều có khói và lửa.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` _______ got injured.
+      `,
+        options:[],
+        answer: `Nobody`,
+        rewrite: ``,
+        explanation: `<p>39. <strong>Nobody</strong>got injured.</p>
+<p><em>(Không ai bị thương cả.)</em></p>
+<p><strong>Thông tin: </strong>Luckily the building wasn't open yet, so nobody got injured.</p>
+<p><em>(May mắn là tòa nhà chưa mở cửa nên không ai bị thương.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She feels relieved now because she was _______ .
+      `,
+        options:[],
+        answer: `safe`,
+        rewrite: ``,
+        explanation: `<p>40. She feels relieved now because she was<strong>safe</strong>.</p>
+<p><em>(Bây giờ cô ấy cảm thấy nhẹ nhõm vì đã được an toàn.)</em></p>
+<p><strong>Thông tin: </strong>I'm okay now. I’m just relieved to be safe.</p>
+<p><em>(Bây giờ tôi ổn rồi. Tôi chỉ cảm thấy nhẹ nhõm vì được an toàn.)</em></p><p><strong>Bài nghe:</strong></p>
+<p><strong><em>Man:</em></strong> Today I'm interviewing Jane Miller. What are you telling us about today, Jane?</p>
+<p><strong><em>Jane:</em></strong> I'm here to talk about my experience. Last week, I was driving my car when I heard a loud noise.</p>
+<p><strong><em>Man:</em></strong> Was it a car crash?</p>
+<p><strong><em>Jane:</em></strong> No, it was an explosion. It happened at a building right next to the road. I saw everything.</p>
+<p><strong><em>Man:</em></strong> That so awful! I bet you were terrified.</p>
+<p><strong><em>Jane:</em></strong> Yes, I was. There was smoke and fire everywhere. It happened really fast.</p>
+<p><strong><em>Man:</em></strong> What happened next?</p>
+<p><strong><em>Jane:</em></strong> When the emergency services arrived, I told them what happened.</p>
+<p><strong><em>Man:</em></strong> Did anyone get injured?</p>
+<p><strong><em>Jane:</em></strong> No. Luckily the building wasn't open yet, so nobody got injured.</p>
+<p><strong><em>Man:</em></strong> How do you feel about the explosion now?</p>
+<p><strong><em>Jane:</em></strong> I'm okay now. I’m just relieved to be safe.</p>
+<p><strong><em>Man:</em></strong> I'm sure you are. Thanks, Jane. After the break, we have…</p>`,
+      },
+    ],
+  },
+  {
+    semester: 2,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p>
+        <strong>
+          <em>
+            Choose the word that has the underlined part pronounced differently
+            from the others
+          </em>
+        </strong>
+      </p>`,
+        question: `
+          `,
+        options:[`w<u>ar</u>d`,`<u>ar</u>t`,`st<u>ar</u>`,`c<u>ar</u>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+        w<u>ar</u>d /wɔːd/
+      </p>
+      <p>
+        <u>ar</u>t /ɑːt/
+      </p>
+      <p>
+        st<u>ar</u>/stɑːr/
+      </p>
+      <p>
+        c<u>ar</u> /kɑːr/
+      </p>
+      <p>
+        Phần được gạch chân ở phương A được phát âm /ɔː/, các phương án còn lại
+        phát âm /a:/.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`go<u>es</u>`,`do<u>es</u>`,`mak<u>es</u>`,`leav<u>es</u>`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cách phát âm đuôi -s, -es:</p>
+      <p>
+        - Đuôi s, es phát âm là /iz/ khi tận cùng là các âm /s/, /z/, /ʃ/, /ʒ/,
+        /tʃ/, /dʒ/.
+      </p>
+      <p>
+        - Đuôi s, es phát âm là /s / khi tận cùng là các âm /p/, /f/, /t/, /k/,
+        /ө/.
+      </p>
+      <p>- Đuôi s, es phát âm là /z/ khi tận cùng là các âm còn lại.</p>
+      <p>
+        go<u>es</u>/ɡəʊz/
+      </p>
+      <p>
+        do<u>es</u> /dʌz/
+      </p>
+      <p>
+        mak<u>es</u> /meɪks/
+      </p>
+      <p>
+        leav<u>es</u>/liːvz/
+      </p>
+      <p>
+        Phần được gạch chân ở phương C được phát âm /s/, các phương án còn lại
+        phát âm /z/.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[` n<u>u</u>mber`,`st<u>u</u>dy`,`inj<u>u</u>re`,`er<u>u</u>pt`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+        n<u>u</u>mber/ˈnʌm.bər/
+      </p>
+      <p>
+        st<u>u</u>dy /ˈstʌd.i/
+      </p>
+      <p>
+        inj<u>u</u>re /ˈɪn.dʒər/
+      </p>
+      <p>
+        er<u>u</u>pt /ɪˈrʌpt/
+      </p>
+      <p>
+        Phần được gạch chân ở phương C được phát âm /ə/, các phương án còn lại
+        phát âm /ʌ/.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+        <strong>
+          <em>
+            Choose the word that has a stress pattern different from the others.
+          </em>
+        </strong>
+      </p>`,
+        question: `
+          `,
+        options:[`scenery`,`apartment`,`museum`,`location`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>scenery /ˈsiː.nər.i/</p>
+      <p>apartment/əˈpɑːt.mənt/</p>
+      <p>museum/mjuːˈziː.əm/</p>
+      <p>location /ləʊˈkeɪ.ʃən/</p>
+      <p>Phương án A có trọng âm 1, các phương án còn lại có trọng âm 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`province`,`cottage`,`statue`,`boutique`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>province /ˈprɒv.ɪns/</p>
+      <p>cottage /ˈkɒt.ɪdʒ/</p>
+      <p>statue /ˈstætʃ.uː/</p>
+      <p>boutique /buːˈtiːk/</p>
+      <p>Phương án D có trọng âm 2, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+        <strong>
+          <em>
+            Choose the best option to complete each of the following questions.
+          </em>
+        </strong>
+      </p>`,
+        question: `I like visiting small villages because they are calm and ____________.
+          `,
+        options:[`noisy`,`polluted`,`peaceful`,`crowded`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>noisy (adj): ồn ào</p>
+      <p>polluted (adj): bị ô nhiễm</p>
+      <p>peaceful (adj): bình yên</p>
+      <p>crowded (adj): đông đúc</p>
+      <p>
+        I like visiting small villages because they are calm and
+        <strong>peaceful</strong>.
+      </p>
+      <p>
+        <em>
+          (Tôi thích đến thăm những ngôi làng nhỏ vì chúng yên tĩnh và thanh
+          bình.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They love ________ in the countryside because there aren’t many
+        skyscrapers.
+          `,
+        options:[`live`,`living`,`to living`,`lives`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>love + V-ing: thích làm gì</p>
+      <p>
+        They love <strong>living</strong> in the countryside because there
+        aren’t many skyscrapers.
+      </p>
+      <p>
+        <em>
+          (Họ thích sống ở nông thôn vì ở đó không có nhiều tòa nhà chọc trời.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>
+        <em>
+          <strong>Mike:</strong>
+        </em>
+        “Why don’t you like living in the city?” –
+        <strong>
+          <em>Tom:</em>
+        </strong>
+        “Because it’s _________ and polluted. There’s heavy traffic.”
+      </p>
+          `,
+        options:[`stressful`,`exciting`,`convenient`,`relaxing`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>stressful (adj): căng thẳng</p>
+      <p>exciting (adj): thú vị</p>
+      <p>convenient (adj): thuận tiện</p>
+      <p>relaxing (adj): thư giãn</p>
+      <p>
+        Mike: “Why don’t you like living in the city?” – Tom: “Because it’s
+        <strong>stressful</strong> and polluted. There’s heavy traffic.”
+      </p>
+      <p>
+        <em>
+          (Mike: “Tại sao bạn không thích sống ở thành phố?” – Tom: “Bởi vì nó
+          căng thẳng và ô nhiễm. Có mật độ giao thông đông đúc.”)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Lana suggests __________ to the countryside to enjoy the clean air.
+          `,
+        options:[`go`,`goes`,`going`,`to go`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>suggest + V-ing: đề xuất làm gì</p>
+      <p>
+        Lana suggests <strong>going</strong> to the countryside to enjoy the
+        clean air.
+      </p>
+      <p>
+        <em>
+          (Lana đề xuất về vùng nông thôn để tận hưởng không khí trong lành.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The parents were __________ because their kids were all safe after the
+        earthquake.
+          `,
+        options:[`safe`,`relieved`,`worried`,`happy`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>safe (adj): an toàn</p>
+      <p>relieved (adj): an tâm, nhẹ nhõm</p>
+      <p>worried (adj): lo lắng</p>
+      <p>happy (adj): vui vẻ</p>
+      <p>
+        The parents were <strong>relieved</strong> because their kids were all
+        safe after the earthquake.
+      </p>
+      <p>
+        <em>
+          (Các bậc cha mẹ cảm thấy nhẹ nhõm vì con cái của họ đều an toàn sau
+          trận động đất.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>
+        <strong>
+          <em>Lina:</em>
+        </strong>
+        “I saw an accident on the freeway on my way to work today.” –
+        <strong>
+          <em>Tim:</em>
+        </strong>
+        “___________”
+      </p>
+          `,
+        options:[`I think so.`,`You won’t believe it.`,`How terrible!`,`What were they doing?`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A.Tôi nghĩ vậy.</p>
+      <p>B. Bạn sẽ không tin điều đó.</p>
+      <p>C. Thật khủng khiếp!</p>
+      <p>D. Họ đang làm gì?</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Water _______ the whole area at 4 p.m. yesterday afternoon.
+          `,
+        options:[`was covering`,`covered`,`cover`,`were covering`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+        Diễn tả một hành động đang xảy ra tại một thời điểm xác định trong quá
+        khứ.<strong></strong>Dấu hiệu “4 p.m yesterday afternoon”.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Ms. Davis ________ in time because of the heavy rain this morning.
+          `,
+        options:[`arrived`,`arrive`,`arrives`,`didn’t arrive`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>
+        “this morning” <em>(sáng nay) </em>là mốc thời gian chỉ hành động đã xảy
+        ra trong quá khứ =&gt; Động từ chia ở thì quá khứ đơn; Đáp án D phù hợp
+        với vào nghĩa của câu.
+      </p>
+      <p>
+        Ms. Davis <strong>didn’t arrive</strong> in time because of the heavy
+        rain this morning.
+      </p>
+      <p>
+        <em>(Cô Davis không đến kịp vì sáng nay trời mưa to.)</em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A famous scientist is going to talk about ways to save __________ on
+        tonight’s programme. These marine animals are in danger.
+          `,
+        options:[`sea turtles`,`gorillas`,`lemurs`,`macaus`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>sea turtles (n): rùa biển</p>
+      <p>gorillas (n): khỉ đột</p>
+      <p>lemurs (n): vượn cáo</p>
+      <p>macaus</p>
+      <p>
+        A famous scientist is going to talk about ways to save
+        <strong>sea turtles</strong> on tonight’s programme. These marine
+        animals are in danger.
+      </p>
+      <p>
+        <em>
+          (Một nhà khoa học nổi tiếng sẽ nói về cách cứu rùa biển trong chương
+          trình tối nay. Những động vật biển này đang gặp nguy hiểm.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>
+        <strong>
+          <em>Tom:</em>
+        </strong>
+        “How are you going to get to the national park?” –
+        <strong>
+          <em>Lucy:</em>
+        </strong>
+        “___________”
+      </p>
+          `,
+        options:[`We are sure about that.`,`We’re going to fly there.`,`Maybe we can
+        volunteer in Mexico.`,`We’re going to feed the turtles.`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A.Chúng tôi chắc chắn về điều đó.</p>
+      <p>B. Chúng ta sẽ bay tới đó.</p>
+      <p>C. Có lẽ chúng ta có thể làm tình nguyện viên ở Mexico.</p>
+      <p>D. Chúng ta sẽ cho rùa ăn.</p>
+      <p>
+        <strong>
+          <em>Tom:</em>
+        </strong>
+        “How are you going to get to the national park?” –
+        <strong>
+          <em>Lucy:</em>
+        </strong>
+        “<strong>We’re going to fly there.</strong>”
+      </p>
+      <p>
+        <em>
+          (Tom: “Bạn đi đến công viên quốc gia bằng cách nào?” – Lucy: “Chúng ta
+          sẽ bay tới đó.”)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+        <strong>
+          <em>Give the correct form of the words in the brackets.</em>
+        </strong>
+      </p>`,
+        question: `I live in a big apartment in the city. It’s a _______ place. (CROWD)
+          `,
+        options:[],
+        answer: `crowded`,
+        rewrite: ``,
+        explanation: `<p>16. I live in a big apartment in the city. It’s a</p> _______
+      <p>place. (CROWD)</p>
+      <p>
+        <strong>Kiến thức: </strong>Từ vựng – Từ loại
+      </p>
+      <p>
+        16.Cấu trúc: S + be + adj =&gt; cần một tính từ chủ động để mô tả tính
+        chất của sự vật
+      </p>
+      <p>crow (n): đám đông</p>
+      <p>crowded (adj): đông đúc</p>
+      <p>
+        I live in a big apartment in the city. It’s a <strong>crowded </strong>
+        place.
+      </p>
+      <p>
+        <em>
+          (Tôi sống trong một căn hộ lớn ở thành phố. Đó là một nơi đông đúc.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `It’s amazing to live in the city because there’s lots of _______ .
+        (ENTERTAIN)
+          `,
+        options:[],
+        answer: `entertainment`,
+        rewrite: ``,
+        explanation: `<p>17. Sau “lots of” cần một danh từ.</p>
+      <p>entertain (v): giải trí</p>
+      <p>entertainment (n): sự giải trí</p>
+      <p>
+        It’s amazing to live in the city because there’s lots of
+        <strong>entertainment</strong>.
+      </p>
+      <p>
+        <em>
+          (Thật tuyệt vời khi sống ở thành phố vì có rất nhiều hoạt động giải
+          trí.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The _______ eruption didn’t kill anyone, but it destroyed many
+        houses. (VOLCANO)
+      `,
+        options:[],
+        answer: `volcanic`,
+        rewrite: ``,
+        explanation: `<p>
+        18. Trước danh từ “eruption” <em>(sự phun trào) </em>cần một tính từ để
+        tạo thành cụm danh từ.
+      </p>
+      <p>volcano (n): núi lửa</p>
+      <p>volcanic (adj): núi lửa</p>
+      <p>
+        The <strong>volcanic</strong> eruption didn’t kill anyone, but it
+        destroyed many houses.
+      </p>
+      <p>
+        <em>
+          (Vụ phun trào núi lửa không giết chết ai nhưng nó đã phá hủy nhiều
+          ngôi nhà.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `A lot of plants and animals will _______ if we don't do something to
+        protect them. (APPEAR)
+      `,
+        options:[],
+        answer: `disappear`,
+        rewrite: ``,
+        explanation: `<p>
+        19. Sau “will” <em>(sẽ) </em>cần một động từ nguyên mẫu.
+      </p>
+      <p>appear (v): xuất hiện</p>
+      <p>disappear (v): biến mất</p>
+      <p>
+        A lot of plants and animals will <strong>disappear</strong> if we don't
+        do something to protect them.
+      </p>
+      <p>
+        <em>
+          (Rất nhiều loài thực vật và động vật sẽ biến mất nếu chúng ta không
+          làm gì đó để bảo vệ chúng.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Sea turtles are under threat from habitat _______ because people are
+        building more homes and hotels along the beaches. (LOSE)
+      `,
+        options:[],
+        answer: `loss`,
+        rewrite: ``,
+        explanation: `<p>20. Sau giới từ “from” cần một cụm danh từ</p>
+      <p>lose (v): mất</p>
+      <p>loss (n): sự mất mát</p>
+      <p>habitat loss (n.phr): mất môi trường sống</p>
+      <p>
+        Sea turtles are under threat from habitat <strong>loss</strong> because
+        people are building more homes and hotels along the beaches.
+      </p>
+      <p>
+        <em>
+          (Rùa biển đang bị đe dọa do mất môi trường sống vì con người đang xây
+          thêm nhà và khách sạn dọc theo bãi biển.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+        <strong>
+          <em>
+            Read the text about Cái Răng Floating Market. Write R (right), W
+            (wrong) or DS (doesn't say).
+          </em>
+        </strong>
+      </p>
+      <p>CÁI RĂNG FLOATINGMARKET</p>
+      <p>
+        Can Tho is the biggest city in Mekong Delta in Vietnam. It is well-known
+        for its famous tourist attractions, especially Cái Răng Floating Market.
+        People sell things such as flowers, seasonal fruit, vegetables, food and
+        many other things on boats. You are surprised by how lively and crowded
+        this market is in the early morning. Although the market is open all
+        day, its busiest time is from dawn until around 9 am.
+      </p>
+      <p>
+        In this market, local people have some ways to sell their products.
+        Hanging their products on an upright pole called cây beo is the most
+        interesting selling way. They display products on the pole, such as
+        carrots, sweet potatoes, mangoes and watermelons. Tourists should try
+        some local dishes here for breakfast. Some of the most popular dishes
+        are com tấm and hủ tiếu,
+      </p>
+      <p>
+        Cái Răng Floating Market is an attractive place for tourists to visit
+        because it is a market and also a place for others to learn more about
+        the Vietnamese water culture in the southern region. Hope that you can
+        see the market once and have some experience.
+      </p>`,
+        question: `Cần Thơ is famous for Cái Răng Floating Market.
+      `,
+        options:[`Right`,`Wrong`,`Doesn't Say`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+        <strong>Thông tin:</strong>It is well-known for its famous tourist
+        attractions, especially Cái Răng Floating Market.
+      </p>
+      <p>
+        <em>
+          (Nơi đây nổi tiếng với những địa điểm du lịch nổi tiếng, đặc biệt là
+          chợ nổi Cái Răng.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `You can buy different things at Cái Răng Floating Market.
+      `,
+        options:[`Right`,`Wrong`,`Doesn't Say`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+        <strong>Thông tin:</strong>People sell things such as flowers, seasonal
+        fruit, vegetables, food and many other things on boats.
+      </p>
+      <p>
+        <em>
+          (Người ta bán những thứ như hoa, trái cây theo mùa, rau, thực phẩm và
+          nhiều thứ khác trên thuyền.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The floating market is closed after 9 a.m.
+      `,
+        options:[`Right`,`Wrong`,`Doesn't Say`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+        <strong>Thông tin:</strong>Although the market is open all day, its
+        busiest time is from dawn until around 9 a.m.
+      </p>
+      <p>
+        <em>
+          (Dù chợ mở cửa cả ngày nhưng nhộn nhịp nhất là từ sáng sớm cho đến
+          khoảng 9 giờ sáng.)
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Tourists need to have breakfast before visiting Cái Răng Floating
+        Market.
+      `,
+        options:[`Right`,`Wrong`,`Doesn't Say`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>=&gt; Thông tin này không được nhắc đến trong bài.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Floating markets are popular in other parts of Vietnam.
+      `,
+        options:[`Right`,`Wrong`,`Doesn't Say`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>25. Floating markets are popular in other parts of Vietnam.</p>
+      <p>
+        <em>(Chợ nổi rất phổ biến ở các vùng khác của Việt Nam.)</em>
+      </p>
+      <p>=&gt; Thông tin này không được nhắc đến trong bài.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+        <strong>
+          <em>
+            Read the text about the sinking of the Titanic. Choose the best
+            option (A, B, C or D).
+          </em>
+        </strong>
+      </p>
+      <p>The Titanic</p>
+      <p>
+        The Titanic was a luxurious cruise ship. Its shipwreck was the most
+        shocking news of the 20th century. The accident was (<strong>1</strong>)
+        _______ April 15, 1912, in the North Atlantic Ocean. While the ship (
+        <strong>2</strong>) _______ in freezing waters, it hit an iceberg. A few
+        hours later, the Titanic was filled with water and started to sink. At
+        that time, there (<strong>3</strong>) _______ more than 2,000 people on
+        board, including both passengers and crew. They all became (
+        <strong>4</strong>) _______ when half of the ship broke and sank. They
+        tried to evacuate the ship; however, the Titanic (<strong>5</strong>)
+        _______ enough lifeboats for all and the water was so cold. As a result,
+        hundreds of people lost their lives. This shipwreck reminds the world to
+        pay more attention to equipping transports with full facilitiesand
+        providing careful training safety instructions.
+      </p>`,
+        question: `The accident was (<strong>1</strong>) _______ April 15, 1912, in the
+        North Atlantic Ocean.
+      `,
+        options:[`in`,`on`,`at`,`during`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Đi với tháng dùng giới từ “on”.</p>
+      <p>
+        The Titanic was a luxurious cruise ship. Its shipwreck was the most
+        shocking news of the 20th century. The accident was (<strong>1</strong>)
+        <strong>on</strong> April 15, 1912, in the North Atlantic Ocean.
+      </p>
+      <p>
+        <span>vào</span> ngày 15 tháng 4 năm 1912, ở Bắc Đại Tây Dương.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `While the ship (<strong>2</strong>) _______ in freezing waters, it hit
+        an iceberg.
+      `,
+        options:[`sailed`,`is sailing`,`was sailing`,`sails`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc: While + S + V quá khứ tiếp diễn, S + V quá khứ đơn</p>
+      <p>
+        While the ship (<strong>2</strong>) <strong>was sailing</strong> in
+        freezing waters, it hit an iceberg.
+      </p>
+      <p>
+        <span>đang di chuyển</span> trong vùng nước đóng băng thì va phải một
+        tảng băng trôi.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `At that time, there (<strong>3</strong>) _______ more than 2,000 people
+        on board, including both passengers and crew.
+      `,
+        options:[`is`,`was`,`are`,`were`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>
+        “at that time” chỉ thời điểm trong quá khứ khi tàu Titanic gặp nạn =&gt;
+        Động từ chia ở thì quá khứ đơn.
+      </p>
+      <p>
+        “more than 2,000 people” chỉ số lượng nhiều =&gt; Động từ chia ở dạng số
+        nhiều.
+      </p>
+      <p>
+        At that time, there (<strong>3</strong>) <strong>were</strong> more than
+        2,000 people on board, including both passengers and crew.
+      </p>
+      <p>
+        Vào thời điểm đó, có hơn 2.000 người trên tàu, bao gồm cả hành khách và
+        phi hành đoàn.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They all became (<strong>4</strong>) _______ when half of the ship broke
+        and sank.
+      `,
+        options:[`relieved`,`terrified`,`pleasant`,`cheerful`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>relieved (adj): nhẹ nhõm</p>
+      <p>terrified (adj): kinh hoàng, kinh hãi</p>
+      <p>pleasant (adj): dễ chịu</p>
+      <p>cheerful (adj): vui vẻ</p>
+      <p>
+        They all became (<strong>4</strong>) <strong>terrified </strong>when
+        half of the ship broke and sank.
+      </p>
+      <p>
+        <span>kinh hãi</span> khi một nửa con tàu bị vỡ và chìm.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`does not have`,`did not have`,`had`,`has`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+        Sự việc Titanic không đủ thuyền cứu sinh đã xảy ra trong quá khứ; Thông
+        tin gồm 2 vế được nối với nhau bằng từ “and”; vế sau “and” động từ chia
+        ở quá khứ đơn =&gt; Động từ chia ở quá khứ đơn.
+      </p>
+      <p>
+        Titanic (<strong>5</strong>) <strong>did not have</strong> enough
+        lifeboats for all and the water was so cold.
+      </p>
+      <p>
+        <span>không có</span> đủ thuyền cứu sinh cho tất cả và nước rất lạnh.
+      </p><p>The Titanic</p>
+      <p>
+        The Titanic was a luxurious cruise ship. Its shipwreck was the most
+        shocking news of the 20th century. The accident was (<strong>1</strong>)
+        <strong>on</strong> April 15, 1912, in the North Atlantic Ocean. While
+        the ship (<strong>2</strong>) <strong>was sailing</strong> in freezing
+        waters, it hit an iceberg. A few hours later, the Titanic was filled
+        with water and started to sink. At that time, there (<strong>3</strong>)
+        <strong>were</strong> more than 2,000 people on board, including both
+        passengers and crew. They all became (<strong>4</strong>)
+        <strong>terrified</strong> when half of the ship broke and sank. They
+        tried to evacuate the ship; however, the Titanic (<strong>5</strong>)
+        <strong>did not have</strong> enough lifeboats for all and the water was
+        so cold. As a result, hundreds of people lost their lives. This
+        shipwreck reminds the world to pay more attention to equipping
+        transports with full facilities and providing careful training safety
+        instructions.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+        <strong>
+          <em>Rewrite the sentences using the words in brackets.</em>
+        </strong>
+      </p>`,
+        question: `My cousin loves going to the countryside on his holiday. (WOULD
+        PREFER)
+      `,
+        options:[],
+        answer: `My cousin would prefer going to the countryside on his holiday.`,
+        rewrite: ``,
+        explanation: `<p>31. would prefer doing sth = love doing sth: thích làm gì</p>     
+      <p>
+        <em>
+          Anh họ của tôi thích đi về vùng nông thôn vào kỳ nghỉ của anh ấy
+          hơn.
+        </em>
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We feel relaxed when we breathe clean air. (MAKES)
+      `,
+        options:[],
+        answer: `Clean air makes us feel relaxed`,
+        rewrite: ``,
+        explanation: `<p>32.make sb do sth: khiến ai làm gì</p>
+      <p>feel + adj: cảm thấy như thế nào</p>     
+      <p>
+        <em>(Chúng ta cảm thấy thư giãn khi hít thở không khí trong lành.)</em>
+      </p>
+      `,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Peter says: "Why don't we listen to the traditional music?"
+        (SUGGESTS)
+      `,
+        options:[],
+        answer: `Peter suggests listening to traditional music`,
+        rewrite: ``,
+        explanation: `<p>33.suggest doing sth: đề nghị làm gì</p>      
+      <p>
+        <em>(Peter nói: "Tại sao chúng ta không nghe nhạc truyền thống?")</em>
+      </p>
+      `,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We don't save the rainforests. Gorillas will have no place to live.
+        (UNLESS)
+      `,
+        options:[],
+        answer: `Unless we save the rainforests, gorillas will have no place to live.`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc: Unless + S + V (simple present), S + will/can/shall + V
+      </p>
+      <p>
+        <em>
+          (Chúng tôi không cứu rừng nhiệt đới. Khỉ đột sẽ không có nơi nào để
+          sống.)
+        </em>
+      </p>
+     `,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The elephant recovers from the illness. People will take it back to
+        the forest. (AFTER)
+      `,
+        options:[],
+        answer: `After the elephant recovers from the illness, people will take it back to the forest.`,
+        rewrite: ``,
+        explanation: `<p>
+        35.Cấu trúc: After + present perfect/simple present + simple future:
+        diễn tả sau khi làm công việc và tiếp tục thực hiện một công việc khác.
+      </p>
+      <p>
+        <em>(Con voi khỏi bệnh. Người ta sẽ đưa nó về rừng.)</em>
+      </p>
+      `,
+      },
+      {
+        id: 41,
+        extra: `<p>
+        <strong>
+          <em>
+            Listen to a boy talking about his uncle's job. Choose the best
+            answer (A, B, C or D).
+          </em>
+        </strong>
+      </p>`,
+      media:`https://img.loigiaihay.com/picture/2023/1211/1702259638612-hk1-ta8-right-de-4.mp3`,
+        question: `Where does the boy's uncle work?
+      `,
+        options:[`at a zoo in the boy's city`,`at a zoo in the countryside`,`at a zoo in
+        another city`,`at a zoo in another country`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Chú của cậu bé làm việc ở đâu?</p>
+      <p>A. tại một sở thú ở thành phố của cậu bé</p>
+      <p>B. tại một sở thú ở vùng nông thôn</p>
+      <p>C. tại một sở thú ở một thành phố khác</p>
+      <p>D. tại một sở thú ở một quốc gia khác</p>
+      <p>
+        <strong>Thông tin: </strong>He has worked at the zoo in a nearby city
+        for over the past 10 years.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What time does the boy's uncle usually finish his work?
+      `,
+        options:[`at 5:00 p.m.`,`at 5:30 p.m.`,`at 7:00 p.m.`,`at 10:00 p.m.`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Chú của cậu bé thường hoàn thành công việc vào lúc mấy giờ?</p>
+      <p>A. lúc 5 giờ chiều</p>
+      <p>B. lúc 5h30 chiều</p>
+      <p>C. lúc 7 giờ tối</p>
+      <p>D. lúc 10 giờ tối</p>
+      <p>
+        <strong>Thông tin:</strong> My uncle usually works from early in the
+        morning at 5:30 until late in the evening at seven.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is the boy's uncle like?
+      `,
+        options:[`He is brave and friendly.`,`He is creative and brave.`,`He is creative and caring.`,`He is caring, brave and careful.`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Chú của cậu bé là người như thế nào?</p>
+      <p>A. Anh ấy dũng cảm và thân thiện.</p>
+      <p>B. Anh ấy sáng tạo và dũng cảm.</p>
+      <p>C. Anh ấy sáng tạo và chu đáo.</p>
+      <p>D. Anh ấy là người chu đáo, dũng cảm và cẩn thận.</p>
+      <p>
+        <strong>Thông tin: </strong>Many people say he's a caring person, and I
+        think so. He loves all the animals in the zoo and he takes care of them
+        carefully. I think he's also a brave person at The Zoo.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does the boy think about his uncle's job?
+      `,
+        options:[`It is an easy job.`,`It is a difficult job.`,`It is a simple job.`,`It
+        is a boring job.`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Cậu bé nghĩ gì về công việc của chú mình?</p>
+      <p>A. Đó là một công việc dễ dàng.</p>
+      <p>B. Đó là một công việc khó khăn.</p>
+      <p>C. Đó là một công việc đơn giản.</p>
+      <p>D. Đó là một công việc nhàm chán.</p>
+      <p>
+        <strong>Thông tin: </strong>Each job has its difficulties and so does
+        his job.
+      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does the boy want to become?
+      `,
+        options:[` a zookeeper`,`a firefighter`,`a landscape gardener`,`an animal doctor`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Cậu bé muốn trở thành gì?</p>
+      <p>A. một người trông coi vườn thú</p>
+      <p>B. một lính cứu hỏa</p>
+      <p>C. một người làm vườn cảnh</p>
+      <p>D. một bác sĩ động vật</p>
+      <p>
+        <strong>Thông tin: </strong>It's not a zookeeper, a firefighter or
+        landscape gardener, but an animal doctor and I'll do my best in my job.
+      </p>`,
+      },
+    ],
+  },
+  {
+    semester: 2,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Choose the word that has the underlined part pronounced
+                    differently from the others.
+                  </em>
+                </strong>
+              </p>`,
+        question: `
+          `,
+        options:[`s<u>ea</u>
+                      `,`
+                        h<u>ea</u>d
+                      `,`
+                        m<u>ea</u>t
+                      `,`
+                        m<u>ea</u>l`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        s<u>ea</u> /siː/
+                      </p>
+                      <p>
+                        h<u>ea</u>d /hed/
+                      </p>
+                      <p>
+                        m<u>ea</u>t /miːt/
+                      </p>
+                      <p>
+                        m<u>ea</u>l /miːl/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương B được phát âm /e/, các
+                        phương án còn lại phát âm /i:/.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`read<u>s</u>
+                      `,`eats`,`
+                        cook<u>s</u>
+                      `,`
+                        hope<u>s</u>`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Cách phát âm đuôi -s, -es:</p>
+                      <p>
+                        - Đuôi s, es phát âm là /iz/ khi tận cùng là các âm /s/,
+                        /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/.
+                      </p>
+                      <p>
+                        - Đuôi s, es phát âm là /s / khi tận cùng là các âm /p/,
+                        /f/, /t/, /k/, /ө/.
+                      </p>
+                      <p>
+                        - Đuôi s, es phát âm là /z/ khi tận cùng là các âm còn
+                        lại.
+                      </p>
+                      <p>
+                        read<u>s</u> /riːdz/
+                      </p>
+                      <p>eats/iːts/</p>
+                      <p>
+                        cook<u>s</u> /kʊks/
+                      </p>
+                      <p>
+                        hope<u>s</u> /həʊps/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương A được phát âm /z/, các
+                        phương án còn lại phát âm /s/.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`p<u>o</u>pular
+                      `,`
+                        c<u>o</u>ttage
+                      `,`
+                        b<u>o</u>ring
+                      `,`
+                        m<u>o</u>dern`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+                        p<u>o</u>pular /ˈpɒp.jə.lər/
+                      </p>
+                      <p>
+                        c<u>o</u>ttage /ˈkɒt.ɪdʒ/
+                      </p>
+                      <p>
+                        b<u>o</u>ring /ˈbɔː.rɪŋ/
+                      </p>
+                      <p>
+                        m<u>o</u>dern /ˈmɒd.ən/
+                      </p>
+                      <p>
+                        Phần được gạch chân ở phương C được phát âm /ɔː/, các
+                        phương án còn lại phát âm /ɒ/.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Choose the word that has a stress pattern different from the
+                    others.
+                  </em>
+                </strong>
+              </p>`,
+        question: `
+          `,
+        options:[`capital`,`pollution`,`skyscraper`,`countryside`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>capital/ˈkæp.ɪ.təl/</p>
+                      <p>pollution /pəˈluː.ʃən/</p>
+                      <p>skyscraper /ˈskaɪˌskreɪ.pər/</p>
+                      <p>countryside /ˈkʌn.tri.saɪd/</p>
+                      <p>
+                        Phương án B có trọng âm 2, các phương án còn lại có
+                        trọng âm 1.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`earthquake`,`landslide`,`collapse`,`shipwreck`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>earthquake /ˈɜːθ.kweɪk/</p>
+                      <p>landslide /ˈlænd.slaɪd/</p>
+                      <p>collapse /kəˈlæps/</p>
+                      <p>shipwreck /ˈʃɪp.rek/</p>
+                      <p>
+                        Phương án C có trọng âm 2, các phương án còn lại có
+                        trọng âm 1.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Choose the best option to complete each of the following
+                    sentences.
+                  </em>
+                </strong>
+              </p>`,
+        question: `<p>
+                    <strong>
+                      <em>Kate:</em>
+                    </strong>
+                    “Big cities are special in some ways. Look! A two-floor bus
+                    ________.” –
+                    <strong>
+                      <em>Peter:</em>
+                    </strong>
+                    “Wow. It looks great.”
+                  </p>
+          `,
+        options:[`comes`,`come`,`is coming`,`are coming`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+                        Thì hiện tại tiếp diễn diễn tả một hành động đang xảy ra
+                        tại thời điểm nói;
+                      </p>
+                      <p>
+                        “Look!” <em>(Nhìn kìa!) </em>là dấu hiệu của thì hiện
+                        tại tiếp diễn =&gt; Động từ chia ở thì hiện tại tiếp
+                        diễn;
+                      </p>
+                      <p>
+                        “A two-floor bus” <em>(Một cái xe buýt 2 tầng) </em>số
+                        ít =&gt; Động từ chia ở dạng số ít
+                      </p>
+                      `,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Lisa lives in a village by the sea. She often ________ a bus
+                    to the city centre to buy food.
+          `,
+        options:[`catches`,`catching`,`catch`,`to catch`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        Thì hiện tại đơn diễn tả hành động diễn ra thường xuyên,
+                        lặp đi lặp lại, thói quen.
+                      </p>
+                      <p>
+                        “often” <em>(thường) </em>là dấu hiệu của thì hiện tại
+                        đơn =&gt; Động từ chia ở thì hiện tại đơn.
+                      </p>
+                      <p>
+                        “She” <em>(Cô ấy) </em>chủ ngữ số ít =&gt; Động từ thêm
+                        s/es.
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I don’t often go to the mall on Sunday because it’s very
+                    ________ and noisy.
+          `,
+        options:[`interesting`,`crowded`,`quiet`,`convenient`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>interesting (adj): thú vị</p>
+                      <p>crowded (adj): đông đúc</p>
+                      <p>quiet (adj): yên tĩnh</p>
+                      <p>convenient (adj): tiện lợi</p>
+                      <p>
+                        I don’t often go to the mall on Sunday because it’s very
+                        <strong>crowded</strong> and noisy.
+                      </p>
+                      <p>
+                        <em>
+                          (Tôi không thường xuyên đến trung tâm mua sắm vào Chủ
+                          Nhật vì ở đó rất đông đúc và ồn ào.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `There aren’t many places for ________ such as theatres, game
+                    centres or theme parks in the countryside.
+          `,
+        options:[`interest`,`scenery`,`traffic`,`entertainment`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>interest (n): tiền lãi</p>
+                      <p>scenery (n): phong cảnh</p>
+                      <p>traffic (n): giao thông</p>
+                      <p>entertainment (n): giải trí</p>
+                      <p>
+                        There aren’t many places for
+                        <strong>entertainment</strong> such as theatres, game
+                        centres or theme parks in the countryside.
+                      </p>
+                      <p>
+                        <em>
+                          (Không có nhiều địa điểm dành cho giải trí như nhà
+                          hát, trung tâm trò chơi hoặc công viên giải trí ở nông
+                          thôn)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My house ______ at midnight yesterday because of the storm.
+          `,
+        options:[`shake`,`shook`,`shakes`,`shaking`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        Thì quá khứ đơn chỉ hành động, sự việc đã xảy ra trong
+                        quá khứ; “yesterday” <em>(hôm qua) </em>là dấu hiệu của
+                        thì quá khứ đơn =&gt; Động từ chia ở thì quá khứ đơn.
+                      </p>
+                      <p>
+                        My house <strong>shook</strong> at midnight yesterday
+                        because of the storm.
+                      </p>
+                      <p>
+                        <em>
+                          (Nhà tôi rung chuyển lúc nửa đêm hôm qua vì cơn bão.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They luckily escaped the ________ in a storm in the North
+                    Sea.
+          `,
+        options:[`shipwreck`,`eruption`,`earthquake`,`flood`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>shipwreck (n): đắm tàu</p>
+                      <p>eruption (n): sự phun trào</p>
+                      <p>earthquake (n): trận động đất</p>
+                      <p>flood (n): lũ lụt</p>
+                      <p>
+                        They luckily escaped the <strong>flood</strong> in a
+                        storm in the North Sea.
+                      </p>
+                      <p>
+                        <em>
+                          (Họ may mắn thoát khỏi cơn lũ trong cơn bão ở Biển
+                          Bắc.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She was seriously ________ in a car crash, and people took
+                    her to the hospital.
+          `,
+        options:[`destroyed`,`injured`,`caused`,`escaped`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>destroyed (v): phá hủy</p>
+                      <p>injured (v): bị thương</p>
+                      <p>caused (v): gây ra</p>
+                      <p>escaped (v): trốn thoát</p>
+                      <p>
+                        She was seriously <strong>injured</strong> in a car
+                        crash, and people took her to the hospital.
+                      </p>
+                      <p>
+                        <em>
+                          (Cô bị thương nặng trong một vụ va chạm ô tô và mọi
+                          người đã đưa cô đến bệnh viện.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The children _______ when the fire started. It was terrible.
+          `,
+        options:[`was sleeping`,`were sleeping`,`are sleeping`,`is sleeping`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        Cấu trúc: S + V quá khứ tiếp diễn + when + S + V quá khứ
+                        đơn: diễn tả một hành động diễn ra thì có một hành động
+                        khác xen vào.
+                      </p>
+                      <p>
+                        The children <strong>were sleeping</strong> when the
+                        fire started. It was terrible.
+                      </p>
+                      <p>
+                        <em>
+                          (Những đứa trẻ đang ngủ khi ngọn lửa bùng phát. Điều
+                          đó thật tồi tệ.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Does your school have ___________ environmental club?
+          `,
+        options:[`a`,`an`,`the`,`-`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        Mạo từ “a/an” được dùng trong câu có tính khái quát hoặc
+                        đề cập đến một chủ thể chưa được đề cập từ trước.
+                      </p>
+                      <p>
+                        “environment” được bắt đầu bằng một nguyên âm nên ta
+                        dùng “an”.
+                      </p>
+                      <p>
+                        Does your school have <strong>an</strong> environmental
+                        club?
+                      </p>
+                      <p>
+                        <em>
+                          (Trường của bạn có câu lạc bộ môi trường không?)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The main cause of pollution and global warming is the
+                    _______ gases from cars and other vehicles.
+          `,
+        options:[`peaceful`,`quiet`,`harmful`,`fresh`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>peaceful (adj): bình yên</p>
+                      <p>quiet (adj): yên tĩnh</p>
+                      <p>harmful (adj): có hại</p>
+                      <p>fresh (adj): tươi</p>
+                      <p>
+                        The main cause of pollution and global warming is the
+                        <strong>harmful</strong> gases from cars and other
+                        vehicles.
+                      </p>
+                      <p>
+                        <em>
+                          (Nguyên nhân chính gây ô nhiễm và nóng lên toàn cầu là
+                          khí độc hại từ ô tô và các phương tiện khác.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+              <strong>
+                <em>Give the correct forms of the words in the brackets.</em>
+              </strong>
+            </p>`,
+        question: `The river is ________, so we can take a safe ride on it. (PEACE)
+          `,
+        options:[],
+        answer: `peaceful`,
+        rewrite: ``,
+        explanation: `<p>
+                    16.Cấu trúc: S + be + adj =&gt; cần một tính từ chủ động để
+                    mô tả tính chất của sự vật
+                  </p>
+                  <p>peace (n): hòa bình</p>
+                  <p>peaceful (adj): yên ả</p>
+                  <p>
+                    The river is <strong>peaceful</strong>, so we can take a
+                    safe ride on it.
+                  </p>
+                  <p>
+                    <em>
+                      (Dòng sông yên bình nên chúng ta có thể đi trên đó một
+                      cách an toàn.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `I like ________
+              up early because I want to enjoy the quiet moments of the
+              mornings. (GET)
+          `,
+        options:[],
+        answer: `getting`,
+        rewrite: ``,
+        explanation: `<p>17.like + V-ing: thích làm gì</p>
+                  <p>
+                    I like <strong>getting</strong> up early because I want to
+                    enjoy the quiet moments of the mornings.
+                  </p>
+                  <p>
+                    <em>
+                      (Tôi thích dậy sớm vì tôi muốn tận hưởng những giây phút
+                      yên tĩnh của buổi sáng.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` We all felt terrified when we heard the ________from the nearby building. (EXPLODE)
+      `,
+        options:[],
+        answer: `explosion`,
+        rewrite: ``,
+        explanation: `<p>18. Sau mạo từ “the” cần một danh từ.</p>
+                  <p>explode (v): nổ tung</p>
+                  <p>explosion (n): vụ nổ</p>
+                  <p>
+                    We all felt terrified when we heard the
+                    <strong>explosion</strong> from the nearby building.
+                  </p>
+                  <p>
+                    <em>
+                      (Tất cả chúng tôi đều cảm thấy kinh hoàng khi nghe thấy
+                      tiếng nổ từ tòa nhà gần đó.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Many ________
+              groups are working hard to help save our planet. (ENVIRONMENT)
+      `,
+        options:[],
+        answer: `environmental`,
+        rewrite: ``,
+        explanation: `<p>
+                    19. Sau “many” là danh từ đếm được; “group” <em>(nhóm) </em>
+                    là một danh từ đếm được =&gt; trước nó cần một tính từ để
+                    tạo thành một cụm danh từ
+                  </p>
+                  <p>environment (n): môi trường</p>
+                  <p>environmental (adj): thuộc về môi trường</p>
+                  <p>
+                    Many environmental groups are working hard to help save our
+                    planet.
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Students can learn ________
+              practices and how to collect data when they visit the aquarium
+              next week. (SAFE)
+      `,
+        options:[],
+        answer: `safety`,
+        rewrite: ``,
+        explanation: `<p>
+                    20. “practice” <em>(luyện tập) </em>là một danh từ =&gt;
+                    Trước nó cần một danh từ để tạo thành một cụm danh từ.
+                  </p>
+                  <p>safe (adj): an toàn</p>
+                  <p>safety (n): sựan toàn</p>
+                  <p>
+                    Students can learn <strong>safety </strong>practices and how
+                    to collect data when they visit the aquarium next week.
+                  </p>
+                  <p>
+                    <em>
+                      (Học sinh có thể học các biện pháp an toàn và cách thu
+                      thập dữ liệu khi đến thăm thủy cung vào tuần tới.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Read Rambabu Gupta's story. Choose the best option (A, B, C
+                    or D).
+                  </em>
+                </strong>
+              </p>
+              <p>
+                My name is Rambabu Gupta. I am from India. Last month, I had a
+                motorbike accident in Thailand when I
+                <strong>(21) ________</strong> this beautiful country. On my
+                first day there, I rode a motorbike to a local market. It was my
+                first time riding a motorbike. The road was narrow and bumpy. I
+                hit a big rock in the middle of the road while I
+                <strong>(22) ________</strong> slowly. I lost control
+                <strong>(23) ________</strong> fell off the motorbike. I felt
+                hurt in my right arm. Luckily, a nice man came and took me to
+                the hospital. The doctor said my arm was
+                <strong>(24) ________</strong> and needed a cast. I had to spend
+                my other days in Thailand with a hanging arm. However, I felt
+                lucky <strong>(25) ________</strong> I didn't have to take surgery.</p>`,
+        question: `
+      `,
+        options:[`visit`,`visited`,`to visit`,`visiting`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        “last month” <em>(tháng trước) </em>là dấu hiệu chỉ thì
+                        quá khứ đơn =&gt; Động từ chia ở thì quá khứ.
+                      </p>
+                      <p>
+                        Last month, I had a motorbike accident in Thailand when
+                        I <strong>(21) visited</strong> this beautiful country.
+                      </p>
+                      <p>
+                        <em>
+                          (Tháng trước, tôi đã gặp tai nạn xe máy ở Thái Lan khi
+                          tôi (21) đến thăm đất nước xinh đẹp này.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`ride`,`rode`,`riding`,`was riding`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>
+                        Cấu trúc: S + V quá khứ tiếp diễn + while + S + V quá
+                        khứ đơn: diễn tả một hành động diễn ra thì có một hành
+                        động khác xen vào.
+                      </p>
+                      <p>
+                        I hit a big rock in the middle of the road while I
+                        <strong>(22) was riding </strong>slowly.
+                      </p>
+                      <p>
+                        <em>
+                          (Tôi va phải một tảng đá lớn ở giữa đường trong khi
+                          tôi (22) đang đi xe chậm.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`but`,`or`,`and`,`for`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>but: nhưng</p>
+                      <p>or: hoặc</p>
+                      <p>and: và</p>
+                      <p>for: cho</p>
+                      <p>
+                        I lost control <strong>(23) and</strong> fell off the
+                        motorbike.
+                      </p>
+                      <p>
+                        <em>(Tôi bị mất lái (23) và ngã khỏi xe máy.)</em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`broken`,`break`,`broke`,`breaking`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        Cấu trúc câu bị động ở thì quá khứ đơn: S + was/ were +
+                        V3 (+ by Sb/O)
+                      </p>
+                      <p>
+                        The doctor said my arm was <strong>(24) broken</strong>
+                        and needed a cast.
+                      </p>
+                      <p>
+                        <em>
+                          (Bác sĩ nói cánh tay của tôi (24) bị gãy và cần bó
+                          bột.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`so`,`but`,`and`,`because`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>so: vì vậy</p>
+                      <p>but: nhưng</p>
+                      <p>and: và</p>
+                      <p>because: bởi vì</p>
+                      <p>
+                        However, I felt lucky <strong>(25) because</strong> I
+                        didn't have to take surgery.
+                      </p>
+                      <p>
+                        <em>
+                          (Tuy nhiên, tôi cảm thấy may mắn (25) vì không phải
+                          phẫu thuật.)
+                        </em>
+                      </p><p>
+                        <em>
+                          Tên tôi là Rambabu Gupta. Tôi đến từ Ấn Độ. Tháng
+                          trước, tôi đã gặp tai nạn xe máy ở Thái Lan khi tôi
+                          (21) đến thăm đất nước xinh đẹp này. Vào ngày đầu tiên
+                          ở đó, tôi đi xe máy đến một khu chợ địa phương. Đó là
+                          lần đầu tiên tôi đi xe máy. Con đường thật hẹp và gập
+                          ghềnh. Tôi va phải một tảng đá lớn ở giữa đường trong
+                          khi tôi (22) đang đi xe chậm. Tôi bị mất lái (23) và
+                          ngã khỏi xe máy. Tôi cảm thấy đau ở cánh tay phải. May
+                          mắn thay, một người đàn ông tốt bụng đã đến và đưa tôi
+                          đến bệnh viện. Bác sĩ nói cánh tay của tôi (24) bị gãy
+                          và cần bó bột. Tôi đã phải trải qua những ngày còn lại
+                          ở Thái Lan với cánh tay bị treo cổ. Tuy nhiên, tôi cảm
+                          thấy may mắn (25) vì không phải phẫu thuật.
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p>
+                <strong>
+                  <em>
+                    Read the text about pollution. Choose the best option (A, B,
+                    C or D).
+                  </em>
+                </strong>
+              </p>
+              <p>POLLUTION!</p>
+              <p>
+                Pollution occurs when there are many pollutants or dangerous
+                substances in the ecosystem. Pollutants can be from nature, such
+                as gases from volcanic eruptions or forest fires. They may also
+                be the result of human activities, such as garbage or waste from
+                factories. Pollutants have a negative impact on the quality of
+                the air, water and land.
+              </p>
+              <p>
+                There are many human-made products that contribute to pollution.
+                Vehicles like cars, trucks and planes release harmful gases and
+                cause air pollution. The garbage from homes and factories
+                pollutes the land and water. In addition to poisoning
+                vegetation,
+                <strong>
+                  <u>pesticides</u>
+                </strong>
+                also harm animals by flowing into lakes and rivers. When these
+                resources are polluted, all living things in them, from tiny
+                creatures to enormous blue whales, are in danger.
+              </p>
+              <p>
+                Although many people think the countryside is less polluted than
+                the city, pollution can be everywhere.
+                <strong>
+                  <u>It</u>
+                </strong>
+                can spread from urban to remote areas. For example, people can
+                even find chemicals and pesticides in the Antarctic
+              </p>
+              <p>
+                ice sheets. According to the UN Environment Agency, plastic
+                pollution is everywhere and even in
+                <strong>
+                  <u>isolated</u>
+                </strong>
+                locations, such as the Mariana Trench, the deepest part of the
+                Pacific Ocean.
+              </p>`,
+        question: `According to paragraph 1, which are not pollutants?
+      `,
+        options:[`gases from volcanic eruptions`,`gases from forest fires`,`noises from factories`,`production wastes`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+                        Theo đoạn 1, cái nào không phải là chất gây ô nhiễm?
+                      </p>
+                      <p>A. khí từ các vụ phun trào núi lửa</p>
+                      <p>B. khí từ cháy rừng</p>
+                      <p>C. tiếng ồn từ nhà máy</p>
+                      <p>D. chất thải sản xuất</p>
+                      <p>
+                        <strong>Thông tin: </strong>Pollutants can be from
+                        nature, such as gases from volcanic eruptions or forest
+                        fires. They may also be the result of human activities,
+                        such as garbage or waste from factories.
+                      </p>
+                      <p>
+                        <em>
+                          (Các chất ô nhiễm có thể đến từ thiên nhiên, chẳng hạn
+                          như khí từ các vụ phun trào núi lửa hoặc cháy rừng.
+                          Chúng cũng có thể là kết quả của các hoạt động của con
+                          người như rác thải hoặc chất thải từ các nhà máy.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>
+                    What does the word
+                    <strong>
+                      <em>pesticides</em>
+                    </strong>
+                    in paragraph 2 refer to?
+                  </p>
+      `,
+        options:[`vehicles`,`chemical substances`,`gases`,`creatures`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Từ “pesticides” ở đoạn 2 đề cập đến điều gì?</p>
+                      <p>A. phương tiện</p>
+                      <p>B. chất hóa học</p>
+                      <p>C. khí</p>
+                      <p>D. sinh vật</p>
+                      <p>
+                        <strong>Thông tin:</strong> In addition to poisoning
+                        vegetation, pesticides also harm animals by flowing into
+                        lakes and rivers.
+                      </p>
+                      <p>
+                        <em>
+                          (Ngoài việc đầu độc thực vật, thuốc trừ sâu còn gây
+                          hại cho động vật bằng cách chảy ra sông hồ.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>
+                    What does the word
+                    <strong>
+                      <em>It</em>
+                    </strong>
+                    in paragraph 3 refer to?
+                  </p>
+      `,
+        options:[`The countryside`,`The city`,`The pollution`,`The pollutant`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>
+                        Từ <em>It</em> ở đoạn 3 ám chỉ điều gì?
+                      </p>
+                      <p>A. Nông thôn</p>
+                      <p>B. Thành phố</p>
+                      <p>C. Ô nhiễm</p>
+                      <p>D. Chất gây ô nhiễm</p>
+                      <p>
+                        <strong>Thông tin:</strong> Although many people think
+                        the countryside is less polluted than the city,
+                        pollution can be everywhere. It can spread from urban to
+                        remote areas.
+                      </p>
+                      <p>
+                        <em>
+                          (Mặc dù nhiều người cho rằng nông thôn ít ô nhiễm hơn
+                          thành phố nhưng ô nhiễm có thể xảy ra ở khắp mọi nơi.
+                          Nó có thể lây lan từ thành thị đến vùng sâu vùng xa.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>
+                    Which word has the closest meaning to the word
+                    <strong>
+                      <em>isolated</em>
+                    </strong>
+                    ?
+                  </p>
+      `,
+        options:[`remote`,`close`,`lonely`,`near`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Từ nào có nghĩa gần nhất với từ “isolated”?</p>
+                      <p>A. xa</p>
+                      <p>B. đóng</p>
+                      <p>C. cô đơn</p>
+                      <p>D. gần</p>
+                      <p>
+                        <strong>Thông tin:</strong> According to the UN
+                        Environment Agency, plastic pollution is everywhere and
+                        even in isolated locations, such as the Mariana Trench,
+                        the deepest part of the Pacific Ocean.
+                      </p>
+                      <p>
+                        <em>
+                          (Theo Cơ quan Môi trường Liên Hợp Quốc, ô nhiễm nhựa
+                          xảy ra ở khắp mọi nơi và thậm chí ở những địa điểm
+                          biệt lập, chẳng hạn như rãnh Mariana, phần sâu nhất
+                          của Thái Bình Dương.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Which is NOT TRUE according to the text?
+      `,
+        options:[`Only gases from vehicles cause pollution.`,`
+                        Pollution has a negative impact on living conditions.
+                      `,`Human activities contribute to pollution.`,`
+                        Pollution occurs in both the city and the countryside.`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Điều nào KHÔNG ĐÚNG theo đoạn văn?</p>
+                      <p>A. Chỉ có khí thải từ xe cộ mới gây ô nhiễm.</p>
+                      <p>B. Ô nhiễm có tác động tiêu cực đến điều kiện sống.</p>
+                      <p>C. Hoạt động của con người góp phần gây ô nhiễm.</p>
+                      <p>D. Ô nhiễm xảy ra ở cả thành phố và nông thôn.</p>
+                      <p>
+                        <strong>Thông tin:</strong> There are many human-made
+                        products that contribute to pollution. Vehicles like
+                        cars, trucks and planes release harmful gases and cause
+                        air pollution. The garbage from homes and factories
+                        pollutes the land and water. In addition to poisoning
+                        vegetation, pesticides also harm animals by flowing into
+                        lakes and rivers.
+                      </p>
+                      <p>
+                        <em>
+                          (Có rất nhiều sản phẩm do con người tạo ra góp phần
+                          gây ô nhiễm. Các phương tiện như ô tô, xe tải và máy
+                          bay thải ra khí độc hại và gây ô nhiễm không khí. Rác
+                          thải từ các hộ gia đình và nhà máy gây ô nhiễm đất và
+                          nước. Ngoài việc đầu độc thực vật, thuốc trừ sâu còn
+                          gây hại cho động vật bằng cách chảy ra sông hồ.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: `<strong>
+                <em>
+                  Combine the sentences using the words in brackets. Add a comma
+                  where necessary.
+                </em>
+              </strong>
+            </p>`,
+        question: `We will visit the national park. We will feed the gorillas.
+                (WHEN)
+      `,
+        options:[],
+        answer: ` When we visit the national park, we will feed the gorillas.`,
+        rewrite: ``,
+        explanation: `<p>
+                    31.Cấu trúc: When + present simple, S + will + be + Verb –
+                    ing: diễn tả 2 hành động đang diễn ra song song trong tương
+                    lai.
+                  </p>                  
+                  <p>
+                    <em>
+                      (Chúng tôi sẽ đến thăm công viên quốc gia. Chúng ta sẽ cho
+                      khỉ đột ăn.)
+                    </em>
+                  </p>
+                  `,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The students will do some research on sea animals. Then they
+                will visit the aquarium next week. (BEFORE)
+      `,
+        options:[],
+        answer: `Before the students visit the aquarium next week, they will do some research on sea animals.`,
+        rewrite: ``,
+        explanation: `<p>
+                    32. Cấu trúc before ở tương lai: Before + hiện tại đơn,
+                    tương lai đơn: nói về một hành động, sự kiện sẽ xảy ra trước
+                    một hành động sự kiện nào đó.
+                  </p>                  
+                  <p>
+                    <em>
+                      (Học sinh sẽ thực hiện một số nghiên cứu về động vật biển.
+                      Sau đó họ sẽ đến thăm thủy cung vào tuần tới.)
+                    </em>
+                  </p>
+                  `,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `We don't prevent illegal fishing. The population of blue
+                whales will continue to drop. (IF)
+      `,
+        options:[],
+        answer: `If we don't prevent illegal fishing, the population of blue whales will continue to drop.`,
+        rewrite: ``,
+        explanation: `<p>
+                    33.Cấu trúc: If + S + V (simple present), S + will/can/shall
+                    + V
+                  </p>
+                  <p>
+                    <em>
+                      (Chúng tôi không ngăn chặn việc đánh bắt trái phép. Số
+                      lượng cá voi xanh sẽ tiếp tục giảm.)
+                    </em>
+                  </p>
+                  `,
+      },
+      {
+        id: 41,
+        extra: `<p>
+              <strong>
+                <em>Make complete sentences using the prompts.</em>
+              </strong>
+            </p>`,
+        question: `My mum/ take/ train/ city centre/ at the moment.
+      `,
+        options:[],
+        answer: `My mum is taking a train to the city centre at the moment.`,
+        rewrite: ``,
+        explanation: `<p>
+                    34.“at the moment” (lúc này) dấu hiệu thì hiện tại tiếp
+                    diễn;
+                  </p>
+                  <p>Cấu trúc thì hiện tại tiếp diễn : S + am/is/are + V-ing</p>
+                  <p>take a train to somewhere : đi tàu đến đâu</p>
+                  <p>
+                    <em>
+                      (Mẹ tôi đang đi tàu đến trung tâm thành phố vào lúc này.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` David/ feel/ relieved/ because/ no one/ get injured/ during/
+                disaster/ last week.
+      `,
+        options:[],
+        answer: `David felt relieved because no one got injured during the disaster last week.`,
+        rewrite: ``,
+        explanation: `<p>
+                    35.last week: tuần trước dấu hiệu thì quá khứ đơn =&gt; Động
+                    từ chia ở thì quá khứ.
+                  </p>
+                  <p>
+                    <em>
+                      (Mẹ tôi đang đi tàu đến trung tâm thành phố vào lúc này.)
+                    </em>
+                  </p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><b>Ben and Sarah are talking about living in the city. Write R (right) or W (wrong) </b></p>`,
+        media:`https://img.loigiaihay.com/picture/2023/1211/1702262593273-hk1-ta8-right-de-5.mp3`,
+        question: `Sarah needs to interview more people for her survey
+      `,
+        options:[`Right`,`Wrong`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `Thông tin: Well, I have to do a survey on the good and bad things about living in the city but I haven't interviewed enough people.
+
+(À, tôi phải làm một cuộc khảo sát về những điều tốt và xấu khi sống ở thành phố nhưng tôi chưa phỏng vấn đủ người.)`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Sarah must finish her survey report next week.
+      `,
+        options:[`Right`,`Wrong`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        <em>
+                          (Sarah phải hoàn thành báo cáo khảo sát của mình vào
+                          tuần tới.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin:</strong> Next week for the interviews
+                        and another week for the survey report.
+                      </p>
+                      <p>
+                        <em>
+                          (Tuần tới sẽ có cuộc phỏng vấn và tuần nữa sẽ có báo
+                          cáo khảo sát.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Ben likes the city because there are lots of shops and
+                    malls.
+      `,
+      options:[`Right`,`Wrong`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>
+                        <em>
+                          (Ben thích thành phố vì có rất nhiều cửa hàng và khu
+                          mua sắm.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin:</strong> Hmm, what I like most about
+                        cities is that there are many shops and malls.
+                      </p>
+                      <p>
+                        <em>
+                          (Hmm, điều tôi thích nhất ở thành phố là có rất nhiều
+                          cửa hàng và khu mua sắm.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Ben thinks life in the city is boring.
+      `,
+        options:[`Right`,`Wrong`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        <em>
+                          (Ben nghĩ cuộc sống ở thành phố thật nhàm chán.)
+                        </em>
+                      </p>
+                      <p>
+                        <strong>Thông tin:</strong> You know, the city has lots
+                        of things for entertainment, too. It's never boring.
+                      </p>
+                      <p>
+                        <em>
+                          (Bạn biết đấy, thành phố cũng có rất nhiều thứ để giải
+                          trí. Nó không bao giờ nhàm chán.)
+                        </em>
+                      </p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Ben enjoys the busy traffic in the city.
+      `,
+       options:[`Right`,`Wrong`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>
+                        <em>(Ben thích giao thông đông đúc ở thành phố.)</em>
+                      </p>
+                      <p>
+                        <strong>Thông tin:</strong> Life is very busy in the
+                        city. There's heavy traffic. It's so stressful.
+                      </p>
+                      <p>
+                        <em>
+                          (Cuộc sống ở thành phố rất bận rộn. Có mật độ giao
+                          thông đông đúc. Thật là căng thẳng.)
+                        </em>
+                      </p> <p>
+                  <strong>
+                    <em>Ben:</em>
+                  </strong>
+                  You look worried. What's wrong, Sarah?
+                </p>
+                <p>
+                  <strong>
+                    <em>Sarah:</em>
+                  </strong>
+                  Well, I have to do a survey on the good and bad things about
+                  living in the city but I haven't interviewed enough people.
+                </p>
+                <p>
+                  <strong>
+                    <em>Ben:</em>
+                  </strong>
+                  When do you have to complete it?
+                </p>
+                <p>
+                  <strong>
+                    <em>Sarah:</em>
+                  </strong>
+                  Next week for the interviews and another week for the survey
+                  report. Can you do me a favor then? Answer the survey
+                  questions.
+                </p>
+                <p>
+                  <strong>
+                    <em>Ben:</em>
+                  </strong>
+                  No problem! Just ask.
+                </p>
+                <p>
+                  <strong>
+                    <em>Sarah:</em>
+                  </strong>
+                  Great! The first question. What do you like most about life in
+                  the city then?
+                </p>
+                <p>
+                  <strong>
+                    <em>Ben:</em>
+                  </strong>
+                  Hmm, what I like most about cities is that there are many
+                  shops and malls. It's very convenient.
+                </p>
+                <p>
+                  <strong>
+                    <em>Sarah:</em>
+                  </strong>
+                  Anything else?
+                </p>
+                <p>
+                  <strong>
+                    <em>Ben:</em>
+                  </strong>
+                  You know, the city has lots of things for entertainment, too.
+                  It's never boring.
+                </p>
+                <p>
+                  <strong>
+                    <em>Sarah:</em>
+                  </strong>
+                  How about the negative sides?
+                </p>
+                <p>
+                  <strong>
+                    <em>Ben:</em>
+                  </strong>
+                  Let me see… Life is very busy in the city. There's heavy
+                  traffic. It's so stressful.
+                </p>
+                <p>
+                  <strong>
+                    <em>Sarah:</em>
+                  </strong>
+                  You're right, Ben. Thanks a lot for helping me Ben.
+                </p>
+                <p>
+                  <strong>
+                    <em>Ben:</em>
+                  </strong>
+                  You're welcome.
+                </p>`,
+      },
+    ],
+  },
+  {
+    semester: 2,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><strong>Choose the word whose underlined part is pronounced differently.</strong></p>`,
+        question: `
+          `,
+        options:[`p<u>oo</u>r`,`c<u>o</u>ld`,`p<u>ou</u>r`,`<u>aw</u>ful`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. p<u>oo</u>r /pɔːr/</p>
+<p>B. c<u>o</u>ld /kəʊld/</p>
+<p>C. p<u>ou</u>r /pɔːr/</p>
+<p>D. <u>aw</u>ful /ˈɔː.fəl/<strong><em></em></strong></p>
+<p>Phần được gạch chân ở phương án B được phát âm /əʊ/, các phương án còn lại phát âm /ɔː/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+         options:[`class<u>i</u>cal`,`child<u>i</u>sh`,`ep<u>i</u>sode`,`m<u>i</u>me`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. class<u>i</u>cal /ˈklæs.ɪ.kəl/</p>
+<p>B. child<u>i</u>sh /ˈtʃaɪl.dɪʃ/ </p>
+<p>C. ep<u>i</u>sode /ˈep.ɪ.səʊd/</p>
+<p>D. m<u>i</u>me /maɪm/<strong><em></em></strong></p>
+<p>Phần được gạch chân ở phương án D được phát âm /aɪ/, các phương án còn lại phát âm /ɪ/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+         options:[`toge<u>th</u>er`,`o<u>th</u>er`,`<u>th</u>eir`,`<u>th</u>inking`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. toge<u>th</u>er /təˈɡeð.ər/</p>
+<p>B. o<u>th</u>er /ˈʌð.ər/</p>
+<p>C. <u>th</u>eir /ðeər/</p>
+<p>D. <u>th</u>inking /ˈθɪŋ.kɪŋ/<strong><em></em></strong></p>
+<p>Phần được gạch chân ở phương án D được phát âm /θ/, các phương án còn lại phát âm /ð/.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Choose the word that has a different stressed syllable from the rest.</strong></p>`,
+        question: `
+          `,
+         options:[`sunset`,`degree`,`sunshine`,`thunder`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. sunset /ˈsʌn.set/</p>
+<p>B. degree /dɪˈɡriː/</p>
+<p>C. sunshine /ˈsʌn.ʃaɪn/</p>
+<p>D. thunder /ˈθʌn.dər/</p>
+<p>Phương án B có trọng âm 2, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+         options:[`romantic`,`producer`,`episode`,`dramatic`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. romantic /rəʊˈmæn.tɪk/</p>
+<p>B. producer /prəˈdʒuː.sər/</p>
+<p>C. episode /ˈep.ɪ.səʊd/</p>
+<p>D. dramatic /drəˈmæt.ɪk/<strong><em></em></strong></p>
+<p>Phương án C có trọng âm 1, các phương án còn lại có trọng âm 2.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Choose the best option (A, B, C or D) to complete each of the following sentences.</strong></p>`,
+        question: `She doesn’t understand why he likes _________ games on his phone all the time. She thinks it’s a waste of time and battery. 
+          `,
+         options:[` playing`,`play`,`plays`,`to playing`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>“like + V-ing”: thích làm gì.</p>
+<p>A. playing (V-ing)</p>
+<p>B. play (V-inf)</p>
+<p>C. plays (V-s/es)</p>
+<p>D. to playing (to V-ing)</p>
+<p>She doesn’t understand why he likes <strong>playing </strong>games on his phone all the time. She thinks it’s a waste of time and battery.</p>
+<p><em>(Cô ấy không hiểu tại sao anh ấy lúc nào cũng thích chơi game trên điện thoại. Cô cho rằng việc đó thật lãng phí thời gian và pin.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They often share photos and videos on social media. They use a _______ to take pictures of themselves.
+          `,
+         options:[`remote control`,`earphones`,`selfie stick`,`printer`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. remote control (n): điều khiển từ xa</p>
+<p>B. earphones (n): tai nghe</p>
+<p>C. selfie stick (n): gậy chụp ảnh tự sướng</p>
+<p>D. printer (n): máy in</p>
+<p>They often share photos and videos on social media. They use a <strong>selfie stick</strong> to take pictures of themselves.</p>
+<p><em>(Họ thường chia sẻ ảnh và video trên mạng xã hội. Họ sử dụng gậy selfie để chụp ảnh mình.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Farmers faced difficulties during the __________ as their crops couldn’t grow without sufficient rainfall.
+          `,
+         options:[`drought`,`thunder`,`flood`,`earthquake`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. drought (n): hạn hán</p>
+<p>B. thunder (n): sấm sét</p>
+<p>C. flood (n): lũ lụt</p>
+<p>D. earthquake (n): động đất</p>
+<p>Farmers faced difficulties during the <strong>drought </strong>as their crops couldn’t grow without sufficient rainfall.</p>
+<p><em>(Nông dân gặp khó khăn trong thời kỳ hạn hán vì cây trồng của họ không thể phát triển nếu không có đủ lượng mưa.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `While we were hiking, we __________ across a cave hidden in the mountains.
+          `,
+         options:[`come`,`came`,`are coming`,`have come`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Câu diễn tả một hành động đang xảy ra trong quá khứ (were hiking) thì một hành động khác xen vào (came across a cave) =&gt; hành động xen vào động từ chia quá khứ đơn.</p>
+<p>A. come (hiện tại đơn)</p>
+<p>B. came (quá khứ đơn)</p>
+<p>C. are coming (hiện tại tiếp diễn)</p>
+<p>D. have come (hiện tại hoàn thành)</p>
+<p>While we were hiking, we <strong>came</strong> across a cave hidden in the mountains.</p>
+<p><em>(Khi đang đi bộ đường dài, chúng tôi tình cờ gặp một hang động ẩn sâu trong núi.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `My favourite __________ film is “Home Alone”. It’s so funny to watch, especially when I’m alone.
+          `,
+         options:[`thriller`,`romantic`,`Sci-fi`,`comedy`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. thriller (n): phim kinh dị</p>
+<p>B. romantic (n): phim tình cảm</p>
+<p>C. Sci-fi (n): khoa học viễn tưởng</p>
+<p>D. comedy (n): hài kịch</p>
+<p>My favourite <strong>comedy</strong> film is “Home Alone”. It’s so funny to watch, especially when I’m alone.</p>
+<p><em>(Bộ phim hài yêu thích của tôi là “Ở nhà một mình”. Thật là buồn cười khi xem, đặc biệt là khi tôi ở một mình.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The __________ of the series “Animals in the Wild” have to do research about wildlife for months.
+          `,
+         options:[`performances`,`performers`,`producers`,`products`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. performances (n): màn biểu diễn</p>
+<p>B. performers (n): người biểu diễn</p>
+<p>C. producers (n): nhà sản xuất</p>
+<p>D. products (n): sản phẩm</p>
+<p>The <strong>producers </strong>of the series “Animals in the Wild” have to do research about wildlife for months.</p>
+<p><em>(Các nhà sản xuất loạt phim “Động vật trong hoang dã” phải nghiên cứu về động vật hoang dã trong nhiều tháng.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `“How __________ sugar would you like for your coffee?” – “Just a little bit, thanks.”
+          `,
+         options:[`much`,`many`,`more`,`∅`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Câu hỏi với “How much/many…?” dùng để hỏi về số lượng. Danh từ “sugar” là danh từ không đếm được =&gt; Dùng “how much”.</p>
+<p>“How <strong>much </strong>sugar would you like for your coffee?” – “Just a little bit, thanks.”</p>
+<p><em>(“Bạn muốn bao nhiêu đường cho cà phê của mình?” – “Một chút thôi, cảm ơn.”)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` __________ is a necessary skill for students to achieve good academic results.
+          `,
+         options:[`Abstract thinking`,`Think abstractly`,`Goal setting`,`Set goals`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. Abstract thinking (n): Tư duy trừu tượng</p>
+<p>B. Think abstractly (v): Suy nghĩ trừu tượng</p>
+<p>C. Goal setting (n): đặt mục tiêu</p>
+<p>D. Set goals (v): đặt mục tiêu</p>
+<p>Vị trí còn trống cần điền một danh động từ làm chủ ngữ cho câu.</p>
+<p><strong>Goal setting</strong> is a necessary skill for students to achieve good academic results.</p>
+<p><em>(Đặt mục tiêu là kỹ năng cần thiết để học sinh đạt được kết quả học tập tốt.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Phil often __________ and cries, and nothing can cheer him up.
+          `,
+         options:[`gives up `,`give up`,`break down `,`breaks down`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. gives up (v): từ bỏ</p>
+<p>B. give up (v): từ bỏ</p>
+<p>C. break down (v): suy sụp </p>
+<p>D. breaks down (v): suy sụp</p>
+<p>Chủ ngữ “Phil” là ngôi ba số ít =&gt; cần chia động từ.</p>
+<p>Phil often <strong>breaks down</strong> and cries, and nothing can cheer him up.<strong><em></em></strong></p>
+<p><em>(Phil thường suy sụp và khóc, và không gì có thể làm anh ấy vui lên.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Many physical changes such as voice changes occur during <strong>__________</strong>.
+          `,
+         options:[`childhood`,`adolescence `,`adulthood`,`old age`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. childhood (n): tuổi thơ</p>
+<p>B. adolescence (n): tuổi thiếu niên</p>
+<p>C. adulthood (n): tuổi trưởng thành</p>
+<p>D. old age (n): tuổi già</p>
+<p>Many physical changes such as voice changes occur during <strong>adolescence.</strong></p>
+<p><em>(Nhiều thay đổi về thể chất như thay đổi giọng nói xảy ra ở tuổi thiếu niên.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Write the correct forms of the words in brackets.</strong></p>`,
+        question: `She likes listening to music on her ________ when she is doing her homework. (SPEAK)
+          `,
+         options:[],
+        answer: `speaker`,
+        rewrite: ``,
+        explanation: `<p>Phía trước có đại từ sở hữu “her”=&gt; vị trí còn trống cần điền một danh từ.</p>
+<p>speak (v): nói</p>
+<p>speaker (n): loa.</p>
+<p>She likes listening to music on her <strong>speaker </strong>when she is doing her homework.</p>
+<p><em>(Cô ấy thích nghe nhạc trên loa khi làm bài tập về nhà.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The sun slowly went down below the horizon, creating a beautiful __________. (SUN)
+          `,
+         options:[],
+        answer: `sunset`,
+        rewrite: ``,
+        explanation: `<p>Vị trí còn trống cần điền một danh từ đứng sau tính từ “beautiful”.</p>
+<p>sun (n): mặt trời</p>
+<p>sunset (n): hoàng hôn</p>
+<p>The sun slowly went down below the horizon, creating a beautiful <strong>sunset.</strong></p>
+<p><em>(Mặt trời từ từ lặn xuống phía dưới đường chân trời tạo nên cảnh hoàng hôn tuyệt đẹp.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Reading novels is a healthy and interesting form of __________. (ENTERTAIN)
+      `,
+         options:[],
+        answer: `entertainment`,
+        rewrite: ``,
+        explanation: `<p>Phía trước có cụm “form of” =&gt; vị trí còn trống cần điền một danh từ để tạo thành cụm hoàn chỉnh “form of entertainment”: hình thức giải trí.</p>
+<p>entertain (v): giải trí</p>
+<p>entertainment (n): giải trí</p>
+<p>Reading novels is a healthy and interesting form of <strong>entertainment.</strong></p>
+<p><em>(Đọc tiểu thuyết là một hình thức giải trí lành mạnh và thú vị.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She broke down when she found out her boyfriend was not __________ in her anymore. (INTEREST)
+      `,
+         options:[],
+        answer: `interested`,
+        rewrite: ``,
+        explanation: `<p>Vị trí còn trống cần một tính từ để tạo thành cụm “be (not) interested in”: (không) thích thú với.</p>
+<p>interest (n): mối quan tâm</p>
+<p>interested (adj): thích thú, quan tâm</p>
+<p>She broke down when she found out her boyfriend was not <strong>interested </strong>in her anymore.</p>
+<p><em>(Cô suy sụp khi biết bạn trai không còn quan tâm đến mình nữa.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The __________ of the series “Man vs. Wild” is full of hard work and risks. (PRODUCE)
+      `,
+         options:[],
+        answer: `production`,
+        rewrite: ``,
+        explanation: `<p>Vị trí còn trống cần một danh từ đứng giữa từ “the” và từ “of”.</p>
+<p>produce (v): sản xuất</p>
+<p>production (n): sản xuất</p>
+<p>The <strong>production </strong>of the series “Man vs. Wild” is full of hard work and risks.</p>
+<p><em>(Quá trình sản xuất loạt phim “Man vs. Wild” đầy vất vả và rủi ro.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>II. READING</strong></p>
+<p><strong>Read the passage and choose the correct answer to each of the following questions.</strong></p>
+<p >There are many problems that young people have to face when they enter adolescence. At this age all feelings and emotions are very strong, and all problems seem very important.</p>
+<p >Firstly, teenagers don’t get along with their parents, and they often disagree with each other. Parents do not understand why their children need to buy certain things, listen to certain music or spend most of their spare time with their friends.</p>
+<p >Adolescents also have the same misunderstanding from their teachers. Some teachers think that students should always study. They do not understand that youth is the time for adolescents to play and try new things, to learn more about themselves and others.</p>
+<p >Peer influence is another serious problem because it makes young people do bad things. Many people want to look older and more independent. They may start smoking, drinking beer and sometimes other alcoholic drinks. <strong><em><u>Some</u></em></strong> also get involved in school violence and bully younger students to become cooler in their friends’ eyes.</p>`,
+        question: ` What is the passage mainly about?
+      `,
+         options:[`Disagreement between parents and their teenage children.`,`Peer influence among adolescents.`,`Many problems faced by teenagers.`,`What young people should do to study better.`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Đoạn văn chủ yếu nói về điều gì?</p>
+<p>A. Sự bất đồng giữa cha mẹ và con cái ở tuổi vị thành niên.)</p>
+<p>B. Ảnh hưởng của bạn bè trong thời niên thiếu.</p>
+<p>C. Nhiều vấn đề mà thanh thiếu niên phải đối mặt.</p>
+<p>D. Các bạn trẻ nên làm gì để học tập tốt hơn.</p>
+<p><strong>Thông tin: </strong>There are many problems that young people have to face when they enter adolescence.</p>
+<p><em>(Có rất nhiều vấn đề mà các bạn trẻ phải đối mặt khi bước vào tuổi thiếu niên.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `According to the passage, parents do not understand why __________.
+      `,
+         options:[`teenagers want to buy some particular things`,`the children start smoking`,`students do not like studying`,`the youth is the time for teenagers to try new things`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Theo đoạn văn, cha mẹ không hiểu tại sao ______</p>
+<p>A. thanh thiếu niên muốn mua một số thứ cụ thể.</p>
+<p>B. bọn trẻ bắt đầu hút thuốc.</p>
+<p>C. học sinh không thích học.</p>
+<p>D. tuổi trẻ là thời gian để thanh thiếu niên thử những điều mới.</p>
+<p><strong>Thông tin: </strong>Parents do not understand why their children need to buy certain things.</p>
+<p><em>(Cha mẹ không hiểu tại sao con cái họ cần mua một số thứ nhất định.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The phrasal verb get along in the passage is closest in meaning to __________.
+      `,
+         options:[`have a good relationship with someone`,`disagree with someone`,`be angry at someone`,`deliver something to someone`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Cụm động từ “get along - hòa hợp, có quan hệ tốt” trong đoạn văn có nghĩa gần nhất với</p>
+<p>A. có mối quan hệ tốt với ai đó</p>
+<p>B. không đồng ý với ai đó</p>
+<p>C. tức giận với ai đó</p>
+<p>D. giao cái gì đó cho ai đó</p>
+<p><strong>Thông tin: </strong>Firstly, teenagers don’t get along with their parents, and they often disagree with each other.</p>
+<p><em>(Thứ nhất, thanh thiếu niên không hòa hợp với cha mẹ và thường bất đồng quan điểm với nhau.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is the reason that makes many young people do bad things?
+      `,
+         options:[`argument with parents`,`pressure from peers`,`influence from teachers `,`bullies at school`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Nguyên nhân nào khiến nhiều bạn trẻ làm điều xấu?</p>
+<p>A. tranh cãi với cha mẹ</p>
+<p>B. áp lực từ bạn bè đồng trang lứa</p>
+<p>C. ảnh hưởng từ giáo viên</p>
+<p>D. bắt nạt ở trường</p>
+<p><strong>Thông tin: </strong>Peer influence is another serious problem because it makes young people do bad things.</p>
+<p><em>(Ảnh hưởng của bạn bè là một vấn đề nghiêm trọng khác vì nó khiến người trẻ làm điều xấu.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does the word <strong><em><u>Some</u></em></strong> in the final paragraph refer to?
+      `,
+         options:[`bad things`,`emotions`,`problems`,`adolescents`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Từ Some ở đoạn cuối ám chỉ điều gì?</p>
+<p>A. những điều xấu</p>
+<p>B. cảm xúc</p>
+<p>C. vấn đề</p>
+<p>D. thanh thiếu niên</p>
+<p><strong>Thông tin: </strong>Peer influence is another serious problem because it makes <u>young people</u> do bad things… <u>Some</u> also get involved in school violence and bully younger students to become cooler in their friends’ eyes.</p>
+<p>(adolescents = young people).</p>
+<p><em>(Ảnh hưởng của bạn bè là một vấn đề nghiêm trọng khác vì nó khiến người trẻ làm điều xấu…. Một số còn tham gia vào bạo lực học đường và bắt nạt học sinh nhỏ tuổi hơn để trở nên ngầu hơn trong mắt bạn bè.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong><em>Read the passage and fill in each blank with the correct answer.</em></strong></p>
+<p align="center">WHAT A DISASTER!</p>
+<p >It was a beautiful morning in June and the sun (<strong>26</strong>) _________. My parents and I were having a wonderful holiday in Hawaii. We swam in the sea and walked on the beach every day. On our last day, we decided (<strong>27</strong>) _________hiking up a volcano. We were climbing near the top of the volcano (<strong>28</strong>) _________we heard a loud noise coming from deep under the ground. Then, the volcano shook, smoke came out of the top, and lava came down the side. We were (<strong>29</strong>) _________! We ran as fast as we could back down the volcano. We felt worried because so much lava erupted from the top. Luckily, we got to the road and a bus picked us up just in time. We (<strong>30</strong>) _________quickly. Later, we watched the news to find out what happened. The eruption didn't injure anyone, bit destroyed some buildings and cars. We felt relieved because everyone was safe.</p>`,
+        question: `
+      `,
+         options:[`shone`,`was shining`,`had shone`,`was shone`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Các câu phía sau trong đoạn văn động từ chia quá khứ tiếp diễn =&gt; vị trí còn trống động từ chia quá khứ tiếp diễn.</p>
+<p>A. shone (quá khứ đơn)</p>
+<p>B. was shining (quá khứ tiếp diễn)</p>
+<p>C. had shone (quá khứ hoàn thành)</p>
+<p>D. was shone (câu bị động)</p>
+<p>It was a beautiful morning in June and the sun (<strong>26</strong>)<strong> was shining</strong>.</p>
+<p><em>(Đó là một buổi sáng đẹp trời vào tháng Sáu và mặt trời đang chiếu sáng.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+         options:[`to go`,`going`,`go`,`went`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc “decide + to V”: quyết định làm gì.</p>
+<p>A. to go (to v)</p>
+<p>B. going (V-ing)</p>
+<p>C. go (V-inf)</p>
+<p>D. went (V-inf)</p>
+<p>On our last day, we decided (<strong>27</strong>) <strong>to go</strong> hiking up a volcano.</p>
+<p><em>(Vào ngày cuối cùng của chúng tôi, chúng tôi quyết định đi leo núi lên núi lửa.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+         options:[`while`,`before `,`after`,`when`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Câu diễn tả một hành động đang diễn ra, kéo dài (were climbing) thì một hành động khác xen vào (heard a loud noise) =&gt; giữa hai mệnh đề dùng liên từ “when”.</p>
+<p>A. while: trong khi (diễn tả hai hành động diễn ra đồng thời)</p>
+<p>B. before: trước khi</p>
+<p>C. after : sau khi</p>
+<p>D. when: khi</p>
+<p>We were climbing near the top of the volcano (<strong>28</strong>) <strong>when</strong> we heard a loud noise coming from deep under the ground.</p>
+<p><em>(Chúng tôi đang leo gần đỉnh núi lửa thì nghe thấy một tiếng động lớn phát ra từ sâu dưới lòng đất.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+         options:[`interested`,`terrified`,`excited`,`confused`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. interested (adj): quan tâm, thích thú</p>
+<p>B. terrified (adj): kinh hãi</p>
+<p>C. excited (adj): phấn khích</p>
+<p>D. confused (adj): bối rối</p>
+<p>We were (<strong>29) terrified!</strong></p>
+<p><em>(Chúng tôi đã kinh hãi!)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+         options:[`drove off`,`took off`,`put off`,`turned off`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. drove off (v): lái xe</p>
+<p>B. took off (v): rời đi</p>
+<p>C. put off (v): trì hoãn, tạm dừng</p>
+<p>D. turned off (v): tắt</p>
+<p>Luckily, we got to the road and a bus picked us up just in time. We (<strong>30</strong>) <strong>took off</strong> quickly.</p>
+<p><em>(May mắn thay, chúng tôi đã ra đến đường và một chiếc xe buýt đã đón chúng tôi vừa kịp lúc. Chúng tôi đã rời đi nhanh chóng.)</em></p><p align="center">WHAT A DISASTER!</p>
+<p style="text-align: justify;">It was a beautiful morning in June and the sun <strong>(26) was shining</strong>. My parents and I were having a wonderful holiday in Hawaii. We swam in the sea and walked on the beach every day. On our last day, we decided <strong>(27) to go</strong> hiking up a volcano. We were climbing near the top of the volcano <strong>(28) when</strong> we heard a loud noise coming from deep under the ground. Then, the volcano shook, smoke came out of the top, and lava came down the side. We were <strong>(29) terrified</strong>! We ran as fast as we could back down the volcano. We felt worried because so much lava erupted from the top. Luckily, we got to the road and a bus picked us up just in time. We <strong>(30) took off</strong> quickly. Later, we watched the news to find out what happened. The eruption didn't injure anyone, bit destroyed some buildings and cars. We felt relieved because everyone was safe.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>III. WRITING</strong></p>
+<p><strong>Rearrange the given words to make complete sentences. Do not change the given words</strong></p>`,
+        question: `new / a / iPod / buy / to / wants / he /. because/ music/ listening/ likes/ he/ to/ on/ his/ earphones/.
+      `,
+         options:[],
+        answer: `He wants to buy a new iPod because he likes listening to music on his earphones`,
+        rewrite: ``,
+        explanation: `<p><strong>Giải thích: </strong>“want to V”: muốn làm gì; “like + V-ing”: thích làm gì. <em></em></p>
+<p><em>(Anh ấy muốn mua một chiếc iPod mới vì anh ấy thích nghe nhạc bằng tai nghe.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `camping / could / open air / the / us. / we / the / of / around / in / all / sounds / hear / wildlife / While
+      `,
+         options:[],
+        answer: `While camping in the open air, we could hear all the sounds of wildlife around us`,
+        rewrite: ``,
+        explanation: `<p>Dạng rút gọn mệnh đề của câu diễn tả một hành động đang diễn ra trong quá khứ thì một hành động khác xen vào: “While + V-ing, S + V-ed + O.” <em></em></p>
+<p><em>(Khi cắm trại ngoài trời, chúng tôi có thể nghe thấy tất cả âm thanh của động vật hoang dã xung quanh mình.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `rather / or / read / watch / would / a novel / you / some films / ?
+      `,
+         options:[],
+        answer: `Would you rather read a novel or watch some films?`,
+        rewrite: ``,
+        explanation: `<p><strong>Giải thích: </strong>Cấu trúc “would you rather + v-inf + or + v-inf?”: muốn làm gì hơn.</p>
+<p><em>(Bạn thích đọc tiểu thuyết hay xem phim hơn?)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `neither / My mother / doesn’t / like / her photos / on / my sister. / and / Instagram, / does / posting
+      `,
+         options:[],
+        answer: `My mother doesn't like posting her photos on Instagram, and neither does my sister`,
+        rewrite: ``,
+        explanation: `<p><strong>Giải thích: </strong>“don’t/doesn’t like + V-ing”: không thích làm gì;</p>
+<p>“neither do/does + S”(diễn tả sự đồng tình trong câu phủ định): “ai đó cũng không”.</p>
+<p><em>(Mẹ tôi không thích đăng ảnh của mình lên Instagram và chị tôi cũng vậy.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `the / The / food. / providing / disaster / natural / by / of / were / the / victims / volunteers / helping
+      `,
+         options:[],
+        answer: `The volunteers were helping the victims of the natural disaster by providing food.`,
+        rewrite: ``,
+        explanation: `<p>Thì quá khứ tiếp diễn: S + was/ were V-ing</p>
+<p>“by + V-ing”: bằng cách nào</p>
+<p><em>(Các tình nguyện viên đang giúp đỡ các nạn nhân của thảm họa thiên nhiên bằng cách cung cấp thực phẩm.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>IV. LISTENING</strong></p>
+<p><strong>Listen to an interview about the Winter Festival in Canada and choose the best answer for each question.</strong></p>`,
+media:`https://img.loigiaihay.com/picture/2024/1224/hk1-ta8-right-de-6_1.mp3`,
+        question: ` Where does the Winter Festival take place?
+      `,
+         options:[`In Josh’s city`,`Outside Josh’s city`,`Outside Josh’s country`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Lễ hội mùa đông diễn ra ở đâu?</p>
+<p>A. Ở thành phố của Josh</p>
+<p>B. Bên ngoài thành phố của Josh</p>
+<p>C. Bên ngoài đất nước của Josh</p>
+<p><strong>Thông tin: </strong>Josh: Well, it’s the Winter Festival in my city.</p>
+<p><em>(À, đó là Lễ hội mùa đông ở thành phố của tôi.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is NOT true about Winter Festival?
+      `,
+         options:[`People celebrate the festival annually.`,`It’s a small local festival in Quebec.`,`There is a parade on the street.`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Điều gì KHÔNG đúng về Lễ hội Mùa đông?</p>
+<p>A. Mọi người tổ chức lễ hội hàng năm.</p>
+<p>B. Đó là một lễ hội địa phương nhỏ ở Quebec.</p>
+<p>C. Có một cuộc diễu hành trên đường phố.</p>
+<p><strong>Thông tin: </strong>Josh: It takes place in February every year. It’s the biggest festival in my country too. We can watch a long, big parade on the streets.</p>
+<p><em>(Nó diễn ra vào tháng 2 hàng năm. Đây cũng là lễ hội lớn nhất ở đất nước tôi. Chúng ta có thể xem một cuộc diễu hành lớn và dài trên đường phố.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What does Josh’s family love to do at the festival?
+      `,
+         options:[`Enjoying the snow.`,`Watching the parade.`,`Joining in the parade.`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Gia đình Josh thích làm gì ở lễ hội?</p>
+<p>A. Tận hưởng tuyết.</p>
+<p>B. Xem diễu hành.</p>
+<p>C. Tham gia diễu hành.</p>
+<p><strong>Thông tin:</strong> Josh: My family enjoys watching this parade every year.<strong> </strong></p>
+<p><em>(Gia đình tôi thích xem cuộc diễu hành này hàng năm.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What is special about the food during the Winter Festival?
+      `,
+         options:[`The food is cheaper.`,`The restaurants offer special menus.`,`There are more desserts.`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Món ăn trong Lễ hội mùa đông có gì đặc biệt?</p>
+<p>A. Thức ăn rẻ hơn.</p>
+<p>B. Các nhà hàng cung cấp thực đơn đặc biệt.</p>
+<p>C. Có nhiều món tráng miệng hơn.</p>
+<p><strong>Thông tin: </strong>During the Winter Festival, there are special menus in the restaurants.</p>
+<p><em>(Trong Lễ hội mùa đông, các nhà hàng sẽ có thực đơn đặc biệt.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `What sport does John participate in the events?
+      `,
+         options:[`Hockey.`,`Skiing.`,`Snowboarding`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>John tham gia môn thể thao nào trong các sự kiện?</p>
+<p>A. Khúc côn cầu</p>
+<p>B. Trượt tuyết</p>
+<p>C. Trượt ván trên tuyết</p>
+<p><strong>Thông tin: </strong>Josh: I sometimes take part in the local snowboarding race with my cousins.</p>
+<p><em>(Đôi khi tôi tham gia cuộc đua trượt ván trên tuyết ở địa phương với anh em họ của mình.)</em></p><p><strong>Bài nghe: </strong></p>
+<p><strong><em>MC:</em></strong> Hi, Josh, glad to see you here. Would you like to introduce yourself?</p>
+<p><strong><em>Josh:</em></strong> Hi everyone! My name is Josh, I come from Quebec, Canada.</p>
+<p><strong><em>MC:</em></strong> So, Josh, what is your favourite festival in your country?</p>
+<p><strong><em>Josh:</em></strong> Well, it’s the Winter Festival in my city. It takes place in February every year. It’s the biggest festival in my country too.</p>
+<p><strong><em>MC:</em></strong> Sounds interesting! What do people do in this festival?</p>
+<p><strong><em>Josh:</em></strong> Oh, there are a lot of things to do! We can watch a long, big parade on the streets, and it’s wonderful! There’s this huge snowman in front of the parade, along with lots of lightbulbs and winter decorations. We call it Bonhomme Carnaval. My family enjoys watching this parade every year. It’s great for a family vacation.</p>
+<p><strong><em>MC:</em></strong> Great! And what is your favourite thing about this festival?</p>
+<p><strong><em>Josh:</em></strong> For me, it’s the food! During the Winter Festival, there are special menus in the restaurants. We often have dinner at a local restaurant throughout the festival. The desserts are delicious, they are my favourite.</p>
+<p><strong><em>MC:</em></strong> Do you participate in any activity?</p>
+<p><strong><em>Josh:</em></strong> Yes I do. People often hold outdoor sports events inside and even outside the city. There are a lot of championships and races, such as skiing, ice canoe, ice swimming… I sometimes take part in the local snowboarding race with my cousins, while my brother enjoys some ice hockey games.</p>`,
+      },
+    ],
+  },
+  {
+    semester: 2,
+    grade: 8,
+    questions: [
+      {
+        id: 41,
+        extra: `<p><strong>I. LANGUAGE</strong></p>
+<p><strong>Choose the word whose underlined part is pronounced differently.</strong></p>`,
+        question: `
+          `,
+        options:[`rep<u>o</u>rter`,`techn<u>o</u>logy`,`perf<u>o</u>rm`,`r<u>o</u>ar`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. rep<u>o</u>rter /rɪˈpɔː.tər/</p>
+<p>B. techn<u>o</u>logy /tekˈnɒl.ə.dʒi/</p>
+<p>C. perf<u>o</u>rm /pəˈfɔːm/</p>
+<p>D. r<u>o</u>ar /rɔːr/<strong><em></em></strong></p>
+<p>Phần được gạch chân ở phương án B được phát âm /ɒ/, các phương án còn lại phát âm /ɔː/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`surv<u>i</u>val`,`v<u>i</u>ctim`,`hurr<u>i</u>cane`,`d<u>i</u>saster`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. surv<u>i</u>val /səˈvaɪ.vəl/</p>
+<p>B. v<u>i</u>ctim /ˈvɪk.tɪm/</p>
+<p>C. hurr<u>i</u>cane /ˈhʌr.ɪ.kən/</p>
+<p>D. d<u>i</u>saster /dɪˈzɑː.stər/<strong><em></em></strong></p>
+<p>Phần được gạch chân ở phương án A được phát âm /aɪ/, các phương án còn lại phát âm /ɪ/.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`cost<u>u</u>me`,`m<u>u</u>sical`,`prod<u>u</u>ction`,`prod<u>u</u>cer`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. cost<u>u</u>me /ˈkɒs.tʃuːm/</p>
+<p>B. m<u>u</u>sical /ˈmjuː.zɪ.kəl/</p>
+<p>C. prod<u>u</u>ction /prəˈdʌk.ʃən/</p>
+<p>D. prod<u>u</u>cer /prəˈdʒuː.sər/ hoặc /prəˈdjuːsər/</p>
+<p>Phần được gạch chân ở phương án C được phát âm /ʌ/, các phương án còn lại phát âm /uː/.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Choose the word that has a different stressed syllable from the rest.</strong></p>`,
+        question: `
+          `,
+        options:[`bullying`,`addicted`,`interested`,`influence`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. bullying /ˈbʊl.i.ɪŋ/</p>
+<p>B. addicted /əˈdɪk.tɪd/</p>
+<p>C. interested /ˈɪn.tres.tɪd/</p>
+<p>D. influence /ˈɪn.flu.əns/<strong><em></em></strong></p>
+<p>Phương án B có trọng âm 2, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+          `,
+        options:[`charger`,`battery`,`dictionary`,`electronic`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. charger /ˈtʃɑː.dʒər/</p>
+<p>B. battery /ˈbæt.ər.i/</p>
+<p>C. dictionary /ˈdɪk.ʃən.ər.i/</p>
+<p>D. electronic /ˌel.ekˈtrɒn.ɪk/<strong><em></em></strong></p>
+<p>Phương án D có trọng âm 3, các phương án còn lại có trọng âm 1.</p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Choose the best option (A, B, C or D) to complete each of the following sentences.</strong></p>`,
+        question: `He _______ his tablet every day to read e-books and watch music videos.
+          `,
+        options:[`use`,`uses`,`is using`,`are using`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Câu có trạng từ “every day”: hàng ngày =&gt; động từ trong câu ở thì hiện tại đơn. Chủ ngữ “he” là ngôi ba số ít nên cần chia động từ dạng “uses”.</p>
+<p>He <strong>uses </strong>his tablet every day to read e-books and watch music videos.</p>
+<p><em>(Anh ấy sử dụng máy tính bảng hàng ngày để đọc sách điện tử và xem video ca nhạc.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `She likes to listen to music on her tablet with her earphones because she thinks it’s more _______ than using a CD player.
+          `,
+        options:[`clever`,`convenient`,`boring `,`ugly`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. clever (adj): thông minh</p>
+<p>B. convenient (adj): thuận tiện</p>
+<p>C. boring (adj): nhàm chán</p>
+<p>D. ugly (adj): xấu xí</p>
+<p>She likes to listen to music on her tablet with her earphones because she thinks it’s more <strong>convenient </strong>than using a CD player.</p>
+<p><em>(Cô ấy thích nghe nhạc trên máy tính bảng bằng tai nghe vì cô ấy nghĩ nó tiện lợi hơn việc sử dụng đầu đĩa CD.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` During a romantic date, we found a cozy spot to lie down and __________ the stars together.
+          `,
+        options:[`notice`,`view`,`look`,`watch`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc “look (at) the star”: ngắm sao.</p>
+<p>During a romantic date, we found a cozy spot to lie down and <strong>look </strong>the stars together.</p>
+<p><em>(Trong một buổi hẹn hò lãng mạn, chúng tôi tìm được một chỗ ấm cúng để cùng nhau nằm và ngắm sao.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `They __________ a picnic when the heavy rain poured down. They had to seek shelter.
+          `,
+        options:[`had`,`have`,`were having`,`have had`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Câu diễn tả một hành động đang xảy ra trong quá khứ (having a picnic) thì một hành động khác xen vào (heavy rain poured down) =&gt; hành động đang diễn ra, kéo dài động từ chia ở quá khứ tiếp diễn: “were having a picnic”.</p>
+<p>A. had (quá khứ đơn)</p>
+<p>B. have (hiện tại đơn)</p>
+<p>C. were having (quá khứ tiếp diễn)</p>
+<p>D. have had (quá khứ hoàn thành)</p>
+<p>They <strong>were having</strong> a picnic when the heavy rain poured down. They had to seek shelter.</p>
+<p><em>(Họ đang đi dã ngoại thì trời đổ mưa lớn. Họ phải tìm nơi trú ẩn.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `In my opinion, <em>“Annabelle”</em> is __________ than <em>“The Conjuring”.</em>
+          `,
+        options:[`scarier`,`scary`,`scariest`,`more scary`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Sau tính từ cần điền là “than” =&gt; dấu hiệu câu so sánh hơn. Dạng so sánh hơn của “scary” là “scarier”.</p>
+<p>In my opinion, <em>“Annabelle”</em> is <strong>scarier </strong>than <em>“The Conjuring”.</em></p>
+<p><em>(Theo tôi, “Annabelle” đáng sợ hơn “The Conjuring”.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `“Star Wars” is such a good sci-fi film! What is your favourite __________ from the movie?
+          `,
+        options:[`screen`,`scene`,`production`,`hit`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. screen (n): màn hình</p>
+<p>B. scene (n): phân cảnh</p>
+<p>C. production (n): sự sản xuất</p>
+<p>D. hit (n): điểm nhấn</p>
+<p>“Star Wars” is such a good sci-fi film! What is your favourite <strong>scene </strong>from the movie?</p>
+<p><em>(“Chiến tranh giữa các vì sao” quả là một bộ phim khoa học viễn tưởng hay! Cảnh yêu thích của bạn từ bộ phim là gì?)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: ` A __________ show is where actors and actresses only use their movements to perform.
+          `,
+        options:[`musical`,`thriller`,`mime`,`comedy`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>A. musical (n): nhạc kịch</p>
+<p>B. thriller (n): phim kinh dị</p>
+<p>C. mime (n): kịch câm</p>
+<p>D. comedy (n): phim hài</p>
+<p>A <strong>mime </strong>show is where actors and actresses only use their movements to perform.</p>
+<p><em>(Diễn kịch câm là nơi các diễn viên chỉ sử dụng động tác của mình để biểu diễn.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Despite all these difficulties, she refused to __________.
+          `,
+        options:[`hang up`,`give up`,`grow up`,`cheer up`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. hang up (v): cúp máy</p>
+<p>B. give up (v): từ bỏ</p>
+<p>C. grow up (v): lớn lên</p>
+<p>D. cheer up (v): vui lên, ăn mừng</p>
+<p>Despite all these difficulties, she refused to <strong>give up.</strong></p>
+<p><em>(Bất chấp mọi khó khăn, cô ấy vẫn không chịu bỏ cuộc.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Fourteen is a pretty normal age for a girl to reach __________.
+          `,
+        options:[`adulthood`,`puberty`,`teenage years`,`adolescence`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>A. adulthood (n): tuổi trưởng thành</p>
+<p>B. puberty (n): tuổi dậy thì</p>
+<p>C. teenage years (n): tuổi thiếu niên</p>
+<p>D. adolescence (n): tuổi thiếu niên</p>
+<p>Fourteen is a pretty normal age for a girl to reach <strong>puberty</strong>.</p>
+<p><em>(Mười bốn tuổi là độ tuổi khá bình thường để một cô gái bước vào tuổi dậy thì.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Long doesn’t spend a lot of time on Facebook, and __________. Instead, they all study a lot.
+          `,
+        options:[`his friends do not, too`,`so don’t his friends`,`neither don’t his friends `,`neither do his friends`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>Vế trước của câu ở dạng phủ định =&gt; vị trí còn trống cần điền một mệnh đề diễn tả sự đồng tình dạng “neither do/does + S”: ai đó cũng không.</p>
+<p>Long doesn’t spend a lot of time on Facebook, and <strong>neither do his friends.</strong> Instead, they all study a lot.<strong><em></em></strong></p>
+<p><em>(Long không dành nhiều thời gian trên Facebook và bạn bè của anh ấy cũng vậy. Thay vào đó, họ đều học rất nhiều.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Write the correct forms of the words in brackets.</strong></p>`,
+        question: `She has a hobby of collecting ________ technological devices like a smartphone-controlled paper airplane. (USUAL)
+          `,
+        options:[],
+        answer: `usual`,
+        rewrite: ``,
+        explanation: `<p>Vị trí còn trống cần điền một tính từ đứng trước bổ nghĩa cho danh từ phía sau để tạo thành cụm “unusual technological devices”: các thiết bị công nghệ khác thường.</p>
+<p>usual (adj): bình thường</p>
+<p>unusual (adj): khác thường</p>
+<p>She has a hobby of collecting <strong>unusual </strong>technological devices like a smartphone-controlled paper airplane.</p>
+<p><em>(Cô có sở thích sưu tập các thiết bị công nghệ khác thường như máy bay giấy điều khiển bằng điện thoại thông minh.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `The weather turned __________ with dark clouds, strong winds, and heavy rain. (STORM)
+          `,
+        options:[],
+        answer: `stormy`,
+        rewrite: ``,
+        explanation: `<p>Vị trí còn trống cần điền một tính từ đứng sau “turn”.</p>
+<p>storm (n): bão</p>
+<p>stormy (adj): giông bão</p>
+<p>The weather turned <strong>stormy </strong>with dark clouds, strong winds, and heavy rain.</p>
+<p><em>(Thời tiết chuyển sang giông bão, mây đen, gió mạnh và mưa lớn.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Fast and Furious is a famous __________ movie. (ACT)
+      `,
+        options:[],
+        answer: `action`,
+        rewrite: ``,
+        explanation: `<p>Vị trí còn trống cần điền một danh từ để tạo thành cụm “action movie”: phim hành động.</p>
+<p>act (v): hoạt động</p>
+<p>action (n): hành động</p>
+<p>Fast and Furious is a famous <strong>action </strong>movie.</p>
+<p><em>(Fast and Furious là một bộ phim hành động nổi tiếng.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `He feels __________ because he cannot make friends at the new school. (HOPE)
+      `,
+        options:[],
+        answer: `hopeless`,
+        rewrite: ``,
+        explanation: `<p>Vị trí còn trống cần điền một tính từ mang nghĩa “tuyệt vọng” miêu tả cảm xúc của con người.</p>
+<p>hope (v): hi vọng</p>
+<p>hopeless (adj): tuyệt vọng</p>
+<p>He feels <strong>hopeless </strong>because he cannot make friends at the new school.</p>
+<p><em>(Anh ấy cảm thấy tuyệt vọng vì không thể kết bạn ở trường mới.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `He thinks that watching TV is ________. He prefers to play games on his tablet. (BORE)
+      `,
+        options:[],
+        answer: `boring`,
+        rewrite: ``,
+        explanation: `<p>Vị trí còn trống cần điền một tính từ đuôi -ing miêu tả việc “watching TV - xem TV” đem lại cảm giác nhàm chán cho anh ấy.</p>
+<p>bore (v): gây nhàm chán</p>
+<p>boring (adj): nhàm chán</p>
+<p>He thinks that watching TV is <strong>boring</strong>. He prefers to play games on his tablet.</p>
+<p><strong><em>(</em></strong><em>Anh ấy nghĩ rằng xem TV thật nhàm chán. Anh ấy thích chơi game trên máy tính bảng của mình hơn.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>II. READING</strong></p>
+<p><strong>Read the text and decide whether the sentences are True (T) or False (F).</strong></p>
+<p align="center"><strong>Surviving in the Andes</strong></p>
+<p >On October 13, 1972, a plane crashed into an Andes mountain. Some passengers managed to survive. Walking in freezing temperatures, the survivors sought shelter inside the wreckage. They had little food and no hope of rescue.</p>
+<p >Two months later, three passengers named Roberto Canessa, Nando Parrado, and Antonio Vizintin decided to find help. The journey was hard and tiring. However, instead of finding an escape, they saw more icy peaks.</p>
+<p >But hope remained. Parrado saw two snow-free peaks about 65 kilometers away. Vizintin went back to the plane due to the lack of food while the others decided to keep going. Fortunately, they found a small river and felt the warmth of the sun. The snow disappeared, replaced by colorful flowers. Canessa exclaimed, "This is the valley! This is the way out."</p>
+<p >Ten days later, on December 21st, the exhausted men arrived in the town of Los Maitenes in Chile. A rescue team came to save the other passengers in the high Andes.</p>
+<p>They all survived while waiting for help. The memories of the crash stayed with them, but their suffering was over.</p>`,
+        question: `The survivors didn’t have enough food in the Andes mountain.  __________
+      `,
+        options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>The survivors didn’t have enough food in the Andes mountain.</p>
+<p><em>(Những người sống sót không có đủ thức ăn trên núi Andes.)</em></p>
+<p><strong>Thông tin: </strong>They had little food and no hope of rescue.</p>
+<p><em>(Họ có rất ít thức ăn và không có hy vọng được giải cứu.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Three of the survivors decided to find help after 1 month.  __________
+      `,
+      options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Three of the survivors decided to find help after 1 month.</p>
+<p><em>(Ba trong số những người sống sót quyết định tìm kiếm sự giúp đỡ sau 1 tháng.)</em></p>
+<p><strong>Thông tin: </strong>Two months later, three passengers named Roberto Canessa, Nando Parrado, and Antonio Vizintin decided to find help. The journey was hard and tiring.</p>
+<p><em>(Hai tháng sau, ba hành khách tên Roberto Canessa, Nando Parrado và Antonio Vizintin quyết định tìm kiếm sự giúp đỡ.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Vizintin returned to the crash site because he lost hope. __________
+      `,
+      options:[`True`,`False`],
+        answer: `2`,
+        rewrite: ``,
+        explanation: `<p>Vizintin returned to the crash site because he lost hope.</p>
+<p><em>(Vizintin quay lại hiện trường vụ tai nạn vì hết hy vọng.)</em></p>
+<p><strong>Thông tin: </strong>But hope remained… Vizintin went back to the plane due to the lack of food while the others decided to keep going.</p>
+<p><em>(Nhưng hy vọng vẫn còn… Vizintin quay lại máy bay vì thiếu thức ăn trong khi những người khác quyết định đi tiếp.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `Canessa and Parrado arrived in Los Maitenes on December 21st.  __________
+      `,
+      options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>Canessa and Parrado arrived in Los Maitenes on December 21st.</p>
+<p><em>(Canessa và Parrado đến Los Maitenes vào ngày 21 tháng 12.)</em></p>
+<p><strong>Thông tin: </strong>Ten days later, on December 21st, the exhausted men arrived in the town of Los Maitenes in Chile.</p>
+<p><em>(Mười ngày sau, vào ngày 21 tháng 12, những người đàn ông kiệt sức đã đến thị trấn Los Maitenes ở Chile.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `All the passengers who survived the crash were rescued. __________
+      `,
+      options:[`True`,`False`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>All the passengers who survived the crash were rescued.</p>
+<p><em>(Tất cả hành khách sống sót sau vụ va chạm đều được cứu.)</em></p>
+<p><strong>Thông tin: </strong>They all survived while waiting for help.</p>
+<p><em>(Tất cả họ đều sống sót trong khi chờ đợi sự giúp đỡ.)</em></p><p><strong>Dịch bài đọc: </strong></p>
+<p style="text-align: center;" align="center"><em>Sống sót trên dãy Andes</em></p>
+<p ><em>Vào ngày 13 tháng 10 năm 1972, một chiếc máy bay đã đâm vào dãy núi Andes. Một số hành khách đã sống sót. Đi bộ trong nhiệt độ đóng băng, những người sống sót tìm nơi trú ẩn bên trong đống đổ nát. Họ có rất ít thức ăn và không có hy vọng được giải cứu.</em></p>
+<p ><em>Hai tháng sau, ba hành khách tên Roberto Canessa, Nando Parrado và Antonio Vizintin quyết định tìm kiếm sự giúp đỡ. Cuộc hành trình thật khó khăn và mệt mỏi. Tuy nhiên, thay vì tìm lối thoát, họ lại nhìn thấy nhiều đỉnh núi băng giá hơn.</em></p>
+<p ><em>Nhưng hy vọng vẫn còn. Parrado nhìn thấy hai đỉnh núi không có tuyết cách đó khoảng 65 km. Vizintin quay lại máy bay vì thiếu thức ăn trong khi những người khác quyết định đi tiếp. May mắn thay, họ tìm thấy một con sông nhỏ và cảm nhận được sự ấm áp của mặt trời. Tuyết biến mất, thay vào đó là những bông hoa đầy màu sắc. Canessa kêu lên: "Đây là thung lũng! Đây là lối thoát."</em></p>
+<p ><em>Mười ngày sau, vào ngày 21 tháng 12, những người đàn ông kiệt sức đã đến thị trấn Los Maitenes ở Chile. Một đội cứu hộ đã đến cứu những hành khách khác trên vùng cao Andes.</em></p>
+<p ><em>Tất cả họ đều sống sót trong khi chờ đợi sự giúp đỡ. Ký ức về vụ tai nạn vẫn còn đọng lại trong họ, nhưng nỗi đau khổ của họ đã qua.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>Read the passage and fill in each blank with the correct answer.</strong></p>
+<p >There are <strong>(26)_______</strong> different kinds of theatre performances. Circus, carnival, nightclub, fair, vaudeville, musical comedy, ballet, modern dance, opera, and operetta are all forms of theatre. Motion pictures, television, and radio present all these forms.</p>
+<p >Without any special <strong>(27)_______</strong> like movies on screens, theatre acting can still perform a wide range of emotions. Some people go to the theatre to laugh, to relax, to escape <strong>(28)_______</strong> their everyday worries and cares. Others go to experience, to feel the troubles and stories of the characters on the stage. Others search for adventure and excitement. Some are curious to find out <strong>(29)_______</strong> other people live. Some go to learn, to gain a moral lesson. As the French actor Louis Jouvet said, “Faced with the mystery of life, men invented the theatre.” Theatre is the <strong>(30)_______</strong> entertainment form of all.</p>`,
+        question: `
+      `,
+        options:[`some`,`a few`,`few`,`many`],
+        answer: `4`,
+        rewrite: ``,
+        explanation: `<p>A. some: một số</p>
+<p>B. a few: một vài (ít)</p>
+<p>C. few: rất ít, hầu như không có</p>
+<p>D. many: nhiều</p>
+<p>There are <strong>(26) many </strong>different kinds of theatre performances. Circus, carnival, nightclub, fair, vaudeville, musical comedy, ballet, modern dance, opera, and operetta are all forms of theatre.</p>
+<p><em>(Có nhiều loại hình biểu diễn sân khấu khác nhau. Xiếc, lễ hội, hộp đêm, hội chợ, tạp kỹ, hài kịch, múa ba lê, múa hiện đại, opera và operetta đều là các hình thức sân khấu.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`effects`,`impacts`,`influences `,`results`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. effects (n): hiệu ứng</p>
+<p>B. impacts (n): tác động</p>
+<p>C. influences (n): ảnh hưởng </p>
+<p>D. results (n): kết quả</p>
+<p>Without any special <strong>(27) effects </strong>like movies on screens, theatre acting can still perform a wide range of emotions.</p>
+<p><em>(Nếu không có bất kỳ hiệu ứng đặc biệt nào như phim trên màn ảnh, diễn xuất tại rạp vẫn có thể biểu diễn nhiều loại cảm xúc.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`in`,`on`,`from`,`with`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Cụm động từ “escape from sth”: thoát khỏi cái gì/điều gì.</p>
+<p>Some people go to the theatre to laugh, to relax, to escape <strong>(28) from</strong> their everyday worries and cares.</p>
+<p><em>(Một số người đến rạp hát để cười, để thư giãn, để thoát khỏi những lo lắng và quan tâm hàng ngày của họ.<strong>)</strong></em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`how`,`where`,`when`,`what`],
+        answer: `1`,
+        rewrite: ``,
+        explanation: `<p>A. how: như thế nào</p>
+<p>B. where: ở đâu, nơi mà</p>
+<p>C. when: khi nào</p>
+<p>D. what: cái gì</p>
+<p>Some are curious to find out <strong>(29) how</strong> other people live.</p>
+<p><em>(Một số tò mò muốn tìm hiểu cách người khác sống.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `
+      `,
+        options:[`interesting`,`more interesting`,`most interesting`,`as interesting`],
+        answer: `3`,
+        rewrite: ``,
+        explanation: `<p>Trước tính từ cần điền có “tobe + the” =&gt; dấu hiệu câu so sánh nhất: “the most interesting”.</p>
+<p>Theatre is the <strong>(30) most interesting</strong> entertainment form of all.</p>
+<p><em>(Nhà hát là hình thức giải trí thú vị nhất trong tất cả.)</em></p><p ><em>Có nhiều loại hình biểu diễn sân khấu khác nhau. Xiếc, lễ hội, hộp đêm, hội chợ, tạp kỹ, hài kịch, múa ba lê, múa hiện đại, opera và operetta đều là các hình thức sân khấu. Phim ảnh, truyền hình và đài phát thanh đều có những hình thức này.</em></p>
+<p ><em>Nếu không có bất kỳ hiệu ứng đặc biệt nào như phim trên màn ảnh, diễn xuất sân khấu vẫn có thể biểu diễn nhiều loại cảm xúc. Một số người đến rạp hát để cười, để thư giãn, để thoát khỏi những lo lắng và quan tâm hàng ngày của họ. Số khác đi để trải nghiệm, để cảm nhận những trăn trở, câu chuyện của các nhân vật trên sân khấu. Những người khác tìm kiếm sự phiêu lưu và hứng thú. Một số tò mò muốn tìm hiểu cách người khác sống. Một số đi để học, để có được một bài học đạo đức. Như diễn viên người Pháp Louis Jouvet đã nói: “Đối mặt với bí ẩn của cuộc sống, con người đã phát minh ra sân khấu”. Nhà hát là hình thức giải trí thú vị nhất trong tất cả.</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>III. WRITING</strong></p>
+<p><strong>Rearrange the given words to make complete sentences. Do not change the given words</strong></p>`,
+        question: `photos / her / taking / loves / she / with / digital / camera / her / and / pictures / uploads / often / her / to / Facebook / page /.
+      `,
+        options:[],
+        answer: `She loves taking photos with her digital camera and often uploads her pictures to her Facebook page.`,
+        rewrite: ``,
+        explanation: `<p>Thì hiện tại đơn: S + V(s/es) + O</p>
+<p>love + V-ing: yêu thích làm gì</p>
+<p>and: và</p>
+<p><em>(Cô ấy thích chụp ảnh bằng máy ảnh kỹ thuật số và thường đăng ảnh lên trang Facebook của mình.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `the / sunset / watching / I / at / sea. / swimming / dolphins / the coast, / saw / the / was / I While / in
+      `,
+        options:[],
+        answer: `While I was watching the sunset on the coast, I saw dolphins swimming at the sea.`,
+        rewrite: ``,
+        explanation: `<p>Câu diễn tả một hành động đang diễn ra trong quá khứ thì hành động khác xen vào: While/When + S1 + was/were + V-ing + , + S + V-ed.</p>
+<p><em>(Khi tôi đang ngắm hoàng hôn trên bờ biển, tôi thấy cá heo bơi lội trên biển.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `prefer / tonight / you / what / watch / would / to /?
+      `,
+        options:[],
+        answer: `What would you prefer to watch tonight?`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc “prefer + to V”: thích làm gì.</p>
+<p><em>(Bạn muốn xem gì tối nay?)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `both / abstract thinking. / to / and / important / develop / imaginal thinking / It's / children's
+      `,
+        options:[],
+        answer: `It's important to develop both children's abstract thinking and imaginal thinking`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc “It’s important to V”: điều quan trọng là …</p>
+<p><em>(Điều quan trọng là phát triển cả tư duy trừu tượng và tư duy tưởng tượng của trẻ.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `and / too. / starts / My voice / deeper / Nam’s voice / get / does, / to
+      `,
+        options:[],
+        answer: `My voice starts to get deeper, and Nam’s voice does, too`,
+        rewrite: ``,
+        explanation: `<p>Cấu trúc diễn tả sự đồng tình, đồng ý trong câu khẳng định: “S + do/does, too”: Ai đó/cái gì cũng vậy.</p>
+<p><em>(Giọng tôi bắt đầu trầm hơn và giọng Nam cũng vậy.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: `<p><strong>IV. LISTENING</strong></p>
+<p><strong>Listen to a podcast and complete the note below. Write only ONE word for each question.</strong></p>`,
+media:`https://img.loigiaihay.com/picture/2024/1224/hk1-ta8-right-de-7.mp3`,
+        question: `<p><strong>School life:</strong></p>
+<p>At the age of (<strong>36) __________</strong>, students take their first important exams.</p>
+      `,
+        options:[],
+        answer: `sixteen`,
+        rewrite: ``,
+        explanation: `
+<p>At the age of (<strong>36) sixteen</strong>, students take their first important exams.</p>
+<p><em>(Ở tuổi mười sáu, học sinh tham gia kỳ thi quan trọng đầu tiên.)</em></p>
+<p><strong>Thông tin: </strong></p>
+<p>At the age of sixteen, most students take their first important exams.</p>
+<p><em>(Ở tuổi mười sáu, hầu hết học sinh đều tham gia kỳ thi quan trọng đầu tiên.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>Teenagers have to study at least <strong>(37) __________</strong>subjects.</p>
+      `,
+        options:[],
+        answer: `five`,
+        rewrite: ``,
+        explanation: `<p>Teenagers have to study at least <strong>(37) five </strong>subjects.</p>
+<p><em>(Thanh thiếu niên phải học ít nhất năm môn học.)</em></p>
+<p><strong>Thông tin: </strong>They have to study at least five subjects to prepare for the exams.</p>
+<p><em>(Họ phải học ít nhất 5 môn để chuẩn bị cho kỳ thi.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p><strong>School uniforms:</strong></p>
+<p>Uniforms help people to tell which school a student goes to.</p>
+<p>In London, there are cases of <strong>(38) __________</strong> and fighting between teens from different schools.</p>
+      `,
+        options:[],
+        answer: `bullying`,
+        rewrite: ``,
+        explanation: `<p>bullying (V-ing): bắt nạt người khác</p>
+<p>In London, there are cases of <strong>(38) bullying</strong> and fighting between teens from different schools.</p>
+<p><em>(Ở London, có trường hợp bắt nạt và đánh nhau giữa thanh thiếu niên từ các trường khác nhau.)</em></p>
+<p><strong>Thông tin: </strong>In London, there are many cases of bullying and fighting between students from different schools.</p>
+<p><em>(Tại London xảy ra nhiều trường hợp bắt nạt và đánh nhau giữa học sinh các trường khác nhau.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p><strong>Free time:</strong></p>
+<p><strong>(39) __________</strong>is the greatest interest for teenagers in Britain.</p>
+      `,
+        options:[],
+        answer: `music`,
+        rewrite: ``,
+        explanation: `<p>music (n): âm nhạc</p>
+<p><strong>(39) Music </strong>is the greatest interest for teenagers in Britain.</p>
+<p><em>(Âm nhạc là mối quan tâm lớn nhất của thanh thiếu niên ở Anh.)</em></p>
+<p><strong>Thông tin: </strong>Music is the number one interest for British teens.</p>
+<p><em>(Âm nhạc là mối quan tâm số một của thanh thiếu niên Anh.)</em></p>`,
+      },
+      {
+        id: 41,
+        extra: ``,
+        question: `<p>Rock, <strong>(40) __________</strong>, Blues, and EDM are popular types of music.</p>
+<p>Teenagers often sing, make music, or eat together.</p>
+      `,
+        options:[],
+        answer: `Hip-hop`,
+        rewrite: ``,
+        explanation: `<p>Rock, <strong>(40) Hip-hop</strong>, Blues, and EDM are popular types of music.</p>
+<p><em>(Rock, Hip-hop, Blues, và EDM là những thể loại nhạc phổ biến.)</em></p>
+<p><strong>Thông tin: </strong>Rock, Hip-hop, Blues, and EDM are all popular.</p>
+<p><strong><em>(</em></strong><em>Rock, Hip-hop, Blues và EDM đều phổ biến.)</em></p><p><strong>School life:</strong></p>
+<p>At the age of <strong>(36) sixteen</strong>, students take their first important exams.</p>
+<p>Teenagers have to study at least <strong>(37) five </strong>subjects.</p>
+<p><strong>School uniforms:</strong></p>
+<p>Uniforms help people to tell which school a student goes to.</p>
+<p>In London, there are cases of <strong>(38) bullying</strong> and fighting between teens from different schools.</p>
+<p><strong>Free time:</strong></p>
+<p><strong>(39) Music </strong>is the greatest interest for teenagers in Britain.</p>
+<p>Rock, <strong>(40) Hip-hop</strong>, Blues, and EDM are popular types of music.</p>
+<p>Teenagers often sing, make music, or eat together.<strong></strong></p>`,
+      },
+    ],
+  },
+   // {
   //   semester: 2,
   //   grade: 8,
   //   questions: [
@@ -12276,7 +25494,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12286,7 +25504,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12296,7 +25514,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12306,7 +25524,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12316,7 +25534,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12326,7 +25544,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12336,7 +25554,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12346,7 +25564,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12356,7 +25574,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12366,7 +25584,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12376,7 +25594,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12386,7 +25604,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12396,7 +25614,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12406,7 +25624,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12416,7 +25634,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12426,7 +25644,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12436,7 +25654,7 @@ had
   //       extra: ``,
   //       question: `
   //         `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12446,7 +25664,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12456,7 +25674,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12466,7 +25684,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12476,7 +25694,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12486,7 +25704,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12496,7 +25714,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12506,7 +25724,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12516,7 +25734,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12526,7 +25744,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12536,7 +25754,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12546,7 +25764,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12556,7 +25774,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12566,7 +25784,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12576,7 +25794,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12586,7 +25804,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12596,7 +25814,7 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
@@ -12606,1396 +25824,13 @@ had
   //       extra: ``,
   //       question: `
   //     `,
-  //       options: [],
+  //       options:[],
   //       answer: ``,
   //       rewrite: ``,
   //       explanation: ``,
   //     },
   //   ],
   // },
-  // {
-  //   semester: 2,
-  //   grade: 8,
-  //   questions: [
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //   ],
-  // },
-  // {
-  //   semester: 2,
-  //   grade: 8,
-  //   questions: [
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //   ],
-  // },
-  // {
-  //   semester: 2,
-  //   grade: 8,
-  //   questions: [
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //   ],
-  // },
-  // {
-  //   semester: 2,
-  //   grade: 8,
-  //   questions: [
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //         `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //     {
-  //       id: 41,
-  //       extra: ``,
-  //       question: `
-  //     `,
-  //       options: [],
-  //       answer: ``,
-  //       rewrite: ``,
-  //       explanation: ``,
-  //     },
-  //   ],
-  // },
+
 ];
 export const eExamLength = eExam.length;

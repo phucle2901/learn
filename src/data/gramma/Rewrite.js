@@ -1057,7 +1057,7 @@ export const gramma = [
 <p >Dạng rút gọn của câu điều kiện loại 3 + loại 2:</p>
 <ul>
 <li>
-<p><strong >If you had slept well last night</strong>, you wouldn’t feel tired now.<br\>
+<p><strong >If you had slept well last night</strong>, you wouldn’t feel tired now.<br/>
 → viết lại thành: <strong >Had you slept well last night</strong>, ...</p>
 </li>
 </ul>

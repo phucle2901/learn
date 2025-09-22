@@ -2755,7 +2755,7 @@ not permitted
     options: [
       `sou<u>th</u>ern `,
       `grow<u>th</u> `,
-      `wi<u>th</u>in D. al<u>th</u>ough`,
+      `wi<u>th</u>in`,`al<u>th</u>ough`,
     ],
     answer: `2`,
     explanation: `  Đáp án A, C, D phần gạch chân phát âm là /ð/. Đáp án B
@@ -3774,22 +3774,29 @@ not permitted
     <p>Đáp án A, B, C phát âm là /s/, đáp án D phát âm là /z/</p>
     <p>Đáp án D.</p>`,
   },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [`par<u>t</u>icular`, `atten<u>t</u>ion`, `ini<u>t</u>iate`, `substan<u>t</u>ial`],
+    answer: `1`,
+    explanation: `substantial /səbˈstænʃl/<br/>
+
+initiate / ɪˈnɪʃieɪt/<br/>
+
+particular /pərˈtɪkjələr/<br/>
+
+attention /əˈtenʃn/<br/>
+
+Nguyên tắc nhận dạng phụ âm /t/<br/>
+
+[t] đứng trước [ia, ie, io] - > [t] sẽ đọc là /ʃ/<br/>
+
+[t] đứng trước [u] + nằm trong âm tiết không được nhấn trọng âm - > [t] đọc thành /tʃ/ VD: nature /ˈneɪtʃər/, congratulate / kənˈɡrætʃuleɪt/,…<br/>
+
+[t] đọc giữ nguyên là [t] trong các trường hợp còn lại.`,
+  },
+ 
   // {
   //   id: 41,
   //   question: `

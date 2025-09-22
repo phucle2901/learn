@@ -5098,70 +5098,91 @@ Tạm dịch: Sau khi cha mẹ mất, cô được bà ngoại nuôi nấng.<br/
 Tạm dịch: Chúng tôi khá may mắn vì khách sạn của chúng tôi chỉ cách bãi biển một quãng ngắn.<br/>
 `,
   },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 41,
-  //   question: `
-  // `,
-  //   options: [``, ``, ``, ``],
-  //   answer: ``,
-  //   explanation: ``,
-  // },
+  {
+    id: 41,
+    question: `______ allow us to connect and share information with friends and family around the world.
+  `,
+    options: [`Social Network`, `Telepathy`, `Disaster`, `Item`],
+    answer: `1`,
+    explanation: `Social Network (n): mạng xã hội<br/>
+Telepathy (n): thần giao cách cảm<br/>
+Disaster (n): thảm họa<br/>
+Item (n): vật phẩm<br/>
+Tạm dịch: mạng xã hội cho phép chúng ta kết nối và chia sẻ thông tin với bạn bè và gia đình trên khắp thế giới.`,
+  },
+  {
+    id: 41,
+    question: `______ is the force that causes something to fall to the ground.
+  `,
+    options: [`Oxygen`, `Liquid`, `Trace`, `Gravity`],
+    answer: `1`,
+    explanation: `oxygen (n): khí o-xi<br/>
+liquid (n): chất lỏng<br/>
+trace (n): dấu vết, vết tích<br/>
+gravity (n): lực hút trái đất<br/>
+Tạm dịch: Lực hút trái đất là lực làm cho một vật rơi xuống đất.`,
+  },
+  {
+    id: 41,
+    question: `______ are the living things from another world or planet.
+  `,
+    options: [`Craters`, `UFOs`, `Traces`, `Aliens`],
+    answer: `2`,
+    explanation: `crater (n): miệng núi lửa<br/>
+UFO (n): vật thể bay không xác định<br/>
+trace (n): dấu vết, vết tích<br/>
+alien (n): người ngoài hành tinh<br/>
+Tạm dịch: Người ngoài hành tinh là những sinh vật sống đến từ thế giới hoặc hành tinh khác.`,
+  },
+  {
+    id: 41,
+    question: `The competition will take place ______ 7 a.m and 11 a.m.
+  `,
+    options: [`between`, `at`, `up to`, `from`],
+    answer: `1`,
+    explanation: `Cấu trúc: between sth and sth (giữa…..và…..)<br/>
+Dịch câu: Cuộc thi sẽ diễn ra từ 7 giờ sáng đến 11 giờ sáng.`,
+  },
+  {
+    id: 41,
+    question: `She asked me ______ at English.
+  `,
+    options: [`If i was good`, `If I good`, `If I am good`, `If was I good`],
+    answer: `1`,
+    explanation: `Câu tường thuật cho câu hỏi ‘Yes/No’, ta dùng cấu trúc ‘S + asked sb if/whether S + V (lùi thì)’<br/>
+Dịch câu: Cô ấy hỏi tôi có giỏi Tiếng Anh không.`,
+  },
+  {
+    id: 41,
+    question: `Andrew told me that he ______ fish the ______ day.
+  `,
+    options: [`<p>had not eaten / previous</p>`, `<p>would not eat / last</p>`, `<p>did not eat / before </p>`, `<p>have not eaten / ago </p>`],
+    answer: `1`,
+    explanation: `Dựa vào trạng từ thời gian thì đáp án chứa "previous" sẽ chính xác, còn các đáp án khác không đúng ở phần chuyển trạng từ thời gian trong câu tường thuật.<br/> The previous day <= yesterday do đó thì ở câu trực tiếp sẽ là thì quá khứ đơn, và thì ở câu gián tiếp sẽ là quá khứ hoàn thành.<br/>
+Dịch: Andrew nói với tôi rằng anh ấy đã không ăn cá vào ngày hôm qua.`,
+  },
+  {
+    id: 41,
+    question: `I asked Martha ______ to enter law school.
+  `,
+    options: [`<p>if she was planning</p>`, `<p>is she planning</p>`, `<p>was she planning</p>`, `<p>are you planning</p>`],
+    answer: `1`,
+    explanation: `Cấu trúc câu hỏi gián tiếp dạng Yes/No question<br/>
+S + asked sb + if/whether + S + V (lùi 1 thì)<br/>
+Tạm dịch: Tôi hỏi Martha liệu cô ấy có kế hoạch vào trường luật chưa.`,
+  },
+  {
+    id: 41,
+    question: `"Would you like some more coffee?" She said to me.
+  `,
+    options: [`<p>She asked me if I wanted some coffee.</p>`, `<p>She wanted to invite me for a cup of coffee.</p>`, `<p>She asked me would I like some more coffee.</p>`, `<p>She offered me some more coffee.</p>`],
+    answer: `4`,
+    explanation: `Bạn có muốn uống thêm cà phê nữa không? Cô ấy hỏi tôi.<br/>
+Cấu trúc: Câu mời (Would you like......?)<br/>
+=> S+ offered Sb Sth: đề nghị, mời ai cái gì<br/>
+Câu trả lời là: "She offered me some more coffee."<br/>
+Dịch nghĩa: Cô ấy đã mời tôi uống thêm cà phê.`,
+  },
   // {
   //   id: 41,
   //   question: `

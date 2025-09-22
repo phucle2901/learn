@@ -360,6 +360,20 @@ const Form = () => {
                 <p>He went <b>upstairs</b>. (Anh ấy đi lên lầu.)</p></li>
                 <li class="pb-5"><p class="font-bold color-dard-puple">Trạng từ chỉ cách thức (manner): Thường đứng sau động từ hoặc tân ngữ.</p>
                 <p>She sings <b>beautifully</b>. (Cô ấy hát rất hay).</p><p>He drives his car <b>carefully</b>. (Anh ấy lái xe rất cẩn thận.)</p></li>
+				<li class="pb-5">
+				<p class="font-bold color-dard-puple">Khi trạng từ chỉ thời gian, địa điểm, nguyên nhân, mục đích,... đứng ở đầu câu, thì trạng từ thường đứng trước động từ</p>
+				<p>Yesterday, the dog ate the bone. (Hôm qua, con chó ăn cái xương.)</p>
+				<p>In the park, the children are playing. (Trong công viên, trẻ em đang chơi.)</p>
+				</li>
+				<li class="pb-5"><p class="font-bold color-dard-puple">Khi trạng từ bổ nghĩa cho một danh từ hoặc cụm danh từ, thì trạng từ thường đứng sau danh từ hoặc cụm danh từ đó</p>
+				<p>The big dog quickly ate the bone. (Con chó to nhanh chóng ăn cái xương.)</p>
+				<p>The children playing outside are having fun. (Trẻ em đang chơi ở ngoài đang vui vẻ.)</p></li>
+				<li class="pb-5"><p class="font-bold color-dard-puple">Khi trạng từ bổ nghĩa cho một mệnh đề, thì trạng từ thường đứng cuối mệnh đề đó</p>
+				<p>The dog ate the bone quickly. (Con chó ăn cái xương nhanh chóng.)</p>
+				<p>The children are playing outside because it is a beautiful day. (Trẻ em đang chơi ở ngoài vì hôm nay là một ngày đẹp trời.)</p></li>
+				<li class="pb-5"><p class="font-bold color-dard-puple">Khi trạng từ bổ nghĩa cho một câu, thì trạng từ thường đứng cuối câu.</p>
+				<p>The children are not playing outside now because it is raining. (Trẻ em không chơi ở ngoài vì trời đang mưa.)</p>
+				<p></p></li>
             </ul>
         </td></tr>
         <tr><td colSpan={3}><p class="font-bold text-[1.4em]  text-shadow-h1">***Lưu ý:</p>
@@ -489,6 +503,17 @@ const Form = () => {
 			<td ><span class="font-bold">17</span></td>
 			<td ><span class="font-bold color-dard-puple">Khi có "and/or/but" thì hai vế cân nhau (cùng chức năng từ loại/ngữ pháp/ ngữ nghĩa).</span></td>
 			<td ><span >The International Red Cross helps people in need without any discrimination based on nationality, race, religion, class or political opinions.</span></td>
+		</tr>
+		<tr><td colspan="3"><p class="font-bold text-[1.5em]  text-shadow-h1 pt-3 pb-3">C.  DẤU HIỆU NHẬN BIẾT TỪ LOẠI </p></td></tr>
+		<tr>
+		  <td colSpan={3}>
+		  <ul class="compare-list">
+		  <li class="pb-5"><b>Danh từ:</b> </li>
+		  <li class="pb-5"><b>Động từ:</b> </li>
+		  <li class="pb-5"><b>Tính từ:</b>	</li>
+		  <li class="pb-5"><b>Trạng từ:</b> </li>
+		  </ul>
+		  </td>
 		</tr>
         
             </tbody>

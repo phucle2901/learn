@@ -17,7 +17,7 @@ import { eEXTRACONTENT } from "../../data/extracontent";
 import { eRIGHTTENSE } from "../..//data/righttenseorform";
 
 
-const Exam = ({setGradeExam,refeshData,setRefeshData,gradeExam}) => {
+const Exam = ({setGradeExam,refeshData,setRefeshData,gradeExam,uniqueID}) => {
 console.log("gradeExam=",gradeExam);
   const scrollRef = useRef(null);
   const playerRef = useRef(null);
@@ -134,7 +134,9 @@ console.log("gradeExam=",gradeExam);
             setupFirst();
           };
         loadData();
-    }else{      
+    }else{   
+
+      if(uniqueID===-1){
         questionPlan.push(...getRandomItems(ePRONOUNCIATION, 2, 0));
         questionPlan.push(...getRandomItems(eWORDDIFFER, 2, 1));
         questionPlan.push(...getRandomItems(eUNDERLINED, 3, 2));
@@ -146,6 +148,33 @@ console.log("gradeExam=",gradeExam);
         questionPlan.push(...getRandomItems(eRIGHTTENSE, 4, 7));
         questionPlan.push(...getRandomItems(eREARRANGE, 3, 9));
         questionPlan.push(...getRandomItems(eREWRITE, 5, 10));
+      }else{
+        console.log("uniqueID: "+uniqueID);
+        if(uniqueID===0){
+          questionPlan.push(...getRandomItems(ePRONOUNCIATION, 10, 0));
+        }else if(uniqueID===1){
+          questionPlan.push(...getRandomItems(eWORDDIFFER, 10, 1));
+        }else if(uniqueID===2){
+          questionPlan.push(...getRandomItems(eUNDERLINED, 10, 2));
+        }else if(uniqueID===3){
+          questionPlan.push(...getRandomItems(eVOCABULARY, 20, 3));
+        }else if(uniqueID===4){
+          questionPlan.push(...getRandomItems(eSUITABLE, 10, 4));
+        }else if(uniqueID===5){
+          questionPlan.push(...getRandomItems(eCLOSEST, 10, 5));
+        }else if(uniqueID===6){
+          questionPlan.push(...getRandomItems(eOPPOSITE, 10, 6));
+        }else if(uniqueID===7){
+          questionPlan.push(...getReadRandomItems(eREAD, 1, 8));
+        }else if(uniqueID===8){
+          questionPlan.push(...getRandomItems(eRIGHTTENSE, 10, 7));
+        }else if(uniqueID===9){
+          questionPlan.push(...getRandomItems(eREARRANGE, 10, 9));
+        }else if(uniqueID===10){
+          questionPlan.push(...getRandomItems(eREWRITE, 10, 10));        
+        }
+
+      }
         setupFirst();     
     }
     }

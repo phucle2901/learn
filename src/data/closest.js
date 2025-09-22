@@ -1678,6 +1678,170 @@ export const eCLOSEST = [
     answer: 3,
     explanation: `home and dry = have been successful = thành công`,
   },
+  {id:9,
+  question: `After the storm, we shouldn't drink water because it can be <u>poisonous</u>.
+  `, options:[
+      `healthy`,
+      `toxic`,
+      `fresh`,
+      `salty`],
+  answer:2,
+  explanation:`healthy (adj): khỏe mạnh<br/>
+toxic (adj) = poisonous (adj): có độc<br/>
+fresh (adj): tươi mới<br/>
+salty (adj): mặn<br/>
+Tạm dịch: Sau cơn bão, chúng ta không nên uống nước vì nó có thể gây độc.`
+  },
+  {id:9,
+  question: `“We lost the last game because of the referee,” said the team captain.
+  `, options:[
+      `<p>The team captain said that without the referee, they might have lost the last game.</p>`,
+      `<p>The team captain blamed the referee for their loss in the last game.</p>`,
+      `<p>The team captain refused to tell the referee about their loss in the last game.</p>`,
+      `<p>The team captain admitted to the referee that they had lost in the last game.</p>`],
+  answer:2,
+  explanation:`blame sb for sth: đổ lỗi cho ai đó về việc gì.<br/>
+Tạm dịch: “Chúng tôi đã thua trận gần nhất vì trọng tài,” đội trưởng nói.<br/>
+-> Đội trưởng đã đổ lỗi cho trọng tài về bàn thua của họ trong trận đấu gần nhất.<br/>
+<div _ngcontent-ng-c2534777750="" class="container-video"><div _ngcontent-ng-c2534777750="" class="title-video ng-star-inserted" style=""> Kiến thức liên quan </div><div _ngcontent-ng-c737685623="" class="content-html fadein ng-star-inserted" style="position: relative;"><p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">Câu tường thuật là loại câu thuật lại lời nói của một người khác dưới dạng gián tiếp.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">*&nbsp; Thay đổi thì của câu: Thì của các động từ trong lời nói gián tiếp thay đổi theo một nguyên tắc chung là lùi về quá khứ</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">* Thay đổi đại từ: Các đại từ nhân xưng và đại sở hữu khi chuyển từ lời nói trực tiếp sang lời nói gián tiếp được thay đổi: ví dụ: I &gt; she/he, we &gt; they</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">* Các trạng từ chỉ nơi chốn, thời gian: xem bảng</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt"><strong><span style="color:#4472c4">I.&nbsp;Câu tường thuật ở dạng câu kể</span></strong></span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">S + say(s)/said + (that) + S + V</span></span></p>
+
+<ul>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">says/say to + O&nbsp;-&gt;&nbsp;tells/tell + O</span></span></li>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">said to + O&nbsp;-&gt;told+O</span></span></li>
+</ul>
+
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">Eg: He said to me” I haven’t finished my work” -&gt;&nbsp;He told me he hadn’t finished his work.</span></span></p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<table cellspacing="0" class="Table" style="background:white; border-collapse:collapse; border:undefined; width:390.7pt">
+	<tbody>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">&nbsp;<strong>Direct speech&nbsp;</strong></span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt"><strong>&nbsp;Reported speech</strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">today</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">that day</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">tonight &nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">that night</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">tomorrow&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">the next day / the following day</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">yesterday</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">the day before / the previous day</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">ago</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">before</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">now &nbsp;&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">then</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">next / on Tuesday</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">the next / following Tuesday</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">last Tuesday</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">the previous Tuesday / the Tuesday before</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">the day after tomorrow</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">in two days’ time / two days later</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">this&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">that</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">these</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">those</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">this / that&nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">the</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">here &nbsp;</span></span></p>
+			</td>
+			<td style="background-color:white; height:21.95pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:11pt">there</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div></div>`
+  },
   // {id:9,
   // question: `
   // `, options:[
@@ -1687,5 +1851,55 @@ export const eCLOSEST = [
   //     ``],
   // answer:4,
   // explanation:``
-  // }
+  // },
+  // {id:9,
+  // question: `
+  // `, options:[
+  //     ``,
+  //     ``,
+  //     ``,
+  //     ``],
+  // answer:4,
+  // explanation:``
+  // },
+  // {id:9,
+  // question: `
+  // `, options:[
+  //     ``,
+  //     ``,
+  //     ``,
+  //     ``],
+  // answer:4,
+  // explanation:``
+  // },
+  // {id:9,
+  // question: `
+  // `, options:[
+  //     ``,
+  //     ``,
+  //     ``,
+  //     ``],
+  // answer:4,
+  // explanation:``
+  // },
+  // {id:9,
+  // question: `
+  // `, options:[
+  //     ``,
+  //     ``,
+  //     ``,
+  //     ``],
+  // answer:4,
+  // explanation:``
+  // },
+  // {id:9,
+  // question: `
+  // `, options:[
+  //     ``,
+  //     ``,
+  //     ``,
+  //     ``],
+  // answer:4,
+  // explanation:``
+  // },
 ];

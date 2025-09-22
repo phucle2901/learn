@@ -349,7 +349,7 @@ export const eExam = [
       {
         id: 41,
         extra: `<p ><b><i>Read the following sign or notice and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.</i></b><br/></p>`,
-        question: `What does the sign say?\u003Cbr\u003E\u003Cimg src=\"https://asset.moon.vn/img/chat/large/2025/2/d4d44de7-df91-4fad-8ab2-1b307cba71d4.jpg\" data-filename=\"\" style=\"width: 50%; max-width: 600px;\"\u003E
+        question: `What does the sign say? <img src="https://asset.moon.vn/img/chat/large/2025/2/d4d44de7-df91-4fad-8ab2-1b307cba71d4.jpg" />>
         `,
         options: [
           `You need to clean the floor immediately.`,
@@ -364,7 +364,7 @@ export const eExam = [
       },
       {
         id: 41,
-        question: `"What does the notice say?\u003Cbr\u003E\u003Cimg src=\"https://asset.moon.vn/img/chat/large/2025/2/d3c28289-dba6-4a63-8eae-32a115d50c82.jpg\" data-filename=\"\" style=\"max-width: 600px; height: auto;\"\u003E
+        question: `"What does the notice say?<img src=\"https://asset.moon.vn/img/chat/large/2025/2/d3c28289-dba6-4a63-8eae-32a115d50c82.jpg" />>
         `,
         options: [
           `Only hospital visitors can park here for longer than two hours.`,

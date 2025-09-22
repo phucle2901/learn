@@ -3235,54 +3235,60 @@ export const eUNDERLINED = [
 <p><strong>Tạm dịch:</strong> Venice nổi tiếng với phong cảnh yên bình, thời tiết mát mẻ và những nhà hàng đẹp.</p>
 <p>Đáp án C.</p>`,
   },
-  // {
-  //   id: 15,
-  //   question: `
-  //   `,
-  //   options: [ ``,``,``,``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 15,
-  //   question: `
-  //   `,
-  //   options: [ ``,``,``,``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 15,
-  //   question: `
-  //   `,
-  //   options: [ ``,``,``,``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 15,
-  //   question: `
-  //   `,
-  //   options: [ ``,``,``,``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 15,
-  //   question: `
-  //   `,
-  //   options: [ ``,``,``,``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
-  // {
-  //   id: 15,
-  //   question: `
-  //   `,
-  //   options: [ ``,``,``,``],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
+  
+  {
+    id: 15,
+    question: `She was born <ins>in</ins> <u>that</u> fateful day in <u>the</u> month <ins>of</ins> September in&nbsp;1980.
+    `,
+    options: [ `that`,`the`,`in`,`of`],
+    answer: 3,
+    explanation: `In dùng cho tháng năm hay các buổi trong ngày.<br/>
+On: dùng cho các ngày cụ thể.<br/>
+Vậy câu trả lời là "in" sửa thành "on".<br/>
+Tạm dịch: Tôi sinh ra vào cái ngày định mệnh tháng 9 năm 1980.
+
+`,
+  },
+  {
+    id: 15,
+    question: `The children ran ______ the hill to see the sunset.
+    `,
+    options: [ `to`,`with`,`up`,`on`],
+    answer: 3,
+    explanation: `Ý của câu là: Trẻ con chạy lên đồi để ngắm mặt trời lặn. --- > dùng giới từ ‘up’`,
+  },
+  {
+    id: 15,
+    question: `I like that picture hanging ______ the wall ______ the kitchen.
+    `,
+    options: [ `on/ at`,`at/ at`,`in/ on`,`on/ in`],
+    answer: 4,
+    explanation: `Ta có: on the wall: ở trên tường<br/>
+in the kitchen: ở trong phòng bếp<br/>
+Tạm dịch: Tớ thích bức tranh treo ở trên tường trong phòng bếp.`,
+  },
+  {
+    id: 15,
+    question: `I <ins>looked</ins> everywhere for <ins>my</ins> keys but I <ins>could</ins> only find <ins>your</ins>.
+    `,
+    options: [ `looked`,`my`,`could`,`your`],
+    answer: 4,
+    explanation: `Kiến thức: Đại từ sở hữu<br/>
+Sửa: your thành yours<br/>
+Câu mang nghĩa sở hữu mà không có danh từ phía sau chỗ trống nên dùng đại từ sở hữu chứ không phải tính từ sở hữu.<br/>
+Tạm dịch: Tôi đã tìm khắp nơi để tìm chìa khóa của mình nhưng tôi chỉ có thể tìm thấy của bạn.`,
+  },
+  {
+    id: 15,
+    question: `My mother <ins>asked</ins> me <ins>if</ins> the doctor <ins>came</ins> to <ins>see</ins> me the day before.
+    `,
+    options: [ `<p>came</p>`,`<p>asked</p>`,`<p>if</p>`,`<p>see</p>`],
+    answer: 1,
+    explanation: `"the day before" chứng tỏ vế chính của câu trực tiếp đang ở thì quá khứ.<br/>
+Thì quá khứ => Thì quá khứ hoàn thành khi chuyển sang câu gián tiếp.<br/>
+Ta cần sửa: "came" => had come<br/>
+Tạm dịch: Mẹ tôi hỏi rằng liệu bác sĩ đã đến khám cho tôi vào ngày hôm qua hay chưa.`,
+  },
   // {
   //   id: 15,
   //   question: `

@@ -360,13 +360,15 @@ an English course.
 <p><strong>Tạm dịch:</strong> Tất cả chúng tôi đều cảm thấy kinh hãi khi nghe thấy một tiếng nổ lớn từ tòa nhà gần đó ngày hôm qua.</p>
 <p>Đáp án explosion.</p>`,
   },
-  // {id:41,
-  //   question: `
-  //   `, options:[
-  //       ],
-  //   answer: ``,
-  // explanation: ``,
-  // },
+  {id:41,
+    question: `She asked me if I (like) ______ pop music.
+    `, options:[
+        ],
+    answer: `liked`,
+  explanation: `Câu tường thuật cho câu hỏi ‘Yes/No’, cấu trúc: S + asked sb if + S + V(lùi thì)<br/>
+ She asked me if I liked pop music.<br/>
+Dịch câu: Cô ấy hỏi tôi có thích nhạc pop không.`,
+  },
   // {id:41,
   //   question: `
   //   `, options:[

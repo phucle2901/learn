@@ -2120,14 +2120,104 @@ populous
 <p>Đáp án D có trọng âm rơi vào âm tiết thứ 1, các phương án còn lại đều có trọng âm rơi vào âm tiết thứ 3</p>
 <p>Đáp án D.</p>`,
   },
-  // {
-  //   id: 9,
-  //   question: `
-  //   `,
-  //   options: [ `],
-  //   answer: 4,
-  //   explanation: ``,
-  // },
+  {
+    id: 41,
+    question: `
+  `,
+    options: [`sensitive`, `sociable `, `expensive`, `negative`],
+    answer: ``,
+    explanation: `expensive /ɪkˈspen.sɪv/: trọng âm vào âm tiết thứ 2<br/>
+sensitive /ˈsen.sɪ.tɪv/: trọng âm vào âm tiết thứ 1<br/>
+negative /ˈneɡ.ə.tɪv/: trọng âm vào âm tiết thứ 1<br/>
+sociable /ˈsəʊ.ʃə.bəl/: trọng âm vào âm tiết thứ 1<br/>
+Quy tắc nhấn trọng âm của danh từ có 3 âm tiết<br/>
+- Rơi vào âm tiết thứ 2 nếu âm cuối chứa nguyên âm ngắn hoặc /əu/, âm giữa chứa nguyên âm dài hoặc âm đôi hoặc kết thúc hơn 1 phụ âm.<br/>
+VD: banana /bəˈnɑːnə/ (quả chuối) <br/>
+disaster /dɪˈzɑːstə(r)/ (thảm họa) <br/>
+accountant /əˈkaʊntənt/ (kế toán) <br/>
+repayment /rɪˈpeɪmənt/ (sự trả lại) <br/>
+- Rơi vào âm tiết thứ nhất nếu âm giữa và âm cuối chứa nguyên âm ngắn và kết thúc không quá 1 phụ âm.<br/>
+VD: ‘cinema, ‘animal, ‘enemy, …`,
+  },
+  {
+    id: 9,
+    question: `
+    `,
+    options: [ `parent`,` dinner`,`women`,`attempt`],
+    answer: 4,
+    explanation: `Từ "attempt" có trọng âm rơi vào âm tiết thứ 2.<br/>
+Các từ còn lại có trọng âm rơi vào âm tiết đầu.<br/>
+- parent /ˈperənt/<br/>
+- attempt /əˈtempt/<br/>
+- women /ˈwɪmɪn/<br/>
+- dinner /ˈdɪnər/<br/>
+<div _ngcontent-ng-c737685623="" class="content-html fadein ng-star-inserted" style="position: relative;"><p style="text-align: center;"><strong>Pronunciation: Trọng âm từ có hai âm tiết</strong></p>
+
+<p><em><strong>1. Động từ có hai âm tiết</strong></em></p>
+
+<p>Động từ có hai âm tiết, trọng âm rơi vào âm tiết thứ hai</p>
+
+<p>Ví dụ: invite /ɪnˈvaɪt/; provide /prəˈvaɪd/; …</p>
+
+<p><em><strong>2. Danh từ và tính từ có hai âm tiết</strong></em></p>
+
+<p>Danh từ và tính từ có hai âm tiết, trọng âm thường rơi vào âm tiết thứ nhất</p>
+
+<p>Ví dụ: father /ˈfɑːðə(r)/; table /ˈteɪbl/; happy /ˈhæpi/; ...</p>
+
+<p>Ví dụ: record /ˈrekɔːd/ là danh từ - băng ghi âm, /rɪˈkɔːd/ là động từ - ghi âm; desert /ˈdezət/ là danh từ - sa mạc, /dɪˈzɜːt/ là tính từ - bỏ rơi; present /ˈpreznt/ là danh từ - món quà, /prɪˈzent/ là động từ - tặng quà; …</p>
+
+<p><em><strong>3. Động từ ghép</strong></em></p>
+
+<p>Động từ ghép trọng âm rơi vào âm tiết thứ hai</p>
+
+<p>Ví dụ: become /bɪˈkʌm/; …</p>
+
+<p><em><strong>4. Danh từ ghép</strong></em></p>
+
+<p>Đối với danh từ ghép, trọng âm rơi vào âm tiết thứ nhất</p>
+
+<p>Ví dụ: &nbsp;doorman /ˈdɔːrmən/, typewriter /ˈtaɪpraɪtər/, greenhouse /ˈɡriːnhaʊs/ …</p>
+
+<p><em><strong>5. Các từ có hai âm tiết bắt đầu bằng “a”</strong></em></p>
+
+<p>Các từ có hai âm tiết bắt đầu bằng “a” thì trọng âm rơi vào âm tiết thứ hai</p>
+
+<p>Ví dụ: above /əˈbʌv/, about /əˈbaʊt/, …</p>
+
+<p><em><strong>6. Các từ chỉ số lượng</strong></em></p>
+
+<p>Các từ chỉ số lượng nhấn trọng âm vào -teen từ có kết thúc bằng -teen, và nhấn trọng âm vào âm tiết thứ nhất nếu từ chỉ số lượng kết thúc bằng -y</p>
+
+<p>Ví dụ: thirty /ˈθɜːti/; sixteen /sɪksˈtiːn/, …</p>
+
+<p>Chú ý:</p>
+
+<ul>
+	<li>
+	<p>Các từ hai âm tiết tận cùng bằng ever thì nhấn vào chính ever.</p>
+	</li>
+</ul>
+
+<p>Ví dụ: whenever /wenˈevə(r)/, whatever /wɒtˈevə(r)/, ...</p>
+
+<ul>
+	<li>
+	<p>Từ kết thúc bằng các đuôi how, what, where, sẽ nhấn trọng âm ở âm đầu tiên.</p>
+	</li>
+</ul>
+
+<p>Ví dụ: anywhere /ˈeniweə(r)/, somehow /ˈsʌmhaʊ/, ...</p>
+
+<ul>
+	<li>
+	<p>Âm tiết cuối chứa /ow/ sẽ nhấn trọng âm ở âm thứ nhất.</p>
+	</li>
+</ul>
+
+<p>Ví dụ: borrow/ ‘bɒr.əʊ, follow/’fɒlou, narrow/’nær.əʊ (allow là ngoại lệ vì chữ “a” đứng đầu thường không được nhấn trọng âm).</p>
+</div>`,
+  },
   // {
   //   id: 9,
   //   question: `

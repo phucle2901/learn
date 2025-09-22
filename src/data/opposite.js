@@ -13,7 +13,18 @@ export const eOPPOSITE = [
 
 <p>D. simple (adj): đơn giản</p><p>=&gt; poor (adj): nghèo &gt;&lt; rich (adj): giàu có</p><p><strong>Tạm dịch:</strong> Người Mường ở Hòa Bình, Thanh Hóa nổi tiếng với nền văn học dân gian nghèo nàn.</p><p><strong>Chọn C. </strong></p>`,
   },
-
+  {
+    id: 15,
+    question: `Mai want to take an <u><strong>online</strong></u> English course to improve speaking skill.
+    `,
+    options: [ `offline`,`traditional`,`modern`,`convenient`],
+    answer: 1,
+    explanation: `online (adj): trực tuyến >< offline (adj): ngoại tuyến<br/>
+traditional (adj): theo truyền thống<br/>
+modern (adj): hiện đại<br/>
+convenient (adj): thuận tiện<br/>
+Tạm dịch: Mai muốn tham gia một khóa học tiếng Anh trực tuyến để cải thiện kỹ năng nói.`,
+  },
   {
     id: 2,
     question: `<p> Ethnic peoples in the mountains have a <u>complicated </u>way of farming.</p>
@@ -1619,14 +1630,18 @@ export const eOPPOSITE = [
     explanation: `<p>right: đúng đắn &gt;&lt; wrong: sai lầm</p>`,
   },
 
-  //   {
-  //     id: 9,
-  //     question: `
-  // `,
-  //     options: [``, ``, ``, ``],
-  //     answer: 4,
-  //     explanation: ``,
-  //   },
+    {
+      id: 9,
+      question: `To help people's eye not to get tired while looking at computers, 3D contact lenses will be <u><strong>available</strong></u> soon.
+  `,
+      options: [`possible`, `unavailable`, `free`, `busy`],
+      answer: 2,
+      explanation: `available (adj): có sẵn ; unavailable (adj): không có sẵn<br/>
+possible (adj): có thể<br/>
+free (adj): tự do<br/>
+busy (adj): bận rộn<br/>
+Tạm dịch: Để giúp mắt mọi người đỡ mỏi khi nhìn vào máy tính, kính áp tròng 3D sẽ sớm ra mắt.`,
+    },
   //   {
   //     id: 9,
   //     question: `

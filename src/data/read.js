@@ -1665,7 +1665,165 @@ Some microscopic life forms are more (4) _______ animals. Protozoa such as the a
   }   ,
 
 
-  // {    id:10,
+  {    id:10,
+      content:`<p><br>
+In a recent survey, TechNews asked young people to predict how they will talk to each other in 30 years' time. The results are not <strong>(I) </strong>_________. Only 10% of the respondents think people will still send letters and postcards to each other<strong> (II) </strong>___________ 2050. About 30% think holography and telepathy technologies will allow them to communicate in <strong>(III) </strong>________ time with their friends. Most people say that they will connect through super smart devices instead of in person. <strong>(IV)</strong>______, more than half of the respondents express their concerns about future communication. They say that if children spend <strong>(V)</strong> ______ of their time interacting on the Internet, they may also not be able to communicate face to face very well in 30 years.</p>`,
+      questions: [
+      {id:1, question: `Blank numbered (I)`,
+          options:[
+             `surprise`,
+          `surprised`,
+          `surprisingly`,
+          `surprising`
+          ],
+          answer:4,
+          explanation:`surprising (adj): làm ngạc nhiên, làm kinh ngạc, đáng sửng sốt<br/>
+surprised (adj): ngạc nhiên, bất ngờ<br/>
+surprise (v): bất ngờ<br/>
+surprisingly (adv): một cách bất ngờ<br/>
+Chỗ trống cần một tính từ để miêu tả tính chất của danh từ "the result".<br/>
+Tính từ đuôi -ing dùng để miêu tả tính cách, tính chất, đặc điểm của người, sự vật, hiện tượng.<br/>
+Tính từ đuôi -ed dùng để diễn tả cảm xúc, cảm nhận của con người, con vật về một sự vật, hiện tượng, sự việc nào đó.<br/>
+Trích bài: The results are not surprising.<br/>
+Tạm dịch: Kết quả không có gì đáng ngạc nhiên.` },
+
+      {id:2,
+      question: `Blank numbered (II)
+      `,
+      options:[
+           `on`,
+          `for`,
+          `to`,
+          `by`],
+      answer:4,
+      explanation:`by: vào lúc, vào khi, vào khoảng, vào quãng (chỉ thời gian)<br/>
+on: vào ngày, vào lúc (chỉ thời gian, dùng cho ngày, ngày lễ và thứ trong tuần)<br/>
+for: vì, để<br/>
+to: đến<br/>
+Trích bài: Only 10% of the respondents think people will still send letters and postcards to each other by 2050.<br/>
+Tạm dịch: Chỉ 10% số người được hỏi cho rằng mọi người vẫn sẽ gửi thư và bưu thiếp cho nhau vào năm 2050.` },
+      {id:4,
+      question: `Blank numbered (III)
+      `,
+      options:[
+          `real`,
+          `fake`,
+          `personal`,
+          `private`],
+      answer:1,
+      explanation:`real (adj): thực, thực tế, có thật<br/>
+personal (adj): cá nhân<br/>
+private (adj): riêng tư<br/>
+fake (adj): giả<br/>
+Trích bài: About 30% think holography and telepathy technologies will allow them to communicate in real time with their friends.<br/>
+Tạm dịch: Khoảng 30% cho rằng công nghệ chụp ảnh ba chiều và thần giao cách cảm sẽ cho phép họ giao tiếp trong thời gian thực với bạn bè.`
+      },
+      {id:4,
+      question: `Blank numbered (IV)
+      `,
+      options:[
+          `But`,
+          `Despite`,
+          `Meanwhile`,
+          `Although`],
+      answer:3,
+      explanation:`Meanwhile: trong khi đó (bổ sung hành động/sự việc khác xảy ra cùng thời điểm với câu trước)<br/>
+Despite + N/V-ing: mặc dù<br/>
+Although + clause: mặc dù<br/>
+But: nhưng (chỉ quan hệ tương phản)<br/>
+Trích bài: Meanwhile, more than half of the respondents express their concerns about future communication.<br/>
+Tạm dịch: Trong khi đó, hơn một nửa số người được hỏi bày tỏ mối quan ngại của họ về việc giao tiếp trong tương lai.`
+      },
+      {id:5,
+      question: `Blank numbered (V)
+      `,
+      options:[
+          `less`,
+          `little`,
+          `any`,
+          `most`],
+      answer:4,
+      explanation:`most: phần lớn, hầu hết (đi với danh từ đếm được số nhiều và danh từ không đếm được)<br/>
+less: ít hơn (đi với danh từ không đếm được, so sánh hơn của little)<br/>
+little: ít (đi với danh từ không đếm được)<br/>
+any: bất kỳ (đi với danh từ đếm được số nhiều và danh từ không đếm được)<br/>
+Trích bài: They say that if children spend most of their time interacting on the Internet, they may also not be able to communicate face to face very well in 30 years.<br/>
+Tạm dịch: Họ nói rằng nếu trẻ em dành phần lớn thời gian để tương tác trên Internet, chúng cũng có thể không giao tiếp mặt đối mặt tốt trong 30 năm nữa.`
+      },
+  ]
+  }   ,
+
+
+  {    id:10,
+      content:`<center><strong>A New World</strong></center><p><br>
+Would you like to have a birthday party every 13 days? Then Gliese 581c is the place for you! Astronomers recently found the planet Gliese 581c. It <strong><ins>orbits</ins></strong> the star Gliese 581 once every 13 days. Meanwhile, Earth orbits its star, the sun, every 365 days.<br>
+Gliese 581c is an exo-planet – a planet that exists beyond our solar system. <strong><ins>It</ins></strong> is the most earth-like planet discovered so far. Astronomers say there could be liquid water on Gliese 581c. And where there’s water, there could be life. "Liquid water is critical to life as we know it," says Xavier Delfosse, one of the scientists who discovered the planet. "This planet will most probably be a very important target for the future of space missions. On the treasure map of the universe, one would be tempted to mark this planet with an X," says Delfosse.</p>`,
+      questions: [
+      {id:1, question: `What is Gliese 581c?`,
+          options:[
+             `A satellite that orbits Gliese 581c`,
+          `The star that Gliese 581 orbits`,
+          `A moon that orbits Gliese 581c`,
+          `Another planet in Gliese 581c’s solar system`
+          ],
+          answer:2,
+          explanation:`Thông tin: Astronomers recently found the planet Gliese 581c. It orbits the star Gliese 581 once every 13 days.<br>
+Tạm dịch: Các nhà thiên văn học gần đây đã tìm thấy hành tinh Gliese 581c. Nó quay quanh ngôi sao Gliese 581 cứ 13 ngày một lần.` },
+
+      {id:2,
+      question: `<p>The word "<strong><ins>orbits</ins></strong>" in paragraph 1 mostly means ______.</p>
+      `,
+      options:[
+           `circles`,
+          `runs`,
+          `exits`,
+          `walks`],
+      answer:1,
+      explanation:`orbit (v): quay quanh quỹ đạo = circle (v): quay vòng<br>
+exit (v): thoát<br>
+run (v): chạy<br>
+walk (v): đi bộ<br>
+Thông tin: It orbits the star Gliese 581 once every 13 days.<br>
+Tạm dịch: Nó quay quanh ngôi sao Gliese 581 cứ 13 ngày một lần.` },
+      {id:3,
+      question: `<p>What does "<strong><ins>It</ins></strong>" in paragraph 2 refer to?</p>
+      `,
+      options:[
+          `solar system`,
+          `water`,
+          `life`,
+          `Gliese 581c`],
+      answer:4,
+      explanation:`Thông tin: Gliese 581c is an exo-planet – a planet that exists beyond our solar system. It is the most earth-like planet discovered so far.<br>
+Tạm dịch: Gliese 581c là một ngoại hành tinh – một hành tinh tồn tại bên ngoài hệ mặt trời của chúng ta. Đây là hành tinh giống trái đất nhất được phát hiện cho đến nay.`
+      },
+      {id:4,
+      question: `The primary purpose of this passage is to describe ______.
+      `,
+      options:[
+          `a new alien species that will visit Earth`,
+          `a new star that Earth will orbit`,
+          `a new comet that may collide with Earth`,
+          `a new planet with similarities to Earth`],
+      answer:4,
+      explanation:`Bài viết nói về hành tinh Gliese 581c với những đặc điểm gần giống với Trái đất.`
+      },
+      {id:5,
+      question: `What can be inferred from the passage?
+      `,
+      options:[
+          `Gliese 581c may attract many space scientists in the future.`,
+          `Scientists are not excited about the discovery of Gliese 581c.`,
+          `Gliese 581c is more important than Jupiter and Saturn.`,
+          `Scientists have known everything about Gliese 581c.`],
+      answer:1,
+      explanation:`Thông tin: This planet will most probably be a very important target of the future of space missions.<br/>
+Tạm dịch: Hành tinh này rất có thể sẽ là mục tiêu rất quan trọng trong tương lai của các sứ mệnh không gian.<br/>
+Như vậy, có thể suy ra rằng Gliese 581c có thể sẽ thu hút sự quan tâm của các nhà khoa học vũ trụ trong tương lai.`
+      },
+  ]
+  }   ,
+// {    id:10,
   //     content:``,
   //     questions: [
   //     {id:1, question: ``,
@@ -1783,7 +1941,6 @@ Some microscopic life forms are more (4) _______ animals. Protozoa such as the a
   //     },
   // ]
   // }   ,
-
 
   // {    id:10,
   //     content:``,

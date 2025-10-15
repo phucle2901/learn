@@ -462,112 +462,123 @@ Dịch nghĩa: Đồ đựng bằng thủy tinh có thể được sử dụng �
         {
             id: 41,
             extra: ``,
-            question: `
+            question: `Accompaniment is a musical line that is secondary______the melody; and accompaniment parts support the melody.
     `,
-            options: [],
-            answer: ``,
-            rewrite: ``,
-            
-            explanation: ``,
+            options: [`of `,`in `,`with `,`to`],
+            answer: `4`,
+            rewrite: ``,            
+            explanation: `- Defense against st: phòng thủ chống lại cái gì.<br/>
+            Dịch nghĩa: Da, hay còn gọi là hệ bì, là cơ quan lớn nhất của cơ thể, bảo vệ chúng ta khỏi thế giới bên ngoài, và là lớp bảo vệ đầu tiên của chúng ta chống lại vi khuẩn, virus và các mầm bệnh khác`,
         },
         {
             id: 41,
             extra: ``,
-            question: `
+            question: `Stringed instruments are played by drawing a bow______the strings or by plucking the strings with the fingers.
     `,
-            options: [],
-            answer: ``,
+            options: [`from `,`away `,`across `,`over`],
+            answer: `4`,
             rewrite: ``,
             
-            explanation: ``,
+            explanation: ` secondary to sth: thứ yếu, phụ<br/>Dịch nghĩa: Nhạc đệm là một dòng nhạc phụ cho giai điệu và là phần đệm hỗ trợ giai điệu`,
         },
         {
             id: 41,
             extra: ``,
-            question: `
+            question: `Stringed instruments are played by drawing a bow ____ the strings or by plucking thestrings with the fingers
     `,
-            options: [],
-            answer: ``,
+            options: [`from`,`away`,`across`,`over`],
+            answer: `3`,
             rewrite: ``,
             
-            explanation: ``,
+            explanation: `Xét các đáp án:A. from → Giới từ from: từ, dựa vào, theo<br/>
+B. away → Giới từ away: xa<br/>
+C. across → Giới từ across: vượt qua, băng quaœ từ bên này sang bên kia<br/>
+D. over → Giới từ over: nhiều hơn, bị bao phủ bởi cái khác<br/>Dịch nghĩa: Nhạc cụ có dây được chơi bằng cách kéo một vòm cung qua đàn dây hoặc bằng cách gảy dây bằng ngón tay.`,
         },
         {
             id: 41,
             extra: ``,
-            question: `
+            question: `If music were purely a cultural invention, one might expect ancient music to be dramatically ____ modern music, given the huge cultural differences between then and now
     `,
-            options: [],
-            answer: ``,
+            options: [`differ from`,`different from`,`differed to`,`differing from`],
+            answer: `2`,
             rewrite: ``,
             
-            explanation: ``,
+            explanation: `to be different from: khác biệt với.<br/>Dịch nghĩa: Nếu âm nhạc hoàn toàn là một phát minh văn hóa, người ta có thể hy vọng âm nhạc cổ đại sẽ khác biệt đáng kể so với âm nhạc hiện đại, do sự khác biệt lớn về văn hóa giữa thời đó và bây giờ.`,
         },
         {
             id: 41,
             extra: ``,
-            question: `
+            question: `At present the earliest example of what may be a musical instrument is a bone “flute” that dates ____ approximately 50,000 years ago during the middle Paleolithic
     `,
-            options: [],
-            answer: ``,
+            options: [`back`,`away`,`at`,`to`],
+            answer: `1`,
             rewrite: ``,
             
-            explanation: ``,
+            explanation: `date back (to): có niên đại, đã tồn tại từ một khoảng thời gian nào đó trong quá khứ<br/>Dịch nghĩa: Hiện tại, mẫu đầu tiên của cái có thể là một nhạc cụ là một “cây sáo” xương có niên đại khoảng 50.000 năm trước trong thời đại Cổ sinh.`,
         },
         {
             id: 41,
             extra: ``,
-            question: `
+            question: `One way to reveal innate constraints on music perception is to show that certain musical stimuli are represented or remembered more accurately than others, independent ____ experience
     `,
-            options: [],
-            answer: ``,
+            options: [`on `,`to `,`with`,`of`],
+            answer: `4`,
             rewrite: ``,
             
-            explanation: ``,
+            explanation: `- independent of sth: không phụ thuộc vào cái gì.<br/>Dịch nghĩa: Một cách để phát hiện những hạn chế bẩm sinh về nhận thức âm nhạc là chỉ ra rằng một số kích thích âm nhạc được thể hiện hoặc ghi nhớ chính xác hơn những thứ khác, không phụ thuộc vào kinh nghiệm.`,
         },
         {
             id: 41,
             extra: ``,
-            question: `
+            question: `In some workplaces employees are expected to do volunteer work ____ part of corporate volunteer initiatives.
     `,
-            options: [],
-            answer: ``,
+            options: [`as`,`like `,`for `,`in`],
+            answer: `1`,
             rewrite: ``,
             
-            explanation: ``,
+            explanation: `- work as: làm việc với tư cách. (= serve as).<br/>Dịch nghĩa: Ở một số nơi làm việc, nhân viên được mong là sẽ làm công việc tình nguyện như một phần của các sáng kiến tình nguyện của công ty.`,
         },
         {
             id: 41,
             extra: ``,
-            question: `
+            question: `Voluntary organizations are key players in the economy in their own right ____ employers and service providers.
     `,
-            options: [],
-            answer: ``,
+            options: [`as`,`to `,`for `,`with`],
+            answer: `1`,
             rewrite: ``,
             
-            explanation: ``,
+            explanation: `A. as → Giới từ as thường dùng để diễn tả mục đích sử dụng, chức năng của vật, và nghề nghiệp của người. Có nghĩa là: như, với tư cách<br/>
+B. to → Giới từ to: theo hướng, tiến tới, đạt tới, với<br/>
+C. for → Giới từ for chỉ mục đích hoặc chức năng: thay cho, về phe, dành cho, vì<br/>
+D. with → Giới từ with: cùng với, mang, bằng (công cụ)<br/>
+Dịch nghĩa: Các tổ chức tình nguyện là những người đóng vai trò quan trọng trong nền kinh tế theoquyền của riêng họ với tư cách là chủ nhân và nhà cung cấp dịch vụ.`,
         },
         {
             id: 41,
             extra: ``,
-            question: `
+            question: `Many voluntary organizations share information ____ local government and community to push forward community services.
     `,
-            options: [],
-            answer: ``,
+            options: [`to`,`for `,`back `,`with`],
+            answer: `4`,
             rewrite: ``,
             
-            explanation: ``,
+            explanation: `- share sth with sb: chia sẻ với ai cái gì<br/>
+Dịch nghĩa: Nhiều tổ chức tình nguyện chia sẻ thông tin với chính quyền địa phương và cộng đồng để thúc đẩy các dịch vụ cộng đồng.`,
         },
         {
             id: 41,
             extra: ``,
-            question: `
+            question: `Keely S. Jones (2006) conducted research on the distinct connection of volunteering ____ public life and civic engagement.
     `,
-            options: [],
-            answer: ``,
+            options: [`between`,`with `,`to `,`for`],
+            answer: `2`,
             rewrite: ``,
             
-            explanation: ``,
+            explanation: `Mặc dù có “and” nhưng ta không dùng cấu trúc “between…..and…..” vì dùng như vậy sẽ làm câu có nghĩa là “mối liên hệ khác biệt của tình nguyện giữa cuộc sống công cộng và sự tham gia của 
+công dân”, câu này hoàn toàn vô lý về ngữ nghĩ
+Do đó, dùng với “with” sẽ hợp nghĩa nhất
+<br/>Dịch nghĩa: Keely S. Jones (2006) đã tiến hành nghiên cứu về mối liên hệ khác biệt của tình nguyện với cuộc sống công cộng và sự tham gia của công dân.`,
         },
         {
             id: 41,

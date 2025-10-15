@@ -32,8 +32,8 @@ function App() {
   const descMenus = ["", "Danh động từ và động từ nguyên mẫu", "So sánh", "Mạo từ A, An, The", "Lượng từ","Cách dùng Make, Do, Have, Get","Câu điều kiện","Câu hỏi đuôi", "Trật tự từ", "Cấu trúc viết lại câu","Thì động từ","Sự phối thì","Câu giả định","Từ loại trong tiếng anh","Cấu trúc câu trong tiếng anh","Giới từ",'Hóa học'];
   const uniqueExam=['Cách phát âm','Nhấn âm','Tìm lỗi sai','Từ vựng','Từ thích hợp','Từ gần nghĩa','Từ trái nghĩa','Đọc','Từ loại','Sắp xếp câu','Viết lại câu'];
 
-  const menusChemistry = ["","Bai1","Bai2","Bai3"];
-  const nameChemistry = ["","Mol","Tên gọi một số acid","Tổng hợp về hợp chất"];
+  const menusChemistry = ["","Bai1","Bai2","Bai3","Bai4","Bai5"];
+  const nameChemistry = ["","Mol","Tên gọi một số acid","Tổng hợp về hợp chất","Bài toán có hiệu suất phản ứng","Pha chế dung dịch"];
 
   const [menuActive, setMenuActive] = useState(() => {
     const saved = localStorage.getItem("menuActive");

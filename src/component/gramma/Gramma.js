@@ -7,7 +7,7 @@ import {
 const Gramma = ({title}) => {
     const scrollRef = useRef(null);
     const [questions, setQuestions] = useState([]);
-     const [answers, setAnswers] = useState([]);  
+    const [answers, setAnswers] = useState([]);  
     const [indexEx, setIndexEx] = useState(-1); 
     const [content, setContent] = useState(null); // State to hold the content of the exercise
     const [isScroll, setIsScroll] = useState(false);

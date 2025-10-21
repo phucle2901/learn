@@ -9,6 +9,10 @@ const recipe = () => {
             <p>Công thức thập phân</p>
             <p class="pcongthuc"><span class="congthuc font-bold"><span class="bang">H = </span><span class="phanso"><span class="tu">m<sub>tt</sub></span><span class="mau">m<sub>lt</sub></span></span><span class="bang">x100%</span></span></p>
 
+            <p>Công thức thập phân 2 số</p>
+            <span class="inline-flex"><span class="congthuc font-bold"><span class="phanso"><span class="tu">m<sub>tt</sub></span><span class="mau">m<sub>lt</sub></span></span></span></span>
+
+
 
             <p>load image</p>
             <p class="pt-5"><img src={process.env.PUBLIC_URL + '/hoa/2.jpg'}/></p>

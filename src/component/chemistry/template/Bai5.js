@@ -16,8 +16,8 @@ const Bai5 = () => {
         <p class="font-bold text-[18px]">1. Pha chế dung dịch theo nồng độ cho trước</p>
         <p class="text-[18px]"><b>Bước 1:</b> Tính các đại lượng cần dùng</p>
         <p class="text-[18px]"><b>Bước 2:</b> Pha chế dung dịch theo các đại lượng cần xác định</p>
-        <p class="pt-5"><img alt='1' src={process.env.PUBLIC_URL + '/hoa/Bai5_1.jpg'}/></p>
-        <p class="pt-5"><img alt='2' src={process.env.PUBLIC_URL + '/hoa/Bai5_2.jpg'}/></p>
+        <p class="pt-5"><img alt='1' src={process.env.PUBLIC_URL + '/hoa/bai5_1.jpg'}/></p>
+        <p class="pt-5"><img alt='2' src={process.env.PUBLIC_URL + '/hoa/bai5_2.jpg'}/></p>
         <p class="font-bold text-[18px]">2. Pha loãng hoặc cô đặc một dung dịch theo nồng độ cho trước</p>
         <p class="font-bold text-[18px]">a. Đặc điểm:</p>
         <p class="text-[18px]">- Khi pha loãng, nồng độ dung dịch giảm. Còn cô đặc, nồng độ dung dịch tăng.</p>
@@ -58,11 +58,11 @@ const Bai5 = () => {
         <p class="text-[18px]">- Thu được 50 mL dung dịch CuSo<sub>4</sub> có nồng độ 0,5M.</p>
         <p></p>
         <p class="text-[18px] font-bold pt-5">Tổng quan về nồng độ dung dịch:</p>
-        <p class="pt-5"><img alt='1' src={process.env.PUBLIC_URL + '/hoa/Bai5_3.jpg'}/></p>
+        <p class="pt-5"><img alt='1' src={process.env.PUBLIC_URL + '/hoa/bai5_3.jpg'}/></p>
         <p></p>
-        <p class="pt-5"><img alt='1' src={process.env.PUBLIC_URL + '/hoa/Bai5_4.jpg'}/></p>
+        <p class="pt-5"><img alt='1' src={process.env.PUBLIC_URL + '/hoa/bai5_4.jpg'}/></p>
         <p></p>
-        <p class="pt-5"><img alt='1' src={process.env.PUBLIC_URL + '/hoa/Bai5_5.jpg'}/></p>
+        <p class="pt-5"><img alt='1' src={process.env.PUBLIC_URL + '/hoa/bai5_5.jpg'}/></p>
         </div>
     );
 };

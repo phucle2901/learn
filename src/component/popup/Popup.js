@@ -8,18 +8,18 @@ import { useNavigate } from "react-router-dom";
 import { eExamLength as eExamLenTen  } from "../../data/gradeten/gradeten";
 import { eExamLength as eExamLenEight } from "../../data/exam/exam";
 
-function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExam,setUniqueID,setTypeSubject,typeSubject,nameChemistry}) {
+function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExam,setUniqueID,setTypeSubject,typeSubject,nameChemistry,nameMath}) {
   const [showTab,setShowTab]=useState(0);
   const [defaultTab,setDefaultTab]=useState(3);
   const navigate = useNavigate();
   const handleClick = (id,grade) => {
-    //console.log("handleClick: ", handleClick);
+    // console.log("handleClick: ", handleClick);
     setGradeExam({examId:id,grade:grade});
     setMenuActive(0);    
     setRefeshData(true);
     navigate("/");
   };
-  const handleUniqueClick = (index) => {
+  const handleUniqueClick = (index) => {    
     setUniqueID(index)
     handleClick(0,8);
     
@@ -40,6 +40,7 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
   }
  
   const handleChange=(index)=>{
+    console.log("handleChange: ",index);
     if(index===0 || index===3 || index===4 || index===5){
       setMenuActive(1);  
       setShowTab(0);
@@ -52,6 +53,11 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
       (index===1)?setDefaultTab(6):setDefaultTab(index);
       setShowTab(1);
         
+    }else if(index===2 || index===8 || index===9){
+      setMenuActive(1);    
+      setTypeSubject(3);   
+      (index===2)?setDefaultTab(8):setDefaultTab(index);
+      setShowTab(2);
     }
     
   }
@@ -59,6 +65,9 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
     if(typeSubject===2){
       setDefaultTab(6);
       setShowTab(1);
+    }else if(typeSubject===3){
+      setDefaultTab(8);
+      setShowTab(2);
     }else{
       setDefaultTab(3);
       setShowTab(0);
@@ -101,6 +110,8 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
                   <Tab key={6} className={showTab!==0?'hidden ':''}>Ngữ pháp</Tab>
                   <Tab key={7} className={showTab!==1?'hidden ':''}>Lý thuyết</Tab>
                   <Tab key={8} className={showTab!==1?'hidden':''}>Bài tập</Tab>
+                  <Tab key={9} className={showTab!==2?'hidden ':''}>Lý thuyết</Tab>
+                  <Tab key={10} className={showTab!==2?'hidden':''}>Bài tập</Tab>
                 </TabList>
 
                 <TabPanel>
@@ -179,6 +190,19 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
                   ))}    
                 </TabPanel>
                 <TabPanel>Bài tập hóa</TabPanel>
+                <TabPanel>Lý thuyết toán
+                {nameMath.map((menu, index) => (
+                    <MenuItem
+                      key={index}
+                      className="block no-underline hover:underline "
+                    >
+                      <Link onClick={() => { setMenuActive(index); setTypeSubject(3);}}>
+                        {menu}
+                      </Link>
+                    </MenuItem>
+                  ))} 
+                </TabPanel>
+                <TabPanel>Bài tập toán</TabPanel>
               </Tabs>
             </MenuItems>
           </Menu>

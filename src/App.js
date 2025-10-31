@@ -13,6 +13,7 @@ import Exam from "./component/english/exam";
 import Popup from "./component/popup/Popup";
 import Gramma from "./component/gramma/Gramma";
 import Chemistry from "./component/chemistry/Chemistry";
+import Maths from "./component/maths/Maths";
 
 import Translator from "./component/translator/Translator";
 
@@ -34,6 +35,9 @@ function App() {
 
   const menusChemistry = ["","Bai1","Bai2","Bai3","Bai4","Bai5","Bai6"];
   const nameChemistry = ["","Mol","Tên gọi một số acid","Tổng hợp về hợp chất","Bài toán có hiệu suất phản ứng","Pha chế dung dịch" ,"Đơn chất, hợp chất, phân tử"];
+
+  const menusMath = ["","Bai1","Bai2","Bai3","Bai4","Bai5"];
+  const nameMath = ["","Tam giác","Tứ giác","Dịnh lý talet","Tam giác đồng dạng","Hình chóp"];
 
   const [menuActive, setMenuActive] = useState(() => {
     const saved = localStorage.getItem("menuActive");
@@ -90,6 +94,7 @@ function App() {
         setTypeSubject={setTypeSubject}
         typeSubject={typeSubject}
         nameChemistry={nameChemistry}
+        nameMath={nameMath}
       />
       <Translator />
       <>
@@ -110,7 +115,7 @@ function App() {
               />
             </svg>
           </Link>
-        </nav>      
+        </nav> 
         <Routes>
           <Route
             path="/"
@@ -130,7 +135,13 @@ function App() {
                     title={menus[menuActive]}
                     setMenuActive={setMenuActive}
                   />
+                ):( typeSubject===3)?(
+                  <Maths
+                    title={menusMath[menuActive]}
+                    setMenuActive={setMenuActive}
+                  />
                 ):(
+
                   <Chemistry
                     title={menusChemistry[menuActive]}
                     setMenuActive={setMenuActive}

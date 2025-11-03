@@ -76,7 +76,18 @@ const Chemistry = ({title}) => {
       }
 
     }
-    const handleSubmit = (index) => {     
+    const handleSubmit = (index) => {  
+      
+         if (indexEx===index){
+            setIndexEx(-1);
+            //answers[index]=0;
+            setAnswers(prev => {
+              const newAnswers = [...prev];
+              newAnswers[index] = 0;
+              return newAnswers;
+            });
+
+         }else{
             setIndexEx(index);
             //answers[index]=1;
             setAnswers(prev => {
@@ -84,7 +95,7 @@ const Chemistry = ({title}) => {
               newAnswers[index] = 1;
               return newAnswers;
             });
-
+          }
             console.log(answers);                  
     };
     return (

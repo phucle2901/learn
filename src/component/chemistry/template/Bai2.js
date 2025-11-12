@@ -355,6 +355,68 @@ const Bai2 = () => {
     <p>Acetic acid là chất lỏng, không màu, có vị chua. Giấm ăn có chứa acetic acid với nồng độ 2 – 5%. Ứng dụng của acetic acid: sản xuất sợi poly(vinyl acetate), sản xuất sơn, ch61 biến thực phẩm, dược phẩm</p>
     <p><b>Sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)</b></p>
     <p>Sulfuric acid là chất lỏng không màu, không bay hơi, sánh như dầu ăn, nặng gần gấp hai lần nước, tan vô hạn trong nước và tỏa nhiều nhiệt.Sulfuric acid là một trong các hóa chất được sử dụng trong nhiều ngành công nghiệp.</p>
+    <h2>TÍNH CHẤT HÓA HỌC CỦA ACID:</h2>
+    <p><b>1. Acid làm đổi màu chất chỉ thị:</b> Dung dịch acid làm đổi màu quỳ tím thành đỏ.</p>
+    <p><b>2. Acid tác dụng với kim loại</b></p>
+    <p>- Dung dịch acid loãng tác dụng được với một số kim loại đứng trước <span class="text-red-500"><b>H</b></span> trong dãy dưới đây tạo thành muối và giải phóng khí hiđro</p>
+    <p class="text-center font-bold bg-[#ffff00]">K, Na, Ba, Ca, Mg, Al, Zn, Fe, Ni, Sn, Pb, H, Cu, Hg, Ag, Pt, A</p>
+    <p><b>VD:</b></p>
+    <p>1. 2HCl + Fe → FeCl2 + H</p>
+    <p>2. 3H2SO4 (loãng) + 2Al → Al2(SO4)3 + 3H2</p>
+    <p class="italic">Chú ý: Acid HNO3 và H2SO4 đặc tác dụng được với nhiều kim loại nhưng không giải phóng hiđro.</p>
+    <p><b>3. Acid tác dụng với base tạo thành muối và nước</b></p>
+    <p><b>VD:</b> H2SO4 + Cu(OH)2 → CuSO4 + 2H2O</p>
+    <p>- Phản ứng của acid với base được gọi là <b>phản ứng trung hòa.</b></p>
+    <p><b>4. Acid tác dụng với oxide base tạo thành muối và nước.</b></p>
+    <p><b>VD:</b> Fe2O3 + 6HCl → 2FeCl3 + 3H2</p>
+    <p>5. Acid tác dụng với muối tạo thành muối mới và acid mới.</p>
+    <p class="italic">* Chú ý: Phản ứng của acid với muối chỉ xảy ra khi thỏa mãn điều kiện:<br/>
+    - Tạo ra khí.(các muối tạo ra khí chủ yếu là muối Cacbonat chứa gốc CO3 và muối sunfit chứa gốc SO3)  <br/>
+    - Tạo ra chất rắn (kết tủa): <b>Bảng tính tan để xác định chất kết tủa</b><br/>
+    </p>
+    <p><b>+ VD tạo chất khí:</b></p>
+    <p>MgCO3 + 2HCl → MgCl2 + CO2 ↑ + H2O</p>
+    <p>Na2SO3 + 2HCl → 2NaCl + SO2 ↑ + H2O</p>
+    <p><b>Na2SO3 + 2HCl → 2NaCl + SO2 ↑ + H2O</b></p>
+    <p>Na2SO3 + 2HCl → 2NaCl + SO2 ↑ + H2O</p>
+    <p>HCl + AgNO3 → AgCl + HNO3</p>
+    <p class="text-[#ff000]"><b>6. Tính chất của HNO3 và H2SO4 đặc</b></p>
+    <p>Chú ý:</p>
+    <p> - Acid HNO3 và H2SO4 đặc tác dụng được với nhiều kim loại nhưng không giải phóng hiđro mà giải phóng khí NO, NO2, SO2 tương ứng với acid</p>
+    <p>- Acid HNO3 đặc, nguội và H2SO4 đặc, nguội không tác dụng được với kim loại Al và Fe</p>
+    <p><b>VD:</b></p>
+    <p>
+      Fe + 4HNO3 (đặc) → Fe(NO3)3 + NO ↑ + 2H2O<br/>
+      Fe + 6H2SO4 (đặc) → Fe2(SO4)3 + 3SO2 ↑ + 6H2O<br/>
+      Al + 6H2SO4 (đặc) → Al2(SO4)3 + 3SO2 ↑ + 6H2O
+    </p>
+    <p><b>* Acid H2SO4 đặc có tính háo nước, khi tan trong nươc tỏa niều nhiệt nên cần lưu ý khi pha loãng acid.</b></p>
+    <h2 class="font-bold text-[#ff0000]">CÁC DẠNG BÀI TẬP</h2>
+    <p class="font-bold">DẠNG 1: TOÁN OXIDE BAZƠ TÁC DỤNG VỚI ACID</p>
+    <p class="font-bold">Cách giải:</p>
+    <table>
+      <tr>
+        <td>* PTHH</td><td></td>
+      </tr>
+      <tr>
+        <td>R<sub>2</sub>O<sub>n</sub> + 2nHCl → 2RCl<sub>n</sub> + nH<sub>2</sub>O </td><td> {'<'}={'>'} O<sup>2-</sup><sub>oxit</sub> + 2H<sup>+</sup><sub>axit</sub> → H<sub>2</sub>O</td>
+      </tr>
+      <tr>
+        <td>R<sub>2</sub>O<sub>n</sub> + nH<sub>2</sub>SO<sub>4</sub> → 2R<sub>2</sub>(SO<sub>4</sub>)<sub>n</sub> + nH<sub>2</sub>O </td><td></td>
+      </tr>
+    </table>
+    <p>* Một số công thức giải toán thường gặp</p>
+    <p>- Định luật bảo toàn khối lượng: m<sub>oxit</sub> + m<sub>axit</sub> = m<sub>M</sub> + m<sub>H2O</sub></p>
+    <p>- n<sub>H<sup>+</sup>axit</sub> = 2n<sub>Oxit</sub></p>
+    <h2 class="font-bold">DẠNG 2: TOÁN KIM LOẠI TÁC DỤNG VỚI ACID (HCl, H2SO4 LOÃNG)</h2>
+    <p>Cách giải:</p>
+    <p>* PTHH</p>
+    <p><img alt='1' src={process.env.PUBLIC_URL + '/hoa/bai2_1.png'}  /></p>
+    <h2 class="font-bold">DẠNG 3. TOÁN MUỐI CACBONAT TÁC DỤNG VỚI ACID</h2>
+    <p>Cách giải:</p>
+    <p><img alt='1' src={process.env.PUBLIC_URL + '/hoa/bai2_2.png'}  /></p>
+
+
 </div>
     );
 };

@@ -36,8 +36,8 @@ function App() {
   const menusChemistry = ["","Bai1","Bai2","Bai3","Bai4","Bai5","Bai6"];
   const nameChemistry = ["","Mol","Tên gọi một số acid","Tổng hợp về hợp chất","Bài toán có hiệu suất phản ứng","Pha chế dung dịch" ,"Đơn chất, hợp chất, phân tử"];
 
-  const menusMath = ["","Bai1","Bai2","Bai3","Bai4","Bai5"];
-  const nameMath = ["","Tam giác","Tứ giác","Dịnh lý talet","Tam giác đồng dạng","Hình chóp"];
+  const menusMath = ["","Bai1","Bai2","Bai3","Bai4","Bai5","Bai6"];
+  const nameMath = ["","Tam giác","Tứ giác","Dịnh lý talet","Tam giác đồng dạng","Hình chóp","Giá trị lớn nhất - nhỏ nhất"];
 
   const [menuActive, setMenuActive] = useState(() => {
     const saved = localStorage.getItem("menuActive");

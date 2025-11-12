@@ -4,7 +4,7 @@ import {
     fReplaceQuestion,
     compareAnswer,
   } from "../../component/function/index";
-
+  // https://chemistrytutor.me/balancing-chemical-equations-algebra/
 const Chemistry = ({title}) => {
   const defaultArray = [2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
     const scrollRef = useRef(null);

@@ -560,6 +560,94 @@ CTHH 2 muối trên ?</p>
 
               </p>`,
             },
+            {
+              id: 41,
+              extra: ``,
+              question: `<p> Hoà tan hoàn toàn 4 gam hỗn hợp gồm 1 kim loại hoá trị II và 1 kim loại 
+hoá trị III cần dùng hết 170 ml HCl 2M.<br/>
+a) Cô cạn dung dịch thu được bao nhiêu gam muối khô.<br/>
+b) Tính V<sub>H2</sub> thoát ra ở đkc.<br/>
+c) Nêu biết kim loại hoá trị III là Al và số mol bằng 5 lần số mol kim loại hoá 
+trị II thì kim loại hoá trị II là nguyên tố nào? </p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>
+              a. PTHH tổng quát cho phản ứng của kim loại hoá trị II và III với HCl: <br/>
+              M + nHCl → MCl<sub>n</sub> + (n/2)H2 (1)<br/>
+              Số mol HCl = 0,17 * 2 = 0,34 mol <br/>
+              Số mol H2 tạo thành là: n<sub>H2</sub> = 0,34 / 2 = 0,17 mol <br/>
+              Khối lượng H2 tạo thành là: m<sub>H2</sub> = 0,17 * 2 = 0,34 gam <br/>
+              Khôi lượng HCl tham gia phản ứng là: m<sub>HCl</sub> = 0,34 * 36,5 = 12,41 gam <br/>
+              Theo định luật bảo toàn khối lượng ta có: <br/>
+              m_hỗn_hợp + m_HCl = m_muối + m_H2 <br/>
+              => m_muối = m_hỗn_hợp + m_HCl - m_H2 <br/>
+                        = 4 + 12,41 - 0,34 = 16.07 gam <br/>
+              b. V<sub>H2</sub> = n * 24,79 = 0,17 * 24,79 = 4,2143 lít <br/>
+              c. PTHH: <br/>
+              Al + 3HCl → AlCl3 + 3/2 H2 (2)<br/>
+              M + 2HCl → MCl2 + H2 (3)<br/>
+              Gọi a là số mol của kim loại có hóa trị II <br/>
+              Suy ra số mol của Al là: 5a <br/>
+              Số mol HCl tham gia phản ứng là: <br/>
+              n<sub>HCl</sub> = 3*5a + 2*a = 17a <br/>
+              17a = 0,34 → a = 0,02 mol <br/>
+              Khối lượng Al thành phần trong hỗn hợp là: <br/>
+              m<sub>Al</sub> = 5a * 27 = 5 * 0,02 * 27 = 2,7 gam <br/>
+              Khối lượng kim loại hoá trị II thành phần trong hỗn hợp là: <br/>
+              m<sub>M</sub> = 4 - 2,7 = 1,3 gam <br/>
+              M<sub>M</sub> = 1,3 : 0,02 = 65 g/mol <br/>
+              Vậy kim loại hoá trị II là Zn <br/>
+              </p>`,
+            },
+            {
+              id: 41,
+              extra: ``,
+              question: `<p>Cho 2,96 gam hỗn hợp Na2CO3 và MgCO3 tác dụng vừa đủ với dd H2SO4, sau phản ứng thu được 0,672 lít CO2 (ở đkc). Tổng khối lượng muối sunfat sinh. </p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>
+              <img alt="1" src="/learn/hoa/Baitap2_1.png"/>
+              </p>`,
+            },
+            {
+              id: 41,
+              extra: ``,
+              question: `<p>Cho 30 gam hỗn hợp 3 muối gồm Na2CO3, K2CO3, MgCO3 tác dụng hết với dd H2SO4 dư thu được 6.1975 lít CO2 (đkc) và dd X. Khối lượng muối trong dd X là bao nhiêu?</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<img alt="1" src="/learn/hoa/Baitap2_2.png"/>`,
+            },
+            {
+              id: 41,
+              extra: ``,
+              question: `<p>Để hòa tan hoàn toàn 10,8 gam một ocide của một kim loại thì cần tối thiếu 147 gam dung dịch H2SO4 (loãng) 10%. Viết phương trình dạng tổng quát của ocide với và xác định công thức hóa học của oxide trên.</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<img alt="1" src="/learn/hoa/Baitap2_3.png"/>`,
+            },
+            {
+              id: 41,
+              extra: ``,
+              question: `<p><img alt="1" src="/learn/hoa/Baitap2_4.png" style="max-width: 100% !important;"/></p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p><img alt="1" src="/learn/hoa/Baitap2_41.png" style="max-width: 100% !important;"/></p>`,
+            },
         //     {
         //       id: 41,
         //       extra: ``,

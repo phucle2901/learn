@@ -28,6 +28,7 @@ const Bai3 = () => {
         <p  class="pt-5"><b>II. Phi kim</b></p>
         <p class="pt-5"><img src={process.env.PUBLIC_URL + '/hoa/8.jpg'}/></p>
         <p class="pt-5"><img src={process.env.PUBLIC_URL + '/hoa/9.jpg'}/></p>
+        
         </div>
        
     );

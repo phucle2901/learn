@@ -40,7 +40,7 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
   }
  
   const handleChange=(index)=>{
-    console.log("handleChange: ",index);
+    alert("handleChange: "+index);
     if(index===0 || index===3 || index===4 || index===5){
       setMenuActive(1);  
       setShowTab(0);
@@ -109,7 +109,7 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
               anchor="bottom"
               className="bg-[#ffebae] p-2 mr-20 z-99999 sub-menu"
             >
-              <Tabs selectedIndex={defaultTab}  onSelect={(index) => handleChange(index)} >
+              <Tabs selectedIndex={defaultTab}  onSelect={(index) => handleChange(index)} onClick= {(index) => handleChange(index)}>
                 <TabList>
                   <Tab key={1} className={'menuSub'}>Anh văn</Tab>
                   <Tab key={2} className={'menuSub'}>Hóa học</Tab>

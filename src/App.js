@@ -16,7 +16,7 @@ import Chemistry from "./component/chemistry/Chemistry";
 import Maths from "./component/maths/Maths";
 import Physics from "./component/physics/Physics";
 
-import Translator from "./component/translator/Translator";
+//import Translator from "./component/translator/Translator";
 
 
 function App() {
@@ -81,6 +81,7 @@ function App() {
     localStorage.setItem("typeSubject", JSON.stringify(typeSubject));
   }, [typeSubject]);
   const handleHomeClick = () => {
+    //console.log('ssssss');
     setMenuActive(0);
     //setExamId(0);
     setGradeExam({examId:0,grade:8});
@@ -89,7 +90,7 @@ function App() {
   };
   
   return (
-    <div className="App">
+    <div className="App" >
       <Popup
         gradeExam={gradeExam}
         setRefeshData={setRefeshData}
@@ -104,10 +105,11 @@ function App() {
         nameMath={nameMath}
         namePhysics={namePhysics}
       />
-      <Translator />
+      {/* <Translator /> */}
       <>
+      
         <nav>
-          <Link to="/" onClick={(e) => handleHomeClick()}>
+          <Link to="/" onClick={(e) => handleHomeClick()} >          
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"

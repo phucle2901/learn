@@ -20,4 +20,10 @@ code {
 input[type=text],textarea{
   border:1px solid #ddd;
 }
-
+.menuSub{
+  background:#601eae !important;
+  color:#fff !important;
+}
+.menuSub:hover{
+  background:#300b6d !important;
+}

@@ -14,6 +14,7 @@ import Popup from "./component/popup/Popup";
 import Gramma from "./component/gramma/Gramma";
 import Chemistry from "./component/chemistry/Chemistry";
 import Maths from "./component/maths/Maths";
+import Physics from "./component/physics/Physics";
 
 import Translator from "./component/translator/Translator";
 
@@ -38,6 +39,12 @@ function App() {
 
   const menusMath = ["","Bai1","Bai2","Bai3","Bai4","Bai5","Bai6"];
   const nameMath = ["","Tam giác","Tứ giác","Dịnh lý talet","Tam giác đồng dạng","Hình chóp","Giá trị lớn nhất - nhỏ nhất"];
+
+  const menusPhysics= ["","Bai1"];
+  const namePhysics = ["","Khối lượng riêng và áp suất"];
+
+
+
 
   const [menuActive, setMenuActive] = useState(() => {
     const saved = localStorage.getItem("menuActive");
@@ -95,6 +102,7 @@ function App() {
         typeSubject={typeSubject}
         nameChemistry={nameChemistry}
         nameMath={nameMath}
+        namePhysics={namePhysics}
       />
       <Translator />
       <>
@@ -115,7 +123,7 @@ function App() {
               />
             </svg>
           </Link>
-        </nav> 
+        </nav>         
         <Routes>
           <Route
             path="/"
@@ -137,6 +145,11 @@ function App() {
                   />
                 ):( typeSubject===3)?(
                   <Maths
+                    title={menusMath[menuActive]}
+                    setMenuActive={setMenuActive}
+                  />
+                ):( typeSubject===4)?(
+                  <Physics
                     title={menusMath[menuActive]}
                     setMenuActive={setMenuActive}
                   />

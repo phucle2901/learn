@@ -40,7 +40,7 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
   }
  
   const handleChange=(index)=>{
-    alert("handleChange: "+index);
+    console.log("handleChange: ",index);
     if(index===0 || index===3 || index===4 || index===5){
       setMenuActive(1);  
       setShowTab(0);

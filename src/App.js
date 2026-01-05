@@ -40,8 +40,8 @@ function App() {
   const menusMath = ["","Bai1","Bai2","Bai3","Bai4","Bai5","Bai6"];
   const nameMath = ["","Tam giác","Tứ giác","Dịnh lý talet","Tam giác đồng dạng","Hình chóp","Giá trị lớn nhất - nhỏ nhất"];
 
-  const menusPhysics= ["","Bai1"];
-  const namePhysics = ["","Khối lượng riêng và áp suất"];
+  const menusPhysics= ["","Bai1","Bai2","Bai3"];
+  const namePhysics = ["","Khối lượng riêng và áp suất","Cách đổi đơn vị","Lực đẩy Archimedes"];
 
 
 
@@ -152,7 +152,7 @@ function App() {
                   />
                 ):( typeSubject===4)?(
                   <Physics
-                    title={menusMath[menuActive]}
+                    title={menusPhysics[menuActive]}
                     setMenuActive={setMenuActive}
                   />
                 ):(

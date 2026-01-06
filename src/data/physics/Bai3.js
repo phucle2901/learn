@@ -1,5 +1,8 @@
 export const physics = [
-    {      
+    {     
+      //https://thuvienhoclieu.com/chuyen-de-khtn-8-ket-noi-tri-thuc-bai-17-luc-day-archimedes/#google_vignette 
+      //https://thuvienhoclieu.com/chuyen-de-boi-duong-hsg-ly-8-phan-luc-khoi-luong-va-ap-suat-co-loi-giai/
+      //https://hocmai.vn/kho-tai-lieu/read.php?id=8974
         semester: 1,
         grade: 8,
         questions: [
@@ -61,7 +64,7 @@ export const physics = [
               answer: ``,
               rewrite: ``,
               lastwrite: ``,
-              explanation: `<img alt='1' src="/learn/ly/Baitap3_2_1.png" style="max-width:100% !important;"/></p>
+              explanation: `<p><img alt='1' src="/learn/ly/Baitap3_2_1.png" style="max-width:100% !important;"/>
               </p>`,
             },
              {
@@ -251,36 +254,194 @@ c.Muốn giữ khối gỗ chìm hoàn toàn và đứng yên trong nước thì
               {
               id: 41,
               extra: ``,
-              question: `
+              question: `<p>Khi đóng đinh vào tường ta thường đóng mũi đinh vào tường mà không đóng mũ (tai) đinh vào. Tại sao vậy?</p>
         `,
               options: [],
               answer: ``,
               rewrite: ``,
               lastwrite: ``,
-              explanation: ``,
+              explanation: `<p>Vì: Mũi đinh có diện tích nhỏ nên với cùng áp lực thì có thể gây ra áp suất lớn nên đinh dễ vào hơn.</p>`,
             },
              {
               id: 41,
               extra: ``,
-              question: `
+              question: `<p>Khi nằm trên đệm mút ta thấy êm hơn khi nằm trên phản gỗ. Tại sao vậy?</p>
         `,
               options: [],
               answer: ``,
               rewrite: ``,
               lastwrite: ``,
-              explanation: ``,
+              explanation: `<p>- Trọng lượng của người là không đổi nên áp lực do người tác dụng vào đệm, phản gỗ là như nhau. Do đó độ lớn phản lực (áp lực) mà phản gỗ, đệm tác dụng vào người cũng bằng nhau.</br>
+- Tuy nhiên khi nằm đệm thì do đệm có thể biến dạng (ôm theo thân người) nên diện tích tiếp xúc với thân người tăng (lớn hơn khi người nằm trên phản gỗ) do đó áp suất tác dụng lên thân người giảm và ta cảm thấy êm hơn.</p>`,
             },
-         //     {
-        //       id: 41,
-        //       extra: ``,
-        //       question: `
-        // `,
-        //       options: [],
-        //       answer: ``,
-        //       rewrite: ``,
-        //       lastwrite: ``,
-        //       explanation: ``,
-        //     },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Một khối sắt đặc hình hộp chữ nhật, có kích thước các cạnh tương ứng là 50 cm x 30cm x 15cm. Hỏi người ta phải đặt khối sắt đó như thế nào để áp suất của nó gây lên mặt sàn là 39 000 N/m2. Biết khối lượng riêng của sắt là 7800 kg/m3.</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>
+              Thể tích của khối sắt là:</br>
+V = 50.35.15 = 22500 cm3 = 225.10-4 m3</br>
+Trọng lượng của khối sắt là:</br>
+P = 10.D.V = 10.7800.225.10-4 = 1755 N</br>
+Diện tích mặt bị ép là:</br>
+p =  => S =  =  =  = 0,045m2</br>
+Khi đặt đứng khối sắt thì diện tích mặt bị ép:</br>
+Sđ = 30.15 = 450 cm3 = 0,045 m2</br>
+Ta thấy S = Sđ</br>
+Vậy người ta phải đặt đứng khối sắt để áp suất của nó gây lên mặt sàn là 39000 N/m2</p>`,
+            },
+              {
+              id: 41,
+              extra: ``,
+              question: `<p>Vật thứ nhất có khối lượng m1 = 0,5 kg, vật thứ hai có khối lượng 1kg. Hãy so sánh áp suất p1 và p2 của hai vật trên mặt sàn nằm ngang.</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>Ta có: áp suất p =F/S</br>
+Để so sánh áp suất của hai vật ta cần biết áp lực và diện tích bị ép của mỗi vật.</br>
+Theo đầu bài ta mới chỉ xác định được áp lực tác dụng lên hai vật mà chưa xác
+định được diện tích bị ép của mỗi vật</br>
+=> Không so sánh áp lực của hai vật được.</p>`,
+            },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Một người tác dụng lên mặt sàn một áp suất 1,7.104N/m2. Diện tích của bàn chân tiếp xúc với mặt sàn là 0,03m2. Trọng lượng của người đó là bao nhiêu?</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>Trọng lượng của người bằng áp lực của người đó tác dụng lên mặt sàn:</br>
+P = F = p.S = 1,7.104 N/m2.0,03m2 = 510N</br>
+Vì P = 10.m nên khối lượng của người là:m = 51(kg)
+              </p>`,
+            },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Một máy đánh ruộng có khối lượng 1 tấn, để máy chạy được trên nền đất ruộng thì áp suất máy tác dụng lên đất là 10.000 Pa. Hỏi diện tích 1 bánh của máy đánh phải tiếp xúc với ruộng là?</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>
+              Ta có:<br>
++ Trọng lực của máy cày: P = 103 .10 = 104 N<br>
++ Áp suất: p =  → S =   =   = 1m2</p>`,
+            },
+              {
+              id: 41,
+              extra: ``,
+              question: `<p>Một hình hộp chữ nhật có kích thước 20cm x 10cm x 5cm được đặt trên mặt bàn nằm ngang.Biết trọng lượng riêng của chất làm nên vật là d = 2.104 N/m3. Áp suất lớn nhất và nhỏ nhất tác dụng lên mặt bàn là bao nhiêu? Lấy g = 10m/s2.</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>Ta có</br>
++ Trọng lượng riêng của vật</br>
+d =  → P = dV = 2.104.(20.10.5.10-6) = 20N</br>
++ Áp suất của vật:  p =F/S</br>
+- áp suất nhỏ nhất khi diện tích tiếp bị ép lớn nhất:</br>
+Ta có: Smax = 20.10.10<sup>−4</sup> = 0,02m2</br>
+→ pmin =  =  = 1000Pa</br>
+- áp suất lớn nhất khi diện tích bị ép nhỏ nhất:</br>
+Ta có: Smin = 10.5.10<sup>−4</sup> = 5.10<sup>−3</sup>m2</br>
+→ pmax =  =  = 4000Pa</p>`,
+            },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Đặt một bao gạo 60kg lên một ghết 4 chân có khối lượng 4kg. Diện tích tiếp xúc với mặt đất của mỗi chân ghế là 8cm2. Áp suất mà gạo và ghế tác dụng lên mặt đất là?</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>Ta có:</br>
+Diện tích mặt bị ép gồm diện tích của 4 chân ghế: S = 4.8.10<sup>−4</sup> = 3,2.10−3m2 </br>
+Tổng khối lượng của gạo và ghế: m = mgao + mghe = 60 + 4 = 64kg </br>
+Áp lực của cả gạo và ghế tác dụng lên mặt đất là: P = 10m = 10.64 = 640N </br>
+Áp suất mà cả gạo và ghế tác dụng lên mặt đất là:</br>
+p =  =  = 200000N/m2</p>`,
+            },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Một xe contener có trọng lượng 26000N. Tính áp suất của xe lên mặt đường, biết diện tích tiếp xúc với mặt đất là 130dm2. Hãy so sánh áp suất đó với áp suất của một người nặng 45kg có diện tích tiếp xúc 2 bàn chân với mặt đất là 200cm2.</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>
+              Áp suất của xe tăng lên mặt đường= 21666,67(Pa)</br>
+Áp lực của người lên mặt đất là:P2 = F2 = 10.m2 = 10.45 = 450(N)</br>
+Áp suất của người lên mặt đất là= 22500(Pa)</br>
+p1 < p2</br>
+Vậy áp suất của người lớn hơn của xe contener</p>`,
+            },
+              {
+              id: 41,
+              extra: ``,
+              question: `<p>Áp lực của gió tác dụng trung bình lên một cánh buồm là 7200 N, khi đó cách buồm chịu tác dụng một áp suất 340 M/m2</br>
+              a) Diện tích của cánh buồm là bao nhiêu?</br>
+              Nếu áp lực tác dụng lên cánh buồm là 8400 N, thì cánh buồm phải chịu một áp suất là bao nhiêu?</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p><img alt='1' src="/learn/ly/Baitap3_5_1.png" style="max-width:100% !important;"/></p>`,
+            },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Một thỏi sắt có dạng hình hộp chữ nhật 40x20x10 cm. Trọng lượng riêng của sắt là 78000M/m3. Đặt thỏi sắt nằm ngang trên mặt bàn. Tác dụng lên thỏi sắt một lực F có phương thẳng đứng hướng xuống và có độ lớn 100N. Hãy tính áp suất tác dụng lên mặt bàn?
+              </p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>
+              Thể tích của thanh sắt: 0.4x0.2x0.1=0.008m3</br>
+              Trọng lượng của thanh sắt: P = d.V = 78000.0.008 = 624N</br>
+              Tổng trọng lượng tác dụng lên mặt bàn: F + P = 100 + 624 = 724N</br>
+              
+              TH1: Diện tích tiếp xúc với mặt bàn: S = 0.4x0.2 = 0.08m2</br>
+              Áp suất tác dụng lên mặt bàn: p =  =  = 9050N/m2</br>
+              TH2: Diện tích tiếp xúc với mặt bàn: S = 0.4x0.1 = 0.04m2</br>
+                  Áp suất tác dụng lên mặt bàn: p =  =  = 18100N/m2</br>
+                  TH3: Diện tích tiếp xúc với mặt bàn: S = 0.2x0.1 = 0.02m2</br>
+                  Áp suất tác dụng lên mặt bàn: p =  =  = 36200N/m2
+                            </p>`,
+            },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Một xe tăng có trọng lượng 340000N. Tính áp suất của xe tăng lên mặt đường nằm ngang, biết rằng diện tích tiếp xúc của các bản xích với đất là 1,5m2. Hãy so sánh áp suất đó với áp suất của một ô tô nặng 20 000N có diện tích các bánh xe tiếp xúc với mặt đất nằm ngang là 250cm2. Dựa vào kết quả tính toán ở trên, hãy trả lời câu hỏi: vì sao xe tăng có thể chạy trên đất mềm mà ô tô thì lại không?</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>- Áp suất của xe tăng lên mặt đường nằm ngang là:</br>
+   Phương pháp tính Áp lực, áp suất cực hay có lời giải</br>
+- Áp suất của ô tô lên mặt đường nằm ngang là:340000/1.5 = 226666.67 (N/m2)</br>
+- Áp suất của ô tô lên mặt đường nằm ngang là :  = 800000 (N/m2)</br>
+- Xe tăng nặng hơn ô tô nhưng do xe tăng dùng xích có bản rộng nên áp suất gây ra bởi xe tăng nhỏ. Còn ô tô dùng bánh nên áp suất gây ta bởi trọng lượng của ô tô còn lớn hơn.</br>
+- Áp suất của xe tăng lên mặt đường nằm ngang còn nhỏ hơn nhiều lần áp suất của ô tô. Do đó xe tăng chạy được dưới đất mềm</p>`,
+            },
           //     {
         //       id: 41,
         //       extra: ``,
@@ -314,7 +475,7 @@ c.Muốn giữ khối gỗ chìm hoàn toàn và đứng yên trong nước thì
         //       lastwrite: ``,
         //       explanation: ``,
         //     },
-          //     {
+        //     {
         //       id: 41,
         //       extra: ``,
         //       question: `

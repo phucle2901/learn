@@ -317,96 +317,147 @@ P = 10.m = 10.92,88 = 928,8 N</p>`,
               answer: ``,
               rewrite: ``,
               lastwrite: ``,
-              explanation: ``,
+              explanation: `<p>
+              Gọi h1, h2 là chiều cao của lớp thủy ngân và nước trong ống chia độ.</br>
+              Trong đó: h1 + h2 = 29,2 cm (1)</br>
+              Trọng lượng của thủy ngân và nước trong ống chia độ bằng nhau:</br>
+              d1.S.h1 = d2.S.h2 (2)</br>
+              136000.h1 = 10000.h2</br>
+              => h2=13600/10000.h1 = 13,6.h1 (2)</br> 
+              Thay (2) vào (1) ta được:</br>
+              h1 + 13,6.h1 = 29,2</br>
+              14,6.h1 = 29,2</br>
+              h1 = 29,2/14,6 = 2,1 cm (3)</br>
+              Thay (3) vào (1) ta được:</br>
+              2,1 + h2 = 29,2</br>
+              h2 = 29,2 - 2,1 = 27,1 cm (4)</br>              
+              Áp suất thủy ngân tác dụng lên đáy ống là:</br>
+              p1 = d1.h1 = 136000.0,021 = 2856 N/m2</br>
+              Áp suất nước tác dụng lên đáy ống là:</br>
+              p2 = d2.h2 = 10000.0,271 = 2710 N/m2</br>
+              Áp suất tổng cộng của hai chất lỏng tác dụng lên đáy ống là:</br>
+              p = p1 + p2 = 2856 + 2710 = 5566 N/m2
+              </p>`,
             },
-         //     {
-        //       id: 41,
-        //       extra: ``,
-        //       question: `
-        // `,
-        //       options: [],
-        //       answer: ``,
-        //       rewrite: ``,
-        //       lastwrite: ``,
-        //       explanation: ``,
-        //     },
-         //     {
-        //       id: 41,
-        //       extra: ``,
-        //       question: `
-        // `,
-        //       options: [],
-        //       answer: ``,
-        //       rewrite: ``,
-        //       lastwrite: ``,
-        //       explanation: ``,
-        //     },
-          //     {
-        //       id: 41,
-        //       extra: ``,
-        //       question: `
-        // `,
-        //       options: [],
-        //       answer: ``,
-        //       rewrite: ``,
-        //       lastwrite: ``,
-        //       explanation: ``,
-        //     },
-         //     {
-        //       id: 41,
-        //       extra: ``,
-        //       question: `
-        // `,
-        //       options: [],
-        //       answer: ``,
-        //       rewrite: ``,
-        //       lastwrite: ``,
-        //       explanation: ``,
-        //     },
-          //     {
-        //       id: 41,
-        //       extra: ``,
-        //       question: `
-        // `,
-        //       options: [],
-        //       answer: ``,
-        //       rewrite: ``,
-        //       lastwrite: ``,
-        //       explanation: ``,
-        //     },
-         //     {
-        //       id: 41,
-        //       extra: ``,
-        //       question: `
-        // `,
-        //       options: [],
-        //       answer: ``,
-        //       rewrite: ``,
-        //       lastwrite: ``,
-        //       explanation: ``,
-        //     },
-         //     {
-        //       id: 41,
-        //       extra: ``,
-        //       question: `
-        // `,
-        //       options: [],
-        //       answer: ``,
-        //       rewrite: ``,
-        //       lastwrite: ``,
-        //       explanation: ``,
-        //     },
-          //     {
-        //       id: 41,
-        //       extra: ``,
-        //       question: `
-        // `,
-        //       options: [],
-        //       answer: ``,
-        //       rewrite: ``,
-        //       lastwrite: ``,
-        //       explanation: ``,
-        //     },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Một tàu ngầm đang di chuyển dươi mặt nước, áp kế đặt ngoài vỏ tàu chỉ áp suất 2020000 N/m2, một lúc sau áp kế chỉ 860000N/m2. Độ sâu của tàu ngầm ở 2 thời điểm là bao nhiêu? biết trọng lượng riêng của nước biển là 10300N/m3</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>
+              Áp suất ở độ sau ha được tính theo công thức: p=d.h</br>
+              Độ sâu của tàu ngầm lúc đầu là:</br>
+              h1 = p1/d = 2020000/10300 = 196,1 m</br>
+              Độ sâu của tàu ngầm lúc sau là:</br>
+              h2 = p2/d = 860000/10300 = 83,5 m</br>              
+              </p>`,
+            },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Một bình thông nhau chứa nước biển, người ta đổ thêm xăng vào một nhánh. Hai mặt thoáng chênh lệch nhau 18 mm. Độ cao của cột xăng là bao nhiêu? Biết trọng lượng riêng của nước biển là 10300N/m3, và xăng là 7000N/m3</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>
+              <img alt='1' src="/learn/ly/Baitap4_7.png" style="max-width:100% !important;"/>
+              </p>`,
+            },
+              {
+              id: 41,
+              extra: ``,
+              question: `<p>Một thợ lặn xuống độ sâu 40m so với mực nước biển. Cho trọng lu7o5ng riêng của nước biển 10300 N/m2. </br>
+              a. Tính áp suất ở độ sâu mà người thợ đang lặn là bao nhiêu?</br>
+              b. Cửa chiếu sáng của áo lặn có diện tích là 0.016 m2. Áp lực của nước tác dụng lên phần diện tích này là bao nhiêu?</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>
+              a. Áp suất của thợ lặn ở đô sâu 40m: p=d.h =10300 . 40 = 412000 N/m2</br>
+              b. Áp lực của nước tác dụng lên cửa chiếu sáng: F=p.S = 412000 * 0.016 = 6592 N</p>`,
+            },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Tác dụng một lực 480 N lên một pitong nhỏ của máy ép dùng nước. Diện tích của pitong nhỏ là 2.5 cm2, diện tích của pitogng lớn là 200 cm2, áp suất tác dụng lên pitong nhỏ và pitong lớn là bao nhiêu?</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p><img alt='1' src="/learn/ly/Baitap4_8_1.png" style="max-width:100% !important;"/></p>`,
+            },
+              {
+              id: 41,
+              extra: ``,
+              question: `<p>Một cái đập nước của nhà máy thủy điện có chiều cao từ đáy hồ chứa nước đến mặt đập là 150 m. Khoảng cách từ mặt đập đếm mặt nước là 20 m , cửa van dẫn nước vào tua bin của máy phát điện cách đáy hồ là 30 m. Tính áp suất của nước tác dụng lên cửa van, biết trọng lượng riêng của nước là 10000 N/m3. </p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p>Đô sâu của cửa van so với mặt nước là: 150 - 30 -20 =100m </br>
+              Áp suất của nước tác dụng lên van là p=d*h = 1000 * 100 =100000 N/m2</p>`,
+            },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Hai bình hình trụ A và B đặt thẳng đứng có tiết diện lần lượt là 150cm2 và 300cm2 được nối thông đáy bằng một ống nhỏ qua khoá k như hình vẽ. Lúc đầu khoá k để ngăn cách hai bình, sau đó đổ v (cm3) dầu vào bình A, đổ v (cm3) nước vào bình B.</br>
+              <img alt='1' src="/learn/ly/Baitap4_9.png" style="max-width:100% !important;"/></br/>
+              Cho biết trọng lượng riêng của dầu và của nước lần lượt là: d1=8000N/m3 ; d2= 10000N/m3. Kết luận nào sau đây là chính xác?</br>
+A. áp suất đáy bình A bằng áp suất đáy bình B vì thể tích chất lỏng ở hai bình là như nhau</br>
+B. áp suất đáy bình A bằng áp suất đáy bình B</br>
+C. áp suất đáy bình A lớn hơn áp suất đáy bình B</br>
+D. áp suất đáy bình A nhỏ hơn áp suất đáy bình B
+              </p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p><img alt='1' src="/learn/ly/Baitap4_9_1.png" style="max-width:100% !important;"/></p>`,
+            },
+             {
+              id: 41,
+              extra: ``,
+              question: `<p>Một bình thông nhau có chứa nước. Hai nhánh của bình có cùng kích thước. Đổ vào một nhánh của bình lượng dầu có chiều cao là 18 cm. Biết trọng lượng riêng của dầu là 8000 N/m3, và trọng lượng riêng của nước là 10000 N/m3. Hãy tính độ chênh lệch mực chất lỏng trong hai nhánh của bình ?</p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p><img alt='1' src="/learn/ly/Baitap4_10_1.png" style="max-width:100% !important;"/></p>`,
+            },
+              {
+              id: 41,
+              extra: ``,
+              question: `<p><img alt='1' src="/learn/ly/Baitap4_11.png" style="max-width:100% !important;"/></p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p><img alt='1' src="/learn/ly/Baitap4_11_1.png" style="max-width:100% !important;"/></p>`,
+            },
+            {
+              id: 41,
+              extra: ``,
+              question: `<p><img alt='1' src="/learn/ly/Baitap4_12.png" style="max-width:100% !important;"/></p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p><img alt='1' src="/learn/ly/Baitap4_12_1.png" style="max-width:100% !important;"/></p>`,
+            },
          //     {
         //       id: 41,
         //       extra: ``,

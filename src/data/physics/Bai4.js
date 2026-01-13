@@ -458,6 +458,28 @@ D. áp suất đáy bình A nhỏ hơn áp suất đáy bình B
               lastwrite: ``,
               explanation: `<p><img alt='1' src="/learn/ly/Baitap4_12_1.png" style="max-width:100% !important;"/></p>`,
             },
+            {
+              id: 41,
+              extra: ``,
+              question: `<p><img alt='1' src="/learn/ly/Baitap4_13.png" style="max-width:100% !important;"/></p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p><img alt='1' src="/learn/ly/Baitap4_13_1.png" style="max-width:100% !important;"/></p>`,
+            },
+            {
+              id: 41,
+              extra: ``,
+              question: `<p><img alt='1' src="/learn/ly/Baitap4_14.png" style="max-width:100% !important;"/></p>
+        `,
+              options: [],
+              answer: ``,
+              rewrite: ``,
+              lastwrite: ``,
+              explanation: `<p><img alt='1' src="/learn/ly/Baitap4_14_1.png" style="max-width:100% !important;"/></p>`,
+            },
          //     {
         //       id: 41,
         //       extra: ``,

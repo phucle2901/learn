@@ -1,5 +1,5 @@
 import React from 'react';
-
+// https://vietjack.com/vat-ly-lop-8/cach-giai-bai-tap-ve-may-nen-thuy-luc-cuc-hay.jsp#google_vignette
 const Bai4 = () => {
     return (
         <div class="leading-[35px]" style={{
@@ -23,6 +23,7 @@ const Bai4 = () => {
 <p>+ Áp suất của một chất lỏng tĩnh lên đáy bình bằng tích của trọng lượng riêng của chất lỏng nhân với chiều cao của cột chất lỏng ( Tính từ mặt thoáng chất lỏng đến điểm cần xét). Áp suất này không phụ thuộc vào hình dạng bình chứa.</p>
 <p>P = d.h</p>
 
+<p><img alt='1' src={process.env.PUBLIC_URL + '/ly/Bai4_14.png'}/></p>
 
         </div>
     );

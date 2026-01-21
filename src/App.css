@@ -383,6 +383,9 @@ html {padding-right:0 !important}
 .mau{
   display: block;
 }
+.line_top{
+  display: inline-block;border-top: 2px solid #000;
+}
 .pcongthuc{
   align-content: center;item: center;display: flex;align-self: center;align-items: center;
 }

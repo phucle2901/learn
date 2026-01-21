@@ -18,7 +18,6 @@ import Physics from "./component/physics/Physics";
 
 //import Translator from "./component/translator/Translator";
 
-
 function App() {
   //const [examId, setExamId] = useState(0);
   const [refeshData, setRefeshData] = useState(true);
@@ -37,8 +36,8 @@ function App() {
   const menusChemistry = ["","Bai1","Bai2","Bai3","Bai4","Bai5","Bai6","Bai7"];
   const nameChemistry = ["","Mol","Tên gọi một số acid","Tổng hợp về hợp chất","Bài toán có hiệu suất phản ứng","Pha chế dung dịch" ,"Đơn chất, hợp chất, phân tử","Cách nhận biết các chất"];
 
-  const menusMath = ["","Bai1","Bai2","Bai3","Bai4","Bai5","Bai6","Bai7"];
-  const nameMath = ["","Tam giác","Tứ giác","Dịnh lý talet","Tam giác đồng dạng","Hình chóp","Giá trị lớn nhất - nhỏ nhất","Hàm số bậc nhất"];
+  const menusMath = ["","Bai1","Bai2","Bai3","Bai4","Bai5","Bai6","Bai7","Bai8"];
+  const nameMath = ["","Tam giác","Tứ giác","Dịnh lý talet","Tam giác đồng dạng","Hình chóp","Giá trị lớn nhất - nhỏ nhất","Hàm số bậc nhất","Chia đa thức với đa thức"];
 
   const menusPhysics= ["","Bai1","Bai2","Bai3","Bai4"];
   const namePhysics = ["","Khối lượng riêng và áp suất","Cách đổi đơn vị","Lực đẩy Archimedes","Áp suất chất lỏng và chất khí"];
@@ -55,7 +54,12 @@ function App() {
   //const apiUrl = process.env.REACT_APP_API_URL;
   const location = useLocation();
 
- 
+  // const [numPages, setNumPages] = useState(null);
+  // const [pageNumber, setPageNumber] = useState(1);
+
+  // function onDocumentLoadSuccess({ numPages }) {
+  //   setNumPages(numPages);
+  // }
 
   //console.log("apiUrl: ", apiUrl);
   {
@@ -166,6 +170,7 @@ function App() {
             }
           />
         </Routes>
+        
       </>
     </div>
   );

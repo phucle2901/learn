@@ -239,8 +239,12 @@ console.log("gradeExam=",gradeExam);
  
   return (
    
-    <>   
-      <div class="wrap-question" ref={scrollRef} onScroll={handleScroll}>       
+    <>       
+      <div class="wrap-question" ref={scrollRef} onScroll={handleScroll}> 
+      {/* {gradeExam.examId==0  && <h2 style={{color:"#fff",paddingBottom:"15px"}}>Nhấn F5 để có đề tự động mới</h2>} 
+      {gradeExam.grade==10 && gradeExam.examId >0 && <h2 style={{color:"#fff",paddingBottom:"15px"}}>Đề số {gradeExam.examId} tiếng anh thi vào {gradeExam.grade}</h2>} 
+      {gradeExam.grade==8 && gradeExam.examId >0 && <h2 style={{color:"#fff",paddingBottom:"15px"}}>Đề số {gradeExam.examId} tiếng anh lớp {gradeExam.grade}</h2>}  */}
+
         {questions.map((q,indexQ) => (
           <div
             key={q.id}
@@ -260,13 +264,14 @@ console.log("gradeExam=",gradeExam);
                   : "#ffe0e0" // reddish for incorrect
                 : "#fff9f9", //#f9f9f9
             }}
-          >
-            {/* {q.answer}       */}
+          >                
             {q.extra && q.extra.length > 0 && (
               <div
                 className="extra-content"
                 dangerouslySetInnerHTML={{ __html: fReplaceQuestion(q.extra,indexQ) }}
-              ></div>
+              >
+              </div>
+              
             )}
             {q.media && q.media.length>0 && (
               

@@ -30,7 +30,11 @@ const Bai10 = () => {
         <p><img alt='1' src={process.env.PUBLIC_URL + '/toan/10/1_17.png'}/></p>
         <p><img alt='1' src={process.env.PUBLIC_URL + '/toan/10/1_18.png'}/></p>
         <p><img alt='1' src={process.env.PUBLIC_URL + '/toan/10/1_19.png'}/></p>
-        
+        <p><img alt='1' src={process.env.PUBLIC_URL + '/toan/10/1_20.png'}/></p>
+        <p><img alt='1' src={process.env.PUBLIC_URL + '/toan/10/1_21.png'}/></p>
+        <p><img alt='1' src={process.env.PUBLIC_URL + '/toan/10/1_22.png'}/></p>
+        <p><img alt='1' src={process.env.PUBLIC_URL + '/toan/10/1_23.png'}/></p>
+
         </div>
     );
 };

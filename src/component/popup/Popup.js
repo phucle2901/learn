@@ -35,7 +35,7 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
   let examList = [];
   if (eExamLenTen > 0) {
     for (let i = 0; i < eExamLenTen; i++) {
-    examList.push({ label: "Đề số a " + (i + 1), id: i + 1 });
+    examList.push({ label: "Đề số " + (i + 1), id: i + 1 });
     }
   }
  
@@ -141,21 +141,9 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
                 </TabPanel>
                 {/* De thi AV */}
                 <TabPanel>
-                {eExamLenEight>0 && (
-                  <MenuItem><p>Đề thi lớp 8</p></MenuItem>
-                )}
-                {links.map((link) => (
-                  <MenuItem
-                    key={link.id}
-                    className="block no-underline hover:underline "
-                  >
-                    <Link  onClick={(e) => {  handleClick(link.id,8); }} >
-                      {link.label}
-                    </Link>
-                  </MenuItem>
-                ))}   
+   
                 {eExamLenTen>0 && (
-                  <MenuItem><p>Đề thi lớp 10</p></MenuItem>
+                  <MenuItem><p><b>Đề thi lớp 10</b></p></MenuItem>
                 )}
                 {eExamLenTen>0 && examList.map((link) => (
                  
@@ -169,7 +157,21 @@ function Popup({ setGradeExam, setRefeshData, setMenuActive ,descMenus,uniqueExa
                   </MenuItem>
                   
                   
-                ))}    
+                ))} 
+                {eExamLenEight>0 && (
+                  <MenuItem><p style={{paddingTop:"15px"}}><b>Đề thi lớp 8</b></p></MenuItem>
+                )}
+                {links.map((link) => (
+                  <MenuItem
+                    key={link.id}
+                    className="block no-underline hover:underline "
+                  >
+                    <Link  onClick={(e) => {  handleClick(link.id,8); }} >
+                      {link.label}
+                    </Link>
+                  </MenuItem>
+                ))}
+                   
 
               </TabPanel>
               {/* Dang bai tap */}

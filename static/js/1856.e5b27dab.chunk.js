@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearning=self.webpackChunklearning||[]).push([[1856],{1856:(e,n,s)=>{s.r(n),s.d(n,{math:()=>a});const a=[]}}]);

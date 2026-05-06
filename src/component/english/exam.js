@@ -241,9 +241,9 @@ console.log("gradeExam=",gradeExam);
    
     <>       
       <div class="wrap-question" ref={scrollRef} onScroll={handleScroll}> 
-      {/* {gradeExam.examId==0  && <h2 style={{color:"#fff",paddingBottom:"15px"}}>Nhấn F5 để có đề tự động mới</h2>} 
+      {gradeExam.examId==0  && <h2 style={{color:"#fff",paddingBottom:"15px"}}>Nhấn F5 để có đề tự động mới</h2>} 
       {gradeExam.grade==10 && gradeExam.examId >0 && <h2 style={{color:"#fff",paddingBottom:"15px"}}>Đề số {gradeExam.examId} tiếng anh thi vào {gradeExam.grade}</h2>} 
-      {gradeExam.grade==8 && gradeExam.examId >0 && <h2 style={{color:"#fff",paddingBottom:"15px"}}>Đề số {gradeExam.examId} tiếng anh lớp {gradeExam.grade}</h2>}  */}
+      {gradeExam.grade==8 && gradeExam.examId >0 && <h2 style={{color:"#fff",paddingBottom:"15px"}}>Đề số {gradeExam.examId} tiếng anh lớp {gradeExam.grade}</h2>} 
 
         {questions.map((q,indexQ) => (
           <div

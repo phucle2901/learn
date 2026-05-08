@@ -10264,7 +10264,7 @@ Do đó, D là đáp án phù hợp.
       {
         id: 41,
         extra: `<p><strong>II. Look at the sign/ picture. Choose the best answer (A, B, C or D) for each sign picture. (0.5 pt) </strong></p>`,
-        question: `<p>What does this sign say?<br/><img src="https://asset.moon.vn/img/chat/large/2025/5/a91daa9f-2d96-446c-bde0-75e1adb9db8e.jpg" data-filename="" /></p>
+        question: `<p>What does this sign say?<br/><img src="/learn/grand10/a91daa9f-2d96-446c-bde0-75e1adb9db8e.jpg" data-filename="" class="max_width" /></p>
         `,
         options: [
           `You must have permission to use the phone in this area.`,
@@ -12099,7 +12099,7 @@ Do đó, D là đáp án phù hợp.
       {
         id: 41,
         extra: ``,
-        question: `<p>What does the notice say?<br/><img src="https://asset.moon.vn/img/chat/large/2025/4/2ded7d9b-7d1c-4d34-874c-a4397984d067.jpg" /></p>
+        question: `<p>What does the notice say?<br/><img src="https://asset.moon.vn/img/chat/large/2025/4/2ded7d9b-7d1c-4d34-874c-a4397984d067.jpg" style="max-width: 600px! important; height: auto;" class="max_width" /></p>
   `,
         options: [`Buy a ticket with cash before boarding.`,
      `Pay the fare with cash after boarding.`,
@@ -56751,8022 +56751,11105 @@ Căn cứ vào thông tin: </b>"Then we talked to all the drivers in cars which 
 Do đó, C là đáp án phù hợp.
 </b>`,
         }, ],
-    },                  
+    },
+{
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is made from the given cues in each of the following questions.</b></p>`,
+          media:``,
+          question: `The doctor/ advise/ him/ cut/ drinking.
+        `,
+          options: [`The doctor advised him cutting down on his drinking.`,`The doctor advised him out down drinking.`,`The doctor advised him to cut on his drinking.`,`The doctor advised him to cut down on his drinking.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về hoàn thành câu<br>Ta có:</b><br>- advise sb to do sth: khuyên ai làm gì đó<br>- cut down on sth: giảm bớt, cắt giảm một cái gì đó<br><b>* Xét các đáp án:</b><br>A. The doctor advised him cutting down on his drinking. → Sai ngữ pháp.<br>B. The doctor advised him out down drinking. → Sai ngữ pháp.<br>C. The doctor advised him to cut on his drinking. → Sai ngữ pháp.<br>D. The doctor advised him to cut down on his drinking: Bác sĩ khuyên anh ấy giảm bớt việc uống rượu. <b><i>→ Đúng ngữ pháp.</i></b><br><b>Do đó, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `She/ wish/ have/ long/summer holiday. 
+        `,
+          options: [`She wishes she had a long summer holiday.`,`She wishes she had long summer holiday.`,`She wishes she has a long summer holiday.`,`She wish she had a long summer holiday.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về hoàn thành câu<br>
+Ta có:</b><br>
+- Cấu trúc câu ước ở hiện tại: <b>S + wish(es) + (that) + S + V (quá khứ đơn)</b> → Diễn tả mong ước về một điều gì đó không có thật ở hiện tại.<br>
+- Mạo từ không xác định <b>(a/an)</b> dùng trước những danh từ số ít đếm được, khi nó được nhắc tới lần đầu tiên. Do <b>"holiday" </b>là danh từ đếm được số ít nên cần mạo từ <b>"a"</b> phía trước.<br><b>
+* Xét các đáp án:</b><br>
+A. She wishes she had a long summer holiday: Cô ấy ước cô ấy có một kỳ nghỉ hè dài. → <b><i>Đúng ngữ pháp.</i></b><br>
+B. She wishes she had long summer holiday. → Sai ngữ pháp (vì thiếu mạo từ).<br>
+C. She wishes she has a long summer holiday. → Sai ngữ pháp (vì động từ "<b>has</b>" ở thì hiện tại đơn không đúng cấu trúc).<br>
+D. She wish she had a long summer holiday. → Sai ngữ pháp (vì chia động từ "<b>wish</b>" sai ngôi).<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in each of the following questions.</b></p>`,
+          media:``,
+          question: `The city is very crowded. Many people still enjoy living there.
+        `,
+          options: [`Although the city is very crowded, but many people still enjoy living there.`,`The city is very crowded; however, many people still enjoy living there. `,`Despite the city is very crowded, many people still enjoy living there.`,`Although being very crowded, many people still enjoy living there.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+Tạm dịch câu gốc</b>: Thành phố rất đông đúc. Nhiều người vẫn thích sống ở đó.<br><b>
+* Xét các đáp án:</b><br>
+A. Although the city is very crowded, but many people still enjoy living there. → Sai ngữ pháp (vì "<b>Although</b>" đã có nghĩa là "<b>mặc dù… nhưng</b>" nên không được dùng "<b>but</b>" ở đầu vế sau).<br>
+B. The city is very crowded; however, many people still enjoy living there: Thành phố rất đông đúc; tuy nhiên, nhiều người vẫn thích sống ở đó. <b><i>→ Phù hợp về nghĩa, đúng ngữ pháp.</i></b> Ta có: <b>however</b>: tuy nhiên (khi đứng ở giữa câu để nối 2 mệnh đề độc lập thì sẽ đứng sau ";" và trước ",").<br>
+C. Despite the city is very crowded, many people still enjoy living there. → Sai ngữ pháp (cấu trúc đúng: <b>Despite + N/V-ing</b>: Mặc dù…).<br>
+D. Although being very crowded, many people still enjoy living there. → Sai ngữ pháp (cấu trúc đúng: <b>Although + S + V</b>: Mặc dù…).<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The professor studies the history of English. His research focuses on language variations. 
+        `,
+          options: [`The professor who research focuses on language variations studies the history of English. `,`The professor which research focuses on language variations studies the history of English. `,`The professor whose research focuses on language variations studies the history of English.`,`The professor his research of whose focuses on language variations studies the history of English. `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ quan hệ</b><br><b>
+Tạm dịch câu gốc:</b> Giáo sư đó nghiên cứu lịch sử tiếng Anh. Nghiên cứu của ông tập trung vào các biến thể của ngôn ngữ.<br><b>
+* Xét các đáp án:</b><br>
+A. The professor who research focuses on language variations studies the history of English. → Sai ngữ pháp. Ta có: <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br>
+B. The professor which research focuses on language variations studies the history of English. → Sai ngữ pháp. Ta có: <b>which</b>: đại từ quan hệ chỉ vật, sự vật, sự việc làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.<br>
+C. The professor whose research focuses on language variations studies the history of English: Giáo sư có nghiên cứu tập trung vào các biến thể ngôn ngữ nghiên cứu lịch sử tiếng Anh.<b><i> → Phù hợp về nghĩa, đúng ngữ pháp.</i></b> Ta có: <b>whose</b>: đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br>
+D. The professor his research of whose focuses on language variations studies the history of English. → Sai ngữ pháp.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`delay`,`affect`,`orbit`,`replace`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm<br>
+* Xét các đáp án: </b><br>
+A. delay /dɪˈleɪ/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm đôi /eɪ/.<br>
+B. affect /əˈfekt/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm không rơi vào nguyên âm ngắn /ə/.<br>
+C. orbit /ˈɔːbɪt/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm dài /ɔː/.<br>
+D. replace /rɪˈpleɪs/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm đôi /eɪ/.<br><b>
+=&gt; Đáp án C có trọng âm rơi vào âm tiết thứ nhất. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai. <br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`natural`,`majestic`,`popular`,`ruinous`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm<br>
+* Xét các đáp án: </b><br>
+A. natural /ˈnætʃrəl/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm không rơi vào nguyên âm ngắn /ə/.<br>
+B. majestic /məˈdʒestɪk/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi -ic làm trọng âm rơi vào âm tiết ngay trước nó.<br>
+C. popular /ˈpɑːpjələr/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm dài /ɑː/.<br>
+D. ruinous /ˈruːɪnəs/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, hậu tố -ous không làm ảnh hưởng đến trọng âm.<br><b>
+=&gt; Đáp án B có trọng âm rơi vào âm tiết thứ hai. Các đáp án còn lại trọng âm rơi vào âm tiết thứ nhất. <br>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `The firefighters worked tirelessly to __________ the fires spreading through the forest.
+        `,
+          options: [`pick up`,`go over`,`put up`,`put out`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ<br>
+* Xét các đáp án:</b><br>
+A. pick up (ph.v): nhặt lên; thu thập; đón ai đó<br>
+B. go over (ph.v): xem xét, kiểm tra lại<br>
+C. put up (ph.v): dựng lên; cho phép ai đó ở lại<br>
+D. put out (ph.v): dập tắt (lửa); làm phiền ai đó<br><b>
+Tạm dịch</b>: Các lính cứu hỏa làm việc không mệt mỏi để dập tắt các đám cháy lan rộng qua khu rừng.<br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `I __________ in various exciting outdoor activities recently.
+        `,
+          options: [`have participated `,`participated`,`participate`,`am participating`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thì động từ</b><br>
+→ Căn cứ vào từ "<b>recently</b>" (gần đây) là dấu hiệu của thì hiện tại hoàn thành (diễn tả một hành động đã xảy ra trong quá khứ và vẫn có ảnh hưởng đến hiện tại).<br>
+* Cấu trúc: <b>S + have/has + Vp2…</b><br><b>
+Tạm dịch:</b> Tôi đã tham gia vào nhiều hoạt động ngoài trời thú vị gần đây.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `If he __________ regularly, he __________ his grades significantly.
+        `,
+          options: [`will study/ will improve `,`has studied/ would improve`,`studies/ will improve `,`studied/ improve`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu điều kiện</b><br><b>
+Tạm dịch:</b> Nếu anh ấy học đều đặn, anh ấy sẽ cải thiện điểm số của mình một cách đáng kể.<br>
+* Căn cứ vào ngữ cảnh của câu, ta sử dụng câu điều kiện loại I: <b>If + S + V (hiện tại đơn), S + will + V (nguyên mẫu)…</b><br>
+→ Diễn tả một tình huống có thể xảy ra ở hiện tại hoặc tương lai.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word “__________” refers to all the plants living in a particular area.
+        `,
+          options: [`rainforest`,`fauna`,`flora`,`habitat`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. rainforest /ˈreɪnfɒrɪst/ (n): rừng mưa, rừng rậm nhiệt đới<br>
+B. fauna /ˈfɔːnə/ (n): hệ động vật<br>
+C. flora /ˈflɔːrə/ (n): hệ thực vật<br>
+D. habitat /ˈhæbɪtæt/ (n): môi trường sống<br><b>
+Tạm dịch:</b> Từ "hệ thực vật" chỉ tất cả các loài thực vật sống trong một khu vực cụ thể.<br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `He asked me __________ the differences between British English and American English:
+        `,
+          options: [`if did I know`,`I knew`,`whether I know`,`if I knew`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật</b><br>Ta có cấu trúc câu tường thuật lại câu hỏi Yes/No: <b>S + asked (+O)/ wanted to know/ wondered + if/whether + S + V</b><br>→ Lưu ý: Khi chuyển từ câu trực tiếp sang gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và lùi thì đối với câu chứa động từ tường thuật ở thì quá khứ.<br><b>* Xét các đáp án:</b><br>A. if did I know → Sai ngữ pháp (không được đảo "<b>did</b>" lên trước chủ ngữ).<br>B. I knew → Sai ngữ pháp (thiếu "<b>If/whether</b>").<br>C. whether I know → Sai ngữ pháp (chưa lùi thì động từ).<br>D. if I knew → Đúng ngữ pháp.<br><b>Tạm dịch: </b>Anh ấy đã hỏi tôi liệu tôi có biết sự khác biệt giữa tiếng Anh Anh và tiếng Anh Mỹ.<br><b>Do đó, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `This travel app provides a detailed map for a(n) __________ tour of the historic city center, allowing you to explore at your own pace:
+        `,
+          options: [`self-guided`,`package`,`educational`,`virtual`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. self-guided /ˌself ˈgaɪdɪd/ (adj): tự tổ chức; tự túc<br>
+B. package /ˈpækɪdʒ/ (n): gói đồ, bưu kiện<br>
+C. educational /ˌedʒuˈkeɪʃənl/ (adj): mang tính giáo dục, có tính giáo dục<br>
+D. virtual /ˈvɜːtʃuəl/ (adj): trực tuyến<br><b>
+* Ta có:</b><br>
+- self-guided tour (n): chuyến tham quan tự túc, tự hướng dẫn<br>
+- package tour /ˈpækɪdʒ ˌtʊər/ (n): chuyến du lịch trọn gói<br><b>
+Tạm dịch: </b>Ứng dụng du lịch này cung cấp một bản đồ chi tiết cho chuyến tham quan tự túc khu trung tâm thành phố lịch sử, cho phép bạn khám phá theo nhịp độ của riêng mình.<br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `__________ you travel, __________ you learn about other cultures.
+        `,
+          options: [`The more/ the best`,`The most/ the better`,`The more/ the more`,`The more/ the most`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu so sánh</b><br>
+* Ta có cấu trúc so sánh đồng tiến (càng… càng): <b>The + (so sánh hơn) comparative adj/ adv + S + V, the (so sánh hơn) comparative adj/ adv + S + V</b><br>
+=&gt; loại A, B và D (vì <b>the most</b> và<b> the best</b> là dạng so sánh nhất).<br><b>
+Tạm dịch:</b> Bạn càng đi du lịch nhiều, bạn càng học được nhiều về các nền văn hóa khác.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<i>Jane and Nick are waiting outside their classroom. </i><br><b>
+Jane:</b> "Good luck with your English exam today."<br><b>
+Nick:</b> “ __________”
+        `,
+          options: [`Oops, my mistake.`,`Thanks. I'll try my best.`,`You're welcome.`,`I don't know how to prepare for it.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp<br>
+Tạm dịch</b><i><b>:</b> Jane và Nick đang chờ ở ngoài lớp học của họ.</i><br>
+Jane: "Chúc may mắn với bài thi tiếng Anh của bạn hôm nay."<br>
+Nick: "____________"<br><b>
+* Xét các đáp án:</b><br>
+A. Ôi, tôi sai rồi.<br>
+B. Cảm ơn. Tôi sẽ cố gắng hết sức.<br>
+C. Không có gì.<br>
+D. Tôi không biết cách chuẩn bị cho nó.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following sign or notice and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `What does the sign mean?<br><img src="/learn/grand10/7d2f9419-a10b-4ba1-9acd-d730d9d090f5.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`No plastic bag is allowed here. `,`Take your bag here.`,`Use only one plastic bag for each receipt. `,`Use banana leaves instead of plastic ones.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Biển báo này có nghĩa là gì? </b><br><img src="/learn/grand10/7d2f9419-a10b-4ba1-9acd-d730d9d090f5.jpg" data-filename="" style="max-width: 600px; height: auto;"><br>
+A. Không được phép dùng túi nhựa dẻo ở đây. <br>
+B. Hãy lấy túi của bạn ở đây. <br>
+C. Chỉ sử dụng một túi nhựa dẻo cho mỗi hóa đơn. <br>
+D. Hãy sử dụng lá chuối thay vì túi nhựa dẻo.<br>
+→ Biển báo trên là biển báo cấm, có hình túi nhựa dẻo và một dấu gạch chéo màu đỏ qua hình túi.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does the notice say?<br><img src="/learn/grand10/15bee847-b44d-44d1-afcd-80f48930c559.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`Students can buy meal tickets here at a discount.`,`Students can select food items within the price limit on their meal tickets.`,`The canteen only accepts meal tickets for payment. `,`Students must pay the regular price if they forget their meal tickets.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Thông báo này nói gì? </b><br><img src="/learn/grand10/15bee847-b44d-44d1-afcd-80f48930c559.jpg" data-filename="" style="max-width: 600px; height: auto;"><br>
+A. Học sinh có thể mua phiếu ăn ở đây với giá ưu đãi. <br>
+B. Học sinh có thể chọn các món ăn trong giới hạn giá trên phiếu ăn của mình. <br>
+C. Căng tin chỉ chấp nhận phiếu ăn để thanh toán. <br>
+D. Học sinh phải trả giá thông thường nếu quên phiếu ăn.<br><b>
+Căn cứ vào nội dung thông báo:</b> "STUDENT CANTEEN. Please show your meal ticket or you must pay the full amount" <i>(CĂNG TIN SINH VIÊN. Vui lòng xuất trình phiếu ăn của bạn hoặc bạn phải trả toàn bộ số tiền)</i><br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 17 to 22.</b></p><p><div style="text-align: justify;">Earth is the only planet in our galaxy (17) __________ life. Scientists estimate that Earth is home (18) __________ about 300,000 plant species, over 600,000 species of fungi, and about ten million animal species. However, Earth (19) __________ a welcoming place for life forms. About 600 to 800 million years ago, Earth underwent several extreme climate changes known as ice ages, during which global temperatures dropped (20) __________ and the polar ice expanded to cover much of the Earth. The climate became (21) __________ cold that some scientists believed Earth had nearly or completely frozen. This is now known as the "snowball Earth" theory. There may have been four such periods. (22) __________ most of the sun's energy would have been reflected back into space by ice, the planet's average temperature would have been about -50 degrees Celsius. If the "snowball Earth" did exist, luckily we were not around there to feel the chill, as only microscopic and simple organisms existed then.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`supports that`,`which be support`,`that can support`,`which supporting`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề quan hệ</b><br>
+→ Ta có: Trong một câu không thể có 2 động từ cùng chia theo thì của câu. Do câu trên đã có động từ chính là "<b>is</b>" nên chỗ trống cần điền là mệnh đề quan hệ (hoặc dạng rút gọn mệnh đề quan hệ).<br>
+- Ta dùng đại từ quan hệ "<b>that</b>" khi trước đó có các từ như: the only, the same…; so sánh nhất (the best…); số thứ tự (the first, the second…); các đại từ bất định (someone, everyone, something…)…<br>
+=&gt; Loại A, B và D vì sai ngữ pháp.<br><b>
+Tạm dịch: </b>Earth is the only planet in our galaxy (17) __________ life. <i>(Trái Đất là hành tinh duy nhất trong thiên hà của chúng ta có thể hỗ trợ sự sống.)</i><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`with`,`for`,`to`,`of`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ</b><br>
+* Ta có cụm từ: <b>be home to sth: là nhà của, là nơi sinh sống của…</b><br><b>
+Tạm dịch:</b> Scientists estimate that Earth is home (18) ____________ about 300,000 plant species, over 600,000 species of fungi, and about ten million animal species. <i>(Các nhà khoa học ước tính rằng Trái Đất là nhà của khoảng 300.000 loài thực vật, hơn 600.000 loài nấm và khoảng mười triệu loài động vật.)</i><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`has not always been`,`has always not been`,`has always been not`,`always has not been`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trật tự từ</b><br>
+Cấu trúc thì hiện tại hoàn thành: <b>S + have/has + (not) + Vp2</b> =&gt; loại B.<br>
+→ Trong thì hiện tại hoàn thành, trạng từ chỉ tần suất (always, never…) đứng sau trợ động từ "<b>have/has</b>" và trước <b>Vp2</b>.<br>
+=&gt; Trật tự từ đúng là: <b>have/has + (not) + trạng từ chỉ tần suất + Vp2</b> =&gt; loại C và D.<br><b>
+Tạm dịch: </b>However, Earth (19) ___________ a welcoming place for life forms. <i>(Tuy nhiên, Trái Đất không phải lúc nào cũng là một nơi chào đón các dạng sống.)</i><br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`dramatic`,`dramatically`,`drama`,`dramatical`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+* Xét các đáp án:</b><br>
+A. dramatic /drəˈmætɪk/ (adj): kịch tính; đột ngột; liên quan đến kịch<br>
+B. dramatically /drəˈmætɪkli/ (adv): (một cách) đột ngột<br>
+C. drama /ˈdrɑːmə/ (n): vở kịch; sự kịch tính<br>
+D. dramatical /drəˈmætɪkl/ (adj): (nghĩa giống <b>dramatic </b>nhưng ít được dùng)<br>
+→ Ta thấy, chỗ trống cần điền một trạng từ để bổ nghĩa cho động từ "<b>dropped</b>".<br><b>
+Tạm dịch:</b> during which global temperatures dropped (20) ___________ and the polar ice expanded to cover much of the Earth. <i>(trong đó nhiệt độ toàn cầu giảm <b>đột ngột </b>và băng ở hai cực mở rộng bao phủ phần lớn Trái Đất.)</i><br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`enough`,`too`,`such`,`so`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc ngữ pháp</b><br>
+Ta có các cấu trúc: <br>
+1.<b>	S + V + adj/adv + enough + (for sb) + to V:</b> đủ… (cho ai) để làm gì<br>
+2.	<b>S + V + too + adj/adv + (for sb) + to V: </b>quá… (cho ai) để làm gì<br>
+3.<b>	S + V + such + (a/an) + adj + noun + that + S + V: </b>quá… đến nỗi mà<br>
+4.	<b>S + V + so + adj/adv + that + S + V: </b>quá… đến nỗi mà<br><b>
+Tạm dịch: </b>The climate became (21) ____________ cold that some scientists believed Earth had nearly or completely frozen.<i> (Khí hậu trở nên lạnh đến mức một số nhà khoa học tin rằng Trái Đất gần như hoặc hoàn toàn đóng băng.)</i><br><b>
+Do đó, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`Because`,`Despite`,`Moreover`,`Unless`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án:</b><br>
+A. Because + S + V: Bởi vì<br>
+B. Despite + N/V-ing: Mặc dù<br>
+C. Moreover, S + V: Hơn nữa<br>
+D. Unless + S + V = If… not: Nếu không, trừ khi<br><b>
+Tạm dịch:</b> (22) ___________ most of the sun's energy would have been reflected back into space by ice, the planet's average temperature would have been about -50 degrees Celsius. <i>(<b>Bởi vì</b> hầu hết năng lượng mặt trời sẽ bị băng phản xạ ngược vào không gian, nhiệt độ trung bình của hành tinh sẽ vào khoảng -50 độ C.)</i><br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 23 to 26.</b></p><p><div style="text-align: center;"><b>TEEN TIME MANAGEMENT WORKSHOP</b></div><div style="text-align: justify;">Struggling to balance school, hobbies, and friends? Join us for (23) __________ one-day adventure into the world of effective time management, exclusively for teens! <br>Date: Saturday, April 12<sup>th</sup></div><div style="text-align: justify;">Time: 9 a.m. - 4 p.m.</div><div style="text-align: justify;">Location: Cau Giay Community Center, 30 Nguyen Phong Sac Street</div><div style="text-align: justify;">Discover effective ways to organise your schedule, (24) __________ tasks, and still have time for fun. There will be (25) __________ opportunities to engage in interactive activities and group discussions.</div><div style="text-align: justify;">Limited spots available! Sign up (26) __________ April 9th to secure your place.</div><div style="text-align: justify;">Call us at +84972 272112 or email info<u>@caugiaycommunitycentre.com.vn.</u></div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`an`,`the`,`no article`,`a`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ</b><br>Ta có: Mạo từ không xác định <b>(a/an)</b> dùng trước những danh từ số ít đếm được, khi nó được nhắc tới lần đầu tiên. Trong đó <br>+) a<b> </b>dùng trước những danh từ bắt đầu bằng một phụ âm. <br>+) <b>an </b>dùng trước những danh từ bắt đầu bằng một nguyên âm.<br>→ Do<b> "one-day adventure"</b> là cụm danh từ đếm được số ít, được nhắc đến lần đầu tiên và <b>"one /wʌn/" </b>bắt đầu bằng một phụ âm nên ta sử dụng mạo từ <b>"a"</b> trước nó. <br>Tạm dịch: Join us for (23) ___________ one-day adventure into the world of effective time management, exclusively for teens! <i>(Hãy tham gia cùng chúng tôi vào một cuộc phiêu lưu kéo dài một ngày trong thế giới quản lý thời gian hiệu quả, dành riêng cho các bạn thanh thiếu niên!)</i><br><b>Do đó, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`make`,`prioritise`,`discuss`,`focus`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. make /meɪk/ (v): làm, chế tạo<br>
+B. prioritise /praɪˈɒrətaɪz/ (v): ưu tiên<br>
+C. discuss /dɪˈskʌs/ (v): thảo luận, bàn luận<br>
+D. focus /ˈfəʊkəs/ (v): tập trung<br><b>
+Tạm dịch: </b>Discover effective ways to organise your schedule, (24) ___________ tasks, and still have time for fun. <i>(Khám phá những cách hiệu quả để sắp xếp lịch trình, <b>ưu tiên </b>các nhiệm vụ và vẫn có thời gian để vui chơi.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`many`,`little`,`much`,`plenty`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về lượng từ<br>
+* Xét các đáp án:</b><br>
+A. many + N (đếm được số nhiều): nhiều<br>
+B. little + N (không đếm được): rất ít, gần như không có<br>
+C. much + N (không đếm được): nhiều<br>
+D. plenty + of + N (đếm được số nhiều/ không đếm được): nhiều<br>
+→ Ta thấy, sau chỗ trống là danh từ đếm được số nhiều "<b>opportunities</b>" và không có giới từ "<b>of</b>" =&gt; loại B, C và D.<br><b>
+Tạm dịch: </b>There will be (25) ___________ opportunities to engage in interactive activities and group discussions.<i> (Sẽ có <b>nhiều </b>cơ hội tham gia vào các hoạt động tương tác và thảo luận nhóm.)</i><br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`at`,`by`,`in`,`with`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ<br>* Xét các đáp án:</b><br>A. at: vào lúc (dùng cho thời điểm cụ thể)<br>B. by: trước (chỉ thời điểm cuối cùng mà một hành động phải được hoàn thành)<br>C. in: vào (dùng cho tháng, năm, mùa; các buổi trong ngày)<br>D. with: với (chỉ công cụ, phương tiện; chỉ sự đồng hành)<br><b>Tạm dịch:</b> Sign up (26) _________ April 9th to secure your place.<i> (Đăng ký <b>trước </b>ngày 9 tháng 4 để giữ chỗ.)</i><br><b>Căn cứ vào dịch nghĩa, B là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Four phrases/sentences have been removed from the text below. For each question, mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 27 to 30.</b></p><p><div style="text-align: justify;">Improving your English can be made manageable by exploring various resources. Start by (27) __________ like <i>Duolingo or Babbel</i>. (28) __________ For structured online courses, check out <i>Coursera </i>and <i>Khan Academy</i>, selecting those with positive reviews and clear explanations covering grammar, vocabulary, and communication skills. Connect with native speakers on language exchange platforms like <i>Tandem </i>or <i>HelloTalk</i> for speaking practice. Expand your vocabulary and comprehension by (29) __________ , gradually challenging yourself with more complex texts. (30) __________ and gain diverse perspectives. Tap into online forums like <i>Reddit </i>for advice and recommendations from fellow learners. Consistency is key. Set aside time each day for reading, listening, or practicing with apps to ensure steady progress.</div><div style="text-align: justify;"><b>A.</b> reading books appropriate to your level</div><div style="text-align: justify;"><b>B.</b> using language learning apps</div><div style="text-align: justify;"><b>C.</b> Join book clubs or online reading communities for discussions</div><div style="text-align: justify;"><b>D. </b>They often provide short lessons with interactive games and quizzes</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `B`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu phù hợp<br>
+* Xét các đáp án:</b><br>
+A. reading books appropriate to your level: đọc sách phù hợp với trình độ của bạn<br>
+B. using language learning apps: sử dụng các ứng dụng học ngôn ngữ<br>
+C. Join book clubs or online reading communities for discussions: Tham gia các câu lạc bộ sách hoặc cộng đồng đọc sách trực tuyến để thảo luận<br>
+D. They often provide short lessons with interactive games and quizzes: Chúng thường cung cấp các bài học ngắn với các trò chơi và câu đố tương tác<br>
+→ Ta thấy, chỗ trống cần điền <b>N/V-ing</b> sau giới từ "<b>by</b>" =&gt; loại C và D.<br><b>
+Tạm dịch: </b>Start by (27) ___________ like Duolingo or Babbel.<i> (Hãy bắt đầu bằng việc <b>sử dụng các ứng dụng học ngôn ngữ</b> như Duolingo hoặc Babbel.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `D`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu phù hợp<br>
+* Xét các đáp án:</b><br>
+A. reading books appropriate to your level: đọc sách phù hợp với trình độ của bạn<br>
+B. using language learning apps: sử dụng các ứng dụng học ngôn ngữ<br>
+C. Join book clubs or online reading communities for discussions: Tham gia các câu lạc bộ sách hoặc cộng đồng đọc sách trực tuyến để thảo luận<br>
+D. They often provide short lessons with interactive games and quizzes: Chúng thường cung cấp các bài học ngắn với các trò chơi và câu đố tương tác<br>
+→ Ta thấy, chỗ trống cần điền một mệnh đề hoàn chỉnh <b>S + V…</b> =&gt; loại A và B.<br><b>
+Tạm dịch:</b> Start by using language learning apps like Duolingo or Babbel. (28) _________. <i>(Hãy bắt đầu bằng việc sử dụng các ứng dụng học ngôn ngữ như Duolingo hoặc Babbel. <b>Chúng thường cung cấp các bài học ngắn gọn với các trò chơi và câu đố tương tác</b>.)</i><br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `D`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu phù hợp<br>
+* Xét các đáp án:</b><br>
+A. reading books appropriate to your level: đọc sách phù hợp với trình độ của bạn<br>
+B. using language learning apps: sử dụng các ứng dụng học ngôn ngữ<br>
+C. Join book clubs or online reading communities for discussions: Tham gia các câu lạc bộ sách hoặc cộng đồng đọc sách trực tuyến để thảo luận<br>
+D. They often provide short lessons with interactive games and quizzes: Chúng thường cung cấp các bài học ngắn với các trò chơi và câu đố tương tác<br>
+→ Ta thấy, chỗ trống cần điền <b>N/V-ing</b> sau giới từ "<b>by</b>" =&gt; loại C và D.<br><b>
+Tạm dịch:</b> Expand your vocabulary and comprehension by (29) __________, gradually challenging yourself with more complex texts. <i>(Mở rộng vốn từ vựng và khả năng hiểu của bạn bằng cách <b>đọc sách phù hợp với trình độ của bạn</b>, dần dần thử thách bản thân với những văn bản phức tạp hơn.)</i><br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `C`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu phù hợp<br>* Xét các đáp án:</b><br>A. reading books appropriate to your level: đọc sách phù hợp với trình độ của bạn<br>B. using language learning apps: sử dụng các ứng dụng học ngôn ngữ<br>C. Join book clubs or online reading communities for discussions: Tham gia các câu lạc bộ sách hoặc cộng đồng đọc sách trực tuyến để thảo luận<br>D. They often provide short lessons with interactive games and quizzes: Chúng thường cung cấp các bài học ngắn với các trò chơi và câu đố tương tác<br>→ Ta thấy, chỗ trống cần điền một mệnh đề hoàn chỉnh S + V… =&gt; loại A và B.<br><b>Tạm dịch: </b>(30)__________ and gain diverse perspectives. <i>(<b>Tham gia các câu lạc bộ sách hoặc cộng đồng đọc sách trực tuyến để thảo luận</b> và có được nhiều góc nhìn khác nhau.)</i><br><b>Căn cứ vào dịch nghĩa, C là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 32.</b></p>`,
+          media:``,
+          question: `<div style="text-align: justify;"><b>Put the sentences (a-c) in the correct order, then fill in the blank to make a logical text.</b></div><div style="text-align: justify;">"Bac Bling" by Hoa Minzy is a lively music video that showcases the beauty of Bac Ninh's culture and nature. __________.</div><div style="text-align: justify;">a. In addition, the MV features impressive visuals of Bac Ninh's landscapes, traditional costumes, and colorful festivals.</div><div style="text-align: justify;">b. With its catchy melody and meaningful lyrics, the song highlights the region's rich traditions, especially the famous <i>Quan Ho</i> folk singing.</div><div style="text-align: justify;">c. Through this project, Hoa Minzy aims to promote tourism and share the pride of Vietnamese heritage with a wider audience.</div>
+        `,
+          options: [`b-a-c`,`a-c-b`,`a-b-c`,`b-c-a`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành đoạn văn<br>
+Tạm dịch: </b>"Bắc Bling" của Hoa Minzy là một video âm nhạc sôi động thể hiện vẻ đẹp của văn hóa và thiên nhiên Bắc Ninh. ____________<br>
+* Ta có: Để tạo nên một đoạn văn/ lời kể hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước. <br><b>
+=&gt; Ta có cách sắp xếp hoàn chỉnh:</b><br>
+b. With its catchy melody and meaningful lyrics, the song highlights the region's rich traditions, especially the famous Quan Ho folk singing. <i>(Với giai điệu bắt tai và lời ca ý nghĩa, bài hát làm nổi bật các truyền thống phong phú của khu vực, đặc biệt là hát Quan Họ nổi tiếng.)</i><br>
+a. In addition, the MV features impressive visuals of Bac Ninh's landscapes, traditional costumes, and colorful festivals.<i> (Ngoài ra, MV còn giới thiệu những hình ảnh ấn tượng về cảnh quan Bắc Ninh, trang phục truyền thống và các lễ hội đầy màu sắc.)</i><br>
+c. Through this project, Hoa Minzy aims to promote tourism and share the pride of Vietnamese heritage with a wider audience. <i>(Thông qua dự án này, Hoa Minzy mong muốn quảng bá du lịch và chia sẻ niềm tự hào về di sản văn hóa Việt Nam với lượng khán giả rộng lớn hơn.)</i><br>
+=&gt; Vì vậy, ta có thứ tự sắp xếp đúng là:<b> b-a-c<br>
+Do đó, A là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Choose the sentence that can end the text (in Question 31) most appropriately.</b>
+        `,
+          options: [`Although "Bac Bling" is popular in some parts of Vietnam, it has made an insignificant impact on tourism.`,`To sum up, while the song is popular, it does not effectively promote the beauty of Vietnam.`,`Moreover, the song's lyrics make it a symbol of Vietnamese culture.`,`Therefore, "Bac Bling" is not just a song but also a reflection of Vietnam's cultural identity. `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Chọn câu có thể kết thúc đoạn văn (ở Câu 31) một cách hợp lý nhất.<br>* Xét các đáp án:</b><br>A. Although "Bac Bling" is popular in some parts of Vietnam, it has made an insignificant impact on tourism: Mặc dù "Bắc Bling" phổ biến ở một số nơi ở Việt Nam, nhưng nó không có ảnh hưởng đáng kể đến du lịch.<br>B. To sum up, while the song is popular, it does not effectively promote the beauty of Vietnam: Tóm lại, dù bài hát phổ biến, nhưng nó không hiệu quả trong việc quảng bá vẻ đẹp của Việt Nam.<br>C. Moreover, the song's lyrics make it a symbol of Vietnamese culture: Hơn nữa, lời bài hát làm cho nó trở thành một biểu tượng của văn hóa Việt Nam.<br>D. Therefore, "Bac Bling" is not just a song but also a reflection of Vietnam's cultural identity: Vì vậy, "Bắc Bling" không chỉ là một bài hát mà còn là sự phản ánh của bản sắc văn hóa Việt Nam.<br><b><i>→ Đáp án D</i></b> <i>là hợp lý nhất vì nó khái quát và kết luận được mục đích chính của bài hát "Bắc Bling" trong việc phản ánh văn hóa và bản sắc Việt Nam.</i><br><b>Do đó, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 33 to 38.</b></p><p><div style="text-align: justify;">One of the most breathtaking natural wonders in the world is the Grand Canyon, located in the state of Arizona, USA. The canyon stretches for about 446 kilometers and is up to 1,857 meters deep. It was carved by the Colorado River over millions of years and is famous for its stunning rock formations, colorful layers, and unique geological history. Scientists estimate that the rocks in the Grand Canyon are nearly two billion years old, making it one of the oldest geological formations on Earth.</div><div style="text-align: justify;">Visitors from all over the world come to admire the beauty of the canyon. <b><u>They</u></b> enjoy hiking along its trails, rafting in the Colorado River, or simply taking in the spectacular views from observation points. The Grand Canyon National Park was established in 1919 to protect this incredible site, and in 1979, it was recognized as a UNESCO World Heritage Site.</div><div style="text-align: justify;">Apart from its breathtaking scenery, the Grand Canyon has a wide range of wildlife, including bighorn sheep, mountain lions, and over 400 species of birds. The canyon's climate <b><u>varies</u></b> significantly with elevation, as temperatures at the rim are much cooler than those at the bottom.</div><div style="text-align: justify;">The Grand Canyon is a protected national park, ensuring that its beauty and natural state are preserved for future generations.</div></p>`,
+          media:``,
+          question: `Which of the following is NOT mentioned in the passage as part of the Grand Canyon's wildlife?
+        `,
+          options: [`insects `,`bighorn sheep`,`mountain lions `,`birds`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Loài nào sau đây KHÔNG được đề cập trong đoạn văn là một phần của hệ động vật hoang dã của Grand Canyon? </b><br>
+A. côn trùng <br>
+B. cừu sừng lớn <br>
+C. sư tử núi <br>
+D. chim<br><b>
+Căn cứ vào thông tin:</b> "Apart from its breathtaking scenery, the Grand Canyon has a wide range of wildlife, including <b>bighorn sheep, mountain lions, and over 400 species of birds</b>." <i>(Ngoài phong cảnh ngoạn mục, Grand Canyon còn có hệ động vật hoang dã đa dạng, bao gồm <u>cừu sừng lớn, sư tử núi và hơn 400 loài chim</u>.)</i><br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What is the main idea of the passage?
+        `,
+          options: [`The history and formation of the Grand Canyon `,`The wildlife of the Grand Canyon`,`The climate changes in the Grand Canyon`,`The Grand Canyon: A breathtaking natural wonder`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Ý chính của đoạn văn là gì? </b><br>
+A. Lịch sử và sự hình thành của Grand Canyon <br>
+B. Hệ động vật hoang dã của Grand Canyon <br>
+C. Sự thay đổi khí hậu ở Grand Canyon <br>
+D. Grand Canyon: Một kỳ quan thiên nhiên ngoạn mục<br><b>
+Căn cứ vào thông tin:</b><br>
+-  "One of the most breathtaking natural wonders in the world is the Grand Canyon, located in the state of Arizona, USA." <i>(Một trong những kỳ quan thiên nhiên ngoạn mục nhất thế giới là Grand Canyon (Hẻm núi lớn), nằm ở bang Arizona, Hoa Kỳ.)</i><br>
+- "It was carved by the Colorado River over millions of years and is famous for its stunning rock formations, colorful layers, and unique geological history." <i>(Nó được sông Colorado bào mòn qua hàng triệu năm và nổi tiếng với những kiến tạo đá tuyệt đẹp, các lớp đá đầy màu sắc và lịch sử địa chất độc đáo.)</i><br>
+- "Apart from its breathtaking scenery, the Grand Canyon has a wide range of wildlife, including bighorn sheep, mountain lions, and over 400 species of birds." <i>(Ngoài phong cảnh ngoạn mục, Grand Canyon còn có hệ động vật hoang dã đa dạng, bao gồm cừu sừng lớn, sư tử núi và hơn 400 loài chim.)</i><br>
+- "The canyon's climate varies significantly with elevation, as temperatures at the rim are much cooler than those at the bottom." <i>(Khí hậu của hẻm núi thay đổi đáng kể theo độ cao, vì nhiệt độ ở vành hẻm núi mát hơn nhiều so với ở đáy.)</i><br><b><i>
+→ Đoạn văn mô tả tổng quan về kỳ quan thiên nhiên Grand Canyon: vị trí, lịch sử hình thành, vẻ đẹp, động vật hoang dã, khí hậu,...</i></b><br><b>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which of the following statements about the Grand Canyon is TRUE?
+        `,
+          options: [`It was created by the Mississippi River.`,`It is located in California, USA. `,`It became a UNESCO World Heritage Site in 1979.`,`It is the deepest canyon in the world."`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Phát biểu nào sau đây về Grand Canyon là ĐÚNG?</b><br>
+A. Nó được tạo ra bởi sông Mississippi. <br>
+B. Nó nằm ở California, Hoa Kỳ. <br>
+C. Nó trở thành Di sản Thế giới của UNESCO vào năm 1979. <br>
+D. Nó là hẻm núi sâu nhất thế giới.<br><b>
+Căn cứ vào thông tin:</b><br>
+- "It was carved by the Colorado River over millions of years..." <i>(Nó được sông Colorado bào mòn qua hàng triệu năm…)</i> <b>→ Đáp án A sai.</b><br>
+- "One of the most breathtaking natural wonders in the world is the Grand Canyon, located in the state of Arizona, USA." <i>(Một trong những kỳ quan thiên nhiên ngoạn mục nhất thế giới là Grand Canyon (Hẻm núi lớn), nằm ở bang Arizona, Hoa Kỳ.)</i> <b>→ Đáp án B sai.</b><br>
+- Không có thông tin trong đoạn văn nói rằng Grand Canyon là hẻm núi sâu nhất thế giới <b>→ Đáp án D sai.</b><br>
+- "The Grand Canyon National Park was established in 1919 to protect this incredible site, and in 1979, it was recognized as a UNESCO World Heritage Site." <i>(Vườn Quốc gia Grand Canyon được thành lập vào năm 1919 để bảo vệ địa điểm đáng kinh ngạc này, và vào năm 1979, nó được công nhận là Di sản Thế giới của UNESCO.) </i><b>→ Đáp án C ĐÚNG.</b><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "<b>breathtaking</b>" in paragraph 1 is OPPOSITE in meaning to __________.
+        `,
+          options: [`dangerous `,`ordinary`,`magnificent`,`confusing`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "<u>breathtaking</u>" trong đoạn 1 TRÁI NGHĨA với từ nào? </b><br>
+A. dangerous /ˈdeɪndʒərəs/ (adj): nguy hiểm <br>
+B. ordinary /ˈɔːdnri/ (adj): bình thường, tầm thường <br>
+C. magnificent /mæɡˈnɪfɪsnt/ (adj): tráng lệ, lộng lẫy <br>
+D. confusing /kənˈfjuːzɪŋ/ (adj): khó hiểu, bối rối <br><b>
+Căn cứ vào thông tin:</b> "One of the most <u><b>breathtaking</b></u> natural wonders in the world is the Grand Canyon, located in the state of Arizona, USA." <i>(Một trong những kỳ quan thiên nhiên ngoạn mục nhất thế giới là Grand Canyon (Hẻm núi lớn), nằm ở bang Arizona, Hoa Kỳ.)</i><br><b>
+=&gt; breathtaking /ˈbreθteɪkɪŋ/ (adj): đáng kinh ngạc, ngoạn mục &gt;&lt; ordinary<br>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The pronoun "<b>They</b>" in paragraph 2 refers to __________.
+        `,
+          options: [`trails`,`scientists`,`canyons`,`visitors`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Đại từ "<u>They</u>" trong đoạn 2 ám chỉ ____________. </b><br>A. trails – trail /treɪl/ (n): các con đường mòn<br>B. scientists – scientist /ˈsaɪəntɪst/ (n): các nhà khoa học <br>C. canyons – canyon /ˈkænjən/ (n): các hẻm núi <br>D. visitors – visitor /ˈvɪzɪtə(r)/ (n): du khách<br><b>Căn cứ vào thông tin</b>: "Visitors from all over the world come to admire the beauty of the canyon. <b><u>They</u></b> enjoy hiking along its trails, rafting in the Colorado River, or simply taking in the spectacular views from observation points." <i>(Du khách từ khắp nơi trên thế giới đến để chiêm ngưỡng vẻ đẹp của hẻm núi. <b>Họ </b>thích đi bộ đường dài dọc theo các con đường mòn, chèo thuyền vượt thác trên sông Colorado, hoặc đơn giản là ngắm nhìn khung cảnh ngoạn mục từ các điểm quan sát.)</i><br><b>Căn cứ vào dịch nghĩa, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "<b>varies</b>" in paragraph 3 is CLOSEST in meaning to __________.
+        `,
+          options: [`remains `,`keeps`,`differs`,`stays`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "<u>varies</u>" trong đoạn 3 GẦN NGHĨA NHẤT với từ nào? </b><br>
+A. remains – remain /rɪˈmeɪn/ (v): vẫn còn, giữ nguyên <br>
+B. keeps – keep /kiːp/ (v): giữ <br>
+C. differs – differ /ˈdɪfə(r)/ (v): khác biệt, thay đổi <br>
+D. stays – stay /steɪ/ (v): ở lại, giữ nguyên <br><b>
+Căn cứ vào thông tin:</b> "The canyon's climate varies significantly with elevation, as temperatures at the rim are much cooler than those at the bottom." <i>(Khí hậu của hẻm núi thay đổi đáng kể theo độ cao, vì nhiệt độ ở vành hẻm núi mát hơn nhiều so với ở đáy.)</i><br><b>
+=&gt; varies – vary /ˈveəri/ (v): khác nhau ~ differ<br>
+Do đó, C là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`con<u>s</u>ist`,`ob<u>s</u>erve`,`de<u>s</u>ign `,`rea<u>s</u>on`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. con<u>s</u>ist /kənˈsɪst/<br>
+B. ob<u>s</u>erve /əbˈzɜːv/<br>
+C. de<u>s</u>ign /dɪˈzaɪn/<br>
+D. rea<u>s</u>on /ˈriːzn/<br><b>
+=&gt; Phần gạch chân ở đáp án A được phát âm là /s/, các đáp án còn lại được phát âm là /z/.<br>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`st<u>a</u>ndard`,`c<u>a</u>mpus `,`n<u>a</u>ture`,`l<u>a</u>ndform`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. st<u>a</u>ndard /ˈstændəd/<br>
+B. c<u>a</u>mpus /ˈkæmpəs/<br>
+C. n<u>a</u>ture /ˈneɪtʃə(r)/<br>
+D. l<u>a</u>ndform /ˈlændfɔːm/<br><b>
+=&gt; Phần gạch chân ở đáp án C được phát âm là /eɪ/, các đáp án còn lại được phát âm là /æ/.<br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        }, ],
+    },
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`pleas<u>ed</u> `,`wash<u>ed</u> `,`lik<u>ed</u> `,`laugh<u>ed</u> `,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm: <br>
+*Xét các đáp án: </b><br>
+A. pleas<u>ed</u> /pliːzd/<br>
+B. wash<u>ed</u> /wɒʃt/<br>
+C. lik<u>ed</u> /laɪkt/<br>
+D. laugh<u>ed</u> /lɑːft/<br><b>
+=&gt; Theo quy tắc phát âm đuôi -ed, ta có: </b><br>
+Đuôi /ed/ được phát âm là /t/: Khi động từ có phát âm kết thúc là /s/, /f/, /p/, /ʃ/, /tʃ/, /k/. <br>
+Đuôi /ed/ được phát âm là /id/: Khi động từ có phát âm kết thúc là /t/ hay /d/. <br>
+Đuôi /ed/ được phát âm là /d/ với những trường hợp còn lại. <br>
+=&gt; Phần gạch chân ở câu A được phát âm là /d/, còn lại được phát âm là /t/.<br>
+=&gt; Do đó, ta chọn đáp án A.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`pr<u>e</u>dict `,`d<u>e</u>stroy `,`g<u>e</u>mstone `,`<u>e</u>xist `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm: <br>
+*Xét các đáp án: </b><br>
+A. pr<u>e</u>dict /prɪˈdɪkt/<br>
+B. d<u>e</u>stroy /dɪˈstrɔɪ/<br>
+C. g<u>e</u>mstone /ˈdʒemstəʊn/<br>
+D. <u>e</u>xist /ɪɡˈzɪst/<br>
+=&gt; Phần gạch chân ở câu C được phát âm là /e/, còn lại được phát âm là /ɪ/.<br>
+=&gt; Do đó, ta chọn đáp án C.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`nuclear`,`enough`,`ancient`,`tribal`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm:<br>
+*Xét các đáp án:</b><br>
+A. nuclear /ˈnjuːkliə(r)/ : từ này có trọng âm rơi vào âm tiết thứ nhất.<br>
+B. enough /ɪˈnʌf/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc trọng âm ít khi rơi vào nguyên âm yếu /i/<br>
+C. ancient /ˈeɪnʃənt/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm không rơi vào âm /ə/.   <br>
+D. tribal /ˈtraɪbl/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, nếu tất cả các âm mà ngắn hết thì trọng âm rơi vào âm đầu tiên.  <br>
+=&gt; Đáp án B có trọng âm rơi vào âm tiết thứ hai. Các đáp án còn lại trọng âm rơi vào âm tiết thứ nhất.<br>
+Do đó, ta chọn đáp án B.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`generation`,`delivery`,`facility`,`environment`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm:<br>
+*Xét các đáp án:</b><br>
+A. generation /ˌdʒenəˈreɪʃn/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, đuôi –ion làm trọng âm rơi vào trước nó.  <br>
+B. delivery /dɪˈlɪvəri/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi –y làm trọng âm dịch chuyển ba âm tính từ cuối lên.  <br>
+C. facility /fəˈsɪləti/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi –ity làm trọng âm rơi vào trước nó.  <br>
+D. environment /ɪnˈvaɪrənmənt/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo nguyên tắc, trọng âm rơi vào nguyên âm đôi /aɪ/<br>
+=&gt; Đáp án A có trọng âm rơi vào âm tiết thứ ba. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai.<br>
+Do đó, ta chọn đáp án A.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `Mai: "Do you have a moment to help me move this furniture?" <br>
+Chris: "__________. Let's get it done together."
+        `,
+          options: [`I don't mind at all.`,`It's none of your business.`,`No, it is not bad.`,`Yes, I do, too.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp:<br>
+*Xét các đáp án:</b><br>
+A. I don't mind at all: Tôi không phiền đâu<br>
+B. It's none of your business: Không phải việc của bạn<br>
+C. No, it is not bad: Không, không tệ đâu<br>
+D. Yes, I do, too: Vâng, tôi cũng vậy<br><b>
+Tạm dịch:</b> Mai: "Bạn có thể giúp tôi chuyển đồ đạc này được không?"<br>
+Chris: "Tôi không phiền đâu. Chúng ta cùng làm nhé."<br>
+Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Posting personal pictures on social media is fun; __________ sometimes it can bring many problems. 
+        `,
+          options: [`so `,`but`,`however `,`although`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ:<br>
+*Xét các đáp án:</b><br>
+A. so + S + V: vì vậy<br>
+B. but + S + V: nhưng<br>
+C. however, S + V:  tuy nhiên<br>
+D. although + S + V: mặc dù<br><b>
+Tạm dịch:</b> Đăng ảnh cá nhân lên mạng xã hội rất thú vị; tuy nhiên đôi khi nó có thể mang đến nhiều vấn đề.<br>
+Căn cứ vào nghĩa, C là đáp án phù hợp.<br>
+(em thấy câu này thiếu dấu phẩy sau chỗ trống ạ)
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `He is responsible __________ the pigs and ducks in the morning.
+        `,
+          options: [`for herding `,`to herd`,`to feed`,`for feeding`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng và giới từ:<br>
+*Ta có: </b>- responsible for doing something: chịu trách nhiệm làm một việc gì đó<br>
+- feed /fi:d/ (v): cho ăn<br>
+- herd /hɜ:d/ (v): chăn (gia súc)<br><b>
+Tạm dịch:</b> Ông chịu trách nhiệm chăn lợn và vịt vào buổi sáng.<br>
+Căn cứ vào nghĩa, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `She__________. respiratory problems due to the pollution in the city.
+        `,
+          options: [`came up with `,`came down with`,`came across`,`came away with`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ:<br>
+*Xét các đáp án:</b><br>
+A. come up with: nghĩ ra<br>
+B. come down with: bị bệnh<br>
+C. come across: tình cờ gặp<br>
+D. come away with: rút ra được (bài học, kết luận)<br><b>
+Tạm dịch:</b> Bà bị bệnh về đường hô hấp do ô nhiễm ở thành phố.<br>
+Căn cứ vào nghĩa, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `If teenagers don't change their lifestyle, there __________. an increase in health problems.
+        `,
+          options: [`should be`,`could be`,`ought to be`,`may be`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ khuyết thiếu:<br>
+*Xét các đáp án:</b><br>
+A. should + Vbare: nên làm gì<br>
+B. could + Vbare: khả năng có thể làm gì <br>
+C. ought to + Vbare: nên làm gì<br>
+D. may + Vbare: có thể sẽ làm gì nhưng không chắc<br><b>
+Tạm dịch:</b> Nếu thanh thiếu niên không thay đổi lối sống, các vấn đề về sức khỏe có thể gia tăng.<br>
+Căn cứ vào nghĩa, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Alex: "Please pass me the water bottle!" Katy: "__________”
+        `,
+          options: [`I think so. `,`You're welcome. `,`Never mind.`,`Sure. Here you are.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp:<br>
+*Xét các đáp án:</b><br>
+A. I think so: Tôi nghĩ vậy<br>
+B. You're welcome: Không có gì<br>
+C. Never mind: Không sao đâu <br>
+D. Sure. Here you are: Được thôi. Của bạn đây<br><b>
+Tạm dịch:</b> Alex: "Làm ơn đưa cho tôi chai nước!" Katy: "Được thôi. Của bạn đây."<br>
+Căn cứ vào nghĩa, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Cell phones should be banned in school __________ they can be a major distraction for students.
+        `,
+          options: [`although `,`therefore`,`because`,`so that`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ:<br>
+*Xét các đáp án:</b><br>
+A. although + S + V: mặc dù<br>
+B. therefore, S + V: vì vậy<br>
+C. because + S + V: bởi vì<br>
+D. so that + S + V: để mà<br><b>
+Tạm dịch: </b>Điện thoại di động nên bị cấm ở trường vì chúng có thể gây mất tập trung lớn cho học sinh.<br>
+Căn cứ vào nghĩa, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `We can __________ water by taking shorter showers or fixing leaky faucets.
+        `,
+          options: [`reserve`,`produce`,`balance`,`conserve`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng:<br>
+*Xét các đáp án:</b><br>
+A. reserve /rɪˈzɜːv/ (v): đặt trước, để dành<br>
+B. produce /prəˈdjuːs/ (v): sản xuất<br>
+C. balance /ˈbæləns/ (v): cân bằng<br>
+D. conserve /kənˈsɜːv/ (v): bảo tồn, tiết kiệm<br><b>
+Tạm dịch: </b>Chúng ta có thể tiết kiệm nước bằng cách tắm nhanh hơn hoặc sửa vòi nước bị rò rỉ.<br>
+Căn cứ vào nghĩa, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 13 to 16.</b></p><p><div style="text-align: center;"><b>GARDENING DAY PLAN</b></div><div style="text-align: justify;">To make the most out of your gardening day, follow these steps:</div><div style="text-align: justify;">• (13)__________ a list of plants you want to grow in your garden.</div><div style="text-align: justify;">• Make sure you have all the tools you need (14) __________ starting.</div><div style="text-align: justify;">• Water the plants (15) __________ in the morning or late afternoon to avoid evaporation.</div><div style="text-align: justify;">• Remove (16) __________ weeds you see to help your plants grow better.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`Make `,`Forget`,`Hide`,`Lose`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ cố định<br>
+*Ta có:</b> Make a list: lập danh sách.<br><b>
+Tạm dịch: </b>(13)................ a list of plants you want to grow in your garden. <i>(Lên danh sách các loại cây bạn muốn trồng trong vườn.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`after`,`before`,`during`,`under`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ<br>
+*Xét các đáp án: </b><br>
+A. after: sau khi<br>
+B. before: trước khi<br>
+C. during: trong suốt<br>
+D. under: dưới<br><b>
+Tạm dịch:</b> Make sure you have all the tools you need (14) .................. starting. <i>(Đảm bảo bạn có đủ các dụng cụ cần thiết trước khi bắt đầu.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`never`,`either`,`again`,`just`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. never: không bao giờ<br>
+B. either: cũng, cũng thế<br>
+-&gt; either…or…: cái này hoặc cái kia <br>
+C. again: lại, một lần nữa<br>
+D. just: vừa mới<br><b>
+Tạm dịch:</b> Water the plants (15) .............. in the morning or late afternoon to avoid evaporation. <i>(Tưới nước cho cây vào buổi sáng hoặc chiều muộn để tránh bị bốc hơi.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`any`,`most`,`few`,`every`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về lượng từ<br>
+*Xét các đáp án: </b><br>
+A. any + N đếm được số nhiều/ N không đếm được: bất kỳ<br>
+B. most + N đếm được số nhiều/ N không đếm được: hầu hết<br>
+C. few + N đếm được số nhiều: hầu như không<br>
+D. every + N đếm được số ít: mọi<br><b>
+*Ta có:</b><br>
+- Đằng sau là danh từ đếm được số nhiều “weeds” -&gt; loại D<br><b>
+Tạm dịch</b>: Remove (16) .....……… weeds you see to help your plants grow better. <i>(Nhổ bỏ bất kỳ loại cỏ dại nào bạn nhìn thấy để giúp cây phát triển tốt hơn.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions from 17 to 18.</b></p>`,
+          media:``,
+          question: `<b>Put the sentences (a-c) in the correct order, then fill in the blank to make a logical text. </b><br>Learning a new language has been a rewarding experience for me. Here's what happened __________.<br><b>a. </b>Over time, my ability to communicate in French improved significantly.<br><b>b. </b>I enrolled in a French language class at a community centre.<br><b>c.</b> I took part in regular speaking sessions and got plenty of practice.
+        `,
+          options: [`a-c-b`,`b-a-c`,`c-b-a`,`b-c-a`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành đoạn văn:</b><br>*Để tạo nên một đoạn văn/lời kể hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước.<br>=&gt; Ta có cách sắp xếp hoàn chỉnh:<br><b>Learning a new language has been a rewarding experience for me. Here's what happened ………….</b><i> (Học một ngôn ngữ mới là một trải nghiệm bổ ích đối với tôi. Đây là những gì đã xảy ra ………….)</i><br>b.<b> </b>I enrolled in a French language class at a community centre. <i>(Tôi đã đăng ký một lớp học tiếng Pháp tại một trung tâm cộng đồng)</i><br>c. I took part in regular speaking sessions and got plenty of practice. <i>(Tôi đã tham gia các buổi nói chuyện thường xuyên và được thực hành rất nhiều.)</i><br>a. Over time, my ability to communicate in French improved significantly. <i>(Theo thời gian, khả năng giao tiếp bằng tiếng Pháp của tôi đã được cải thiện đáng kể.)</i><br>Vậy, ta có thứ tự sắp xếp đúng là:  <b>b-c-a</b><br>Do đó, D là đáp án phù hợp`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Choose the sentence that most appropriately ends the text (in Question 17).</b>
+        `,
+          options: [`I felt very proud of my progress and planned to take more advanced classes.`,`I started reading French books and watching French movies.`,`I joined a French club to practise speaking with others.`,`I shared my experience with friends who were interested in learning French.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu:
+</b><br><b>*Xét các đáp án:
+</b><br>A. I felt very proud of my progress and planned to take more advanced classes: Tôi cảm thấy rất tự hào về sự tiến bộ của mình và dự định sẽ học các lớp nâng cao hơn.
+<br>B. I started reading French books and watching French movies: Tôi bắt đầu đọc sách tiếng Pháp và xem phim tiếng Pháp.
+<br>C. I joined a French club to practise speaking with others: Tôi tham gia câu lạc bộ tiếng Pháp để luyện nói với người khác.
+<br>D. I shared my experience with friends who were interested in learning French: Tôi chia sẻ kinh nghiệm của mình với những người bạn quan tâm đến việc học tiếng Pháp.
+<br>=&gt; Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.</b></p><p>Many visitors come to Tatterbridge to see the wonderful art galleries and museums, the beautiful buildings and the fantastic parks. Few people go outside the city, and so they miss out on <b>(19)</b> __________ the scenery and the fascinating history of this beautiful area. This brochure will tell you what you can see if you take a short bus ride out of the city. The beautiful village of Tatterbridge was <b>(20)</b> __________. to the children's writer Jane Potter, whose stories of Benjamin Bear are loved by adults and children around the world. Jane Potter's home is now a museum and teashop, and is well <b>(21)</b>__________. a visit just for its wonderful gardens. It also has a gift shop <b>(22)</b> __________ you can buy souvenirs and books. Tatterbridge has a number of interesting shops, including an excellent cake shop, and Wendy's Gift shop, where you can find lots of unusual gifts made <b>(23)</b>__________. hand by local artists. Lovers of Jane Potter's books should also walk to the Green Valley woods, which have not changed since Jane Potter
+<b>(24)</b> __________. her stories there one hundred years ago.</p>`,
+          media:``,
+          question: `
+        `,
+          options: [`questioning`,`welcoming`,`experiencing`,`understanding`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng
+<br>*Xét các đáp án: 
+</b><br>A. question /ˈkwestʃən/ (v): hỏi; chất vấn
+<br>B. welcome /ˈwelkəm/ (v): chào đón; chào mừng
+<br>C. experience /ɪkˈspɪəriəns/ (v): trải nghiệm
+<br>D. understand /ˌʌndəˈstænd/ (v): hiểu
+<br><b>Tạm dịch: </b>Few people go outside the city, and so they miss out on ( 19) …......... the scenery and the fascinating history of this beautiful area. <i>(Rất ít người ra khỏi thành phố, vì vậy họ bỏ lỡ cơ hội trải nghiệm phong cảnh và lịch sử hấp dẫn của khu vực xinh đẹp này.)
+</i><br>Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`shop`,`school`,`home`,`cottage`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>*Xét các đáp án: </b><br>A. shop /ʃɒp/ (n): cửa hàng<br>B. school /skuːl/ (n): trường học<br>C. home /həʊm/ (n): nhà, quê hương<br>D. cottage /ˈkɒtɪdʒ/ (n): nhà tranh, túp lều<br><b>Tạm dịch: </b>The beautiful village of Tatterbridge was (20) …………. to the children's writer Jane Potter, whose stories of Benjamin Bear are loved by adults and children around the world. <i>(Ngôi làng xinh đẹp Tatterbridge là quê hương của nhà văn thiếu nhi Jane Potter, người có những câu chuyện về Benjamin Bear được cả người lớn và trẻ em trên khắp thế giới yêu thích.)</i><br>Do đó, C là đáp án phù hợp.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`excited`,`known`,`value`,`worth`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng
+<br>*Xét các đáp án: 
+</b><br>A. excited /ɪkˈsaɪtɪd/ (adj): hào hứng
+<br>B. known /nəʊn/ (adj): được biết đến
+<br>C. value /ˈvæljuː/ (v, n): đánh giá cao; giá trị
+<br>D. worth /wɜːθ/ (adj): xứng đáng 
+<br><b>Tạm dịch:</b> Jane Potter's home is now a museum and teashop, and is well (21)............. a visit just for its wonderful gardens. <i>(Ngôi nhà của Jane Potter hiện là một bảo tàng và quán trà, và rất đáng để ghé thăm chỉ vì khu vườn tuyệt đẹp của nó.)
+</i><br>Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`what`,`who`,`where`,`when`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ/trạng từ quan hệ
+<br>*Xét các đáp án:
+</b><br>A. <b>what</b> dùng làm từ để hỏi hoặc dùng trong mệnh đề danh từ		
+<br>B. <b>who</b> là đại từ quan hệ thay thế cho danh từ chỉ người, đóng vai trò làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ 			
+<br>C.<b> where </b>là trạng từ quan hệ thay thế cho trạng ngữ chỉ nơi chốn	
+<br>D. <b>when</b> là trạng từ quan hệ thay thế cho trạng ngữ chỉ thời gian	
+<br><b>*Ta có:
+</b><br>- Cần đại từ quan hệ thay thế cho cụm danh từ chỉ địa điểm “a gift shop” ở phía trước -&gt; chỉ dùng được “where”
+<br><b>Tạm dịch: </b>It also has a gift shop (22) .............. you can buy souvenirs and books. <i>(Nơi đây cũng có một cửa hàng quà tặng, nơi bạn có thể mua đồ lưu niệm và sách.)
+</i><br>Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`by`,`at`,`with`,`in`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ
+</b><br><b>*Ta có: </b>by hand: làm thủ công 
+<br><b>Tạm dịch: </b>Tatterbridge has a number of interesting shops including an excellent cake shop, and Wendy's Gift shop,where you can find lots of unusual gifts made (23)........... hand by local artists. <i>(Tatterbridge có một số cửa hàng thú vị bao gồm một cửa hàng bánh tuyệt vời và cửa hàng quà tặng Wendy, nơi bạn có thể tìm thấy rất nhiều món quà độc đáo do các nghệ sĩ địa phương làm thủ công.)
+</i><br>Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`weaved`,`designed`,`wrote`,`carved`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng
+<br>*Xét các đáp án: 
+</b><br>A. weave /wiːv/ (v): dệt
+<br>B. design /dɪˈzaɪn/ (v): thiết kế
+<br>C. write /raɪt/ (v): viết
+<br>D. carve /kɑːv/ (v): khắc, chạm
+<br><b>Tạm dịch: </b>Lovers of Jane Potter's books should also walk to the Green Valley woods, which have not changed since Jane Potter (24) …………. her stories there one hundred years ago. <i>(Những người yêu thích sách của Jane Potter cũng nên đi bộ đến khu rừng Green Valley, nơi không thay đổi gì kể từ khi Jane Potter viết truyện ở đó một trăm năm trước.)
+</i><br>Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in each of the following questions.</b></p>`,
+          media:``,
+          question: `I wanted to go to the party, but I had to stay home and finish my assignment.
+        `,
+          options: [`Though I wanted to go to the party, I had to stay home and finish my assignment.`,`Because I wanted to go to the party, I had to stay home and finish my assignment.`,`When I wanted to go to the party, I had to stay home and finish my assignment.`,`Though I wanted to go to the party, but I had to stay home and finish my assignment.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- câu tường thuật
+</b><br><b>Tạm dịch câu gốc:</b> Tôi muốn đi dự tiệc nhưng tôi phải ở nhà và hoàn thành bài tập.
+<br><b>* Xét các đáp án:
+</b><br>A. Mặc dù tôi muốn đi dự tiệc, nhưng tôi phải ở nhà và hoàn thành bài tập.
+<br>-&gt; Sát nghĩa với câu gốc, đúng cấu trúc:<b> though + S + V: mặc dù
+</b><br>B. Vì tôi muốn đi dự tiệc, nên tôi phải ở nhà và hoàn thành bài tập.
+<br>-&gt; Sai nghĩa, cấu trúc: <b>because + S + V: bởi vì
+</b><br>C. Khi tôi muốn đi dự tiệc, tôi phải ở nhà và hoàn thành bài tập.
+<br>-&gt; Sai nghĩa, cấu trúc: <b>when + S + V: khi
+</b><br>D. Mặc dù tôi muốn đi dự tiệc, nhưng tôi phải ở nhà và hoàn thành bài tập.
+<br>-&gt; sai cấu trúc, thừa but
+<br><b>=&gt; Do đó, ta chọn đáp án A.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `He is very young; he can't play that computer game.
+        `,
+          options: [`He's such a young that he can't play that computer game.`,`He is so a young that he can play that computer game.`,`He is so young that he can play that computer game.`,`He is so young that he can't play that computer game.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- cấu trúc
+<br>Tạm dịch câu gốc: </b>Cậu ấy còn rất trẻ; cậu ấy không thể chơi trò chơi máy tính đó được.
+<br>Ta có: SO... THAT/SUCH... THAT có nghĩa là "... đến mức..., đến nỗi...", diễn tả mối quan hệ nhân quả.
+<br>Cấu trúc:
+<br>S+ tobe/ V + so + adj/adv + that + S + V
+<br>= S + tobe/ V + so + adj + a/an + N + that + S + V
+<br>= S + tobe + such + (a/an) + adj + N + that + S + V
+<br><b>* Xét các đáp án:
+</b><br>A. Cậu ấy còn quá trẻ để có thể chơi trò chơi điện tử đó.
+<br>-&gt; sai cấu trúc
+<br>B. Cậu ấy còn quá trẻ để có thể chơi trò chơi điện tử đó.
+<br>-&gt; sai cấu trúc
+<br>C. Cậu ấy còn trẻ đến mức có thể chơi trò chơi máy tính đó.
+<br>-&gt; sai nghĩa
+<br>D. Cậu ấy còn quá trẻ để có thể chơi trò chơi điện tử đó.
+<br>-&gt; Sát nghĩa với câu gốc, đúng cấu trúc: <b>S+ tobe/ V + so + adj/adv + that + S + V
+</b><br><b> =&gt; Do đó, ta chọn đáp án D.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the sentence that is made from the given cues in each of the following questions.</b></p>`,
+          media:``,
+          question: `busier / my schedule/get,/harder/it/ become / find time / relaxation.
+        `,
+          options: [`Busier my schedule gets, harder it becomes find time for relaxation.`,`The busier my schedule gets, the harder it becomes to find time for relaxation.`,`My schedule gets busier, harder it becomes to find time for relaxation.`,`The more busy my schedule gets, the harder it becomes to find time for relaxation.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về so sánh kép - cấu trúc
+</b><br>* Ta có cấu trúc so sánh kép:
+<br><b>The + so sánh hơn + (adj/adv)+ S + V, the + so sánh hơn +  (adj/adv)+ S + V: càng…. thì càng  
+</b><br>Vì “busy” và “hard” là tính từ ngắn nên dựa vào công thức so sánh hơn của tính từ ngắn là busier và harder  
+<br>=&gt; Do đó, ta có thể hoàn thành câu như này: <i><b>“The busier my schedule gets, the harder it becomes to find time for relaxation.”
+</b></i><br><b>Tạm dịch:</b> Lịch trình của tôi càng bận rộn thì càng khó tìm được thời gian để thư giãn.
+<br><b>=&gt; Do đó, ta chọn đáp án B.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `hotel/we/stay/last summer/ have/great/view/ocean.
+        `,
+          options: [`Hotel which we stayed last summer have a great view of the ocean.`,`The hotel where we stayed last summer had a great view of the ocean.`,`The hotel which we stay last summer have a great view of the ocean.`,`The hotel where we stayed last summer had a great view on the ocean.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề quan hệ - giới từ
+</b><br>* Ta có:
+<br>- <b>where</b> là trạng từ quan hệ thay thế cho trạng ngữ chỉ nơi chốn	
+<br>- <b>which</b> là đại từ quan hệ thay thế cho danh từ chỉ vật, sự vật, sự việc; đóng vai trò làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ
+<br>Cần trạng từ quan hệ thay thế cho cụm danh từ chỉ địa điểm “The hotel” ở phía trước -&gt; chỉ dùng được “where”
+<br>* Ta có cấu trúc: 
+<br> view of something: tầm nhìn ra cái gì đó
+<br>=&gt; Do đó, ta có thể hoàn thành câu như này: <b><i>“The hotel where we stayed last summer had a great view of the ocean.”
+</i></b><br><b>Tạm dịch: </b>Khách sạn nơi chúng tôi ở vào mùa hè năm ngoái có tầm nhìn tuyệt đẹp ra đại dương.
+<br><b>=&gt; Do đó, ta chọn đáp án B.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `What does the sign say?<br><img src="/learn/grand10/5807ed09-fe10-4845-ae8b-7edd57f02c89.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`You should call for help if you see strong currents.`,`You should warn your friends about the strong currents.`,`You have to be careful because there are powerful currents.`,`The currents aren't strong enough to swim in this area.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Biển báo nói gì?</b><br><img src="/learn/grand10/5807ed09-fe10-4845-ae8b-7edd57f02c89.jpg" data-filename="" style="max-width: 600px; height: auto;"><br><i>(CẢNH BÁO DÒNG NƯỚC CHẢY MẠNH)
+</i><br><b>*Xét các đáp án:
+</b><br>A. Bạn nên gọi cứu hộ nếu bạn thấy dòng nước chảy mạnh.
+<br>B. Bạn nên cảnh báo bạn bè của mình về dòng nước chảy mạnh.
+<br>C. Bạn phải cẩn thận vì có dòng nước chảy mạnh.
+<br>D. Dòng nước chảy không đủ mạnh để bơi ở khu vực này.
+<br>Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does the notice tell you to do?<br><img src="/learn/grand10/c7735dfe-9a8e-4df4-992a-64235a5d47b8.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`Do not eat or drink anything outside this place.`,`Food and drink are not allowed in this place.`,`Do not bring food or drink from outside into this place.`,`Be careful when eating and drinking outside this place.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Thông báo yêu cầu bạn phải làm gì?</b><br><img src="/learn/grand10/c7735dfe-9a8e-4df4-992a-64235a5d47b8.jpg" data-filename="" style="max-width: 600px; height: auto;"><br><i>(THẬN TRỌNG KHÔNG ĐƯỢC MANG THỨC ĂN BÊN NGOÀI VÀO)
+</i><br>A. Không được ăn hoặc uống bất cứ thứ gì bên ngoài nơi này.
+<br>B. Không được phép mang đồ ăn và đồ uống vào nơi này.
+<br>C. Không được mang đồ ăn hoặc đồ uống từ bên ngoài vào nơi này.
+<br>D. Hãy cẩn thận khi ăn uống bên ngoài nơi này.
+<br>Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.</b></p><p>In the good old days of school, life was simpler and filled with happiness. Can you imagine a time without smartphones or computers? Instead, we spent our days outside, playing games like hopscotch and tag with our friends. Our school was a small building with chalkboards and colourful posters. Our teachers were kind and patient, guiding us through the wonders of education using books and paper.<br>
+During recess, we played fun games and the air was filled with laughter and joy. Our lunches were packed in lunch boxes with tasty sandwiches and fresh fruit. When the school bell rang, we eagerly ran outside to enjoy the fresh air. Homework was done with pencils and erasers, and we took our time to complete it. Our backpacks were filled with textbooks and notebooks, and we proudly carried them home every day. The best part of the week was receiving gold stars as a reward for good behaviour and hard work.<br>
+Thinking back on those school days always brings a smile to my face. <b>They </b>were special times of innocence and discovery, where the world seemed vast and our dreams had no limits.</p>`,
+          media:``,
+          question: `What does the author describe as a feature of the good old school days?
+        `,
+          options: [`Large and modern school buildings.`,`Homework done with pens.`,`Outdoor activities and games.`,`Smartphones and computers.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tác giả mô tả điều gì về nét đặc trưng của thời học sinh tốt đẹp ngày xưa?
+</b><br>A. Tòa nhà trường học lớn và hiện đại.
+<br>B. Bài tập về nhà được làm bằng bút.
+<br>C. Hoạt động và trò chơi ngoài trời.
+<br>D. Điện thoại thông minh và máy tính.
+<br><b>Căn cứ vào thông tin:</b> Instead, we spent our days outside, playing games like hopscotch and tag with our friends.  <i>(Thay vào đó, chúng tôi dành cả ngày ở bên ngoài, chơi các trò chơi như nhảy ô và đuổi bắt với bạn bè.)
+</i><br>Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `How were lunches packed during those school days?
+        `,
+          options: [`In metal tins with a variety of foods.`,`In paper bags with snacks.`,`In plastic containers.`,`In lunch boxes with sandwiches and fresh fruit.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Bữa trưa được đóng gói như thế nào trong những ngày đi học?
+</b><br>A. Trong hộp kim loại đựng nhiều loại thực phẩm.
+<br>B. Trong túi giấy đựng đồ ăn nhẹ.
+<br>C. Trong hộp nhựa.
+<br>D. Trong hộp đựng thức ăn trưa đựng bánh sandwich và trái cây tươi.
+<br><b>Căn cứ vào thông tin: </b>Our lunches were packed in lunch boxes with tasty sandwiches and fresh fruit. <i>(Bữa trưa của chúng tôi được đóng gói trong hộp cơm trưa với những chiếc bánh sandwich ngon lành và trái cây tươi.)
+</i><br>Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What was the author's favourite part of the week during school?
+        `,
+          options: [`Playing outdoor games.`,`Having lunchtime.`,`Completing homework.`,`Receiving gold stars.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Phần nào trong tuần mà tác giả thích nhất khi đi học?
+</b><br>A. Chơi trò chơi ngoài trời.
+<br>B. Ăn trưa.
+<br>C. Làm bài tập về nhà.
+<br>D. Nhận được sao vàng.
+<br><b>Căn cứ vào thông tin: </b>The best part of the week was receiving gold stars as a reward for good behaviour and hard work.<i> (Phần tuyệt vời nhất trong tuần là nhận được những ngôi sao vàng như một phần thưởng cho hành vi tốt và sự chăm chỉ.)
+</i><br>Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `How does the author feel when thinking back on those school days?
+        `,
+          options: [`Joyful.`,`Disappointed.`,`Indifferent.`,`Embarrassing`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tác giả cảm thấy thế nào khi nghĩ lại những ngày tháng đi học đó?
+</b><br>A. Vui vẻ.
+<br>B. Thất vọng.
+<br>C. Thờ ơ.
+<br>D. Xấu hổ
+<br><b>Căn cứ vào thông tin: </b>Thinking back on those school days always brings a smile to my face. <i>(Nghĩ lại những ngày đi học đó luôn khiến tôi mỉm cười.)
+</i><br>Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `How does the author describe the teachers?
+        `,
+          options: [`strict and demanding`,`kind and patient`,`busy and distracted`,`unfriendly and harsh`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tác giả mô tả giáo viên như thế nào?</b><br>A. nghiêm khắc và đòi hỏi cao<br>B. tử tế và kiên nhẫn<br>C. bận rộn và mất tập trung<br>D. không thân thiện và khắc nghiệt<br><b>Căn cứ vào thông tin:</b> Our teachers were kind and patient, guiding us through the wonders of education using books and paper. <i>(Các giáo viên của chúng tôi rất tử tế và kiên nhẫn, hướng dẫn chúng tôi khám phá những điều kỳ diệu của giáo dục bằng sách và giấy.)</i><br>Do đó, B là đáp án phù hợp.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does the word <b>"They" </b>in the last sentence refer to?
+        `,
+          options: [`dreams`,`gold stars`,`students`,`old school days`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "They" trong câu cuối ám chỉ điều gì?
+</b><br>A. những giấc mơ
+<br>B. những ngôi sao vàng
+<br>C. học sinh
+<br>D. những ngày đi học cũ
+<br><b>Căn cứ vào thông tin: </b>Thinking back on those school days always brings a smile to my face. They were special times of innocence and discovery, where the world seemed vast and our dreams had no limits. <i>(Nghĩ lại những ngày đi học đó luôn khiến tôi mỉm cười. Đó là những khoảng thời gian đặc biệt của sự ngây thơ và khám phá, khi thế giới dường như rộng lớn và ước mơ của chúng tôi không có giới hạn.)
+</i><br><i>-&gt; they ~ old school days
+</i><br>Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Four phrases/sentences have been removed from the text below. For each question, mark the letter A, B, C or D on your answer sheet to indicate the correct option that fits each of the numbered blanks from 37 to 40 the most.</b></p><p><b>A. offers a variety of programs for different audiences
+<br>B. It allows users to find information quickly and communicate in real-time
+<br>C. Radio remains popular because it can be listened to anywhere
+<br>D. These publications give detailed reports and cover a wide range of subjects
+</b><br>
+<br>The media plays a crucial role in our daily lives by providing information and entertainment. Television, for example, <b>(37)</b>__________ People can watch news, movies, and educational programs from the comfort of their homes. Another important medium is radio. <b>(38)</b>__________ It is especially useful in cars and for those who enjoy listening to music and talk shows. Newspapers and magazines offer another form of communication. <b>(39)</b>__________ They provide in-depth articles and allow readers to learn about various topics. Lastly, the internet is the fastest-growing medium. <b>(40)</b>__________ It provides instant access to news, social networks, and a vast amount of information.
+</p>`,
+          media:``,
+          question: ` __________
+        `,
+          options: [],
+          answer: `A`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc câu:
+</b><br>Ta có cấu trúc của một mệnh đề độc lập: S + V +…Căn cứ vào vị trí chỗ trống, ta thấy câu đã có chủ ngữ là “Television” và chưa có động từ chính
+<br>=&gt; ta cần một động từ chính chia theo chủ ngữ này để tạo thành câu
+hoàn chỉnh =&gt; chọn A
+<br><b>Tạm dịch: </b>Television, for example, (37)........  <i>(Ví dụ, truyền hình cung cấp nhiều chương trình cho nhiều đối tượng khán giả khác nhau.).
+</i><br>Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: ` __________
+        `,
+          options: [],
+          answer: `C`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề độc lập:
+</b><br>Căn cứ vào vị trí chỗ trống (giữa 2 dấu chấm) =&gt; vị trí chỗ trống cần một
+mệnh đề độc lập (S+V). Xét 3 mệnh đề độc lập có trong đề bài:
+<br><b>*Xét các đáp án:
+</b><br>B. It allows users to find information quickly and communicate in real-time: Nó cho phép người dùng tìm thông tin nhanh chóng và giao tiếp theo thời gian thực
+<br>C. Radio remains popular because it can be listened to anywhere: Radio vẫn phổ biến vì có thể nghe ở bất cứ đâu
+<br>D. These publications give detailed reports and cover a wide range of subjects: Các ấn phẩm này cung cấp các báo cáo chi tiết và đề cập đến nhiều chủ đề
+<br><b>Tạm dịch:</b> Another important medium is radio. (38)........ It is especially useful in cars and for those who enjoy listening to music and talk shows.<i> (Một phương tiện quan trọng khác là radio. Radio vẫn phổ biến vì có thể nghe ở bất cứ đâu. Radio đặc biệt hữu ích trên ô tô và đối với những người thích nghe nhạc và chương trình trò chuyện.).
+</i><br>Căn cứ vào nghĩa, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `__________
+        `,
+          options: [],
+          answer: `D`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề độc lập:
+</b><br>Căn cứ vào vị trí chỗ trống (giữa 2 dấu chấm) =&gt; vị trí chỗ trống cần một
+mệnh đề độc lập (S+V). Xét 3 mệnh đề độc lập có trong đề bài:
+<br>B. It allows users to find information quickly and communicate in real-time: Nó cho phép người dùng tìm thông tin nhanh chóng và giao tiếp theo thời gian thực
+<br>C. Radio remains popular because it can be listened to anywhere: Radio vẫn phổ biến vì có thể nghe ở bất cứ đâu
+<br>D. These publications give detailed reports and cover a wide range of subjects: Các ấn phẩm này cung cấp các báo cáo chi tiết và đề cập đến nhiều chủ đề
+<br><b>Tạm dịch: </b>Newspapers and magazines offer another form of communication. (39)......... They provide in-depth articles and allow readers to learn about various topics. <i>(Báo và tạp chí cung cấp một hình thức giao tiếp khác. Các ấn phẩm này cung cấp các báo cáo chi tiết và đề cập đến nhiều chủ đề. Chúng cung cấp các bài viết chuyên sâu và cho phép độc giả tìm hiểu về nhiều chủ đề khác nhau.).
+</i><br>Căn cứ vào nghĩa, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `__________
+        `,
+          options: [],
+          answer: `B`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề độc lập:
+</b><br>Căn cứ vào vị trí chỗ trống (giữa 2 dấu chấm) =&gt; vị trí chỗ trống cần một
+mệnh đề độc lập ( S+V). Xét 3 mệnh đề độc lập có trong đề bài:
+<br>B. It allows users to find information quickly and communicate in real-time: Nó cho phép người dùng tìm thông tin nhanh chóng và giao tiếp theo thời gian thực
+<br>C. Radio remains popular because it can be listened to anywhere: Radio vẫn phổ biến vì có thể nghe ở bất cứ đâu
+<br>D. These publications give detailed reports and cover a wide range of subjects: Các ấn phẩm này cung cấp các báo cáo chi tiết và đề cập đến nhiều chủ đề
+<br><b>Tạm dịch: </b>Lastly, the internet is the fastest-growing medium. (40)...... It provides instant access to news, social networks, and a vast amount of information.<i> (Cuối cùng, internet là phương tiện phát triển nhanh nhất. Nó cho phép người dùng tìm thông tin nhanh chóng và giao tiếp theo thời gian thực. Nó cung cấp quyền truy cập tức thời vào tin tức, mạng xã hội và một lượng lớn thông tin.).
+</i><br>Căn cứ vào nghĩa, B là đáp án phù hợp.
+`,
+        }, ],
+    },       
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best combines the two given ones.</b></p>`,
+          media:``,
+          question: `<i>No matter how hard Jeans tried to lose weight, she did not succeed.</i>
+        `,
+          options: [`Jeans tried very hard to lose weight and succeeded.`,`However hard Jeans tried, she could not lose weight.`,`It did not matter whether Jeans could lose weight.`,`It was hard for Jeans to lose weight because she never succeeded.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề nhượng bộ
+</b><br><b>Tạm dịch câu gốc:</b> Dù Jeans đã cố gắng giảm cân đến thế nào đi nữa, cô ấy đã không thành công.
+<br>- Ta có: <b>No matter how + adj/adv + S + V, S + V = However + adj/adv + S + V, S + V: </b>Dù… đến thế nào đi nữa, thì…
+<br><b>* Xét các đáp án:
+</b><br>A. Jeans tried very hard to lose weight and succeeded: Jeans đã cố gắng rất nhiều để giảm cân và đã thành công. → Không phù hợp về nghĩa.
+<br>B. However hard Jeans tried, she could not lose weight: Dù Jeans đã cố gắng đến đâu, cô ấy cũng không thể giảm cân được. → Phù hợp về nghĩa.
+<br>C. It did not matter whether Jeans could lose weight: Việc Jeans có thể giảm cân hay không thì không quan trọng. → Không phù hợp về nghĩa.
+<br>D. It was hard for Jeans to lose weight because she never succeeded: Việc giảm cân rất khó với Jeans vì cô ấy không bao giờ thành công. → Không phù hợp về nghĩa.
+<br><b>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<i>She is learning computer programming. She wants to get a better job.</i>
+        `,
+          options: [`She has got a better job because she is learning computer programming.`,`She is learning computer programming, so she has got a better job.`,`She is learning computer programming so that she can get a better job.`,`To learn computer programming, she may be able to get a better job.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ
+</b><br><b>Tạm dịch câu gốc: </b>Cô ấy đang học lập trình máy tính. Cô ấy muốn có một công việc tốt hơn.
+<br><b>* Xét các đáp án:
+</b><br>A. She has got a better job because she is learning computer programming: Cô ấy đã có một công việc tốt hơn bởi vì cô ấy đang học lập trình máy tính. → Không phù hợp về nghĩa. Ta có: <b>because + S + V: bởi vì, do
+</b><br>B. She is learning computer programming, so she has got a better job: Cô ấy đang học lập trình máy tính, vì vậy cô ấy đã có một công việc tốt hơn. → Không phù hợp về nghĩa. Ta có: <b>so + S + V: do đó, vì vậy
+</b><br>C. She is learning computer programming so that she can get a better job: Cô ấy đang học lập trình máy tính để cô ấy có thể kiếm được một công việc tốt hơn. → Phù hợp về nghĩa. Ta có: <b>so that + S + V: để, để mà
+</b><br>D. To learn computer programming, she may be able to get a better job: Để học lập trình máy tính, cô ấy có thể sẽ kiếm được một công việc tốt hơn. → Không hợp về nghĩa.
+<br><b>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences to make a meaningful paragraph in the following question.</b></p>`,
+          media:``,
+          question: `<br><b>a.</b> There are also many music festivals around the globe that bring artists and music fans together.
+<br><b>b. </b>People nowadays enjoy listening to music from different countries and cultures, and in different languages.
+<br><b>c.</b> Thanks to globalization, people can quickly discover new music from all over the world.
+<br><b>d.</b> To sum up, in today's connected world, it is very common for musicians across the world to work on music projects and share ideas together.
+<br><b>e.</b> For example, American teens are captivated by K-pop music and dance.
+        `,
+          options: [`d-b-c-e-a`,`c-a-b-e-d`,`c-b-e-a-d`,`d-a-b-e-c`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp câu tạo thành đoạn văn
+</b><br>* Ta có: Để tạo nên một đoạn văn/lời kể hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước. 
+<br><b>=&gt; Ta có cách sắp xếp hoàn chỉnh: 
+</b><br><b>c. </b>Thanks to globalisation, people can quickly discover new music from all over the world. <i>(Nhờ toàn cầu hóa, mọi người có thể nhanh chóng khám phá âm nhạc mới từ khắp nơi trên thế giới.)
+</i><br><b>b. </b>People nowadays enjoy listening to music from different countries and cultures, and in different languages. <i>(Ngày nay mọi người thích nghe nhạc từ các quốc gia và nền văn hóa khác nhau, và bằng các ngôn ngữ khác nhau.)
+</i><br><b>e.</b> For example, American teens are captivated by K-pop music and dance. <i>(Ví dụ, thanh thiếu niên Mỹ bị thu hút bởi âm nhạc và vũ đạo K-pop.)
+</i><br><b>a. </b>There are also many music festivals around the globe that bring artists and music fans together. <i>(Ngoài ra còn có nhiều lễ hội âm nhạc trên toàn cầu quy tụ các nghệ sĩ và người hâm mộ âm nhạc.)
+</i><br><b>d.</b> To sum up, in today's connected world, it is very common for musicians across the world to work on music projects and share ideas together. <i>(Tóm lại, trong thế giới kết nối ngày nay, việc các nhạc sĩ trên khắp thế giới cùng thực hiện các dự án âm nhạc và chia sẻ ý tưởng với nhau là rất phổ biến.)   
+</i><br>=&gt; Vì vậy, ta có thứ tự sắp xếp đúng là: <b>c-b-e-a-d
+</b><br><b>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences to make a meaningful dialogue in each of the following questions.</b></p>`,
+          media:``,
+          question: `<br><b>a. </b>Wow! I didn't know that my mom was older - she's going to be 57 on September 2. Anyway, Aunt Mary's going to be so surprised to see us all here!
+<br><b>b.</b> I'm really excited about Aunt Mary's surprise birthday party this afternoon! Aren't you?
+<br><b>c. </b>I know! But we still have to get all the food set up before she gets here... OK! We're all ready now. 
+<br>Shh! She's here!
+<br><b>d.</b> Yeah! How old is she?
+<br><b>e.</b> She'll be 55 on May 14.
+        `,
+          options: [`b-a-c-d-e`,`a-b-c-d-e`,`b-d-e-a-c`,`a-e-d-c-b`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp câu tạo thành đoạn hội thoại 
+</b><br>* Ta có: Để tạo nên một đoạn văn/lời kể/ đoạn hội thoại hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước. 
+<br><b>=&gt; Ta có cách sắp xếp hoàn chỉnh:
+</b><br><b>b.</b> I'm really excited about Aunt Mary's surprise birthday party this afternoon! Aren't you? <i>(Mình thực sự hào hứng về bữa tiệc sinh nhật bất ngờ của dì Mary chiều nay! Còn bạn thì sao?)
+</i><br><b>d.</b> Yeah! How old is she? <i>(Ừ! Dì ấy bao nhiêu tuổi?)
+</i><br><b>e.</b> She'll be 55 on May 14. <i>(Dì ấy sẽ 55 tuổi vào ngày 14 tháng 5.)
+</i><br><b>a. </b>Wow! I didn't know that my mom was older - she's going to be 57 on September 2. Anyway, Aunt Mary's going to be so surprised to see us all here! <i>(Ồ! Mình không biết là mẹ mình lớn tuổi hơn - mẹ sẽ 57 tuổi vào ngày 2 tháng 9. Dù sao đi nữa, dì Mary sẽ rất ngạc nhiên khi thấy tất cả chúng ta ở đây!)
+</i><br><b>c.</b> I know! But we still have to get all the food set up before she gets here... OK! We're all ready now. Shh! She's here! <i>(Mình biết! Nhưng chúng ta vẫn phải chuẩn bị xong đồ ăn trước khi dì ấy đến... OK! Chúng ta sẵn sàng cả rồi. Suỵt! Dì ấy đến rồi!)   
+</i><br>=&gt; Vì vậy, ta có thứ tự sắp xếp đúng là: <b>b-d-e-a-c
+</b><br><b>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<br><b>a. </b>How did your physics exam go?
+<br><b>b. </b>Oh, it went really well. Thanks for helping me with it!
+<br><b>c. </b>No problem. So... Don't forget to come over around 10.00 tomorrow to study for our math exam?
+<br><b>d.</b> Not bad, thanks. I'm just glad it's over! How about you... how'd your presentation go?
+        `,
+          options: [`a-d-b-c`,`b-c-a-d`,`a-c-b-d`,`a-b-c-d`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp câu tạo thành đoạn hội thoại 
+</b><br>* Ta có: Để tạo nên một đoạn văn/lời kể/ đoạn hội thoại hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước. 
+<br><b>=&gt; Ta có cách sắp xếp hoàn chỉnh:
+</b><br><b>a.</b> How did your physics exam go? <i>(Bài kiểm tra vật lý của cậu thế nào rồi?)
+</i><br><b>d.</b> Not bad, thanks. I'm just glad it's over! How about you... how'd your presentation go? <i>(Không tệ, cảm ơn. Mình chỉ mừng là nó qua rồi! Còn cậu thì sao... bài thuyết trình của cậu thế nào?)
+</i><br><b>b. </b>Oh, it went really well. Thanks for helping me with it! <i>(Ồ, nó diễn ra rất tốt. Cảm ơn cậu đã giúp mình nhé!)
+</i><br><b>c. </b>No problem. So... Don't forget to come over around 10.00 tomorrow to study for our math exam? <i>(Không có gì. Vậy... Đừng quên qua chỗ mình khoảng 10 giờ ngày mai để học bài cho kỳ thi toán của chúng ta nhé?)
+</i><br>=&gt; Vì vậy, ta có thứ tự sắp xếp đúng là: <b>a-d-b-c
+<br>Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<br><b>a.</b> I need to get my hair cut. I also need to have my new pants hemmed.<br><b>b.</b> Well, I'm in town visiting for a few days, and I need to get some things done while I'm here. <br><b>c. </b>Sure. What do you need?
+        `,
+          options: [`a-c-b`,`c-a-b`,`b-c-a`,`b-a-c`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp câu tạo thành đoạn hội thoại </b><br>* Ta có: Để tạo nên một đoạn văn/lời kể/ đoạn hội thoại hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước. <br><b>=&gt; Ta có cách sắp xếp hoàn chỉnh:</b><br><b>b.</b> Well, I'm in town visiting for a few days, and I need to get some things done while I'm here. <i>(À, tôi đến thị trấn chơi vài ngày, và tôi cần làm một số việc khi ở đây.) </i><br><b>c.</b> Sure. What do you need?<i> (Chắc chắn rồi. Bạn cần gì?) </i><br><b>a. </b>I need to get my hair cut. I also need to have my new pants hemmed. <i>(Tôi cần đi cắt tóc. Tôi cũng cần phải sửa lai chiếc quần mới của mình.)</i><br>=&gt; Vì vậy, ta có thứ tự sắp xếp đúng là: <b>b-c-a<br>Do đó, C là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks.</b></p><p>It's the end of the school year and the exam period is approaching. Undoubtedly, exams put pressure <b>(15)</b> _________ both students and parents alike. Most parents would like to see their children succeeding academically, as they believe a good education gives them an added advantage in life. They want to see their children settled in a rewarding job and be financially well-off. But is that what their children have planned for themselves? Apparently it is not. Most students <b>(16) </b>_________  can't think that far ahead or have no intention of doing so. They would rather aim low so as not to be disappointed if they get low marks. However, child psychologists, who have been consulted on the matter, stress that students should aim high, but at the same time have a variety of other options. <b>(17)</b> _________,   students will not have to worry about grades and in the long term they will have better chances of succeeding. On the whole, there are many , practical and invaluable things <b>(18) </b>_________ parents can do for their children. Apart from being people their children can turn to, parents can plan a reasonable schedule that both they and their children agree on. According to psychologists' <b>(19)</b> _________, this schedule should include no more than eight hours of studying, three proper meals a day and some exercise. Above all, prior to each exam, parents need to reassure their children that everything will be fine whatever the result.</p>`,
+          media:``,
+          question: `
+        `,
+          options: [`by`,`on`,`in`,`with`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ</b><br>* Ta có cụm từ: <b>put pressure on sb/sth: gây áp lực lên ai/ cái gì đó<br>Tạm dịch: </b>Undoubtedly, exams put pressure (15) ___________ both students and parents alike. <i>(Không còn nghi ngờ gì nữa, các kỳ thi gây áp lực lên cả học sinh và phụ huynh.)</i><br><b>Do đó, B là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`both`,`neither`,`either`,`nor`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ
+<br>* Xét các đáp án:
+</b><br>A. both: cả hai
+<br>B. neither… nor: không… cũng không (cả hai đều không)
+<br>C. either… or: hoặc là… hoặc là (một trong hai)
+<br>D. nor: cũng không
+<br><b>Tạm dịch: </b>Most students (16) ________ can't think that far ahead or have no intention of doing so.<i> (Hầu hết học sinh <b>hoặc là</b> không thể nghĩ xa đến thế <b>hoặc là</b> không có ý định làm vậy.)
+</i><br><b>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`However`,`Moreover`,`In contrast`,`As a result`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ
+<br>* Xét các đáp án:
+</b><br>A. However: Tuy nhiên
+<br>B. Moreover: Hơn nữa, ngoài ra
+<br>C. In contrast: Ngược lại, trái lại
+<br>D. As a result: Kết quả là, do đó
+<br><b>Tạm dịch: </b>However, child psychologists, who have been consulted on the matter, stress that students should aim high, but at the same time have a variety of other options. (17) ___________, students will not have to worry about grades and in the long term they will have better chances of succeeding. <i>(Tuy nhiên, các nhà tâm lý học trẻ em, những người đã được tham vấn về vấn đề này, nhấn mạnh rằng học sinh nên đặt mục tiêu cao, nhưng đồng thời phải có nhiều phương án dự phòng khác. <b>Kết quả là</b>, học sinh sẽ không phải lo lắng về điểm số và về lâu dài các em sẽ có cơ hội thành công cao hơn.)
+</i><br><b>Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`whom`,`that`,`why`,`who`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề quan hệ
+<br>* Xét các đáp án:
+</b><br>A. <b>whom</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm tân ngữ cho động từ đứng sau nó. Theo sau whom là chủ ngữ.
+<br>B.<b> that</b>: đại từ quan hệ chỉ cả người lẫn vật, có thể được dùng thay cho Who, Whom, Which trong mệnh đề quan hệ thuộc loại mệnh đề xác định.
+<br>C. <b>why</b>: trạng từ quan hệ chỉ lí do, đứng sau tiền ngữ "the reason", dùng thay cho "for which”.
+<br>D. <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.
+<br>→ Ta thấy, chỗ trống cần điền một đại từ quan hệ thay thế cho danh từ chỉ vật <b>"things"</b> =&gt; loại A, C và D.
+<br><b>Tạm dịch:</b> On the whole, there are many , practical and invaluable things (18) ___________ parents can do for their children. <i>(Nhìn chung, có rất nhiều điều thiết thực và vô giá <b>mà</b> cha mẹ có thể làm cho con cái.)
+</i><br><b>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`clues`,`qualities`,`instructions`,`announcements`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng
+<br>* Xét các đáp án:
+</b><br>A. clues – clue /kluː/ (n): manh mối, gợi ý
+<br>B. qualities – quality /ˈkwɒləti/ (n): phẩm chất; đặc điểm; chất lượng
+<br>C. instructions – instruction /ɪnˈstrʌkʃn/ (n): chỉ dẫn, hướng dẫn; lệnh
+<br>D. announcements – announcement /əˈnaʊnsmənt/ (n): thông báo, sự thông báo
+<br><b>Tạm dịch:</b> According to psychologists' (19) ____________, this schedule should include no more than eight hours of studying, three proper meals a day and some exercise.<i> (Theo <b>hướng dẫn</b> của các nhà tâm lý học, thời gian biểu này nên bao gồm không quá tám tiếng học, ba bữa ăn đầy đủ mỗi ngày và một số hoạt động thể chất.)
+</i><br><b>Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the best option that fits each of the numbered blanks.</b></p><p><div style="text-align: center;"><b>ADVERTISEMENT</b></div>
+Looking for a part-time job is perfect for students? Join our dynamic team at the local coffee shop! Develop your leadership, time management, and communication skills <b>(20)</b> ________ serving up delicious brews. We value teamwork and <b>(21)</b> ________ abilities, offering a supportive environment. If you're fluent in a foreign language and thrive <b>(22) </b>________ pressure, apply now! Gain valuable experience in multitasking and operating machinery. <br>
+Don't miss this opportunity to grow and excel! 
+</p>`,
+          media:``,
+          question: `
+        `,
+          options: [`because`,`as`,`while`,`despite`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ</b><br>* Xét các đáp án:<br>A. because + S + V: bởi vì<br>B. as + S + V: bởi vì; khi<br>C. while + S + V / while + V-ing: trong khi<br>D. despite + N/V-ing: mặc dù<br><b>Tạm dịch:</b> Develop your leadership, time management, and communication skills (20) ___________ serving up delicious brews. <i>(Phát triển kỹ năng lãnh đạo, quản lý thời gian và giao tiếp của bạn <b>trong khi</b> phục vụ những ly đồ uống thơm ngon.)</i><br><b>Căn cứ vào dịch nghĩa, C là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`problem-solved`,`problem-solving`,`solving problems`,`solving-problem`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng
+</b><br>→ Ta thấy, chỗ trống cần điền một tính từ đứng trước danh từ <b>"abilities"</b>.
+<br>* Ta có: <b>problem-solving (adj): liên quan đến việc giải quyết vấn đề
+</b><br>Tạm dịch: We value teamwork and (21) _______________ abilities, offering a supportive environment. <i>(Chúng tôi coi trọng tinh thần đồng đội và khả năng <b>giải quyết vấn đề</b>, đồng thời mang đến một môi trường làm việc hỗ trợ.)
+</i><br><b>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`under`,`with`,`in`,`on`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ
+</b><br>* Ta có: <b>under pressure: dưới áp lực, chịu áp lực
+<br>Tạm dịch:</b> If you're fluent in a foreign language and thrive (22) __________ pressure, apply now! <i>(Nếu bạn thông thạo ngoại ngữ và có thể làm việc tốt <b>dưới </b>áp lực, hãy ứng tuyển ngay!)
+</i><br><b>Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the underlined part that needs correction in each of the following questions.</b></p>`,
+          media:``,
+          question: `The world <u>is becoming</u> more <u>industrialized</u> and the number of <u>endangered</u> animals <u>have increased</u>.
+        `,
+          options: [`endangered`,`industrialized`,`is becoming`,`have increased`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sự hòa hợp giữa chủ ngữ và động từ
+<br>* Ta có:
+</b><br>- A number of + N (số nhiều) + V (số nhiều)
+<br>- The number of + N (số nhiều) + V (số ít)
+<br>=&gt; Câu trên sai ở <b>D. have increased
+</b><br>Sửa: <b>have increased=&gt; has increased
+</b><br><b>Tạm dịch:</b> The world is becoming more industrialized and the number of endangered animals <b>has increased.</b> <i>(Thế giới đang ngày càng công nghiệp hóa và số lượng động vật có nguy cơ tuyệt chủng đã tăng lên.)
+</i><br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<u>Although</u> smokers <u>are aware</u> that smoking is harmful <u>to</u> their health, they can't get rid of <u>them</u>.
+        `,
+          options: [`them`,`are aware`,`although`,`to`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ</b><br>→ Ta có: <b>"them"</b> là đại từ thay thế cho danh từ đếm được số nhiều. Trong khi đó, <b>"smoking"</b> là danh từ không đếm được.<br>=&gt; Câu trên sai ở <b>A. them</b><br>Sửa: <b>them =&gt; it</b><br><b>Tạm dịch: </b>Although smokers are aware that smoking is harmful to their health, they can't get rid of <b>it</b>. <i>(Mặc dù người hút thuốc nhận thức được rằng hút thuốc có hại cho sức khỏe của họ, họ không thể từ bỏ nó.)</i><br><b>Do đó, A là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Viet Nam Airlines regrets <u>informing</u> the passengers that flight VN 251 to Hanoi <u>is postponed</u> <u>due to</u> the bad weather.
+        `,
+          options: [`informing`,`to`,`is postponed`,`due to`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về danh động từ - động từ nguyên mẫu</b><br>* Ta có:<br>- regret + to V (nguyên mẫu): lấy làm tiếc khi phải thông báo điều gì (thường là tin xấu)<br>- regret + V-ing: hối tiếc về việc đã làm trong quá khứ<br>=&gt; Câu trên sai ở <b>A. informing</b> (sai về nghĩa).<br>Sửa: <b>informing =&gt; to inform</b><br><b>Tạm dịch:</b> Viet Nam Airlines regrets <b>to inform </b>the passengers that flight VN 251 to Hanoi is postponed due to the bad weather.<i> (Hãng hàng không Việt Nam rất tiếc phải thông báo cho hành khách rằng chuyến bay VN 251 đến Hà Nội bị hoãn do thời tiết xấu.)</i><br><b>Do đó, A là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to the given one.</b></p>`,
+          media:``,
+          question: `<i>Bill is such a careless driver that he has many traffic accidents.</i>
+        `,
+          options: [`If Bill drives carefully, he will not have many traffic accidents.`,`If Bill drove carefully, he would not have many traffic accidents.`,`If Bill drives carefully, he will have many traffic accidents.`,`If Bill had driven carefully, he would have had many traffic accidents.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu điều kiện
+</b><br><b>Tạm dịch câu gốc: </b>Bill là một tài xế bất cẩn đến nỗi anh ấy bị nhiều tai nạn giao thông.
+<br>Ta có: <b>S + V + such + a/an + adj + noun + that + S + V: </b>quá… đến nỗi mà
+<br>→ Căn cứ vào ngữ cảnh của câu gốc, để viết lại câu, ta sẽ dùng câu điều kiện loại II: <b>If + S + V (quá khứ đơn), S + would/could/might + V…</b> (Diễn tả những giả định trái ngược với thực tế ở hiện tại.)
+<br><b>* Xét các đáp án:
+</b><br>A. If Bill drives carefully, he will not have many traffic accidents: Nếu Bill lái xe cẩn thận, anh ấy sẽ không bị nhiều tai nạn giao thông. → Không phù hợp. Đây là câu điều kiện loại I: <b>If + S + V (hiện tại đơn), S + will + V… </b>(Diễn tả về tình huống có thể xảy ra ở hiện tại hoặc tương lai.)
+<br>B. If Bill drove carefully, he would not have many traffic accidents: Nếu Bill lái xe cẩn thận, anh ấy sẽ không bị nhiều tai nạn giao thông. → Phù hợp về nghĩa, đúng ngữ pháp.
+<br>C. If Bill drives carefully, he will have many traffic accidents: Nếu Bill lái xe cẩn thận, anh ấy sẽ bị nhiều tai nạn giao thông. → Không phù hợp.
+<br>D. If Bill had driven carefully, he would have had many traffic accidents: Nếu Bill đã lái xe cẩn thận, anh ấy đã bị nhiều tai nạn giao thông. → Không phù hợp. Đây là câu điều kiện loại III: <b>If + S + V (quá khứ hoàn thành), S + would/could/might + have + Vp2</b> (Diễn tả những giả định trái ngược với thực tế ở quá khứ.)
+<br><b>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<i>"I have never been to China, I think I shall go there next month" said Rose.</i>
+        `,
+          options: [`Rose said that she would have never been to China and she will go there the next month.`,`Rose said that she has never been to China and she thinks she would go there the next month.`,`Rose said that she had never been to China and she thought she would go there the next month.`,`Rose said that she had never been to China and she thinks she will go there the next month.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật
+</b><br><b>Tạm dịch câu gốc:</b> "Tôi chưa bao giờ đến Trung Quốc, tôi nghĩ tôi sẽ đến đó vào tháng tới," Rose nói.
+<br>* Khi chuyển từ câu trực tiếp sang gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và lùi thì đối với câu chứa động từ tường thuật ở thì quá khứ.
+<br>→ Ta có: <b><i>I =&gt; she
+              <br>   next month =&gt; the next month
+            <br>     have been =&gt; had been; think =&gt; thought; will go =&gt; would go
+</i></b><br><b>* Xét các đáp án:
+</b><br>A. Rose said that she would have never been to China and she will go there the next month. → Sai ngữ pháp.
+<br>B. Rose said that she has never been to China and she thinks she would go there the next month. → Sai ngữ pháp.
+<br>C. Rose said that she had never been to China and she thought she would go there the next month: Rose nói rằng cô ấy chưa từng đến Trung Quốc và cô ấy nghĩ rằng cô ấy sẽ đến đó vào tháng sau đó.→ Đúng ngữ pháp.
+<br>D. Rose said that she had never been to China and she thinks she will go there the next month. → Sai ngữ pháp.
+<br><b>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<i>People expect that the report will suggest some major reforms.</i>
+        `,
+          options: [`It is expected that the report will be suggested by some major reforms.`,`It is expected that some major reforms will be suggested by the report.`,`It is expecting that some major reforms will be suggested by the report.`,`It is expecting that the report will suggest some major reforms.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu bị động
+</b><br><b>Tạm dịch câu gốc:</b> Mọi người kỳ vọng rằng bản báo cáo sẽ đề xuất một số cải cách lớn.
+<br><u><b>Ta có cấu trúc: 
+</b></u><br>- Chủ động: <b>S1 + V1 + that + S2 + V2… 
+</b><br>→ Bị động: <b>It + dạng bị động của V1 (be + Vp2) + that + S2 + V2…
+</b><br>- Chủ động: <b>S + will + V (nguyên mẫu)…
+</b><br>→ Bị động: <b>S + will + be + Vp2…
+</b><br><b>* Xét các đáp án:
+</b><br>A. It is expected that the report will be suggested by some major reforms. → Không phù hợp (mệnh đề sau <b>"that"</b>: chủ ngữ vẫn giữ nguyên nhưng lại đổi động từ sang dạng bị động).
+<br>B. It is expected that some major reforms will be suggested by the report: Người ta kỳ vọng rằng một số cải cách lớn sẽ được đề xuất bởi bản báo cáo. → Phù hợp về nghĩa, đúng ngữ pháp.
+<br>C. It is expecting that some major reforms will be suggested by the report. → Sai ngữ pháp.
+<br>D. It is expecting that the report will suggest some major reforms. → Sai ngữ pháp.
+<br><b>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `Mr. Alan is the teacher in _________ we have much confidence.
+        `,
+          options: [`who`,`which`,`that`,`whom`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ quan hệ
+<br>* Xét các đáp án:
+</b><br>A. <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.
+<br>B.<b> which</b>: đại từ quan hệ chỉ vật, sự vật, sự việc làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.
+<br>C. <b>that</b>: đại từ quan hệ chỉ cả người lẫn vật, có thể được dùng thay cho Who, Whom, Which trong mệnh đề quan hệ thuộc loại mệnh đề xác định.
+<br>D. <b>whom</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm tân ngữ cho động từ đứng sau nó. Theo sau whom là chủ ngữ.
+<br>→ Ta có: <b>"whom" </b>và <b>"which"</b> là hai đại từ quan hệ có thể dùng sau giới từ =&gt; loại A và C. Do câu trên cần một đại từ quan hệ thay thế cho danh từ chỉ người <b>"the teacher"</b> =&gt; loại B.
+<br><b>Tạm dịch: </b>Ông Alan là người giáo viên mà chúng tôi rất tin tưởng.
+<br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The fire was believed to have been caused by an _________ fault.
+        `,
+          options: [`electricity`,`electronic`,`electrify`,`electrical`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại
+<br>* Xét các đáp án:
+</b><br>A. electricity /ɪˌlekˈtrɪsəti/ (n): điện, điện năng
+<br>B. electronic /ɪˌlekˈtrɒnɪk/ (adj): thuộc về điện tử
+<br>C. electrify /ɪˈlektrɪfaɪ/ (v): điện khí hóa (làm cho có điện); làm ai đó phấn khích
+<br>D. electrical /ɪˈlektrɪkl/ (adj): thuộc về điện
+<br>→ Theo quy tắc: <i><b>tính từ đứng trước danh từ</b></i> =&gt; chỗ trống cần điền một tính từ đứng trước danh từ <b>"fault"</b> =&gt; loại A và C.
+<br><b>Tạm dịch:</b> Vụ cháy được cho là đã bị gây ra bởi một sự cố về điện.
+<br><b>Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Violent crime has been reduced since the laws came into _________.
+        `,
+          options: [`influence`,`effect`,`impact`,`affect`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ cố định
+<br>* Xét các đáp án:
+</b><br>A. influence /ˈɪnfluəns/: (n) sự ảnh hưởng / (v) ảnh hưởng đến
+<br>B. effect /ɪˈfekt/: (n) tác động; hiệu quả, tác dụng / (v) thực hiện, đem lại, làm cho xảy ra
+<br>C. impact /ˈɪmpækt/: (n) sự tác động, ảnh hưởng mạnh / (v) tác động đến, ảnh hưởng đến
+<br>D. affect /əˈfekt/ (v): ảnh hưởng đến, tác động đến
+<br>Ta có cụm từ cố định: <b>come into effect: bắt đầu hoạt động, bắt đầu được áp dụng, có hiệu lực
+</b><br><b>Tạm dịch:</b> Tội phạm bạo lực đã giảm kể từ khi luật lệ bắt đầu có hiệu lực.
+<br><b>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `A strong wind spread the flames very quickly, ________?
+        `,
+          options: [`didn't it`,`did it`,`does it`,`doesn't it`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu hỏi đuôi
+<br>* Nguyên tắc chung khi lập câu hỏi đuôi:
+</b><br>- Nếu mệnh đề trước dấu phẩy ở thể khẳng định, câu hỏi đuôi ở thể phủ định (dạng viết tắt).
+<br>- Nếu mệnh đề trước dấu phẩy ở thể phủ định, câu hỏi đuôi ở thể khẳng định.
+<br><u><b>* Ta có:
+</b></u><br>+) Căn cứ vào mệnh đề trước dấu phẩy là khẳng định và có động từ chính chia ở thì quá khứ đơn là <b>"spread"</b> =&gt; câu hỏi đuôi ở thể phủ định (dạng viết tắt) là <b>"didn’t"</b>. 
+<br>+) Chủ ngữ số ít <b>"A strong wind"</b> =&gt; câu hỏi đuôi dùng đại từ <b>"it"</b>. 
+<br>=&gt; Phần đuôi là <i><b>"didn’t it"</b></i>.
+<br><b>Tạm dịch:</b> Một cơn gió mạnh đã thổi bùng ngọn lửa rất nhanh chóng, có phải không?
+<br><b>Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `My friend plays _________ guitar beautifully in a popular local band.
+        `,
+          options: [`(no article)`,`the`,`a`,`an`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ
+</b><br>* Ta có: Mạo từ xác định <b>"the"</b> dùng trước tên của các loại nhạc cụ, nhưng phải đứng sau động từ <b>"play"</b>.
+<br>=&gt; Chỗ trống cần điền mạo từ <b>"the"</b>.
+<br><b>Tạm dịch:</b> Bạn tôi chơi đàn guitar rất hay trong một ban nhạc địa phương nổi tiếng.
+<br><b>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: ` _________ children like ice cream. That's quite natural.
+        `,
+          options: [`Most of`,`The most of`,`The most`,`Most`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về lượng từ
+</b><br>* Ta có:
+<br>- Most of + the/my/these… + N / Most of + đại từ (them/us/which…): Hầu hết
+<br>- Most + N (đếm được số nhiều/ không đếm được): Đa số, hầu hết
+<br><b>Tạm dịch: </b>Hầu hết trẻ em thích kem. Điều đó khá là tự nhiên.
+<br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `At this time last night she was cooking and he _________ the newspaper
+        `,
+          options: [`will be reading`,`read`,`is reading`,`was reading`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thì động từ
+</b><br>→ Căn cứ vào <b>"At this time last night"</b> (Vào giờ này tối qua) là dấu hiệu của thì <b>quá khứ tiếp diễn</b> (Diễn đạt hành động đang xảy ra tại một thời điểm trong quá khứ).
+<br>* Cấu trúc: <b>S + was/were + V-ing…
+</b><br><b>Tạm dịch:</b> Vào giờ này tối qua, cô ấy đang nấu ăn và anh ấy thì đang đọc báo.
+<br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Be honest! Don't let success go to your ________.
+        `,
+          options: [`mouth`,`eyes`,`hairs`,`head`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thành ngữ
+<br>* Xét các đáp án:
+</b><br>A. mouth /maʊθ/ (n): miệng
+<br>B. eyes (n): đôi mắt
+<br>C. hairs (n): các sợi tóc
+<br>D. head /hed/ (n): đầu
+<br>Ta có thành ngữ: <b>go to one’s head: khiến ai kiêu ngạo, tự mãn
+</b><br><b>Tạm dịch:</b> Hãy thật chân thành! Đừng để thành công làm bạn trở nên kiêu ngạo.
+<br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`rain<u>ed</u>`,`jump<u>ed</u>`,`follow<u>ed</u>`,`arriv<u>ed</u>`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm đuôi -ed
+<br>* Xét các đáp án:
+</b><br>A. rain<u>ed</u> /reɪn<u>d</u>/ 
+<br>B. jump<u>ed</u> /dʒʌmp<u>t</u>/ 
+<br>C. follow<u>ed</u> /ˈfɒloʊ<u>d</u>/ 
+<br>D. arriv<u>ed</u> /əˈraɪv<u>d</u>/
+<br><b>Ta có quy tắc phát âm đuôi -ed:
+<br></b>1.	Đuôi <b>-ed</b> được phát âm là <b>/ɪd/ </b>khi động từ có phát âm cuối là /t/ hoặc /d/.
+<br>2.	Đuôi <b>-ed </b>được phát âm là<b> /t/ </b>khi động từ có phát âm cuối là /s/, /f/, /p/, /ʃ/, /tʃ/, /k/, /θ/,…
+<br>3.	Đuôi <b>-ed</b> được phát âm là <b>/d/</b> với các trường hợp còn lại.
+<br><b>=&gt; Phần gạch chân ở đáp án B được phát âm là /t/, các đáp án còn lại được phát âm là /d/. 
+<br>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`w<u>o</u>nder`,`g<u>o</u>vernment`,`c<u>o</u>lumn`,`w<u>o</u>rry`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm
+<br>* Xét các đáp án: 
+</b><br>A. w<u>o</u>nder /ˈw<u>ʌ</u>ndə(r)/
+<br>B. g<u>o</u>vernment /ˈɡ<u>ʌ</u>vənmənt/
+<br>C. c<u>o</u>lumn /ˈk<u>ɒ</u>ləm/
+<br>D. w<u>o</u>rry /ˈw<u>ʌ</u>ri/
+<br><b>=&gt; Phần gạch chân ở đáp án C được phát âm là /ɒ/, các đáp án còn lại được phát âm là /ʌ/.
+<br>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word that differs from the other three in the position of the primary stress in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`committee`,`engineer`,`referee`,`entertain`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm
+<br>* Xét các đáp án: 
+</b><br>A. committee /kəˈmɪti/: từ này có trọng âm rơi vào âm tiết thứ hai (không theo quy tắc trọng âm của từ có hậu tố <b>-ee</b>).
+<br>B. engineer /ˌendʒɪˈnɪə(r)/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, hậu tố <b>-eer </b>nhận trọng âm.
+<br>C. referee /ˌrefəˈriː/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, hậu tố <b>-ee</b> nhận trọng âm.
+<br>D. entertain /ˌentəˈteɪn/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, hậu tố <b>-ain</b> nhận trọng âm.
+<br><b>=&gt; Đáp án A có trọng âm rơi vào âm tiết thứ hai. Các đáp án còn lại trọng âm rơi vào âm tiết thứ ba. 
+<br>Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`happen`,`obtain`,`affect`,`perform`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm
+<br>* Xét các đáp án: 
+</b><br>A. happen /ˈhæpən/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm không rơi vào nguyên âm ngắn /ə/.
+<br>B. obtain /əbˈteɪn/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm đôi /eɪ/.
+<br>C. affect /əˈfekt/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm không rơi vào nguyên âm ngắn /ə/.
+<br>D. perform /pəˈfɔːm/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm dài /ɔː/.
+<br><b>=&gt; Đáp án A có trọng âm rơi vào âm tiết thứ nhất. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai. 
+<br>Do đó, A là đáp án phù hợp.
+</b>`,
+        }, ],
+    },
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part is pronounced differently from that of the rest in each of the following sentences.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`brea<u>th</u>e`,`bir<u>th</u>day`,`<u>th</u>ought`,`au<u>th</u>or`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm
+<br>* Xét các đáp án: 
+</b><br>A. brea<u>th</u>e /briː<u>ð</u>/
+<br>B. bir<u>th</u>day /ˈbɜː<u>θ</u>deɪ/
+<br>C. <u>th</u>ought /<u>θ</u>ɔːt/
+<br>D. au<u>th</u>or /ˈɔː<u>θ</u>ə(r)/
+<br><b>=&gt; Phần gạch chân ở đáp án A được phát âm là /ð/, các đáp án còn lại được phát âm là /θ/.
+<br>Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`will<u>ow</u>`,`narr<u>ow</u>`,`downt<u>ow</u>n`,`sh<u>ow</u>`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm
+<br>* Xét các đáp án: 
+</b><br>A. will<u>ow</u> /ˈwɪl<u>əʊ</u>/
+<br>B. narr<u>ow</u> /ˈnær<u>əʊ</u>/
+<br>C. downt<u>ow</u>n /ˌdaʊnˈt<u>aʊ</u>n/
+<br>D. sh<u>ow</u> /ʃ<u>əʊ</u>/
+<br><b>=&gt; Phần gạch chân ở đáp án C được phát âm là /aʊ/, các đáp án còn lại được phát âm là /əʊ/.
+<br>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in the following question.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`optimistic`,`additional`,`anxiety`,`environment`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm
+<br>* Xét các đáp án: 
+</b><br>A. optimistic /ˌɒptɪˈmɪstɪk/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, đuôi <b>-ic</b> làm trọng âm rơi vào âm tiết ngay trước nó.
+<br>B. additional /əˈdɪʃənl/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi <b>-al</b> không ảnh hưởng đến trọng âm. Và từ <b>addition /əˈdɪʃn/</b> có trọng âm rơi vào âm tiết thứ hai (vì đuôi <b>-ion</b> làm trọng âm rơi vào âm tiết ngay trước nó).
+<br>C. anxiety /æŋˈzaɪəti/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi <b>-ety</b> làm trọng âm rơi vào âm tiết ngay trước nó.
+<br>D. environment /ɪnˈvaɪrənmənt/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi <b>-ment</b> không làm ảnh hưởng đến trọng âm và trọng âm ưu tiên rơi vào nguyêm âm đôi /aɪ/.
+<br><b>=&gt; Đáp án A có trọng âm rơi vào âm tiết thứ ba. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai. 
+<br>Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`cuisine`,`schedule`,`hotel`,`police`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm
+<br>* Xét các đáp án: 
+</b><br>A. cuisine /kwɪˈziːn/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm dài /iː/.
+<br>B. schedule /ˈʃedjuːl/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, danh từ có hai âm tiết thì trọng âm rơi vào âm tiết thứ nhất.
+<br>C. hotel /həʊˈtel/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm không rơi vào nguyên âm đôi /əʊ/.
+<br>D. police /pəˈliːs/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm dài /iː/ và không rơi vào nguyên âm ngắn /ə/.
+<br><b>=&gt; Đáp án B có trọng âm rơi vào âm tiết thứ nhất. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai. 
+<br>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `On their way to Australia, the travelers decided to _________ in Singapore for a few days to explore the city.
+        `,
+          options: [`get away`,`touch down`,`stop over`,`check in`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ
+<br>* Xét các đáp án:
+</b><br>A. get away (ph.v): bỏ chạy, tháo chạy; đi nghỉ mát, đi du lịch
+<br>B. touch down (ph.v): (máy bay) hạ cánh
+<br>C. stop over (ph.v): dừng chân ở nơi nào đó, nghỉ chân
+<br>D. check in (ph.v): làm thủ tục đăng ký (nhận phòng khách sạn, lên máy bay); hỏi thăm, đến thăm ai
+<br><b>Tạm dịch: </b>Trên đường đến Úc, những người du khách đã quyết định dừng chân ở Singapore vài ngày để khám phá thành phố.
+<br><b>Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The Earth, _________ atmosphere protects it from harmful solar radiation, is the only known planet with life.
+        `,
+          options: [`which`,`who`,`that`,`whose`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ quan hệ
+<br>* Xét các đáp án:
+</b><br>A.<b> which</b>: đại từ quan hệ chỉ vật, sự vật, sự việc làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.
+<br>B. <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.
+<br>C.<b> that</b>: đại từ quan hệ chỉ cả người lẫn vật, có thể được dùng thay cho Who, Whom, Which trong mệnh đề quan hệ thuộc loại mệnh đề xác định.
+<br>D. <b>whose</b>: đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.
+<br>→ Ta thấy, chỗ trống cần điền một đại từ quan hệ chỉ sự sở hữu đi kèm với danh từ <b>"atmosphere"</b> =&gt; dùng đại từ quan hệ <b>"whose".</b> Ở đây, <b>"whose atmosphere"</b> thay thế cho <b>"The Earth’s atmosphere".
+</b><br><b>Tạm dịch:</b> Trái Đất, mà bầu khí quyển của nó bảo vệ nó khỏi bức xạ mặt trời có hại, là hành tinh duy nhất được biết đến có sự sống.
+<br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<i>Rebecca is talking to Jacob about his exam result.
+</i><br><b>Rebecca: </b>"Congratulations, Jacob! You've got the highest score in your exam."
+<br><b>Jacob:</b> “__________”
+        `,
+          options: [`That's very kind of you to say so.`,`No problem.`,`Sorry to hear that.`,`None of your business.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp
+</b><br><b>Tạm dịch:</b> <i>Rebecca đang nói chuyện với Jacob về kết quả thi của anh ấy.
+</i><br><b>Rebecca:</b> "Chúc mừng nhé, Jacob! Cậu đã đạt điểm cao nhất trong kỳ thi đấy."
+<br><b>Jacob: </b>“_______________”
+<br><b>* Xét các đáp án:
+</b><br>A. Bạn thật tốt bụng khi nói vậy.
+<br>B. Không có gì đâu.
+<br>C. Rất tiếc khi nghe điều đó.
+<br>D. Không phải việc của bạn.
+<br><b>Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The last time I saw Jonathan, he looked very relaxed. He explained that he'd been in holiday the _________ week.
+        `,
+          options: [`ago`,`following`,`next`,`previous`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật
+</b><br>* Khi chuyển từ câu trực tiếp sang câu gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và lùi thì nếu động từ tường thuật ở thì quá khứ.
+<br>→ Vì động từ trong câu tường thuật là <b>"had been" </b>(quá khứ hoàn thành) nên câu trực tiếp sẽ ở thì quá khứ đơn. Do đó, trạng từ chỉ thời gian trong câu trực tiếp là <b>"last week"</b>.
+<br>* Ta có: <b>the previous week/ the week before: tuần trước đó </b>→ dùng trong <b>câu gián tiếp</b> thay cho <b>"last week"</b>.
+<br><b>Tạm dịch: </b>Lần cuối tôi gặp Jonathan, anh ấy trông rất thư thái. Anh ấy giải thích rằng anh ấy đã đi nghỉ vào tuần trước đó.
+<br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Due to their financial situation, they cannot _________ to buy a new house this year.
+        `,
+          options: [`afford`,`plan`,`attempt`,`manage`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng
+<br>* Xét các đáp án:
+</b><br>A. afford /əˈfɔːd/ (v): có đủ khả năng, có đủ điều kiện (để làm gì), có đủ tiền (để mua cái gì)
+<br>B. plan /plæn/ (v): lên kế hoạch
+<br>C. attempt /əˈtempt/ (v): cố gắng, nỗ lực làm gì
+<br>D. manage /ˈmænɪdʒ/ (v): xoay xở được; quản lý
+<br>* Ta có: <b>afford to do sth: có đủ khả năng/ tiền để làm gì đó/ mua gì đó
+</b><br><b>Tạm dịch:</b> Do tình hình tài chính của họ, họ không đủ tiền để mua một ngôi nhà mới trong năm nay.
+<br><b>Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `She solved the math problem __________ than I did.
+        `,
+          options: [`easy`,`easier`,`more easily`,`most easily`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu so sánh
+</b><br>→ Căn cứ vào từ <b>"than"</b> và động từ thường <b>"solved"</b> nên đây là câu so sánh hơn với trạng từ =&gt; loại A, B và D.
+<br><b>* Cấu trúc so sánh hơn:
+</b><br>- Với trạng từ ngắn: <b>S1 + V + adv-er + than + S2…
+</b><br>- Với trạng từ dài: <b>S1 + V + more + adv + than + S2…
+</b><br><b>Tạm dịch</b>: Cô ấy đã giải bài toán đó dễ dàng hơn tôi.
+<br><b>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `My sister likes to discover cuisine from different parts of the world, so she enjoys trying __________ when she travels.
+        `,
+          options: [`customs`,`experiences`,`specialities`,`traditions`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>* Xét các đáp án:</b><br>A. customs – custom /ˈkʌstəm/ (n): phong tục, tập quán, thói quen<br>B. experiences – experience /ɪkˈspɪəriəns/ (n): kinh nghiệm, trải nghiệm<br>C. specialities – speciality /ˌspeʃiˈæləti/ (n): đặc sản <br>D. traditions – tradition /trəˈdɪʃn/ (n): truyền thống<br><b>Tạm dịch: </b>Chị gái tôi thích khám phá ẩm thực từ nhiều nơi khác nhau trên thế giới, vì vậy chị ấy thích thử các món đặc sản khi đi du lịch.<br><b>Căn cứ vào dịch nghĩa, C là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `I live in Ha Noi, a peaceful city on the banks of _________ Red River.
+        `,
+          options: [`Ø`,`an`,`a`,`the`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ
+</b><br>* Ta có quy tắc: Mạo từ xác định <b>"the"</b> dùng trước những danh từ là duy nhất, độc nhất.
+<br>→ Ta thấy, <b>"Red River" </b>(Sông Hồng) là tên của một con sông cụ thể và duy nhất. Do đó, ta phải dùng mạo từ <b>"the"</b> đứng trước nó.
+<br><b>Tạm dịch:</b> Tôi sống ở Hà Nội, một thành phố yên bình bên bờ sông Hồng.
+<br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 13 to 16.</b></p><p><div style="text-align: center;"><b>TIPS TO HELP YOU STAY SAFE ONLINE</b></div><b>1. </b>Don't <b>(13)</b> ________ personal information such as your address or phone number.
+<br><b>2.</b> <b>(14)</b> ________ your passwords are strong and hard to guess.	
+<br><b>3.</b> Be <b>(15)</b> _________ about what you post. Remember, once something is uploaded, you can barely delete it completely.
+<br><b>4.</b> If you see someone being bullied online, <b>(16)</b> _________or parents.
+</p>`,
+          media:``,
+          question: `
+        `,
+          options: [`download`,`log on to`,`share`,`browse`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng
+<br>* Xét các đáp án:
+</b><br>A. download /ˌdaʊnˈləʊd/ (v): tải, tải xuống
+<br>B. log on to: đăng nhập vào
+<br>C. share /ʃeə(r)/ (v): chia sẻ; dùng chung
+<br>D. browse /braʊz/ (v): đọc lướt qua, xem lướt qua; lướt web
+<br><b>Tạm dịch: </b>Don't (13) _______ personal information such as your address or phone number.<i> (Đừng <b>chia sẻ</b> thông tin cá nhân như địa chỉ hoặc số điện thoại của bạn.)
+</i><br><b>Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`Make sure`,`Get sure`,`Make assure`,`Be assure`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ 
+</b><br>* Ta có: <b>make sure + (that) + S + V: đảm bảo rằng, chắc chắn rằng
+</b><br><b>Tạm dịch: </b>(14) __________ your passwords are strong and hard to guess. <i>(<b>Hãy đảm bảo</b> rằng mật khẩu của bạn đủ mạnh và khó đoán.)
+</i><br><b>Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`careless`,`carelessly`,`careful`,`carefully`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại
+<br>* Xét các đáp án:
+</b><br>A. careless /ˈkeələs/ (adj): cẩu thả, tắc trách, bất cẩn
+<br>B. carelessly /ˈkeələsli/ (adv): (một cách) cẩu thả, bất cẩn
+<br>C. careful /ˈkeəfl/ (adj): cẩn thận
+<br>D. carefully /ˈkeəfəli/ (adv): (một cách) cẩn thận
+<br>→ Theo quy tắc: <i><b>be + adj </b></i>=&gt; chỗ trống cần điền một tính từ =&gt; loại B và D.
+<br><b>Tạm dịch:</b> Be (15) _________ about what you post. Remember, once something is uploaded, you can barely delete it completely. <i>(<b>Hãy cẩn thận</b> về những gì bạn đăng tải. Hãy nhớ rằng, một khi nội dung nào đó đã được tải lên, bạn gần như không thể xóa nó hoàn toàn.)
+</i><br><b>Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`report it teachers`,`reports it to teachers`,`report it to teacher`,`report it to teachers`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc ngữ pháp
+</b><br>* Cấu trúc câu điều kiện loại I: <b>If + S + V (hiện tại đơn), V/don't V... </b>(Dùng để đưa ra lời chỉ dẫn, yêu cầu hoặc mệnh lệnh…) =&gt; loại C.
+<br>- Ta có cụm từ: <b>report sth to sb/sth: báo cáo cái gì cho ai/ cái gì</b> =&gt; loại A.
+<br>- Theo cấu trúc song song, sau <b>"or" </b>là danh từ số nhiều <b>"parents"</b> nên trước nó cũng phải là một danh từ số nhiều =&gt; loại C.
+<br><b>Tạm dịch:</b> If you see someone being bullied online, (16) __________or parents. <i>(Nếu bạn thấy ai đó bị bắt nạt trên mạng, hãy báo cáo điều đó cho giáo viên hoặc cha mẹ.)
+</i><br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions from 17 to 18.</b></p>`,
+          media:``,
+          question: `<b>Put the sentences (a-c) in the correct order, then fill in the blank to make a logical text. 
+</b><br>Our family vacation included visiting several countries and learning about their cultures. Here's what we did_____________.
+<br><b>a.</b> In each country, we visited museums, tried local foods, and attended cultural events. 
+<br><b>b. </b>We planned our trip to include different countries with rich cultural histories.
+<br><b>c. </b>We took lots of photos and enjoyed learning about the unique traditions and customs of each place.
+        `,
+          options: [`a-b-c`,`b-a-c`,`c-a-b`,`a-c-b`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành đoạn văn
+</b><br><b>Tạm dịch: </b>Kỳ nghỉ của gia đình chúng tôi bao gồm việc thăm thú nhiều quốc gia và tìm hiểu về văn hóa của họ. Đây là những gì chúng tôi đã làm. ____________
+<br>* Ta có: Để tạo nên một đoạn văn/ lời kể hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước. 
+<br><b>=&gt; Ta có cách sắp xếp hoàn chỉnh:
+</b><br><b>b.</b> We planned our trip to include different countries with rich cultural histories. <i>(Chúng tôi đã lên kế hoạch cho chuyến đi của mình bao gồm các quốc gia khác nhau có lịch sử văn hóa phong phú.)
+</i><br><b>a.</b> In each country, we visited museums, tried local foods, and attended cultural events. <i>(Ở mỗi quốc gia, chúng tôi đã thăm các bảo tàng, thử các món ăn địa phương và tham dự các sự kiện văn hóa.)
+</i><br><b>c.</b> We took lots of photos and enjoyed learning about the unique traditions and customs of each place. <i>(Chúng tôi đã chụp rất nhiều ảnh và thích thú tìm hiểu về các truyền thống và phong tục độc đáo của mỗi nơi.)
+</i><br>=&gt; Vì vậy, ta có thứ tự sắp xếp đúng là: <b>b-a-c
+<br>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Choose the sentence that most appropriately ends the text (in Question 17).</b>
+        `,
+          options: [`We collected souvenirs from each country to remember our trip.`,`We met many local people and learned interesting facts about their daily lives.`,`The trip was an amazing experience, and we gained a deeper understanding of world cultures.`,`We spent a lot of time planning our next vacation to explore even more countries.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Chọn câu phù hợp nhất để kết thúc đoạn văn (trong Câu hỏi 17).
+<br>* Xét các đáp án:
+</b><br>A. We collected souvenirs from each country to remember our trip: Chúng tôi đã sưu tầm đồ lưu niệm từ mỗi quốc gia để ghi nhớ chuyến đi của mình.
+<br>B. We met many local people and learned interesting facts about their daily lives: Chúng tôi đã gặp gỡ nhiều người dân địa phương và tìm hiểu những sự thật thú vị về cuộc sống hàng ngày của họ.
+<br>C. The trip was an amazing experience, and we gained a deeper understanding of world cultures: Chuyến đi là một trải nghiệm tuyệt vời, và chúng tôi đã có được sự hiểu biết sâu sắc hơn về các nền văn hóa thế giới.
+<br>D. We spent a lot of time planning our next vacation to explore even more countries: Chúng tôi đã dành nhiều thời gian lên kế hoạch cho kỳ nghỉ tiếp theo để khám phá nhiều quốc gia hơn nữa.
+<br><b>Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C or D to indicate the correct word that best completes each of the blanks.</b></p><p><div style="text-align: center;"><b>CULTURE SHOCK</b></div>
+Many people dream <b>(19)</b> ________ living in a foreign country. It can be an amazing experience for those people who are willing to settle down in a new place. <b>(20)</b> ________, there's one potential problem you should be aware of: culture shock. It is the feeling we get from living in a place that is so different to where we grew up that we are not sure how to deal with it. Societies are organized in <b>(21)</b> _______ different ways. Customs and traditions can be very different and that can sometimes <b>(22)</b> _______ to get on with local people who might not approve of things you do and might object to things you say. In another country, you might be banned from doing things that are perfectly legal on your own. For example, in Singapore, people can be <b>(23)</b> _______ to pay a large fine just for dropping rubbish. Eventually, though, most people who live abroad fall in love with their adopted country and learn to accept <b>(24)</b> _______ differences.
+</p>`,
+          media:``,
+          question: `
+        `,
+          options: [`up`,`in`,`of`,`on`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ
+</b><br>* Ta có cụm từ: <b>dream of doing sth: mơ ước được làm gì / khao khát làm điều gì
+</b><br><b>Tạm dịch:</b> Many people dream (19) __________ living in a foreign country. <i>(Nhiều người mơ ước được sống ở nước ngoài.)
+</i><br><b>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`Because`,`When`,`Although`,`However`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ
+<br>* Xét các đáp án:
+</b><br>A. Because: Bởi vì, do
+<br>B. When: Khi 
+<br>C. Although: Mặc dù
+<br>D. However: Tuy nhiên (đứng đầu câu, ngăn cách với mệnh đề sau bởi dấu phẩy ",")
+<br><b>Tạm dịch:</b> It can be an amazing experience for those people who are willing to settle down in a new place. (20) _________, there's one potential problem you should be aware of: culture shock. <i>(Đó có thể là một trải nghiệm tuyệt vời cho những ai sẵn lòng ổn định cuộc sống ở một nơi mới. <b>Tuy nhiên</b>, có một vấn đề tiềm ẩn mà bạn nên biết: sốc văn hóa.)
+</i><br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`little`,`a`,`many`,`each`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về lượng từ/ mạo từ
+<br>* Xét các đáp án:
+</b><br>A. little + N (không đếm được): rất ít, gần như không có
+<br>B. a + N (đếm được số ít): một
+<br>C. many + N (đếm được số nhiều): nhiều
+<br>D. each + N (đếm được số ít): mỗi
+<br>→ Ta thấy, sau chỗ trống là cụm danh từ đếm được số nhiều <b>"different ways" </b>=&gt; loại A, B và D.
+<br><b>Tạm dịch:</b> Societies are organized in (21) __________ different ways.<i> (Các xã hội được tổ chức theo nhiều cách khác nhau.)
+</i><br><b>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`make it difficult`,`makes it differ`,`make it difficulty`,`makes it difficultly`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ khuyết thiếu – cụm từ
+</b><br>* Ta có:
+<br><b>- can + V (nguyên mẫu):</b> có thể làm gì đó =&gt; loại B và D.
+<br><b>- make + it + adj + to do sth: </b>làm cho việc gì đó trở nên như thế nào =&gt; loại C.
+<br><b>Tạm dịch:</b> Customs and traditions can be very different and that can sometimes (22) ______ to get on with local people… <i>(Phong tục và truyền thống có thể rất khác biệt và điều đó đôi khi có thể gây khó khăn trong việc hòa hợp với người dân địa phương…)
+</i><br><b>Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`forced`,`taken`,`kept`,`allowed`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>* Xét các đáp án:</b><br>A. forced – force /fɔːs/ (v): buộc, ép buộc, cưỡng ép<br>B. taken – take /teɪk/ (v): nắm, túm, giữ lấy<br>C. kept – keep /kiːp/ (v): giữ, cất giữ; tiếp tục<br>D. allowed – allow /əˈlaʊ/ (v): cho phép<br><b>Tạm dịch:</b> For example, in Singapore, people can be (23) ________ to pay a large fine just for dropping rubbish. <i>(Ví dụ, ở Singapore, người ta có thể <b>bị buộc</b> phải trả một khoản tiền phạt lớn chỉ vì xả rác.)</i><br><b>Căn cứ vào dịch nghĩa, A là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`one's`,`their`,`our`,`its`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tính từ sở hữu
+</b><br><b>Tạm dịch: </b>Eventually, though, most people who live abroad fall in love with their adopted country and learn to accept (24) __________ differences.<i> (Dù vậy, cuối cùng thì, hầu hết những người sống ở nước ngoài đều yêu mến đất nước họ đã chọn làm quê hương và học cách chấp nhận những khác biệt <b>của nó</b>.)
+</i><br>→ Căn cứ vào ngữ cảnh, ta cần một tính từ sở hữu tương ứng với danh từ số ít <b>"country"</b> =&gt; ta dùng <b>"its"</b>.
+<br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in each of the following questions.</b></p>`,
+          media:``,
+          question: `<b>It's five years since I last saw my cousins.</b>
+        `,
+          options: [`I started to see my cousins five years ago.`,`I have seen my cousins for five years.`,`I haven't seen my cousins for five years.`,`I saw my cousins for five years ago.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc câu
+</b><br><b>Tạm dịch câu gốc: </b>Đã 5 năm kể từ lần cuối tôi gặp anh chị em họ.
+<br>Ta có cấu trúc: <b>It is + khoảng thời gian + since + S + last + V2/Ved…
+</b><br>→ <b>S + have/has + not + Vp2 + for + khoảng thời gian = S + have/has + not + Vp2 + since + mốc thời gian
+</b><br><b>* Xét các đáp án:
+</b><br>A. I started to see my cousins five years ago: Tôi đã bắt đầu gặp anh chị em họ của tôi 5 năm trước. → Không phù hợp về nghĩa.
+<br>B. I have seen my cousins for five years: Tôi đã gặp anh chị em họ của tôi được 5 năm rồi. → Không phù hợp về nghĩa.
+<br>C. I haven't seen my cousins for five years: Tôi đã không gặp anh chị em họ của tôi được 5 năm rồi. → Phù hợp về nghĩa, đúng ngữ pháp.
+<br>D. I saw my cousins for five years ago. → Sai ngữ pháp.
+<br><b>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>The children couldn't go swimming because the sea was rough.</b>
+        `,
+          options: [`The sea was rough, so the children wanted to go swimming.`,`The sea was too rough for the children to go swimming.`,`The children wasn't able to go swimming because the sea was rough.`,`The children wanted to go swimming so much that the sea was rough.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc câu<br>Tạm dịch câu gốc:</b> Bọn trẻ không thể đi bơi được bởi vì biển động.<br>Ta có: <b>because + S + V: bởi vì, do</b><br><b>* Xét các đáp án:</b><br>A. The sea was rough, so the children wanted to go swimming: Biển động, vì vậy lũ trẻ muốn đi bơi. → Không phù hợp về nghĩa. Ta có: <b>so + S + V: vì vậy, do đó</b><br>B. The sea was too rough for the children to go swimming: Biển quá động để lũ trẻ có thể đi bơi. → Phù hợp về nghĩa, đúng ngữ pháp. Ta có: <b>S + V + too + adj/adv + (for sb) + to V: quá… (cho ai) để làm gì đó</b><br>C. The children wasn't able to go swimming because the sea was rough. → Sai ngữ pháp (vì chủ ngữ "The children" là số nhiều, phải dùng <b>"weren't" </b>thay vì <b>"wasn't"</b>).<br>D. The children wanted to go swimming so much that the sea was rough: Lũ trẻ muốn đi bơi nhiều đến mức biển đã động. → Không phù hợp về nghĩa.<br><b>Do đó, B là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is made from the given cues in each of the following questions.</b></p>`,
+          media:``,
+          question: `<b>I/ wish/there/ not/ environmental/ problems/ city.</b>
+        `,
+          options: [`I wish there won't be environmental problems in our city.`,`I wish there hadn't environmental problems in our city.`,`I wish there aren't environmental problems in our city.`,`I wish there weren't environmental problems in our city.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu ước
+</b><br>→ Căn cứ vào từ <b>"wish" </b>và ngữ cảnh của câu, ta sử dụng <i><b>câu ước ở hiện tại </b></i>(Diễn tả mong ước về một điều gì đó không có thật ở hiện tại): <b>S + wish(es) (+ that) + S + V (quá khứ đơn)…
+</b><br>* Ta có: <b>there + was + (not) + N (số ít, không đếm được) / there + were + (not) + N (đếm được số nhiều)
+</b><br><b>* Xét các đáp án:
+</b><br>A. I wish there won't be environmental problems in our city. →  Sai ngữ pháp. 
+<br>B. I wish there hadn't environmental problems in our city. →  Sai ngữ pháp.
+<br>C. I wish there aren't environmental problems in our city. →  Sai ngữ pháp.
+<br>D. I wish there weren't environmental problems in our city: Tôi ước không có các vấn đề môi trường trong thành phố của chúng ta. → Đúng ngữ pháp.
+<br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>If/I/have/ enough / money/me/now/I/buy/that/coat.</b>
+        `,
+          options: [`If I has had enough money with me now, I would buy that coat.`,`If I had enough money with me now, I will buy that coat.`,`If I had enough money with me now, I would have bought that coat.`,`If I had enough money with me now, I would buy that coat.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu điều kiện
+</b><br>→ Căn cứ vào từ <b>"If"</b> và ngữ cảnh của câu, ta sử dụng <b><i>câu điều kiện loại 2</i></b> (Diễn tả những giả định trái ngược với thực tế ở hiện tại): <b>If + S + V (quá khứ đơn), S + would/ could/ might + V (nguyên mẫu)…
+</b><br><b>* Xét các đáp án:
+</b><br>A. If I has had enough money with me now, I would buy that coat. → Sai ngữ pháp.
+<br>B. If I had enough money with me now, I will buy that coat. → Sai ngữ pháp.
+<br>C. If I had enough money with me now, I would have bought that coat: Nếu bây giờ tôi có đủ tiền mang theo, tôi đã mua cái áo khoác đó rồi. → Không phù hợp. Câu điều kiện trộn loại 2 và loại 3: <b>If + S + V (quá khứ đơn), S + would/could/might + have + Vp2</b> (Diễn tả giả thiết trái ngược với thực tại, còn kết quả thì trái ngược với quá khứ).
+<br>D. If I had enough money with me now, I would buy that coat: Nếu bây giờ tôi có đủ tiền mang theo, tôi sẽ mua cái áo khoác đó. → Đúng ngữ pháp, phù hợp về nghĩa.
+<br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following sign or notice and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `What does the sign say?<br><img src="/learn/grand10/cf11b4c7-1b4b-42fe-9604-1b3a4aea7e74.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`Anyone, including visitors and staff, can park here without restrictions.`,`Only employees or staff members are allowed to park in these spaces.`,`Parking is not allowed in this area under any circumstances.`,`The parking area is open to all people, without any specific rules.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Biển báo này nói gì? </b><br><img src="/learn/grand10/cf11b4c7-1b4b-42fe-9604-1b3a4aea7e74.jpg" data-filename="" style="max-width: 600px; height: auto;"><br><b>* Xét các đáp án:
+</b><br>A. Bất kỳ ai, bao gồm cả khách và nhân viên, đều có thể đỗ xe ở đây mà không bị giới hạn.
+<br>B. Chỉ người làm hoặc nhân viên mới được phép đỗ xe ở những chỗ này.
+<br>C. Việc đỗ xe không được phép trong khu vực này dưới bất kỳ hoàn cảnh nào.
+<br>D. Khu vực đỗ xe dành cho tất cả mọi người mà không có quy định cụ thể nào.
+<br><b>Căn cứ vào nội dung biển báo: </b>"STAFF PARKING ONLY" <i>(Chỉ dành cho nhân viên đỗ xe)
+</i><br><b>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does the notice say?<br><img src="/learn/grand10/982aca8c-8df6-4b5e-9f71-1f0696d16b14.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`You must have permission to use the phone in this area.`,`You may not turn off your phone if you are not using it.`,`Cell phones are only for emergency use here.`,`Cell phones must be turned off or silenced in this area.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Thông báo này nói gì? 
+<br>* Xét các đáp án:
+</b><br>A. Bạn phải có sự cho phép để sử dụng điện thoại trong khu vực này. 
+<br>B. Bạn không được phép tắt điện thoại nếu bạn không đang sử dụng nó. 
+<br>C. Điện thoại di động ở đây chỉ dành cho việc sử dụng trong trường hợp khẩn cấp. 
+<br>D. Điện thoại di động phải được tắt hoặc chuyển sang chế độ im lặng trong khu vực này.
+<br><b>Căn cứ vào nội dung thông báo: </b>"No cell phones allowed in this area. Please turn off your phone or put it on silent" <i>(Không được phép sử dụng điện thoại di động trong khu vực này. Vui lòng tắt điện thoại hoặc chuyển sang chế độ im lặng)
+</i><br><b>Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.</b></p><p>Goal setting is a crucial process that involves careful consideration of what you want to accomplish and requires persistent effort to make it a reality. Establishing goals gives you a target to strive for and helps to keep you motivated throughout the process. Goals also provide you with a focus and a way to measure your progress and accomplishments.
+	<br>In the pursuit of a healthy lifestyle, setting realistic goals is the key to success. However, it is important to be realistic with yourself when setting these goals. If you want to quit smoking, lose a significant amount of weight, or run a marathon, it is unlikely to happen overnight, or even in a few months or a year.
+	<br>Not reaching those goals might be discouraging and lead to giving up altogether. To avoid feeling overwhelmed, it is advisable to start small and concentrate on one goal at a time. If you want to lose weight, make small and achievable goals. For example, you can start by working out at least three times a week or adding more vegetables to your meals when you want <b>seconds</b>.
+	<br>By keeping a journal or using a tracking app on your phone, you can <b>monitor </b>your progress and ensure that you stay on track. Once these small goals become part of your routine, you can gradually add new goals, such as limiting eating out to twice a week or incorporating weightlifting into your exercise routine. These small goals are easier to achieve and will eventually lead to meeting your main goal.
+</p>`,
+          media:``,
+          question: `What is the main idea of the reading passage?
+        `,
+          options: [`The importance of setting long-term goals over short-term ones.`,`Setting realistic, step-by-step goals for long-term success and motivation.`,`The role of genetics in achieving fitness goals.`,`Choosing the best diet for quick weight loss.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Ý chính của đoạn văn là gì? 
+</b><br>A. Tầm quan trọng của việc đặt mục tiêu dài hạn hơn mục tiêu ngắn hạn. 
+<br>B. Đặt ra các mục tiêu thực tế, theo từng bước để đạt được thành công lâu dài và có động lực. 
+<br>C. Vai trò của di truyền trong việc đạt được các mục tiêu thể chất. 
+<br>D. Lựa chọn chế độ ăn kiêng tốt nhất để giảm cân nhanh chóng.
+<br><b>Căn cứ vào thông tin: 
+<br></b>- "Establishing goals gives you a target to strive for and helps to keep you motivated throughout the process." <i>(Việc xác định mục tiêu mang lại cho bạn một đích đến để phấn đấu và giúp bạn duy trì động lực trong suốt quá trình.)
+</i><br>- "In the pursuit of a healthy lifestyle, setting realistic goals is the key to success." <i>(Trong quá trình theo đuổi lối sống lành mạnh, việc đặt ra những mục tiêu thực tế là chìa khóa dẫn đến thành công.)
+</i><br>- "To avoid feeling overwhelmed, it is advisable to start small and concentrate on one goal at a time." <i>(Để tránh cảm thấy quá sức, bạn nên bắt đầu từ những việc nhỏ và tập trung vào một mục tiêu tại một thời điểm.)
+</i><br>- "These small goals are easier to achieve and will eventually lead to meeting your main goal." <i>(Những mục tiêu nhỏ này dễ đạt được hơn và cuối cùng sẽ dẫn đến việc đạt được mục tiêu chính của bạn.)
+</i><br><i><b>→ Bài đọc chủ yếu nói về việc thiết lập các mục tiêu thực tế và dần dần, giúp duy trì động lực và đạt được thành công lâu dài. Các mục tiêu nhỏ sẽ dần dần dẫn đến mục tiêu lớn hơn.
+</b></i><br><b>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What is one important thing to keep in mind when setting goals for a new healthy lifestyle?
+        `,
+          options: [`Making sure to set as many large goals as possible.`,`Focusing on one small goal at a time to avoid overwhelming yourself.`,`Ignoring small goals and only focusing on large ones.`,`Setting many large goals at once and making them more challenging.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Một điều quan trọng cần ghi nhớ khi đặt mục tiêu cho lối sống lành mạnh mới là gì? 
+</b><br>A. Đảm bảo đặt càng nhiều mục tiêu lớn càng tốt. 
+<br>B. Tập trung vào một mục tiêu nhỏ tại một thời điểm để tránh khiến bản thân bị quá sức. 
+<br>C. Bỏ qua các mục tiêu nhỏ và chỉ tập trung vào các mục tiêu lớn. 
+<br>D. Đặt nhiều mục tiêu lớn cùng lúc và làm cho chúng trở nên thử thách hơn.
+<br><b>Căn cứ vào thông tin:</b> "To avoid feeling overwhelmed, it is advisable to start small and concentrate on one goal at a time." <i>(Để tránh cảm thấy quá sức, bạn nên bắt đầu từ những việc nhỏ và tập trung vào một mục tiêu tại một thời điểm.)
+</i><br><b>Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word <b><i>"seconds"</i></b> mostly means _________.
 
+        `,
+          options: [`food that is sold at a lower price than usual because it is not good`,`a second amount of the food that you need to eat to lose weight`,`only half of the amount of the food that you need to eat every day`,`another serving of food, after you have eaten your first serving`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "<u>seconds</u>" chủ yếu có nghĩa là ______________
+</b><br>A. thức ăn được bán với giá thấp hơn bình thường vì không ngon 
+<br>B. lượng thức ăn thứ hai bạn cần ăn để giảm cân
+<br>C. chỉ một nửa lượng thức ăn bạn cần ăn mỗi ngày 
+<br>D. một phần ăn nữa, sau khi bạn đã ăn phần đầu tiên
+<br><b>Căn cứ vào thông tin: </b>"For example, you can start by working out at least three times a week or adding more vegetables to your meals when you want <b><u>seconds</u>.</b>" <i>(Ví dụ, bạn có thể bắt đầu bằng việc tập luyện ít nhất ba lần một tuần hoặc thêm nhiều rau hơn vào bữa ăn của bạn khi bạn muốn ăn thêm <b>phần thứ hai.</b>)
+</i><br><b>Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What is an example of a small goal you could set when trying to lose weight?
+        `,
+          options: [`Losing a large amount of weight in a month.`,`Working out every day.`,`Adding more vegetables to your plate.`,`Being able to run a marathon in fifteen days.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Ví dụ về một mục tiêu nhỏ bạn có thể đặt ra khi cố gắng giảm cân là gì? 
+</b><br>A. Giảm một lượng cân lớn trong một tháng. 
+<br>B. Tập luyện mỗi ngày. 
+<br>C. Thêm nhiều rau hơn vào đĩa của bạn. 
+<br>D. Có thể chạy marathon trong mười lăm ngày.
+<br><b>Căn cứ vào thông tin: </b>"If you want to lose weight, make small and achievable goals. For example, you can start by working out at least three times a week or <b>adding more vegetables to your meals </b>when you want seconds." <i>(Nếu bạn muốn giảm cân, hãy đặt ra những mục tiêu nhỏ và có thể đạt được. Ví dụ, bạn có thể bắt đầu bằng việc tập luyện ít nhất ba lần một tuần hoặc <u>thêm nhiều rau hơn vào bữa ăn của bạn</u> khi bạn muốn ăn thêm phần thứ hai.)
+</i><br><b>Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word <i><b>"monitor" </b></i>is OPPOSITE in meaning to _________.
+        `,
+          options: [`observe`,`ignore`,`check`,`watch`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "<u>monitor</u>" có nghĩa TRÁI NGƯỢC với _____________. 
+</b><br>A. observe /əbˈzɜːv/ (v): quan sát; để ý thấy, theo dõi
+<br>B. ignore /ɪɡˈnɔː(r)/ (v): phớt lờ, lờ đi
+<br>C. check /tʃek/ (v): kiểm tra 
+<br>D. watch /wɒtʃ/ (v): theo dõi; trông coi
+<br><b>Căn cứ vào thông tin:</b> "By keeping a journal or using a tracking app on your phone, you can <b><u>monitor</u></b> your progress and ensure that you stay on track."<i> (Bằng cách viết nhật ký hoặc sử dụng ứng dụng <b>theo dõi</b> trên điện thoại, bạn có thể theo dõi tiến độ của mình và đảm bảo rằng bạn luôn đi đúng hướng.)
+</i><br><b>=&gt; monitor /ˈmɒnɪtə(r)/ (v): theo dõi, quan sát &gt;&lt; ignore
+<br>Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which of the following is NOT mentioned in the text as a strategy for achieving goals?
+        `,
+          options: [`Starting with small, achievable goals`,`Using a tracking app to monitor progress`,`Seeking advice from a fitness coach`,`Gradually adding new goals after forming habits`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Điều nào sau đây KHÔNG được đề cập trong bài đọc như một chiến lược để đạt được mục tiêu? 
+</b><br>A. Bắt đầu với những mục tiêu nhỏ, có thể đạt được. 
+<br>B. Sử dụng ứng dụng theo dõi để giám sát tiến độ. 
+<br>C. Tìm kiếm lời khuyên từ huấn luyện viên thể hình. 
+<br>D. Dần dần thêm các mục tiêu mới sau khi hình thành thói quen.
+<br><b>Căn cứ vào thông tin:
+</b><br>- "To avoid feeling overwhelmed, it is advisable to start small and concentrate on one goal at a time." <i>(Để tránh cảm thấy quá sức, bạn nên bắt đầu từ những việc nhỏ và tập trung vào một mục tiêu tại một thời điểm.)</i> → <b>Đáp án A được đề cập.
+</b><br>- “By keeping a journal or using a tracking app on your phone, you can monitor your progress and ensure that you stay on track.” <i>(Bằng cách viết nhật ký hoặc sử dụng ứng dụng theo dõi trên điện thoại, bạn có thể theo dõi tiến độ của mình và đảm bảo rằng bạn luôn đi đúng hướng.) </i>→ <b>Đáp án B được đề cập.
+</b><br>- “Once these small goals become part of your routine, you can gradually add new goals...” <i>(Khi những mục tiêu nhỏ này trở thành một phần thói quen của bạn, bạn có thể dần dần thêm các mục tiêu mới…)</i> → <b>Đáp án D được đề cập.
+</b><br><b>- Đáp án C KHÔNG được đề cập trong bài.
+<br>Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Four phrases/ sentences have been removed from the text below. For each question, mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 37 to 40.</b></p><p Leisure time is essential for maintaining a healthy work-life balance. Many people use their free time to engage in hobbies or activities that bring them joy and relaxation. People have different ways of spending their leisure time.  The key is to choose something that helps you feel recharged and stress-free.
+	<br>Outdoor activities such as hiking or cycling are great for those who enjoy being active. <b>(37) </b>________. These hobbies allow people to exercise while also enjoying nature. On the other hand, indoor activities such as <b>(38)</b> ________can be just as fulfilling. Some people prefer to spend their leisure time on more creative activities like painting or writing.
+<br><b>	(39)</b> ________. Whether you are learning a new skill, spending time with friends, or simply resting, it's important to take time for yourself. Making room for leisure time helps reduce stress and improve overall well-being.
+	<br><b>(40)</b> ________ is important in today's fast-paced world. By making leisure time a priority, you'll find that you can handle daily challenges more effectively and with a clear mind. 
+<br><b>A.</b> reading, cooking, or learning a new skill
+<br><b>B.</b> The most important thing is that it brings you joy
+<br><b>C.</b> Balancing work and relaxation
+<br><b>D.</b> These activities improve both physical and mental health</p>`,
+          media:``,
+          question: ` _________
+        `,
+          options: [],
+          answer: `D`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu 
+<br>* Xét các đáp án:
+</b><br>A. reading, cooking, or learning a new skill: đọc sách, nấu ăn, hoặc học một kỹ năng mới
+<br>B. The most important thing is that it brings you joy: Điều quan trọng nhất là nó mang lại niềm vui cho bạn
+<br>C. Balancing work and relaxation: Việc cân bằng công việc và thư giãn
+<br>D. These activities improve both physical and mental health: Những hoạt động này cải thiện cả sức khỏe thể chất và tinh thần
+<br>→ Ta thấy, chỗ trống cần điền một mệnh đề hoàn chỉnh: <b>S + V… </b>=&gt; loại A và C.
+<br><b>Tạm dịch:</b> Outdoor activities such as hiking or cycling are great for those who enjoy being active. (37) ____________. <i>(Các hoạt động ngoài trời như đi bộ đường dài hoặc đạp xe rất tuyệt vời cho những ai thích vận động. <b>Những hoạt động này cải thiện cả sức khỏe thể chất và tinh thần</b>.)
+</i><br><b>Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: ` _________
+        `,
+          options: [],
+          answer: `A`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu 
+<br>* Xét các đáp án:
+</b><br>A. reading, cooking, or learning a new skill: đọc sách, nấu ăn, hoặc học một kỹ năng mới
+<br>B. The most important thing is that it brings you joy: Điều quan trọng nhất là nó mang lại niềm vui cho bạn
+<br>C. Balancing work and relaxation: Việc cân bằng công việc và thư giãn
+<br>D. These activities improve both physical and mental health: Những hoạt động này cải thiện cả sức khỏe thể chất và tinh thần
+<br>→ Ta thấy, chỗ trống cần điền các (cụm) danh từ/ danh động từ (V-ing) để liệt kê <b>"indoor activities"</b> (các hoạt động trong nhà) =&gt; loại B và D.
+<br><b>Tạm dịch: </b>On the other hand, indoor activities such as (38) ________ can be just as fulfilling. <i>(Mặt khác, các hoạt động trong nhà chẳng hạn như <b>đọc sách, nấu ăn, hoặc học một kỹ năng mới</b> cũng có thể mang lại sự thỏa mãn tương tự.)
+</i><br><b>Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `_________
+        `,
+          options: [],
+          answer: `B`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu 
+<br>* Xét các đáp án:
+</b><br>A. reading, cooking, or learning a new skill: đọc sách, nấu ăn, hoặc học một kỹ năng mới
+<br>B. The most important thing is that it brings you joy: Điều quan trọng nhất là nó mang lại niềm vui cho bạn
+<br>C. Balancing work and relaxation: Việc cân bằng công việc và thư giãn
+<br>D. These activities improve both physical and mental health: Những hoạt động này cải thiện cả sức khỏe thể chất và tinh thần
+<br>→ Ta thấy, chỗ trống cần điền một mệnh đề hoàn chỉnh: <b>S + V… </b>=&gt; loại A và C.
+<br><b>Tạm dịch: </b>(39) ____________. Whether you are learning a new skill, spending time with friends, or simply resting, it's important to take time for yourself.<i> (<b>Điều quan trọng nhất là nó mang lại niềm vui cho bạn.</b> Dù bạn đang học một kỹ năng mới, dành thời gian với bạn bè, hay chỉ đơn giản là nghỉ ngơi, việc dành thời gian cho bản thân là rất quan trọng.)
+</i><br><b>Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `_________
+        `,
+          options: [],
+          answer: `C`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu 
+<br>* Xét các đáp án:
+</b><br>A. reading, cooking, or learning a new skill: đọc sách, nấu ăn, hoặc học một kỹ năng mới
+<br>B. The most important thing is that it brings you joy: Điều quan trọng nhất là nó mang lại niềm vui cho bạn
+<br>C. Balancing work and relaxation: Việc cân bằng công việc và thư giãn
+<br>D. These activities improve both physical and mental health: Những hoạt động này cải thiện cả sức khỏe thể chất và tinh thần
+<br>→ Ta thấy, chỗ trống cần điền một (cụm) danh từ/ danh động từ (V-ing) làm chủ ngữ của câu =&gt; loại B và D (vì là mệnh đề hoàn chỉnh, không làm chủ ngữ được).
+<br><b>Tạm dịch:</b> (40) ______________ is important in today's fast-paced world. By making leisure time a priority, you'll find that you can handle daily challenges more effectively and with a clear mind.<i> (<b>Việc cân bằng công việc và thư giãn</b> là quan trọng trong thế giới có nhịp độ nhanh ngày nay. Bằng cách ưu tiên thời gian giải trí, bạn sẽ thấy rằng mình có thể xử lý những thử thách hàng ngày hiệu quả hơn và với một tâm trí minh mẫn.)
+</i><br><b>Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        }, ],
+    },
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`<u>i</u>deal`,`domest<u>i</u>c `,`<u>i</u>mmigrant `,`est<u>i</u>mate `,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án:</b><br> 
+A. <u>i</u>deal /aɪˈdiːəl/<br>
+B. domest<u>i</u>c /dəˈmestɪk/<br>
+C. <u>i</u>mmigrant /ˈɪmɪɡrənt/<br>
+D. est<u>i</u>mate /ˈestɪmeɪt/<br><b>
+=&gt; Phần gạch chân ở đáp án A được phát âm là /aɪ/, các đáp án còn lại được phát âm là /ɪ/.<br>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`l<u>a</u>nguage`,`h<u>a</u>bitat `,`p<u>a</u>nda `,`qu<u>a</u>lity `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. l<u>a</u>nguage /ˈlæŋɡwɪdʒ/<br>
+B. h<u>a</u>bitat /ˈhæbɪtæt/<br>
+C. p<u>a</u>nda /ˈpændə/<br>
+D. qu<u>a</u>lity /ˈkwɒləti/<br><b>
+=&gt; Phần gạch chân ở đáp án D được phát âm là /ɒ/, các đáp án còn lại được phát âm là /æ/.<br>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`delivery`,`variety`,`democratic`,`academy`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm<br>
+* Xét các đáp án: </b><br>
+A. delivery /dɪˈlɪvəri/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi <b>-y</b> làm trọng âm rơi vào âm tiết thứ ba tính từ cuối lên.<br>
+B. variety /vəˈraɪəti/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi <b>-ety</b> làm trọng âm rơi vào âm tiết ngay trước nó.<br>
+C. democratic /ˌdeməˈkrætɪk/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, đuôi <b>-ic</b> làm trọng âm rơi vào âm tiết ngay trước nó.<br>
+D. academy /əˈkædəmi/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi 
+<b>-y</b> làm trọng âm rơi vào âm tiết thứ ba tính từ cuối lên.<br><b>
+=&gt; Đáp án C có trọng âm rơi vào âm tiết thứ ba. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai. <br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`enjoy`,`Visit`,`offer`,`happen`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm<br>
+* Xét các đáp án: </b><br>
+A. enjoy /ɪnˈdʒɔɪ/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm đôi /ɔɪ/.<br>
+B. visit /ˈvɪzɪt/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, tất cả các âm mà ngắn hết thì trọng âm rơi vào âm tiết thứ nhất.<br>
+C. offer /ˈɒfə(r)/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm không rơi vào nguyên âm ngắn /ə/.<br>
+D. happen /ˈhæpən/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm không rơi vào nguyên âm ngắn /ə/.<br><b>
+=&gt; Đáp án A có trọng âm rơi vào âm tiết thứ hai. Các đáp án còn lại trọng âm rơi vào âm tiết thứ nhất. <br>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `__________ Peter is new to the job, he handles the tasks well.
+        `,
+          options: [`Because`,`Although`,`Since`,`However`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án:</b><br>
+A. Because: bởi vì, do<br>
+B. Although: mặc dù<br>
+C. Since: kể từ khi; bởi vì, do<br>
+D. However: tuy nhiên (đứng đầu câu, ngăn cách với mệnh đề bằng dấu phẩy ",").<br><b>
+Tạm dịch: </b>Mặc dù Peter còn mới trong công việc, anh ấy xử lý các nhiệm vụ rất tốt.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Can you help me to translate this English phrasal verb __________ Vietnamese?
+        `,
+          options: [`over`,`in`,`into`,`from`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ</b><br>
+* Ta có:<b> translate sth into sth: dịch cái gì đó sang cái gì (ngôn ngữ nào…)<br>
+Tạm dịch:</b> Bạn có thể giúp tôi dịch cụm động từ tiếng Anh này sang tiếng Việt không? <br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `They are talking to the boy __________ father used to be a tour guide.
+        `,
+          options: [`who`,`whom`,`his`,`whose`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ quan hệ<br>
+* Ta có:</b><br>
+- <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br>
+- <b>whom</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm tân ngữ cho động từ đứng sau nó. Theo sau whom là chủ ngữ.<br>
+- <b>whose</b>: đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br>
+→ Ta thấy, chỗ trống cần điền một đại từ quan hệ chỉ sự sở hữu đi kèm với danh từ "<b>father</b>" =&gt; dùng đại từ quan hệ "<b>whose</b>". Ở đây, "<b>whose father</b>" thay thế cho "<b>the boy’s father</b>".<br><b>
+Tạm dịch: </b>Họ đang nói chuyện với cậu bé mà bố của cậu ấy từng là một hướng dẫn viên du lịch.<br><b>
+Do đó, C là đáp án phù hợp</b>.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `He looked so funny; we couldn't help __________ at him.
+        `,
+          options: [`laugh`,`laughing`,`to laugh`,`laughed`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về danh động từ</b><br>
+* Ta có: <b>can’t help + V-ing: không thể nhịn làm gì, không thể không làm gì<br>
+→ couldn’t help + V-ing</b> (trong quá khứ)<br><b>
+Tạm dịch: </b>Anh ấy trông thật buồn cười; chúng tôi không thể nhịn được việc cười nhạo anh ấy.<br><b>
+Do đó, B là đáp án phù hợp</b>.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<div style="text-align: justify;"><b><i>Hanh is talking to Jack</i></b></div><div style="text-align: justify;"><b>Hanh: </b>The club is recruiting volunteers __________ You will like the activities.</div><div style="text-align: justify;"><b>Jack:</b> OK. I'll think about that. Thanks.</div>
+        `,
+          options: [`Why don't you give it a go? `,`How will you contribute to it?`,`What do you like to do there?`,`What will you do?`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp<br>
+Tạm dịch: <i>Hạnh đang nói chuyện với Jack.</i></b><br><b>
+Hạnh:</b> Câu lạc bộ đang tuyển tình nguyện viên. ________ Cậu sẽ thích các hoạt động đấy.<br><b>
+Jack: </b>OK. Tớ sẽ suy nghĩ về việc đó.<br><b>
+* Xét các đáp án:</b><br>
+A. Sao cậu không thử xem? <br>
+B. Cậu sẽ đóng góp gì cho nó? <br>
+C. Cậu thích làm gì ở đó? <br>
+D. Cậu sẽ làm gì?<br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.</b><br><b>
+* Notes:</b><br>
+- give sth a go: thử làm việc gì đó <i>(đặc biệt là việc bạn chưa từng làm trước đây hoặc không chắc mình có làm tốt được hay không)
+</i>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Each of us has made a positive __________ to the overall success of the project.
+        `,
+          options: [`contribute`,`contributor`,`contributing`,`contribution`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+* Xét các đáp án:</b><br>
+A. contribute /kənˈtrɪbjuːt/ (v): góp, đóng góp<br>
+B. contributor /kənˈtrɪbjətə(r)/ (n): người đóng góp<br>
+C. contributing: dạng phân từ hiện tại/ danh động từ của động từ "<b>contribute</b>"<br>
+D. contribution /ˌkɒntrɪˈbjuːʃn/ (n): sự đóng góp; phần đóng góp<br>
+→ Theo quy tắc:<b><i> adj + noun/ noun phrase </i></b>=&gt; chỗ trống cần điền một danh từ đứng sau tính từ "<b>positive</b>".<br><b>
+Tạm dịch:</b> Mỗi người chúng tôi đã có một sự đóng góp tích cực vào thành công chung của dự án.<br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The landscape there is amazing, but a boat is the only way to __________ it.
+        `,
+          options: [`open`,`enter`,`get access to`,`admit`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. open /ˈəʊpən/ (v): mở, mở cửa<br>
+B. enter (v): đi vào <i>(thường dùng với một không gian kín, cụ thể như phòng, hang động...)</i><br>
+C. get access to: tiếp cận, đến gần; truy cập<br>
+D. admit /ədˈmɪt/ (v): nhận, thừa nhận; cho ai vào đâu đó<br><b>
+Tạm dịch:</b> Phong cảnh ở đó thật tuyệt vời, nhưng thuyền là cách duy nhất để tiếp cận được nó.<br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `She asked the children __________ listening __________ her.
+        `,
+          options: [`if they were/for`,`if were they/ for`,`if they were/ to`,`they were/to`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật</b><br>
+* Khi chuyển câu hỏi trực tiếp thành câu gián tiếp, ta sử dụng <b>whether/ if </b>để thay thế cho câu hỏi <b>Yes/No</b>.<br>
+→ Cấu trúc: <b>S + asked (+ O)/wanted to know/wondered + if/whether + S + V</b> =&gt; loại D.<br>
+- Ta có cụm từ cố định: <b>listen to sb/sth: nghe, lắng nghe ai/ cái gì</b> =&gt; loại A và B.<br><b>
+Tạm dịch: </b>Cô ấy hỏi bọn trẻ xem chúng có đang lắng nghe cô ấy không.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C, or D to indicate the correct option that best fits each of the numbered blanks from 13 to 16.</b></p><p><div style="text-align: center;"><b>Announcement: Social Community Clean-Up</b></div><div style="text-align: justify;">The Local Volunteer Group invites:</div><div style="text-align: justify;">• All community members to participate in (13) __________ clean-up day on September 10<sup>th</sup> starting at 8:00 AM.</div><div style="text-align: justify;">• Each participant is to (14) __________ gloves and trash bags for the clean-up.</div><div style="text-align: justify;">• If you have any issues during the event, please (15) __________ a volunteer leader know.</div><div style="text-align: justify;">The clean-up will take place (16) __________ the town center.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`an`,`a`,`The `,`no article`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ</b><br>
+* Ta có quy tắc: Mạo từ "<b>the</b>" dùng trước các danh từ khi nó đã được xác định bằng cụm từ/ mệnh đề phía sau.<br>
+→ Ta thấy, "<b>clean-up day</b>" (ngày dọn dẹp) đã được xác định rõ (on September 10th starting at 8:00 AM) nên ta dùng mạo từ "the" trước nó.<br><b>
+Tạm dịch:</b> All community members to participate in (13) _______ clean-up day on September 10th starting at 8:00 AM. <i>(Tất cả thành viên cộng đồng tham gia vào ngày dọn dẹp vệ sinh vào ngày 10 tháng 9, bắt đầu lúc 8:00 sáng.)</i><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`bring `,`bringing`,`brought`,`brings`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc ngữ pháp</b><br>
+* Ta có: <b>be + to V (nguyên mẫu): phải làm gì, được yêu cầu làm gì </b>(diễn tả mệnh lệnh, yêu cầu)<br><b>
+Tạm dịch</b>: Each participant is to (14) __________ gloves and trash bags for the clean-up.<i> (Mỗi người tham gia được yêu cầu mang theo găng tay và túi đựng rác để dọn dẹp.)</i><br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`agree `,`let`,`allow`,`say`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ cố định<br>
+* Xét các đáp án:</b><br>
+A. agree /əˈɡriː/ (v): đồng ý<br>
+B. let /let/ (v): cho phép, để<br>
+C. allow /əˈlaʊ/ (v): cho phép<br>
+D. say /seɪ/ (v): nói, cho biết<br>
+* Ta có cụm từ:<b> let sb do sth: cho ai đó làm gì, để ai đó làm gì<br>
+Tạm dịch</b>: If you have any issues during the event, please (15) ___________ a volunteer leader know. <i>(Nếu bạn gặp bất kỳ vấn đề gì trong sự kiện, vui lòng báo cho trưởng nhóm tình nguyện biết.)</i><br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`in`,`with`,`on`,`at`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ<br>
+* Xét các đáp án:</b><br>
+A. in: trong (chỉ vị trí bên trong một không gian, khu vực)<br>
+B. with: với, cùng với<br>
+C. on: trên, ở trên (chỉ vị trí trên một bề mặt)<br>
+D. at: ở, tại (dùng trước các địa điểm cụ thể, điểm nhỏ)<br>
+→ Ta thấy, chỗ trống cần điền một giới từ chỉ địa điểm. Vì "<b>the town center</b>" là một khu vực nên ta dùng giới từ "<b>in</b>".<br><b>
+Tạm dịch:</b> The clean-up will take place (16) ____________ the town center. <i>(Hoạt động dọn dẹp sẽ diễn ra trong trung tâm thị trấn.)</i><br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions from 17 to 18. </b></p>`,
+          media:``,
+          question: `<div style="text-align: justify;"><u>Put the sentences (a-c) in the correct order, then fill in the blank to make a logical text</u>.</div><div style="text-align: center;"><b>LEARNING ONLINE</b></div><div style="text-align: justify;">It offers flexibility and convenience. __________.</div><div style="text-align: justify;">a. At first, some students found it difficult to adapt to online classes.</div><div style="text-align: justify;">b. Nowadays, almost all students prefer to study at home and arrange their own schedule.</div><div style="text-align: justify;">c. However, with practice, students have become more comfortable with online tools and platforms.</div>
+        `,
+          options: [`a-b-c`,`b-a-c`,`c-a-b`,`a-c-b`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành đoạn văn<br>Tạm dịch: <br><div style="text-align: center;"><b>HỌC TRỰC TUYẾN</b></div></b>Nó mang lại sự linh hoạt và tiện lợi. _____________<br>* <b><u>Ta có</u></b>: Để tạo nên một đoạn văn/ lời kể hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước. <br><b>=&gt; Ta có cách sắp xếp hoàn chỉnh:</b><br>a. At first, some students found it difficult to adapt to online classes. <i>(Ban đầu, một số học sinh cảm thấy khó khăn để thích nghi với các lớp học trực tuyến.)</i><br>c. However, with practice, students have become more comfortable with online tools and platforms. <i>(Tuy nhiên, qua thực hành, học sinh đã trở nên thoải mái hơn với các công cụ và nền tảng trực tuyến.)</i><br>b. Nowadays, almost all students prefer to study at home and arrange their own schedule. <i>(Ngày nay, hầu hết tất cả học sinh thích học tại nhà và tự sắp xếp lịch trình của mình hơn.)</i><br>=&gt; Vì vậy, ta có thứ tự sắp xếp đúng là:<b> a-c-b<br>Do đó, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<u>Choose the sentence that best fits as the opening sentence for the text (in Question 17). </u>
+        `,
+          options: [`Many students find online learning challenging at first.`,`Learning online has become very common.`,`Online learning only works well for people with strong internet connections.`,`Students need to practice more to get used to online classes.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Chọn câu phù hợp nhất làm câu mở đầu cho đoạn văn (trong Câu hỏi 17).<br>
+* Xét các đáp án:</b><br>
+A. Many students find online learning challenging at first: Nhiều học sinh cảm thấy việc học trực tuyến đầy thách thức lúc ban đầu.<br>
+B. Learning online has become very common: Việc học trực tuyến đã trở nên rất phổ biến.<br>
+C. Online learning only works well for people with strong internet connections: Việc học trực tuyến chỉ hiệu quả tốt đối với những người có kết nối internet mạnh.<br>
+D. Students need to practice more to get used to online classes: Học sinh cần luyện tập nhiều hơn để quen với các lớp học trực tuyến.<br><i>
+→ Đáp án B phù hợp làm câu mở đầu vì đây là một nhận định bao quát, giới thiệu trực tiếp chủ đề chính là "học trực tuyến" và tình trạng hiện tại của nó (phổ biến).</i><br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read this passage and mark the letter A, B, C or D to indicate the correct word that best fits each of the numbered blanks</b></p><p><div style="text-align: justify;">Mount Everest (Mt. Everest) is (19) __________ highest mountain in the world. It is 8,848 metres high. Mt. Everest was first climbed in 1953 (20) __________ Edmund Hillary and Tenzing Norgay. Every year, a lot of people want to climb Mt. Everest.</div><div style="text-align: justify;">It is very dangerous to climb Mt. Everest. The air is very (21) __________ and cold. Most people carry bottles of oxygen; they could die without it. When the oxygen bottles are empty, people throw them on the ground. (22) __________ strong winds rip their tents, people leave them behind. They do not have the energy to take the rubbish away. They only have enough energy to go down the mountain (23) __________.</div><div style="text-align: justify;">Rubbish is a terrible problem. Since people first began to climb Mt. Everest, they have left tons and tons of rubbish on the mountain. Several groups have climbed the mountain just to (24) __________ the rubbish. When people plan to climb the mountain, they have to plan to take their rubbish away.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`a`,`the `,`an`,`Ø`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ</b><br>
+* Ta có quy tắc: Mạo từ xác định "<b>the</b>" dùng trước tính từ so sánh hơn nhất và so sánh kép.<br>
+→ Chỗ trống cần điền mạo từ "<b>the</b>" trước tính từ so sánh nhất "<b>highest</b>" (cao nhất).<br><b>
+Tạm dịch:</b> Mount Everest (Mt. Everest) is (19) __________ highest mountain the world. <i>(Núi Everest (Mt. Everest) là ngọn núi cao nhất thế giới.)</i><br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`from `,`of`,`by`,`with`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu bị động</b><br>
+Cấu trúc câu bị động thì quá khứ đơn: S + was/were + Vp2 + by + O <br>
+→ Trong câu bị động, để chỉ người thực hiện hành động, ta dùng "<b>by + tên người"</b>.<br><b>
+Tạm dịch:</b> Mt. Everest was first climbed in 1953 (20) _________ Edmund Hillary and Tenzing Norgay. <i>(Mt. Everest được chinh phục lần đầu vào năm 1953 bởi Edmund Hillary và Tenzing Norgay.)</i><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`thin `,`pleasant`,`thick`,`light`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. thin /θɪn/ (adj): mỏng; gầy; thưa thớt (người…); loãng (không khí…)<br>
+B. pleasant /ˈpleznt/ (adj): dễ chịu; hài lòng<br>
+C. thick /θɪk/ (adj): dày; dày đặc, rậm rạp; đặc, sền sệt<br>
+D. light /laɪt/ (adj): nhẹ; sáng, có nhiều ánh sáng; nhạt (màu sắc)<br><b>
+Tạm dịch: </b>The air is very (21) ___________ and cold. Most people carry bottles of oxygen; they could die without it. <i>(Không khí rất <b>loãng </b>và lạnh. Hầu hết mọi người mang theo bình oxy; họ có thể chết nếu không có nó.)</i><br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`Unless`,`Until`,`When`,`Before`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án:</b><br>
+A. Unless: trừ khi, nếu không<br>
+B. Until: cho đến khi, tới khi <br>
+C. When: Khi, khi mà <br>
+D. Before: Trước, trước khi<br><b>
+Tạm dịch:</b> (22) ___________ strong winds rip their tents, people leave them behind. <i>(<b>Khi </b>gió mạnh xé rách lều của họ, người ta bỏ lại chúng.)</i><br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`freely`,`simply`,`carefully`,`safely`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. freely /ˈfriːli/ (adv): một cách tự do, không bị cản trở, thoải mái<br>
+B. simply /ˈsɪmpli/ (adv): một cách đơn giản; chỉ là, đơn thuần là<br>
+C. carefully /ˈkeəfəli/ (adv): một cách cẩn thận, kỹ lưỡng<br>
+D. safely /ˈseɪfli/ (adv): một cách an toàn<br><b>
+Tạm dịch: </b>They only have enough energy to go down the mountain (23) ___________. <i>(Họ chỉ đủ năng lượng để xuống núi <b>một cách an toàn</b>.)</i><br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`get out`,`pick up`,`take off`,`turn down`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ<br>
+* Xét các đáp án:</b><br>
+A. get out (ph.v): rời khỏi, ra khỏi; (tin tức, bí mật…) bị lộ, bị lan truyền; xuống xe<br>
+B. pick up (ph.v): nhặt lên, thu thập; đón ai đó; cải thiện, khá lên<br>
+C. take off (ph.v): cất cánh (máy bay…); cởi ra (quần áo, giày dép…); trở nên thành công, phổ biến<br>
+D. turn down (ph.v): từ chối, khước từ; vặn nhỏ, giảm (âm lượng, nhiệt độ…)<br><b>
+Tạm dịch:</b> Several groups have climbed the mountain just to (24) ____________ the rubbish. <i>(Một vài nhóm đã leo lên núi chỉ để <b>thu gom</b> rác.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D to indicate the sentence that is closest in meaning to the original sentence in each of the following questions.</b></p>`,
+          media:``,
+          question: `People try to master English so that they can find jobs in international companies.
+        `,
+          options: [`People try to master English because of find jobs in international companies.`,`People try to master English in order to find jobs in international companies.`,`People find jobs in international companies in order to master English.`,`People try to master English so as find jobs in international companies. `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc ngữ pháp<br>
+Tạm dịch câu gốc: </b>Mọi người cố gắng thành thạo tiếng Anh để họ có thể tìm được việc làm trong các công ty quốc tế.<br>
+→ Ta có: <b>so that + S + V: để, để mà<br>
+* Xét các đáp án:	</b><br>
+A. People try to master English because of find jobs in international companies. → Sai ngữ pháp. Ta có: <b>because of + N/V-ing: bởi vì, do</b><br>
+B. People try to master English in order to find jobs in international companies: Mọi người cố gắng thành thạo tiếng Anh để tìm việc làm trong các công ty quốc tế. → <b><i>Phù hợp về nghĩa, đúng ngữ pháp</i></b>. Ta có: <b>in order + to V (nguyên mẫu): để làm gì đó</b><br>
+C. People find jobs in international companies in order to master English: Mọi người tìm việc làm trong các công ty quốc tế để thành thạo tiếng Anh. → Không phù hợp về nghĩa.<br>
+D. People try to master English so as find jobs in international companies. → Sai ngữ pháp. Ta có: <b>so as + to V (nguyên mẫu): để làm gì đó<br>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `My sister lives in New York and she will visit me next week. 
+        `,
+          options: [`My sister who lives in New York will visit me next week. `,`My sister that lives in New York will visit me next week. `,`My sister, which lives in New York, will visit me next week. `,`My sister, who lives in New York, will visit me next week.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề quan hệ<br>
+Tạm dịch câu gốc:</b> Em gái tôi sống ở New York và cô ấy sẽ đến thăm tôi vào tuần tới.<br>
+* <b><u>Ta có:</u></b><br><b>
+- Mệnh đề quan hệ xác định </b>dùng để bổ nghĩa cho danh từ đứng trước, là bộ phận quan trọng của câu, nếu bỏ đi thì mệnh đề chính không có nghĩa rõ ràng.<br><b>
+- Mệnh đề quan hệ không xác định</b> dùng để bổ nghĩa cho danh từ đứng trước, là phần giải thích thêm, nếu bỏ đi thì mệnh đề chính vẫn còn nghĩa rõ ràng.<br><b>
+* Xét các đáp án:</b><br>
+A. My sister who lives in New York will visit me next week: Em gái tôi người mà sống ở New York sẽ đến thăm tôi vào tuần tới. → Không phù hợp (vì bỏ phần <b>"who lives in New York"</b> đi thì mệnh đề chính vẫn còn nghĩa rõ ràng).<br>
+B. My sister that lives in New York will visit me next week: Em gái tôi người mà sống ở New York sẽ đến thăm tôi vào tuần tới. → Không phù hợp (vì bỏ phần <b>"that lives in New York"</b> đi thì mệnh đề chính vẫn còn nghĩa rõ ràng).<br>
+C. My sister, which lives in New York, will visit me next week. → Sai ngữ pháp. Ta có: <b>which</b>: đại từ quan hệ <b><i>chỉ vật, sự vật, sự việc</i></b> làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.<br>
+D. My sister, who lives in New York, will visit me next week: Em gái tôi, người mà sống ở New York, sẽ đến thăm tôi vào tuần tới. <b><i>→ Phù hợp về nghĩa, đúng ngữ pháp</i></b>.  Ta có: <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br><b>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D to indicate the sentence that is made from the given words or cues in each of the following questions.</b></p>`,
+          media:``,
+          question: `wondered /they/ local/ supported / development/if/ tourism/sustainable/.
+        `,
+          options: [`They supported wondered if tourism local development sustainable. `,`They wondered if development local supported sustainable tourism. `,`They wondered if local tourism supported sustainable development. `,`They wondered if sustainable development supported local tourism. `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật</b><br>
+Cấu trúc câu tường thuật lại câu hỏi <b>Yes/No:</b> <b>S + asked (+O)/ wanted to know/ wondered + if/whether + S + V (lùi thì)…</b><br>
+* Ta có:<br>
+- sustainable development: sự phát triển bền vững<br>
+- local tourism: du lịch địa phương<br><b>
+* Xét các đáp án:</b><br>
+A. They supported wondered if tourism local development sustainable. → Sai ngữ pháp.<br>
+B. They wondered if development local supported sustainable tourism. → Sai ngữ pháp (sai trật tự từ, phải là "<b>local development"</b>).<br>
+C. They wondered if local tourism supported sustainable development: Họ băn khoăn liệu du lịch địa phương có hỗ trợ phát triển bền vững không. <b><i>→ Phù hợp về nghĩa, đúng ngữ pháp.</i></b><br>
+D. They wondered if sustainable development supported local tourism: Họ băn khoăn liệu phát triển bền vững có hỗ trợ du lịch địa phương không. → Không phù hợp về nghĩa.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `biologist/ask/ coral reef s/ suffer/damage/ pollution/.
+        `,
+          options: [`The biologist asked if the coral reefs had suffered damage due to pollution. `,`The biologist asked if the coral reefs suffering damage from pollution. `,`The biologist asked whether the coral reefs suffer damage because of pollution. `,`The biologist asked whether the coral reefs were suffer damage from pollution.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật</b><br>
+Cấu trúc câu tường thuật lại câu hỏi <b>Yes/No: S + asked (+O)/ wanted to know/ wondered + if/whether + S + V (lùi thì)…</b><br><b>
+* Xét các đáp án:</b><br>
+A. The biologist asked if the coral reefs had suffered damage due to pollution: Nhà sinh vật học đã hỏi liệu các rạn san hô có bị thiệt hại do ô nhiễm không. <b><i>→ Phù hợp về nghĩa, đúng ngữ pháp.</i></b><br>
+B. The biologist asked if the coral reefs suffering damage from pollution. → Sai ngữ pháp (sai dạng động từ "<b>suffering</b>").<br>
+C. The biologist asked whether the coral reefs suffer damage because of pollution. → Sai ngữ pháp (động từ "<b>suffer</b>" chưa lùi thì).<br>
+D. The biologist asked whether the coral reefs were suffer damage from pollution. → Sai ngữ pháp (sai dạng động từ "<b>were suffer</b>").<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following sign or notice and mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `What does the sign say?<br><img src="/learn/grand10/b830def5-84ff-426f-b291-f60a6c892c3a.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`Swimmers must be careful, as jellyfish may cause harm.`,`Swimmers can play with jellyfish in here.`,`A lot of jellyfish in the area is harmless. `,`Water with no jellyfish.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Biển báo này nói gì?</b><br><img src="/learn/grand10/b830def5-84ff-426f-b291-f60a6c892c3a.jpg" data-filename="" style="max-width: 600px; height: auto;"><br><b>
+* Xét các đáp án:</b><br>
+A. Người bơi phải cẩn thận, vì sứa có thể gây hại. <br>
+B. Người bơi có thể chơi với sứa ở đây. <br>
+C. Nhiều sứa trong khu vực này là vô hại. <br>
+D. Nước không có sứa.<br><b>
+Căn cứ vào thông tin trong biển báo:</b> "BEWARE OF DANGEROUS JELLYFISH" (CẨN THẬN SỨA NGUY HIỂM)<br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does this notice say?<br><img src="/learn/grand10/f06b1fac-c426-4cf5-8534-0f7c43ea1e14.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`You mustn't protect the animals here. `,`You mustn't annoy the animals here. `,`You have to grab the animals here. `,`You can play with the animals here.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Thông báo này nói gì?</b><br><img src="/learn/grand10/f06b1fac-c426-4cf5-8534-0f7c43ea1e14.jpg" data-filename="" style="max-width: 600px; height: auto;"><br><b>
+* Xét các đáp án:</b><br>
+A. Bạn không được phép bảo vệ động vật ở đây. <br>
+B. Bạn không được phép làm phiền động vật ở đây. <br>
+C. Bạn phải bắt lấy động vật ở đây. <br>
+D. Bạn có thể chơi với động vật ở đây.<br><b>
+Căn cứ vào thông tin trong biển báo:</b> "DO NOT DISTURB – Wildlife Conservation Area" <i>(KHÔNG LÀM PHIỀN – Khu Bảo tồn Động vật Hoang dã)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read this passage and mark the letter A, B, C or D to indicate the correct answer to each of the following questions.</b></p><p><div style="text-align: justify;">There are three <b><u>major</u></b> types of forests in the world which are tropical forests, temperate forests, and boreal forests.</div><div style="text-align: justify;">Tropical forests or rainforests are those that grow around the equator, spreading across the equator in Africa, Southeast Asia, and South America. They are home to orchids, vines, ferns and animals, such as monkeys, bats, jaguars and various types of insects, totaling hundreds of species of birds and butterflies and around a thousand plant species. Rainforests help regulate the climate and provide us with everyday products and medicines.</div><div style="text-align: justify;">Temperate forests can be found in North America, Europe, and Northeastern Asia. The temperatures here range from -30 to 30 degrees Celsius. They are home to oak and maple trees and animals like foxes, lions, eagles, and black bears. The areas have four different seasons with a very obvious winter. The leaves of trees in temperate forests change colour with seasonal change and fall during the winter.</div><div style="text-align: justify;">Boreal forests are also called taiga. They can be found in Canada, Russia, and northern Japan. There are only two seasons in these areas, which are the very long, cold and dry winter, and the short, moist, and mild summer. The temperature is <b><u>extremely</u></b> low, between -50 to 30 degrees Celsius. Boreal forests are home to evergreen trees and various animals, including wolves, foxes, hares, bears, and some others.</div><div style="text-align: right;"><i>(Adapted from: English 9 -WB; Global success)</i></div></p>`,
+          media:``,
+          question: `Tropical forests are also called __________
+        `,
+          options: [`woodlands `,`rainforests `,`jungles`,`deserts`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Rừng nhiệt đới còn được gọi là ____________ </b><br>
+A. woodlands – woodland /ˈwʊdlənd/ (n): rừng thưa <br>
+B. rainforests – rainforest /ˈreɪnfɒrɪst/ (n): rừng mưa <br>
+C. jungles – jungle /ˈdʒʌŋɡl/ (n): rừng rậm <br>
+D. deserts – desert /ˈdezət/ (n): sa mạc<br><b>
+Căn cứ vào thông tin: "Tropical forests or rainforests</b> are those that grow around the equator, spreading across the equator in Africa, Southeast Asia, and South America." <i>(<b>Rừng nhiệt đới hay rừng mưa </b>là những khu rừng phát triển quanh xích đạo, trải rộng khắp xích đạo ở Châu Phi, Đông Nam Á và Nam Mỹ.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Temperate forests can be found in __________ Europe, and Northeastern Asia.
+        `,
+          options: [`Africa`,`North America `,`South America`,`Australia`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Rừng ôn đới có thể được tìm thấy ở ___________, Châu Âu, và Đông Bắc Á. </b><br>
+A. Africa: Châu Phi <br>
+B. North America: Bắc Mỹ <br>
+C. South America: Nam Mỹ<br>
+D. Châu Úc: Australia<br>
+Căn cứ vào thông tin: "Temperate forests can be found in <b>North America</b>, Europe, and Northeastern Asia." <i>(Rừng ôn đới có thể được tìm thấy ở <b>Bắc Mỹ</b>, Châu Âu và Đông Bắc Á.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word <b><u>major</u></b> in paragraph 1 is <b>CLOSEST </b>in meaning to __________
+        `,
+          options: [`minor `,`small`,`tiny`,`main`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ <u>major</u> trong đoạn 1 GẦN NGHĨA NHẤT với từ ____________ </b><br>
+A. minor /ˈmaɪnə(r)/ (adj): không quan trọng, thứ yếu<br>
+B. small /smɔːl/ (adj): nhỏ, bé<br>
+C. tiny /ˈtaɪni/ (adj): tí hon, bé tí, bé xíu<br>
+D. main /meɪn/ (adj): chính, chủ yếu, quan trọng nhất<br><b>
+Căn cứ vào thông tin:</b> "There are three <b><u>major</u></b> types of forests in the world, which are tropical forests, temperate forests, and boreal forests." <i>(Có ba loại rừng <b>chính </b>trên thế giới, đó là rừng nhiệt đới, rừng ôn đới và rừng phương bắc.)</i><br><b>
+=&gt; major /ˈmeɪdʒə(r)/ (adj): chủ yếu, chính ~ main<br>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Boreal forests have only two seasons: a long, cold winter and a __________ summer.
+        `,
+          options: [`dry and hot `,`short and mild`,`rainy and cool `,`warm and windy`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Rừng phương bắc chỉ có hai mùa: một mùa đông dài, lạnh và một mùa hè ___________</b><br>
+A. dry and hot: khô và nóng <br>
+B. short and mild: ngắn và ôn hòa <br>
+C. rainy and cool: mưa và mát mẻ <br>
+D. warm and windy: ấm và nhiều gió<br><b>
+Căn cứ vào thông tin:</b> "There are only two seasons in these areas, which are the very long, cold and dry winter, and <b>the short, moist, and mild summer</b>." <i>(Chỉ có hai mùa ở những khu vực này, đó là mùa đông rất dài, lạnh và khô, cùng <b>mùa hè ngắn, ẩm ướt và ôn hòa</b>.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word <b><u>extremely</u></b> in the last paragraph is OPPOSITE in meaning to __________.
+        `,
+          options: [`very `,`remarkably `,`slightly`,`highly `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ <u>extremely</u> trong đoạn cuối TRÁI NGHĨA với từ _____________</b><br>
+A. very /ˈveri/ (adv)): rất; vô cùng<br>
+B. remarkably /rɪˈmɑːkəbli/ (adv): đáng kể, đáng chú ý<br>
+C. slightly /ˈslaɪtli/ (adv): một chút <br>
+D. highly /ˈhaɪli/ (adv): rất, lắm, ở mức độ cao<br><b>
+Căn cứ vào thông tin</b>: "The temperature is <b><u>extremely</u></b> low, between -50 to 30 degrees Celsius." <i>(Nhiệt độ <b>cực kỳ</b> thấp, trong khoảng từ -50 đến 30 độ C.)</i><br><b>
+=&gt; extremely /ɪkˈstriːmli/ (adv): rất, cực kỳ &gt;&lt; slightly<br>
+Do đó, C là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Rainforests play an important role in the environment by regulating __________ and producing oxygen.
+        `,
+          options: [`ocean currents`,`temperature`,`climate`,`humidity`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Rừng mưa đóng vai trò quan trọng trong môi trường bằng cách điều hòa __________ và tạo ra oxy. </b><br>
+A. ocean currents: các dòng hải lưu <br>
+B. temperature /ˈtemprətʃə(r)/ (n): nhiệt độ <br>
+C. climate /ˈklaɪmət/ (n): khí hậu <br>
+D. humidity /hjuːˈmɪdəti/ (n): độ ẩm<br><b>
+Căn cứ vào thông tin:</b> "Rainforests help regulate <b>climate </b>and provide us with everyday products and medicines." <i>(Rừng mưa giúp điều hòa <b>khí hậu</b> và cung cấp cho chúng ta các sản phẩm hàng ngày cùng thuốc men.)</i><br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Four phrases/sentences have been removed from the text below. For each question, mark the letter A, B, C, or D to indicate the correct option that best fits each of the numbered blanks from 37 to 40.</b></p><p><div style="text-align: justify;"><div style="text-align: center;"><b>SUMMER VACATION</b></div>
+	Last summer, I went on a fun vacation with my family to a lovely beach town. We stayed at a hotel right next to the sea. (37) __________. We built sandcastles and collected colorful shells. The water was warm and clear, so we swam and had a great time.</div><div style="text-align: justify;">One of the best parts of our trip was a boat ride. We saw beautiful fish (38) __________. In the afternoons, we relaxed by the pool and played games together.</div><div style="text-align: justify;">At night, we went to different restaurants and tried delicious local food. We ate fresh fish and fruit that tasted amazing. We also visited a small market where (39) __________.</div><div style="text-align: justify;">This summer vacation was special because we spent a lot of time together, (40) __________. It was a perfect mix of relaxation and fun.</div><div style="text-align: justify;"><b>A.</b> we bought souvenirs like handmade jewelry and postcards</div><div style="text-align: justify;"><b>B.</b> Every morning, we went to the beach and played in the sand</div><div style="text-align: justify;"><b>C.</b> enjoyed the sunshine and made many happy memories</div><div style="text-align: justify;"><b>D.</b> and even dolphins jumping in the water.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `C`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu<br>
+* Xét các đáp án:</b><br>
+A. we bought souvenirs like handmade, jewelry and postcards: chúng tôi đã mua đồ lưu niệm như trang sức thủ công và bưu thiếp<br>
+B. Every morning, we went to the beach and played in the sand: Mỗi buổi sáng, chúng tôi ra biển và chơi trên cát<br>
+C. enjoyed the sunshine and made many happy memories: tận hưởng ánh nắng và tạo ra nhiều kỷ niệm vui vẻ<br>
+D. and even dolphins jumping in the water: và thậm chí cả cá heo nhảy múa trong nước<br><b>
+Tạm dịch: </b>This summer vacation was special because we spent a lot of time together, (40) ____________. <i>(Kỳ nghỉ hè này thật đặc biệt vì chúng tôi đã dành nhiều thời gian bên nhau, <b>tận hưởng ánh nắng và tạo ra nhiều kỷ niệm vui vẻ.</b>)</i><br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `B`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu<br>
+* Xét các đáp án:</b><br>
+A. we bought souvenirs like handmade, jewelry and postcards: chúng tôi đã mua đồ lưu niệm như trang sức thủ công và bưu thiếp<br>
+B. Every morning, we went to the beach and played in the sand: Mỗi buổi sáng, chúng tôi ra biển và chơi trên cát<br>
+C. enjoyed the sunshine and made many happy memories: tận hưởng ánh nắng và tạo ra nhiều kỷ niệm vui vẻ<br>
+D. and even dolphins jumping in the water: và thậm chí cả cá heo nhảy múa trong nước
+→ Ta thấy, chỗ trống cần điền một <b>mệnh đề hoàn chỉnh S + V +…</b><br><b>
+Tạm dịch:</b> (37) _____________. We built sandcastles and collected colorful shells. <i>(<b>Mỗi buổi sáng, chúng tôi ra biển và chơi trên cát</b>. Chúng tôi xây lâu đài cát và nhặt những vỏ sò nhiều màu sắc.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `D`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu<br>
+* Xét các đáp án:</b><br>
+A. we bought souvenirs like handmade, jewelry and postcards: chúng tôi đã mua đồ lưu niệm như trang sức thủ công và bưu thiếp<br>
+B. Every morning, we went to the beach and played in the sand: Mỗi buổi sáng, chúng tôi ra biển và chơi trên cát<br>
+C. enjoyed the sunshine and made many happy memories: tận hưởng ánh nắng và tạo ra nhiều kỷ niệm vui vẻ<br>
+D. and even dolphins jumping in the water: và thậm chí cả cá heo nhảy múa trong nước<br><b>
+Tạm dịch</b>: We saw beautiful fish (38) ____________. <i>(Chúng tôi đã thấy những chú cá xinh đẹp <b>và thậm chí cả cá heo nhảy múa trong nước.</b>)</i><br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `A`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn cụm từ/ câu<br>
+* Xét các đáp án:</b><br>
+A. we bought souvenirs like handmade, jewelry and postcards: chúng tôi đã mua đồ lưu niệm như trang sức thủ công và bưu thiếp<br>
+B. Every morning, we went to the beach and played in the sand: Mỗi buổi sáng, chúng tôi ra biển và chơi trên cát<br>
+C. enjoyed the sunshine and made many happy memories: tận hưởng ánh nắng và tạo ra nhiều kỷ niệm vui vẻ<br>
+D. and even dolphins jumping in the water: và thậm chí cả cá heo nhảy múa trong nước
+→ Ta thấy, chỗ trống cần điền một <b>mệnh đề hoàn chỉnh S + V +… </b>(sau trạng từ quan hệ <b>where</b>).<br><b>
+Tạm dịch:</b> We also visited a small market where (39) _____________. <i>(Chúng tôi cũng ghé thăm một khu chợ nhỏ nơi mà <b>chúng tôi đã mua đồ lưu niệm như trang sức thủ công và bưu thiếp</b>.)</i><br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        }, ],
+    },
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D to indicate the word that differs from the other three in the position of primary stress in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`access`,`virtual`,`touchscreen`,`assist`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm: <br>
+*Xét các đáp án: </b><br>
+A. access /ˈækses/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, nếu tất cả các âm mà ngắn hết thì trọng âm rơi vào âm đầu tiên.  <br>
+B. virtual /ˈvɜːtʃuəl/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm dài /ɜː/.   <br>
+C. touchscreen /ˈtʌtʃskriːn/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, danh từ ghép thì trọng âm rơi vào âm đầu tiên.  <br>
+D. assist /əˈsɪst/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm thường không rơi vào nguyên âm /ə/.<br><b><i>
+=&gt; Đáp án D có trọng âm rơi vào âm tiết thứ hai. Các đáp án còn lại có trọng âm rơi vào âm tiết thứ nhất.  
+</i></b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`entertainment`,`technology`,`education`,`electronic`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm: <br>
+*Xét các đáp án: </b><br>
+A. entertainment /ˌentəˈteɪnmənt/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, hậu tố ment- không nhận trọng âm và quy tắc trọng âm ưu tiên rơi vào nguyên âm đôi /eɪ/.   <br>
+B. technology /tekˈnɒlədʒi/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi -y làm trọng âm dịch chuyển ba âm tính từ cuối lên.  <br>
+C. education /ˌedʒuˈkeɪʃn/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, đuôi -ion làm trọng âm rơi vào trước âm đó.<br>
+D. electronic /ɪˌlekˈtrɒnɪk/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, đuôi -ic làm trọng âm rơi vào trước âm đó.<br><b><i>
+=&gt; Đáp án B có trọng âm rơi vào âm tiết thứ hai. Các đáp án còn lại có trọng âm rơi vào âm tiết thứ ba.  
+</i></b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is made from the given cues in each of the following questions.</b></p>`,
+          media:``,
+          question: `He/ learn English/ website/ I/ recommend/ him/ two years ago.
+        `,
+          options: [`He has learnt English in a website which I recommended it to him two years ago.`,`He has learnt English on a website where I recommended to him two years ago.`,`He has learnt English on a website I recommended to him two years ago.`,`He has learnt English in a website which I recommended to him two years ago. `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ - đại từ quan hệ<br>
+* Ta có cụm từ:</b><br>
+on a website: trên một trang web<br><b>
+* Ta có: </b><br><b>
+where </b>là trạng từ quan hệ thay thế cho trạng ngữ chỉ nơi chốn<br><b>
+which </b>là đại từ quan hệ thay thế cho danh từ chỉ vật, sự vật, sự việc; đóng vai trò làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ<br>
+-&gt; Cần đại từ quan hệ thay thế cho danh từ chỉ vật “website” ở phía trước -&gt; chỉ dùng được “which”<br>
+Đối với những mệnh đề quan hệ mà đại từ đóng vai trò là tân ngữ trong câu, bạn có thể rút gọn bằng cách lược bỏ đi đại từ quan hệ đó -&gt; có thể bỏ đại từ quan hệ which<br>
+=&gt; Do đó, ta có thể hoàn thành câu như này: “<b><i>He has learnt English on a website I recommended to him two years ago.”</i></b><br><b>
+Tạm dịch:</b> Anh ấy đã học tiếng Anh trên một trang web mà tôi giới thiệu cho anh ấy cách đây hai năm.<br><b>
+=&gt; Do đó, ta chọn đáp án C.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `use / play football/ famous team / too old/play/now.
+        `,
+          options: [`He uses to play football for a famous team, but he is too old to play now.`,`He used to play football for a famous team, but he is too old to play now.`,`He used the football to play in a famous team and he is too old to play now.`,`He is used to playing for a famous team, but he is too old to play now.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ nguyên mẫu – liên từ</b><br>* Ta có cấu trúc: <br><b>- used to do sth:</b> đã từng làm gì trong quá khứ<br><b>- but + S + V: </b>nhưng<br>=&gt; Do đó, ta có thể hoàn thành câu như này: <b><i>“He used to play football for a famous team, but he is too old to play now.”</i></b><br><b>Tạm dịch</b>: Ông ấy từng chơi bóng đá cho một đội bóng nổi tiếng, nhưng giờ ông đã quá già để chơi.<br><b>=&gt; Do đó, ta chọn đáp án B.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in each of the following questions.</b></p>`,
+          media:``,
+          question: `I haven't gone on an excursion since 2020. 
+        `,
+          options: [`The last time I went on an excursion was in 2020.`,`I haven't gone on an excursion for a year now. `,`I first went on an excursion in 2020.`,`2020 was the first time I went on an excursion.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa<br>
+Tạm dịch câu gốc:</b> Tôi chưa đi du ngoạn kể từ năm 2020.<br>
+→ Ta có: <br><b>
+S + have/has + NOT + V3/-ed + since/for …  <br>
+&lt;=&gt;The last time + S + V + was …  <br>
+&lt;=&gt; It is/ has been + [thời gian] + since + S + last V2/-ed + … <br>
+* Xét các đáp án:</b><br>
+A. Lần cuối cùng tôi đi du ngoạn là vào năm 2020.<br>
+=&gt; đúng ngữ pháp, sát nghĩa với câu gốc<br>
+B. Tôi đã không đi du ngoạn trong một năm nay.<br>
+=&gt; Sai nghĩa<br>
+C. Lần đầu tiên tôi đi du ngoạn là vào năm 2020.<br>
+=&gt; Sai nghĩa<br>
+D. 2020 là lần đầu tiên tôi đi du ngoạn.<br>
+=&gt; Sai nghĩa<br><b>
+=&gt; Do đó, ta chọn đáp án A.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Despite having access to healthy snacks, students still prefer junk food. 
+        `,
+          options: [`Even though having access to healthy snacks, students still prefer junk food. `,`In spite of junk food, students have healthy snacks.`,`Although students have access to healthy snacks, they still prefer junk food. `,`Though students prefer junk food, they also have access to healthy snacks.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- câu tường thuật<br>
+Tạm dịch câu gốc:</b> Mặc dù được tiếp cận với đồ ăn nhẹ lành mạnh nhưng học sinh vẫn thích đồ ăn vặt hơn.<br><b>
+* Xét các đáp án:</b><br>
+A. Mặc dù có thể tiếp cận với đồ ăn nhẹ lành mạnh, học sinh vẫn thích đồ ăn vặt.<br>
+=&gt; Sai ngữ pháp, cấu trúc <b>Even though + S + V:</b> mặc dù<br>
+B. Mặc dù có đồ ăn vặt, học sinh vẫn có đồ ăn vặt lành mạnh.<br>
+=&gt; Sai nghĩa, cấu trúc <b>In spite of + N/V-ing:</b> mặc dù<br>
+C. Mặc dù có thể tiếp cận với đồ ăn nhẹ lành mạnh, học sinh vẫn thích đồ ăn vặt.<br>
+=&gt; Sát nghĩa với câu gốc, đúng ngữ pháp, cấu trúc <b>Although + S + V:</b> mặc dù<br>
+D. Mặc dù thích đồ ăn vặt, học sinh cũng có thể tiếp cận với đồ ăn vặt lành mạnh.<br>
+=&gt; Sai nghĩa, cấu trúc <b>though + S + V:</b> mặc dù<br><b>
+=&gt; Do đó, ta chọn đáp án C.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Four phrases/ sentences have been removed from the text below. For each question, mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks.</b></p><p><div style="text-align: justify;">Pickleball is a fun and fast-growing sport. It is a mix of tennis, badminton, and table tennis. People play it with a paddle and a plastic ball on a small court, like a badminton court. You can play one-on-one (singles) or in teams of two (doubles), so it's both fun and social. More people are playing pickleball now because (7) __________. Many older people enjoy it because it's gentle on the body and simple to play. One big reason why people like pickleball is that (8) __________. The game is friendly and relaxed, so beginners feel comfortable. Because of this, pickleball is very popular in retirement communities. (9) __________, Now, more parks and sports centers are building pickleball courts. Coaches are also using new ways to teach pickleball. They use digital tools to help players get better. This helps people of all ages improve their game and have more fun. (10) __________.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`you don't need much time to learn the rules`,`Both new and experienced players can enjoy learning and playing together`,`Older adults can stay active and meet new friends `,`it's easy to learn and great for all ages`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề phụ thuộc </b><br>
+Sau that là một mệnh đề phụ thuộc =&gt; vị trí chỗ trống cần một mệnh đề phụ thuộc. Xét 2 mệnh đề phụ thuộc có trong đề bài:<br>
+A. you don't need much time to learn the rules: bạn không cần nhiều thời gian để học luật chơi<br>
+D. it's easy to learn and great for all ages: môn này dễ học và phù hợp với mọi lứa tuổi<br><b>
+Tạm dịch: </b>More people are playing pickleball now because (7) ________. <i>(Ngày càng có nhiều người chơi pickleball vì môn này dễ học và phù hợp với mọi lứa tuổi.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`it's easy to learn and great for all ages`,`you don't need much time to learn the rules`,`Older adults can stay active and meet new friends`,`Both new and experienced players can enjoy learning and playing together `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề phụ thuộc </b><br>
+Sau that là một mệnh đề phụ thuộc =&gt; vị trí chỗ trống cần một mệnh đề phụ thuộc. Xét 2 mệnh đề phụ thuộc có trong đề bài:<br><b>
+*Xét các đáp án: </b><br>
+A. it's easy to learn and great for all ages: môn này dễ học và phù hợp với mọi lứa tuổi<br>
+B. you don't need much time to learn the rules: bạn không cần nhiều thời gian để học luật chơi<br><b>
+Tạm dịch: </b>One big reason why people like pickleball is that (8) ________. The game is friendly and relaxed, so beginners feel comfortable. <i>(Một lý do lớn khiến mọi người thích pickleball là bạn không cần nhiều thời gian để học luật chơi. Trò chơi này thân thiện và thoải mái, vì vậy người mới bắt đầu cảm thấy thoải mái.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`Both new and experienced players can enjoy learning and playing together`,`Older adults can stay active and meet new friends`,`it's easy to learn and great for all ages`,`you don't need much time to learn the rules`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề độc lập:</b><br>
+Căn cứ vào vị trí chỗ trống (giữa 2 dấu chấm) =&gt; vị trí chỗ trống cần một mệnh đề độc lập. Xét 2 mệnh đề độc lập có trong đề bài:<br>
+A. Both new and experienced players can enjoy learning and playing together: Cả người chơi mới và người chơi có kinh nghiệm đều có thể cùng nhau học và chơi<br>
+B. Older adults can stay active and meet new friends: Người lớn tuổi có thể hoạt động và kết bạn mới<br><b>
+Tạm dịch: </b>Because of this, pickleball is very popular in retirement communities. (9) ________.  <i>(Vì lý do này, pickleball rất phổ biến trong cộng đồng người nghỉ hưu. Người lớn tuổi có thể hoạt động và kết bạn mới.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`Both new and experienced players can enjoy learning and playing together`,`Older adults can stay active and meet new friends`,`you don't need much time to learn the rules`,`it's easy to learn and great for all ages`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề độc lập:</b><br>
+Căn cứ vào vị trí chỗ trống (giữa 2 dấu chấm) =&gt; vị trí chỗ trống cần một mệnh đề độc lập. Xét 2 mệnh đề độc lập có trong đề bài:<br>
+A. Both new and experienced players can enjoy learning and playing together: Cả người chơi mới và người chơi có kinh nghiệm đều có thể cùng nhau học và chơi<br>
+B. Older adults can stay active and meet new friends: Người lớn tuổi có thể hoạt động và kết bạn mới<br><b>
+Tạm dịch: </b>This helps people of all ages improve their game and have more fun. (10) ________.<i> (Điều này giúp mọi người ở mọi lứa tuổi cải thiện trò chơi của mình và vui hơn. Cả người chơi mới và người chơi có kinh nghiệm đều có thể cùng nhau học và chơi.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `<div style="text-align: justify;"><b>Put the sentences (a-c) in the correct order, then fill in the blank to make it a logical text.</b></div><div style="text-align: justify;">I believe all humans have the right to live in a safe and clean place. __________</div><div style="text-align: justify;">a. A big problem is that crime is high in the city. There are so many criminals that life for normal people is beginning to break down.</div><div style="text-align: justify;">b. Another problem is that air pollution is getting worse. Because of this, more people will need medical help. To improve this, the government should ask people to ride bicycles and use cars less.</div><div style="text-align: justify;">c. However, most cities today have many problems that need solutions.</div>
+        `,
+          options: [`a-b-c `,`b-c-a`,`c-a-b`,`a-c-b`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành đoạn văn:</b><br>
+*Để tạo nên một đoạn văn/lời kể hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước.<br>
+=&gt; Ta có cách sắp xếp hoàn chỉnh:<br>
+I believe all humans have the right to live in a safe and clean place. _________ <i>(Tôi tin rằng tất cả mọi người đều có quyền được sống ở một nơi an toàn và sạch sẽ. _________)</i><br>
+c. However, most cities today have many problems that need solutions. <i>(Tuy nhiên, hầu hết các thành phố ngày nay đều có nhiều vấn đề cần giải quyết.)</i><br>
+a. A big problem is that crime is high in the city. There are so many criminals that life for normal people is beginning to break down. <i>(Một vấn đề lớn là tội phạm ở thành phố rất cao. Có quá nhiều tội phạm khiến cuộc sống của những người bình thường bắt đầu bị phá vỡ.)</i><br>
+b. Another problem is that air pollution is getting worse. Because of this, more people will need medical help. To improve this, the government should ask people to ride bicycles and use cars less. <i>(Một vấn đề khác là ô nhiễm không khí đang trở nên tồi tệ hơn. Vì lý do này, nhiều người sẽ cần được trợ giúp y tế hơn. Để cải thiện điều này, chính phủ nên yêu cầu mọi người đi xe đạp và sử dụng ô tô ít hơn.)</i><br>
+Vậy, ta có thứ tự sắp xếp đúng là: <b>c-a-b</b><br>
+Do đó, C là đáp án phù hợp`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Choose the sentence that can end the text in question 11) most appropriately. </b>
+        `,
+          options: [`To conclude, the number of criminals and air pollution are problems in many cities, and governments should implement a lot of solutions to make this world a livable place.`,`To conclude, people should continue using their cars every day to promote the automobile industry.`,`To conclude, cities today are safe and clean, so there is no need to make any changes to have a better quality of life.`,`To conclude, the best way to solve city problems is to build more highways for cars to reduce traffic congestion.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu:<br>
+*Xét các đáp án:</b><br>
+A. To conclude, the number of criminals and air pollution are problems in many cities, and governments should implement a lot of solutions to make this world a livable place: Tóm lại, số lượng tội phạm và ô nhiễm không khí là vấn đề ở nhiều thành phố, và chính phủ nên thực hiện nhiều giải pháp để biến thế giới này thành nơi đáng sống.<br>
+B. To conclude, people should continue using their cars every day to promote the automobile industry: Tóm lại, mọi người nên tiếp tục sử dụng ô tô của họ hàng ngày để thúc đẩy ngành công nghiệp ô tô.<br>
+C. To conclude, cities today are safe and clean, so there is no need to make any changes to have a better quality of life: Tóm lại, các thành phố ngày nay an toàn và sạch sẽ, vì vậy không cần phải thực hiện bất kỳ thay đổi nào để có chất lượng cuộc sống tốt hơn.<br>
+D. To conclude, the best way to solve city problems is to build more highways for cars to reduce traffic congestion: Tóm lại, cách tốt nhất để giải quyết các vấn đề của thành phố là xây dựng nhiều đường cao tốc hơn cho ô tô để giảm tắc nghẽn giao thông.<br>
+=&gt; Căn cứ vào nghĩa, A là đáp án phù hợp.`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `The Pacific Ocean, __________ name means peaceful, is the largest ocean on Earth.
+        `,
+          options: [`who `,`whose`,`what `,`which`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ quan hệ:<br>
+*Xét các đáp án:</b><br>
+A. <b>who </b>là đại từ quan hệ thay thế cho danh từ chỉ người, đóng vai trò làm chủ
+ngữ/tân ngữ trong mệnh đề quan hệ<br>
+B. <b>whose </b>là đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br>
+C. <b>what </b>dùng làm từ để hỏi hoặc dùng trong mệnh đề danh từ	<br>
+D. <b>which </b>là đại từ quan hệ thay thế cho danh từ chỉ vật, sự việc, có chức năng làm tân ngữ hoặc chủ ngữ trong mệnh đề quan hệ xác định và không xác định.<br><b>
+*Ta có:</b><br>
+- Cần đại từ quan hệ thay thế chỉ mối quan hệ sở hữu vì name thuộc sở hữu của The Pacific Ocean -&gt; chỉ dùng được “whose”<br><b>
+Tạm dịch</b>: Thái Bình Dương, tên gọi có nghĩa là hòa bình, là đại dương lớn nhất trên Trái Đất.<br>
+Căn cứ vào nghĩa, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The number of homeless people is __________ high that the government will need to build more houses.
+        `,
+          options: [`too`,`enough`,`such`,`so`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc:<br>
+*Ta có:</b><br>
+- SO... THAT/SUCH... THAT có nghĩa là "... đến mức..., đến nỗi...", diễn tả mối quan hệ nhân quả.<br>
+Cấu trúc:<br>
+S+ tobe/ V + so + adj/adv + that + S + V<br>
+= S + tobe/ V + so + adj + a/an + N + that + S + V<br>
+= S + tobe + such + (a/an) + adj + N + that + S + V<br>
+- S + to be/ V + too + adj/ adv + (for sb) + to V: quá để (ai) làm gì<br>
+- S + to be/ V + Adj/adv + enough + (for sb) + to V: đủ để (ai) làm gì<br>
+Ta thấy vế sau là mệnh đề that + S + V -&gt; loại A, B. Sau chỗ trống là một tính từ -&gt; chọn D<br><b>
+Tạm dịch: </b>Số lượng người vô gia cư cao đến mức chính phủ sẽ cần phải xây thêm nhà.<br>
+Căn cứ vào nghĩa, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Pesticides can affect the whole __________ by entering plants first, then insects and birds, and people.
+        `,
+          options: [`food chain`,`natural habitat`,`food tour`,`grassland area`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng:<br>
+*Xét các đáp án:</b><br>
+A. food chain: chuỗi thức ăn<br>
+B. natural habitat: môi trường sống tự nhiên<br>
+C. food tour: chuyến đi ẩm thực<br>
+D. grassland area: khu vực đồng cỏ<br><b>
+Tạm dịch: </b>Thuốc trừ sâu có thể ảnh hưởng đến toàn bộ chuỗi thức ăn bằng cách đầu tiên xâm nhập vào thực vật, sau đó là côn trùng, chim và con người.<br>
+Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `If you __________ in a hurry, you __________ have a cup of tea now.
+        `,
+          options: [`aren't- ought`,`don't be may`,`aren't-may`,`don't be - ought`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu điều kiện:<br>
+Tạm dịch: </b>Nếu bạn không vội, bạn có thể uống một tách trà ngay bây giờ.<br>
+→ Căn cứ vào dịch nghĩa, ta thấy câu trên diễn tả về tình huống có thể xảy ra ở hiện tại hoặc tương lai → ta sử dụng câu điều kiện loại I.<br>
+*Cấu trúc câu điều kiện loại I:<b> If + S + V (hiện tại đơn), S + will/can/may/might/should…+  V(bare)</b><br>
+- Xét vị trí thứ nhất: in a hurry -&gt; ta cần động từ to be<br>
+- Xét vị trí thứ hai:<br>
++ may + V inf: có thể làm gì nhưng không chắc -&gt; phù hợp ngữ cảnh<br>
++ ought to + Vinf: nên làm gì<br><b>
+=&gt; Do đó, ta chọn đáp án C
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Our IT department advised us __________ the software on our devices regularly to enhance security and performance.
 
+        `,
+          options: [`updating`,`update`,`to update`,`should update`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ nguyên mẫu:<br>
+*Ta có:<br>
+- advise sb to do sth: </b>khuyên ai đó làm gì<br><b>
+Tạm dịch: </b>Bộ phận CNTT của chúng tôi khuyên chúng tôi nên cập nhật phần mềm trên thiết bị thường xuyên để tăng cường bảo mật và hiệu suất.<br>
+Căn cứ vào nghĩa, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Hoang has __________ a fever. The more time that passes, the higher his temperature is.
+        `,
+          options: [`come down with`,`come up with`,`cut down on`,`got on with`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ:<br>
+*Xét các đáp án:</b><br>
+A. come down with: mắc bệnh<br>
+B. come up with: nghĩ ra<br>
+C. cut down on: cắt giảm<br>
+D. get on with: hòa thuận với<br><b>
+Tạm dịch: </b>Hoàng bị sốt, càng lâu nhiệt độ càng cao.<br>
+Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `__________ the bus got, it was for me to breathe.
+        `,
+          options: [`The more crowded - the more difficult`,`The most crowded - the most difficult`,`The more crowded - the most difficult`,`The less crowded - more difficult`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về so sánh kép </b><br>
+Ta có công thức:<b> The + so sánh hơn + (adj/adv)+ S + V, the + so sánh hơn +  (adj/adv)+ S + V: càng…. thì càng  <br>
+Tạm dịch</b>: Xe buýt càng đông, tôi càng thấy khó thở.<br>
+Do đó, A là đáp án phù hợp.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<div style="text-align: justify;"><i>Lisa and Liam are talking about a new documentary about the Nile.</i></div><div style="text-align: justify;"><b>Lisa:</b> There is a new documentary about the Nile, but I don't feel like watching it.</div><div style="text-align: justify;"><b>Liam: </b>__________ You will like it.</div>
+        `,
+          options: [`Why don't you give it a go? `,`I don't believe it.`,`I can't understand it.`,`Do you like it?`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp:<br>
+*Xét các đáp án:</b><br>
+A. Tại sao bạn không thử nhỉ?<br>
+B. Tôi không tin.<br>
+C. Tôi không hiểu nổi.<br>
+D. Bạn có thích không?<br><b>
+Tạm dịch</b>: Lisa và Liam đang nói về một bộ phim tài liệu mới về sông Nile.<br>
+Lisa: Có một bộ phim tài liệu mới về sông Nile, nhưng tôi không muốn xem.<br>
+Liam: Sao bạn không thử nhỉ? Bạn sẽ thích nó.<br>
+Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks.</b></p><p><div style="text-align: center;"><b>KEYSTONES: NEW VACANCY</b></div><div style="text-align: justify;">Keystone Italian restaurant has (21) __________ part-time position available for a lunchtime kitchen (22) __________. The role includes preparing food and cleaning the kitchen.<br>This is a great opportunity to (23) __________ experience and work with some great chefs.<br>The hours are (24) __________ 10.00 a.m. and 6.00 p.m., Thurs-Sun.<br>Call Marco for more information on 0321585067.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`a`,`x (no article)`,`the`,`an`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ<br>
+*Ta có: </b><br>
+Mạo từ A/ An chỉ sử dụng với danh từ đếm được số ít có nghĩa là “một”<br>
++ An đi với danh từ bắt đầu bằng nguyên âm<br>
++ A đi với danh từ bắt đầu bằng phụ âm<br><b>
+Tạm dịch:</b> Keystone Italian restaurant has (21) _______ part-time position available for a lunchtime kitchen (22) _________. <i>(Nhà hàng Ý Keystone đang có một vị trí bán thời gian cho một trợ lý bếp vào giờ ăn trưa.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`assistance`,`assistant`,`assist`,`assisted`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+*Xét các đáp án: </b><br>
+A. assistance /əˈsɪstəns/ (n): sự hỗ trợ<br>
+B. assistant /əˈsɪstənt/ (n): trợ lý<br>
+C. assist /əˈsɪst/ (v): hỗ trợ<br>
+D. assisted - assist /əˈsɪst/ (v): hỗ trợ<br>
+*Ta có cụm từ: <b>kitchen assistant: trợ lý bếp<br>
+Tạm dịch: </b>Keystone Italian restaurant has a part-time position available for a lunchtime kitchen (22) _________.<i> (Nhà hàng Ý Keystone đang có một vị trí bán thời gian cho một trợ lý bếp vào giờ ăn trưa.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`lose`,`gain`,`make`,`catch`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. lose /luːz/ (v): mất<br>
+B. gain /ɡeɪn/ (v): đạt được<br>
+C. make /meɪk/ (v): tạo ra<br>
+D. catch /kætʃ/ (v): bắt<br><b>
+Tạm dịch: </b>This is a great opportunity to (23) _______ experience and work with some great chefs.<i> (Đây là một cơ hội tuyệt vời để tích lũy kinh nghiệm và làm việc với một số đầu bếp tuyệt vời.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`at`,`in`,`between`,`from`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ</b><br><b>
+*Ta có: </b>between … and …: từ … đến <br><b>
+Tạm dịch: </b>The hours are (24) _______ 10.00 a.m. and 6.00 p.m., Thurs-Sun. <i>(Giờ làm việc từ 10:00 sáng đến 6:00 chiều, từ thứ năm đến chủ nhật.)</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following sign and notice and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions. </b></p>`,
+          media:``,
+          question: `What does the notice say?<br><img src="/learn/grand10/7ff1ae87-4b98-4cc5-9801-4be9daa39242.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`All pizzas are half-price before 7 p.m.`,`At certain times, a customer can get two pizzas for the price of one.`,`Any pizza ordered before 7 p.m. costs less than the usual price.`,`If you order a pizza before 7 p.m., you can get a second one for half the price.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Biển báo nói gì?</b><br>
+SPECIAL OFFERS<br>
+Order any pizza by 7 p.m. and get another one half-price!<br><i>
+(KHUYẾN MÃI ĐẶC BIỆT<br>
+Đặt bất kỳ bánh pizza nào trước 7 giờ tối. và mua một cái khác với giá bằng một nửa!)</i><br><b>
+*Xét các đáp án:</b><br>
+A. Tất cả các loại pizza đều được giảm giá một nửa trước 7 giờ tối.<br>
+B. Vào một số thời điểm nhất định, khách hàng có thể mua hai chiếc pizza với giá của một chiếc.<br>
+C. Bất kỳ chiếc pizza nào được đặt trước 7 giờ tối đều có giá thấp hơn giá thông thường.<br>
+D. Nếu bạn đặt một chiếc pizza trước 7 giờ tối, bạn có thể mua chiếc thứ hai với giá bằng một nửa.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does the sign say?<br><img src="/learn/grand10/02c93509-898e-4337-89f3-ce8bd45e49e7.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`Students are allowed to run in the hallway when it's not crowded.`,`Walking slowly is forbidden, so students must move quickly in the hallway.`,`Running is encouraged in the hallway to get to classes faster.`,`Running in the hallway is not allowed to ensure safety and prevent accidents.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Biển báo nói gì?</b><br><img src="/learn/grand10/02c93509-898e-4337-89f3-ce8bd45e49e7.jpg" data-filename="" style="max-width: 600px; height: auto;"><br><i>
+(Không chạy trong hành lang)</i><br>
+Ta thấy biển báo có màu đỏ và hình gạch chéo, tức đó là biển báo cấm.<br><b>
+*Xét các đáp án:</b><br>
+A. Học sinh được phép chạy trong hành lang khi không đông đúc.<br>
+B. Không được phép đi chậm, vì vậy học sinh phải di chuyển nhanh trong hành lang.<br>
+C. Khuyến khích chạy trong hành lang để đến lớp nhanh hơn.<br>
+D. Không được phép chạy trong hành lang để đảm bảo an toàn và ngăn ngừa tai nạn.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the number blanks.</b></p><p><div style="text-align: justify;">Using electronic devices in modern classrooms has many (27) __________ . First, they help students find information quickly. They can (28) __________. things they need to learn and understand better. Second, electronic devices make learning interactive. Students can use apps and websites to take quizzes, have discussions, and work (29) __________ on projects. This helps them think (30) __________ and solve problems. Third, electronic devices let students learn with multimedia. They can watch videos, see pictures and listen to recordings to make learning more fun. (31) __________, electronic devices also help students become good with technology. They learn to use the internet, judge whether information is good or not and communicate online. Lastly, electronic devices let students learn (32) __________ their own pace. They can use materials that suit them best. Overall, using electronic devices in class helps students learn more and get ready for the digital world.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`problems`,`benefits`,`factors`,`things`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. problems /ˈprɒbləmz/ (n): vấn đề<br>
+B. benefits /ˈbenɪfɪts/ (n): lợi ích<br>
+C. factors /ˈfæktəz/ (n): yếu tố<br>
+D. things /θɪŋz/ (n): điều, sự việc<br><b>
+Tạm dịch: </b>Using electronic devices in modern classrooms has many (27) _______ . <i>(Sử dụng các thiết bị điện tử trong lớp học hiện đại có nhiều lợi ích.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`search for `,`look after`,`read aloud`,`8turn off`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ<br>
+*Xét các đáp án: </b><br>
+A. search for: tìm kiếm<br>
+B. look after: chăm sóc<br>
+C. read aloud: đọc to<br>
+D. turn off: tắt<br><b>
+Tạm dịch:</b> They can (28) _______. things they need to learn and understand better. <i>(Các em có thể tìm kiếm những thứ mình cần học và hiểu tốt hơn.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`together `,`one another`,`each another`,`each other`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ:<br>
+*Ta có: </b>work together: làm việc cùng nhau<br><b>
+Tạm dịch:</b> Students can use apps and websites to take quizzes, have discussions, and work (29) _______ on projects. <i>(Học sinh có thể sử dụng các ứng dụng và trang web để làm bài kiểm tra, thảo luận và cùng nhau làm các dự án.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`critic`,`critically`,`critical`,`criticism`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+*Xét các đáp án: </b><br>
+A. critic /ˈkrɪtɪk/ (n): nhà phê bình<br>
+B. critically /ˈkrɪtɪkli/ (adv): một cách phê bình, phản biện<br>
+C. critical /ˈkrɪtɪkəl/ (adj): quan trọng, mang tính phê bình<br>
+D. criticism /ˈkrɪtɪsɪzəm/ (n): sự phê bình<br>
+*Ta có quy tắc: Sau động từ là trạng từ -&gt; chỗ trống cần một trạng từ<br><b>
+Tạm dịch: </b>This helps them think (30) _______ and solve problems. <i>(Điều này giúp các em suy nghĩ phản biện và giải quyết vấn đề.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`Therefore `,`However`,`Moreover`,`Otherwise`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+*Xét các đáp án: </b><br>
+A. Therefore, S + V: do đó<br>
+B. However, S + V: tuy nhiên<br>
+C. Moreover, S + V: hơn nữa<br>
+D. Otherwise, S + V: nếu không thì<br><b>
+Tạm dịch:</b> They can watch videos, see pictures and listen to recordings to make learning more fun. (31) _______, electronic devices also help students become good with technology. <i>(Các em có thể xem video, xem hình ảnh và nghe các bản ghi âm để việc học trở nên thú vị hơn. Hơn nữa, các thiết bị điện tử cũng giúp học sinh trở nên giỏi công nghệ.)</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`on`,`at`,`for`,`in`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ<br>
+*Ta có: </b><br>
+- at a… pace: với tốc độ… <br><b>
+Tạm dịch:</b> Lastly, electronic devices let students learn (32) _______ their own pace. <i>(Cuối cùng, các thiết bị điện tử cho phép học sinh học theo tốc độ của riêng mình.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p><p><div style="text-align: justify;">British English and American English are two variations of the English language that share many similarities, but also some notable differences in pronunciation, vocabulary and grammar.</div><div style="text-align: justify;">The pronunciation of American English is one of the biggest differences. One of the most noticeable differences is the pronunciation of "R". The British tend to pronounce "R" in the middle and end of words very <b><u>softly</u></b>, but Americans like to stress it.</div><div style="text-align: justify;">Spelling is another difference. Americans often spell many verbs ending with a<i> -f</i> sound by using<i>-ed</i> as in "burnt" (BE) and "burned" (AE). In both of these cases, the -t is pronounced. British prefer to spell -<i>ise</i> with a "S" but Americans prefer to spell it as it is pronounced with a "Z".</div><div style="text-align: justify;">There are even differences in vocabulary. Americans use the word "pants" for "trousers" and "apartment" for the word "flat".</div><div style="text-align: justify;">Grammar is another area of difference. The British are more likely to use formal speech, such as "shall", while Americans prefer the more informal version, "will". You may hear the British say "needn't", but Americans would almost always use "don't need to".</div><div style="text-align: justify;">In spite of these differences, the vast majority of language points is the same in both <b><u>variations</u></b>.</div></p>`,
+          media:``,
+          question: `__________ are used to give more explanations to each point.
+        `,
+          options: [`Examples`,`Quotes`,`Facts`,`Numbers`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>_________ được sử dụng để đưa ra nhiều lời giải thích hơn cho từng ý.</b><br>
+A. Ví dụ <br>
+B. Trích dẫn <br>
+C. Sự kiện <br>
+D. Số liệu<br><b>
+Căn cứ vào thông tin:</b> The pronunciation of American English is one of the biggest differences. One of the most noticeable differences is the pronunciation of "R". <i>(Cách phát âm của tiếng Anh Mỹ là một trong những điểm khác biệt lớn nhất. Một trong những điểm khác biệt đáng chú ý nhất là cách phát âm của "R".)</i><br>
+Spelling is another difference. Americans often spell many verbs ending with a -f sound by using-ed as in "burnt" (BE) and "burned" (AE).  <i>(Chính tả là một điểm khác biệt nữa. Người Mỹ thường viết nhiều động từ kết thúc bằng âm -f bằng cách sử dụng -ed như trong "burnt" (BE) và "burned" (AE).)</i><br>
+There are even differences in vocabulary. Americans use the word "pants" for "trousers" and "apartment" for the word "flat". <i>(Thậm chí còn có sự khác biệt về từ vựng. Người Mỹ sử dụng từ "pants" cho "trousers" và "apartment" cho từ "flat".)</i><br>
+Grammar is another area of difference. The British are more likely to use formal speech, such as "shall", while Americans prefer the more informal version, "will".<i>   (Ngữ pháp là một điểm khác biệt nữa. Người Anh có nhiều khả năng sử dụng cách nói trang trọng hơn, chẳng hạn như "shall", trong khi người Mỹ thích phiên bản không trang trọng hơn, "will".)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word '<b>softly</b>' is OPPOSITE in meaning to __________.
+        `,
+          options: [`lightly`,`quietly`,`hardly`,`loudly`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ 'softly' trái nghĩa với _________.</b><br>
+A. lightly /'laitli/ (adv): một cách nhẹ, nhẹ nhàng <br>
+B. quietly /'kwaiətli/ (adv): một cách êm ả <br>
+C. hardly /'hɑ:dli/ (adv): vừa mới <br>
+D. loudly /'laʊdli/ (adv): một cách to<br><b>
+Căn cứ vào thông tin:</b> The British tend to pronounce "R" in the middle and end of words very softly, but Americans like to stress it.<i>  (Người Anh có xu hướng phát âm "R" ở giữa và cuối từ rất nhẹ, nhưng người Mỹ thích nhấn mạnh vào nó.)</i><br>
+-&gt;softly /'sɒftli/ (adv): một cách nhẹ nhàng, dịu dàng &gt;&lt; loudly<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which example is NOT mentioned in the text?
+        `,
+          options: [`apartment vs. flat`,`pronunciation of R`,`spelling of –ed`,`fluency`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Ví dụ nào KHÔNG được đề cập trong văn bản?</b><br>
+A. apartment so với flat<br>
+B. cách phát âm của R<br>
+C. cách viết của –ed<br><b>
+D. sự lưu loát<br>
+Căn cứ vào thông tin: </b><br>
+There are even differences in vocabulary. Americans use the word "pants" for "trousers" and "apartment" for the word "flat". <i>(Thậm chí còn có sự khác biệt về từ vựng. Người Mỹ sử dụng từ "pants" cho "trousers" và "apartment" cho từ "flat".) -&gt; đáp án A được đề cập</i><br>
+The pronunciation of American English is one of the biggest differences. One of the most noticeable differences is the pronunciation of "R". <i>(Cách phát âm của tiếng Anh Mỹ là một trong những điểm khác biệt lớn nhất. Một trong những điểm khác biệt đáng chú ý nhất là cách phát âm của "R".) -&gt; đáp án B được đề cập</i><br>
+Spelling is another difference. Americans often spell many verbs ending with a -f sound by using-ed as in "burnt" (BE) and "burned" (AE).  <i>(Chính tả là một điểm khác biệt nữa. Người Mỹ thường viết nhiều động từ kết thúc bằng âm -f bằng cách sử dụng -ed như trong "burnt" (BE) và "burned" (AE).) -&gt; đáp án C được đề cập</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word '<b>variations</b>' is CLOSEST in meaning to __________.
+        `,
+          options: [`changes`,`similarities`,`stabilities`,`uniformities`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ variations có nghĩa GẦN NHẤT với _________.</b><br>
+A. change /tʃeɪndʒ/ (n): sự thay đổi<br>
+B. similarity /ˌsɪməˈlærəti/ (n): sự giống nhau<br>
+C. stability /stəˈbɪləti/ (n): sự ổn định<br>
+D. uniformity /ˌjuːnɪˈfɔːməti/ (n): tính đồng nhất<br><b>
+Căn cứ vào thông tin:</b> In spite of these differences, the vast majority of language points is the same in both variations. <i>(Mặc dù có những khác biệt này, phần lớn các điểm ngôn ngữ đều giống nhau ở cả hai biến thể.)<br>
+-&gt; variation /,veəri'ei∫n/ (n): biến dạng, biến thể ~ change</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What final comment does the author make about the differences between American and British English?
+        `,
+          options: [`They need to be memorized.`,`They are confusing to learners.`,`There are many differences.`,`There are not many differences.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tác giả đưa ra bình luận cuối cùng nào về sự khác biệt giữa tiếng Anh Mỹ và tiếng Anh Anh?</b><br>
+A. Chúng cần phải được ghi nhớ.<br>
+B. Chúng gây nhầm lẫn cho người học.<br>
+C. Có nhiều điểm khác biệt.<br>
+D. Không có nhiều điểm khác biệt<br><b>
+Căn cứ vào thông tin:</b> In spite of these differences, the vast majority of language points is the same in both variations. <i>(Mặc dù có những khác biệt này, phần lớn các điểm ngôn ngữ đều giống nhau ở cả hai biến thể.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What is the main idea of the passage?
+        `,
+          options: [`There are several key differences between American and British English. `,`American and British English are two completely different languages. `,`American English is easier to understand than British English. `,`British people always use more formal grammar than Americans.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Ý chính của đoạn văn là gì?</b><br>
+A. Có một số điểm khác biệt chính giữa tiếng Anh Mỹ và tiếng Anh Anh.<br>
+B. Tiếng Anh Mỹ và tiếng Anh Anh là hai ngôn ngữ hoàn toàn khác nhau.<br>
+C. Tiếng Anh Mỹ dễ hiểu hơn tiếng Anh Anh.<br>
+D. Người Anh luôn sử dụng ngữ pháp trang trọng hơn người Mỹ.<br><b>
+Căn cứ vào thông tin: </b>British English and American English are two variations of the English language that share many similarities, but also some notable differences in pronunciation, vocabulary and grammar. <i>(Tiếng Anh Anh và tiếng Anh Mỹ là hai biến thể của tiếng Anh có nhiều điểm tương đồng, nhưng cũng có một số điểm khác biệt đáng chú ý về cách phát âm, từ vựng và ngữ pháp.)</i><br>
+The pronunciation of American English is one of the biggest differences. One of the most noticeable differences is the pronunciation of "R". <i>(Cách phát âm của tiếng Anh Mỹ là một trong những điểm khác biệt lớn nhất. Một trong những điểm khác biệt đáng chú ý nhất là cách phát âm của "R".)</i><br>
+Spelling is another difference. Americans often spell many verbs ending with a -f sound by using-ed as in "burnt" (BE) and "burned" (AE).  <i>(Chính tả là một điểm khác biệt nữa. Người Mỹ thường viết nhiều động từ kết thúc bằng âm -f bằng cách sử dụng -ed như trong "burnt" (BE) và "burned" (AE).</i><br>
+There are even differences in vocabulary. Americans use the word "pants" for "trousers" and "apartment" for the word "flat". <i>(Thậm chí còn có sự khác biệt về từ vựng. Người Mỹ sử dụng từ "pants" cho "trousers" và "apartment" cho từ "flat".)</i><br>
+Grammar is another area of difference. The British are more likely to use formal speech, such as "shall", while Americans prefer the more informal version, "will".   <i>(Ngữ pháp là một điểm khác biệt nữa. Người Anh có nhiều khả năng sử dụng cách nói trang trọng hơn, chẳng hạn như "shall", trong khi người Mỹ thích phiên bản không trang trọng hơn, "will".)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`resear<u>ch</u> `,`<u>ch</u>allenge `,`ex<u>ch</u>ange `,`bro<u>ch</u>ure `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm:<br>
+*Xét các đáp án:</b><br>
+A. resear<u>ch</u> /rɪˈsɜː<u>tʃ</u>/ <br>
+B. <u>ch</u>allenge /ˈ<u>tʃ</u>ælɪndʒ/<br>
+C. ex<u>ch</u>ange /ɪksˈ<u>tʃ</u>eɪndʒ/<br>
+D. bro<u style="">ch</u>ure /ˈbrəʊ<u>ʃ</u>ə(r)/<br><b>
+=&gt; Phần gạch chân ở câu D được phát âm là /ʃ/ còn lại được phát âm là /tʃ/.</b><br>
+Do đó, ta chọn đáp án D.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`c<u>o</u>ncentric `,`c<u>o</u>mmunal `,`d<u>o</u>mestic `,`m<u>o</u>nument `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm:<br>
+*Xét các đáp án:</b><br>
+A. c<u>o</u>ncentric /k<u>ə</u>nˈsentrɪk/<br>
+B. c<u>o</u>mmunal /k<u>ə</u>ˈmjuː.nəl/<br>
+C. d<u>o</u>mestic /d<u>ə</u>ˈmestɪk/<br>
+D. m<u>o</u>nument /ˈm<u>ɒ</u>njumənt/<br><b>
+=&gt; Phần gạch chân ở câu D được phát âm là /ɒ/ còn lại được phát âm là /ə/.</b><br>
+Do đó, ta chọn đáp án D.`,
+        }, ],
+    },
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`tour<u>s</u>`,`holiday<u>s</u>`,`model<u>s</u>`,`ticket<u>s</u>`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm: <br>*Xét các đáp án: </b><br>A. tour<u>s</u> /tʊə<u>z</u>/<br>B. holiday<u>s</u> /ˈhɒlədeɪ<u>z</u>/<br>C. model<u>s</u> /ˈmɒdl<u>z</u>/<br>D. ticket<u>s</u> /ˈtɪkɪt<u>s</u>/<br><b>=&gt; Theo quy tắc phát âm đuôi -s, ta có:</b><br>+ /s/: khi âm tận cùng trước nó là /p/, /k/, /f/, /θ/, /t/.<br>+ /iz/: khi trước -s là: ch, sh, ss, x, ge.<br>+ /z/: khi âm tận cùng trước nó là nguyên âm và các phụ âm còn lại.<br>=&gt; Phần gạch chân ở câu D được phát âm là /s/, còn lại được phát âm là /z/.<br>=&gt; Do đó, ta chọn đáp án D.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`<u>c</u>amera `,`<u>c</u>onstruction `,`<u>c</u>inema `,`<u>c</u>ompany `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm: <br>
+*Xét các đáp án: </b><br>
+A. <u>c</u>amera /ˈ<u>k</u>æmərə/<br>
+B. <u>c</u>onstruction /<u>k</u>ənˈstrʌkʃn/<br>
+C. <u>c</u>inema /ˈ<u>s</u>ɪnəmə/<br>
+D. <u>c</u>ompany /ˈ<u>k</u>ʌmpəni/<br>
+=&gt; Phần gạch chân ở câu  được phát âm là /s/, còn lại được phát âm là /k/.<br>
+=&gt; Do đó, ta chọn đáp án C.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word that is OPPOSITE in meaning to the underlined word(s) in the following sentence.</b></p>`,
+          media:``,
+          question: `The loss of her pet had left her feeling deeply <b><u>depressed</u></b> for weeks.
+        `,
+          options: [`delighted`,`confused`,`disappointed `,`worried`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ- từ trái nghĩa:<br>
+Tạm dịch câu gốc: </b>Việc mất đi thú cưng đã khiến cô cảm thấy chán nản sâu sắc trong nhiều tuần.<br><b>
+=&gt; depressed /di'prest/ (adj): chán nản, buồn phiền</b><br><b>
+*Xét các đáp án:</b><br>
+A. delighted /dɪˈlaɪtɪd/ (adj): vui mừng<br>
+B. confused /kənˈfjuːzd/ (adj): bối rối<br>
+C. disappointed /ˌdɪsəˈpɔɪntɪd/ (adj): thất vọng<br>
+D. worried /ˈwʌrid/ (adj): lo lắng<br>
+=&gt; depressed &gt;&lt; delighted<br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best option that fits each of the numbered blanks from 4 to 8. </b></p><p><div style="text-align: justify;">There are many different English-speaking countries. Although the language is essentially the same, there are some aspects of the language (4) __________ are different in different places. The most common English comparison is between "British English" and "American English". Firstly, the pronunciation is different. There are many (5) __________ for this: it could be that the accent affects the pronunciation in different cases, the pronunciation can also be affected by other languages (6) __________ in that area. So you have to listen carefully. Secondly, the spelling and grammar are different. For example, in British English, you would write "colour" or "programme" (7) __________ in American English, you would write "color" or "program". Thirdly, there can also be a difference in vocabulary. There are instances where (8) __________ objects are called different things. In British English, you would say "I live in a flat", while in American English you would say: "I live in an apartment".</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`they`,`that`,`whose`,`what `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ/trạng từ quan hệ<br>
+*Xét các đáp án:</b><br>
+A. <b>they </b>là đại từ quan hệ nhân xưng cho danh từ ngôi thứ 3 số nhiều<br>		
+B. <b>that </b>là đại từ quan hệ thay thế cho cả danh từ chỉ vật và danh từ chỉ người ,  không dùng “that” khi phía trước nó có dấu phẩy hoặc giới từ  <br>	
+C. <b>whose </b>là đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br>		
+D. <b>what </b>dùng làm từ để hỏi hoặc dùng trong mệnh đề danh từ	<br><b>
+*Ta có:</b><br>
+- Cần đại từ quan hệ thay thế cho cụm danh từ chỉ vật “some aspects of the language” ở phía trước -&gt; chỉ dùng được “that”<br><b>
+Tạm dịch:</b> Although the language is essentially the same, there are some aspects of the language (4) _______ are different in different places.<i> (Mặc dù ngôn ngữ về cơ bản là giống nhau, nhưng có một số khía cạnh của ngôn ngữ khác nhau ở những nơi khác nhau.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`reasons`,`examples`,`sources `,`aspects `,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. reason /ˈriːzn/ (n): lý do<br>
+B. example /ɪɡˈzɑːmpl/ (n): ví dụ<br>
+C. source /sɔːs/ (n): nguồn<br>
+D. aspect /ˈæspekt/ (n): khía cạnh<br><b>
+Tạm dịch: </b>There are many (5) _______ for this: it could be that the accent affects the pronunciation in different cases, the pronunciation can also be affected by other languages (6) _______ in that area. <i>(Có nhiều lý do giải thích cho điều này: có thể là giọng địa phương ảnh hưởng đến cách phát âm trong những trường hợp khác nhau, cách phát âm cũng có thể bị ảnh hưởng bởi những ngôn ngữ khác được nói trong khu vực đó.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`spoken`,`conversed`,`said`,`talked`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. speak /spi:k/ (v): thường được dùng trong bối cảnh trang trọng và lịch sự (ví dụ trong công việc, bài giảng, thuyết trình), dùng khi nói chuyện với người bạn không biết rõ về họ, thường là nói vì một mục đích nào đó hoặc nói họ làm gì (tập trung vào người nói). Ngoài ra khi nhắc về khả năng nói được ngôn ngữ nào đó<br>
+B. converse /kənˈvɜːs/ (v): đàm thoại<br>
+C. say /sei/ (v): không bao giờ đứng trước tân ngữ chỉ người, hay dùng để tường thuật lại lời nói của ai đó, tập trung vào từ ngữ cụ thể người nói hơn<br>
+D. talk /tɔːk/ (v): được dùng trong tình huống không trang trọng/ thân mật, thường là bạn bè, cha mẹ để thể hiện sự thân thiện hoặc xin lời khuyên, trao đổi thông tin, cảm xúc..., (tập trung vào người nói và có ít nhất một người nghe)<br><b>
+Tạm dịch: </b>There are many reasons for this: it could be that the recent affects the pronunciation in different cases, the pronunciation can also be affected by other languages (6) _______ in that area. <i>(Có nhiều lý do giải thích cho điều này: có thể là giọng địa phương ảnh hưởng đến cách phát âm trong những trường hợp khác nhau, cách phát âm cũng có thể bị ảnh hưởng bởi những ngôn ngữ khác được nói trong khu vực đó.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`whereas`,`moreover `,`whenever`,`however `,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+*Xét các đáp án: </b><br>
+A. whereas + S + V: trong khi<br>
+B. moreover, S + V: hơn nữa<br>
+C. whenever + S + V: bất cứ khi nào<br>
+D. however, S + V: tuy nhiên<br><b>
+Tạm dịch: </b>For example, in British English, you would write "colour" or "programme" (7) _______ in American English you would write "color" or "program".<i> (Ví dụ, trong tiếng Anh Anh, bạn sẽ viết "colour" hoặc "programme" trong khi trong tiếng Anh Mỹ, bạn sẽ viết "color" hoặc "program".)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`common`,`general`,`popular`,`specific`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. common /ˈkɒmən/ (adj): phổ biến<br>
+B. general /ˈdʒenrəl/ (adj): chung<br>
+C. popular /ˈpɒpjələ/ (adj): được yêu thích<br>
+D. specific /spəˈsɪfɪk/ (adj): cụ thể<br><b>
+Tạm dịch:</b> There are instances where (8) _______ objects are called different things. In British English, you would say "I live in a flat", while in American English you would say: "I live in an apartment". <i>(Có những trường hợp các đối tượng cụ thể được gọi là những thứ khác nhau.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the underlined part that needs correction in each of the following questions.</b></p>`,
+          media:``,
+          question: `The <u>more</u> you <u>practice</u>, the <u>fluently</u> you can <u>speak</u>.
+        `,
+          options: [`more`,`practice`,`speak`,`fluently`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sửa lỗi sai – so sánh kép:</b><br>
+Ta có:<br><b>
+The + so sánh hơn + (adj/adv)+ S + V, the + so sánh hơn +  (adj/adv)+ S + V: càng…. thì càng  </b><br>
++ Vì “fluently” là trạng từ dài nên dựa vào công thức so sánh hơn của tính từ dài  là “more fluently”<br>
+=&gt; đáp án D sai.<br>
+=&gt; Sửa: <b>fluently -&gt; more fluently<br>
+Tạm dịch: </b>Bạn luyện tập càng nhiều thì bạn có thể nói càng trôi chảy.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<u>The</u> woman <u>who</u> daughter I <u>saw</u> yesterday <u>is</u> a doctor.
+        `,
+          options: [`the`,`is`,`saw`,`who`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sửa lỗi sai-đại từ quan hệ:</b><br>
+Ta có: <br>
+- whose: đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br>
+- who: đại từ quan hệ thay thế cho danh từ chỉ người, đóng vai trò làm chủ
+ngữ/tân ngữ trong mệnh đề quan hệ<br>
+Ta cần đại từ quan hệ thay thế chỉ sở hữu vì daughter thuộc sở hữu của the woman -&gt; phải sử dụng whose <br>
+=&gt; đáp án D sai.<br>
+=&gt; Sửa:<b> who -&gt; whose<br>
+Tạm dịch: </b>Người phụ nữ mà tôi gặp con gái hôm qua là một bác sĩ<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Everyone <u>should</u> arrive early <u>so that</u> we <u>can</u> start the meeting <u>at time</u>.
+        `,
+          options: [`should`,`so that`,`can`,`at time`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sửa lỗi sai – cụm từ:</b><br>
+Ta có:<br>
+On time: đúng giờ, đúng thời điểm đã định<br>
+=&gt; đáp án D sai.<br>
+=&gt; Sửa:<b> at time -&gt; on time<br>
+Tạm dịch:</b> Mọi người nên đến sớm để chúng ta có thể bắt đầu cuộc họp đúng giờ.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the best option that fits each of the numbered blanks from 12 to 14.</b></p><p><div style="text-align: justify;"><b>Want to be a tour guide?</b></div><div style="text-align: justify;">• Are you over 18 and (12) __________ in travelling and (13) __________ different cultures?</div><div style="text-align: justify;">• Apply to SOV Vocational School. We provide tour guide training courses all year round.</div><div style="text-align: justify;">• No qualifications needed</div><div style="text-align: justify;">• Low (14) __________</div><div style="text-align: justify;">• Apprenticeships provided</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`interest`,`interested `,`interesting `,`interestingly `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+*Xét các đáp án: </b><br>
+A. interest /ˈɪntrəst/ (n): sự quan tâm<br>
+B. interested /ˈɪntrəstɪd/ (adj): lộ vẻ quan tâm (chú ý, thích thú) (chỉ cảm xúc)<br>
+C. interesting /ˈɪntrəstɪŋ/ (adj): thú vị (chỉ tính chất)<br>
+D. interestingly /ˈɪntrəstɪŋli/ (adv): một cách thú vị<br><b>
+*Ta có quy tắc:</b> Sau động từ to be là tính từ<br><b>
+Tạm dịch: </b>Are you over 18 and (12) ________ in travelling and (13) ________ different cultures? (Bạn đã trên 18 tuổi và có hứng thú với việc du lịch và khám phá các nền văn hóa khác nhau?)<br>
+Căn cứ vào nghĩa, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`exploring `,`discovering `,`surveying `,`seeking `,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. explore /ɪkˈsplɔː/ (v): khám phá<br>
+B. discover /dɪˈskʌvə/ (v): phát hiện<br>
+C. survey /ˈsɜːveɪ/ (v): khảo sát<br>
+D. seek /siːk/ (v): tìm kiếm<br><b>
+Tạm dịch:</b> Are you over 18 and (12) ________ in travelling and (13) ________ different cultures? <i>(Bạn đã trên 18 tuổi và có hứng thú với việc du lịch và khám phá các nền văn hóa khác nhau?)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`rate`,`cost`,`price`,`expense`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. rate /reɪt/ (n): tỷ lệ<br>
+B. cost /kɒst/ (n): chi phí<br>
+C. price /praɪs/ (n): giá<br>
+D. expense /ɪkˈspens/ (n): khoản chi tiêu<br><b>
+Tạm dịch:</b> Low (14) _________<i> (Chi phí thấp)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `Simon hasn't read that book before, __________?
+        `,
+          options: [`has he`,`does he`,`did he`,`is he`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu hỏi đuôi<br>
+*Ta có:</b><br>
+- Nếu mệnh đề chính ở dạng khẳng định thì câu hỏi đuôi sẽ ở dạng phủ định và ngược lại.<br>
+- Động từ chính là “hasn't read” (HTHT), chủ ngữ là “Simon” nên ta sẽ có câu hỏi đuôi ở dạng khẳng định là “has he”.<br><b>
+Tạm dịch</b>: Simon chưa đọc cuốn sách đó phải không?<br>
+Do đó, A là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Classical music isn't my __________. I prefer pop.
+        `,
+          options: [`hot potato`,`flesh and blood`,`piece of cake`,`cup of tea`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thành ngữ<br>
+*Xét các đáp án:</b><br>
+A. hot potato: vấn đề nan giải<br>
+B. flesh and blood: máu mủ ruột thịt<br>
+C. piece of cake: dễ như ăn bánh<br>
+D. cup of tea: sở thích (thường dùng phủ định: not my cup of tea)<br><b>
+Tạm dịch: </b>Nhạc cổ điển không phải là sở thích của tôi. Tôi thích nhạc pop hơn.<br>
+Căn cứ vào nghĩa, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `When I woke up this morning, the birds __________ outside.
+        `,
+          options: [`had been singing`,`sang`,`are singing`,`were singing`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sự phối thì<br>
+*Ta có:</b><br>
+- Công thức phối thì với “When” diễn tả một hành động đang xảy ra thì một hành động khác xen vào trong quá khứ:<br><b>
+      When + S + V (quá khứ đơn), S + V (quá khứ tiếp diễn)</b><br><b>
+Tạm dịch:</b> Khi tôi thức dậy sáng nay, tiếng chim hót bên ngoài.<br>
+Do đó, D là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Mark</b>: "It's so hot today. Why don't we go to the swimming pool?" <b>Peter</b>: "__________.”
+        `,
+          options: [`That's a great idea.`,`Hate the weather, too.`,`I'm sorry I can't swim.`,`Thank you for inviting me.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp:<br>
+*Xét các đáp án:</b><br>
+A. That's a great idea: Đó là một ý tưởng tuyệt vời.<br>
+B. Hate the weather, too: Tôi cũng ghét thời tiết này.<br>
+C. I'm sorry I can't swimming: Tôi xin lỗi vì tôi không biết bơi<br>
+D. Thank you for inviting me: Cảm ơn vì đã mời tôi.<br><b>
+Tạm dịch:</b> Mark: "Hôm nay trời nóng quá. Sao chúng ta không đi bơi nhỉ?" Peter: "Đó là một ý tưởng tuyệt vời.”<br>
+Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Jim</b>: "Would you mind __________ here, Henry?"<br><b>
+Henry</b>: "Of course not."
 
+        `,
+          options: [`not smoking`,`not smoke`,`not to smoke`,`to not smoke`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về danh động từ<br>
+*Ta có: </b>mind + doing sth: phiền, ngại khi làm gì<br><b>
+Tạm dịch:</b> Jim: "Anh có phiền không nếu không hút thuốc ở đây, Henry?"<br>
+Henry: "Tất nhiên là không rồi."<br>
+Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The teacher's kind words and encouragement had a strong __________ on the students.
+        `,
+          options: [`happiness`,`expression`,`impression`,`kindness`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng:<br>
+*Xét các đáp án:</b><br>
+A. happiness /ˈhæpinəs/ (n): hạnh phúc<br>
+B. expression /ɪkˈspreʃn/ (n): biểu cảm<br>
+C. impression /ɪmˈpreʃn/ (n): ấn tượng<br>
+D. kindness /ˈkaɪndnəs/ (n): lòng tốt<br><b>
+Tạm dịch:</b> Những lời động viên và lời nói ân cần của giáo viên đã để lại ấn tượng sâu sắc cho học sinh.<br>
+Căn cứ vào nghĩa, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `It's difficult to __________ changes in technology.
+        `,
+          options: [`take care of`,`keep up with`,`get up`,`look through`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ:<br>
+*Xét các đáp án:</b><br>
+A. take care of: chăm sóc<br>
+B. keep up with: bắt kịp<br>
+C. get up: thức dậy<br>
+D. look through: xem lướt qua<br><b>
+Tạm dịch:</b> Thật khó để theo kịp những thay đổi của công nghệ.<br>
+Căn cứ vào nghĩa, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `I rarely go swimming __________ my house is near the beach.
+        `,
+          options: [`but`,`however`,`although`,`so`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ:<br>
+*Xét các đáp án:</b><br>
+A. but + S + V: nhưng<br>
+B. however, S + V: tuy nhiên<br>
+C. although + S + V: mặc dù<br>
+D. so + S + V: vì vậy<br><b>
+Tạm dịch:</b> Tôi hiếm khi đi bơi mặc dù nhà tôi ở gần bãi biển.<br>
+Căn cứ vào nghĩa, C là đáp án phù hợp.`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to the given one.</b></p>`,
+          media:``,
+          question: `"How long are you going to stay here?" he asked me.
+        `,
+          options: [`He asked me how long you were going to stay here. `,`He asked me how long I was going to stay there. `,`He asked me how long to stay here.`,`He asked me how long am I going to stay there. `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- câu tường thuật<br>
+Tạm dịch câu gốc</b>: "Cậu định ở đây bao lâu?" anh ấy hỏi tôi.<br>
+→ Ta có: <br>
+Cấu trúc câu tường thuật có từ để hỏi <b>S + asked + O + từ để hỏi + S + V (lùi 1 thì)</b><br>
+Khi chuyển từ câu trực tiếp -&gt; gián tiếp ta phải lùi thì, thay đổi ngôi và các trạng từ chỉ thời gian- nơi chốn. <br>
+Trong câu này ta phải đổi như sau: <br>
+“you” =&gt; “I”; “are..going to” =&gt; “was going to”; “here” =&gt; “there”<br><b>
+* Xét các đáp án:</b><br>
+A. Anh ấy hỏi tôi bạn định ở đây bao lâu.<br>
+→ Sai vì chưa đổi “you” =&gt; “I”<br>
+B. Anh ấy hỏi tôi sẽ ở lại đó bao lâu.<br>
+→ Đúng ngữ pháp<br>
+C. Anh ấy hỏi tôi phải ở lại đây bao lâu.<br>
+→ Sai ngữ pháp<br>
+D. Anh ấy hỏi tôi sẽ ở đó bao lâu.<br>
+→ Sai vì chưa lùi thì <br>
+=&gt; Do đó, ta chọn đáp án B.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `People have reported that Thien Duong is the longest cave in Vietnam.
+        `,
+          options: [`It was reported that Thien Duong is the longest cave in Vietnam.`,`People report that Thien Duong has been the longest cave in Vietnam.`,`People reported that Thien Duong has been the longest cave in Vietnam.`,`It has been reported that Thien Duong is the longest cave in Vietnam.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- câu bị động<br>
+Tạm dịch câu gốc</b>: Người ta cho rằng Thiên Đường là hang động dài nhất Việt Nam.<br>
+→ Ta có: <br><i>
+Một số động từ chỉ quan điểm ý kiến thông dụng là: think/ say/ suppose/ believe/ consider/ report... (nghĩ rằng/ nói rằng/ cho rằng/ tin rằng/ xem xét rằng/ thông báo rằng...)</i><br>
+Cấu trúc từ câu chủ động sang bị động:<br>
+S1 + V1 (say/ think/ suppose/…)+ THAT + S2 + V2 + ...<br>
+-&gt; C1: IT + V1(bị động) + THAT + S2 + V2+...<br>
+-&gt;C2:  S2 + V1(bi động) + TO + V2 (bare) (nếu V2 và V1 cùng thì)<br>
+             S2 + V1(bi động) + HAVE + VpII (nếu V2 và V1 khác thì)<br><b>
+* Xét các đáp án:</b><br>
+A. Người ta cho rằng Thiên Đường là hang động dài nhất Việt Nam.<br>
+-&gt; Sai thì, phải đổi was reported thành has been reported mới đúng<br>
+B. Người ta cho rằng Thiên Đường là hang động dài nhất Việt Nam.<br>
+-&gt; Sai thì<br>
+C. Người ta cho rằng Thiên Đường là hang động dài nhất Việt Nam.<br>
+-&gt; Sai thì<br>
+D. Người ta cho rằng Thiên Đường là hang động dài nhất Việt Nam.<br>
+→ Đúng ngữ pháp<br><b>
+=&gt; Do đó, ta chọn đáp án D.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `I last met my grandparents five years ago.
+        `,
+          options: [`I have met my grandparents for five years.`,`I didn't meet my grandparents five years ago. `,`I often met my grandparents five years ago. `,`I haven't met my grandparents for five years.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- cấu trúc câu<br>
+Tạm dịch câu gốc</b>: Lần cuối cùng tôi gặp ông bà tôi là cách đây năm năm.<br>
+→ Ta có: <br><b>
+S + last + V2/-ed + …<br>
+↔ S + have/has + NOT + V3/-ed + since/for …  <br>
+↔The last time + S + V + was …  <br>
+↔ It is/ has been + [thời gian] + since + S + last V2/-ed + … =<br>
+* Xét các đáp án:</b><br>
+A. Tôi đã gặp ông bà tôi được năm năm.<br>
+-&gt; Sai nghĩa<br>
+B. Tôi đã không gặp ông bà tôi cách đây 5 năm.<br>
+-&gt; Sai nghĩa<br>
+C. Tôi thường gặp ông bà tôi được năm năm.<br>
+-&gt; Sai nghĩa<br>
+D. Tôi đã không gặp ông bà tôi được năm năm.<br>
+-&gt; Sát nghĩa so với câu gốc và đúng ngữ pháp<br><b>
+=&gt; Do đó, ta chọn đáp án D.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word that is CLOSEST in meaning to the underlined word(s) in the following sentence.</b></p>`,
+          media:``,
+          question: `Maria was determined to <b><u>memorize</u></b> the lyrics to her favorite song so she could sing along at the concert.
+        `,
+          options: [`figure out`,`learn by heart`,`throw away`,`lose track of`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng- từ đồng nghĩa:<br>
+Tạm dịch câu gốc:</b> Maria quyết tâm ghi nhớ lời bài hát yêu thích của mình để có thể hát theo trong buổi hòa nhạc.<br><b>
+=&gt; memorise /'meməraiz/ (v): ghi nhớ, ghi chép</b><br><b>
+*Xét các đáp án:</b><br>
+A. figure out: hiểu ra<br>
+B. learn by heart: học thuộc lòng<br>
+C. throw away: vứt đi<br>
+D. lose track of: mất dấu, không theo dõi<br><b>
+=&gt; memorise ~ learn by heart</b><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word that differs from the other three in the position of stress in each of the following questions. </b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`music`,`visit`,`button`,`destroy `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm:<br>
+*Xét các đáp án:</b><br>
+ A. music /ˈmjuːzɪk/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm đôi /juː/.   <br>
+B. visit /ˈvɪzɪt/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, nếu tất cả các âm mà ngắn hết thì trọng âm rơi vào âm đầu tiên.  <br>
+C. button /ˈbʌtn/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, nếu tất cả các âm mà ngắn hết thì trọng âm rơi vào âm đầu tiên.  <br>
+D. destroy /dɪˈstrɔɪ/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm đôi /ɔɪ/.   <br>
+=&gt; Đáp án D có trọng âm rơi vào âm tiết thứ hai. Các đáp án còn lại trọng âm rơi vào âm tiết thứ nhất.<br>
+Do đó, ta chọn đáp án D.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`conditional`,`community`,`education`,`technology`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm:<br>
+*Xét các đáp án:</b><br>
+ A. conditional /kənˈdɪʃənl/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi -ion làm trọng âm rơi vào trước âm đó.<br>
+B. community /kəˈmjuːnəti/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi -ity làm trọng âm rơi vào trước âm đó.<br>
+C. education /ˌedʒuˈkeɪʃn/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, đuôi -ion làm trọng âm rơi vào trước âm đó.<br>
+D. technology /tekˈnɒlədʒi/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi -y làm trọng âm dịch chuyển ba âm tính từ cuối lên.  <br>
+=&gt; Đáp án C có trọng âm rơi vào âm tiết thứ ba. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai.<br>
+Do đó, ta chọn đáp án C.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best combines the two given ones.</b></p>`,
+          media:``,
+          question: `My mom may be busy this evening. I tend to cook some noodles for dinner.
+        `,
+          options: [`If my mom is busy this evening, I will cook some noodles for dinner.`,`If my mom were busy this evening, I will cook some noodles for dinner.`,`Unless my mom is busy this evening, I will cook some noodles for dinner.`,`If my mom is busy this evening, I would cook some noodles for dinner.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- câu điều kiện<br>
+Tạm dịch câu gốc:</b> Mẹ tôi có thể bận tối nay. Tôi thường nấu mì cho bữa tối.<br>
+→ Ta có: <br>
+Câu trên diễn tả về tình huống có thể xảy ra ở hiện tại hoặc tương lai → ta sử dụng câu điều kiện loại I.<br>
+*Cấu trúc câu điều kiện loại I:<b> If + S + V (hiện tại đơn), S + will/can/may/might/should…+  V(bare)<br>
+* Xét các đáp án:</b><br>
+A. Nếu mẹ tôi bận tối nay, tôi sẽ nấu mì cho bữa tối.<br>
+-&gt; Sát nghĩa với câu gốc và đúng ngữ pháp<br>
+B. Nếu mẹ tôi bận tối nay, tôi sẽ nấu mì cho bữa tối.<br>
+-&gt; Sai ngữ pháp, phải sửa were thành is mới đúng<br>
+C. Nếu mẹ tôi không bận tối nay, tôi sẽ nấu mì cho bữa tối.<br>
+-&gt; Sai nghĩa, <b>Unless + S + V = If not: nếu không thì</b><br>
+D. Nếu mẹ tôi bận tối nay, tôi sẽ nấu mì cho bữa tối.<br>
+-&gt; Sai ngữ pháp, phải sửa would thành will mới đúng<br><b>
+=&gt; Do đó, ta chọn đáp án A.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The man wanted to get some fresh air in the room. He opened the window.
+        `,
+          options: [`The man wanted to get some fresh air in the room because he opened the window.`,`Having opened the window, the man wanted to get some fresh air in the room.`,`The man opened the window in order to get some fresh air in the room.`,`The man got some fresh air in the room, even though he opened the window.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- liên từ<br>
+Tạm dịch câu gốc</b>: Người đàn ông muốn có chút không khí trong lành trong phòng. Anh ta mở cửa sổ.<br><b>
+* Xét các đáp án:</b><br>
+A. Người đàn ông muốn có chút không khí trong lành trong phòng vì anh ta đã mở cửa sổ.<br>
+-&gt; Sai nghĩa, cấu trúc<b> because + S + V: bởi vì</b><br>
+B. Sau khi mở cửa sổ, người đàn ông muốn có chút không khí trong lành trong phòng.<br>
+-&gt; Sai nghĩa, Khi hai mệnh đề đồng chủ ngữ, ta có thể bỏ chủ ngữ của mệnh đề đầu và đổi động từ chính về dạng <b>Ving </b>hoặc <b>Having + Vp2</b> (với mệnh đề mang nghĩa chủ động). Đưa động từ chính của mệnh đề đầu về dạng<b> Having + Vp2</b> khi muốn nhấn mạnh một hành động xảy ra xong trước rồi mới tới hành động khác.  <br>
+C. Người đàn ông mở cửa sổ để có chút không khí trong lành trong phòng.<br>
+-&gt; Sát nghĩa với câu gốc và đúng ngữ pháp, cấu trúc <b>in order to V: để làm gì</b><br>
+D. Người đàn ông đã có chút không khí trong lành trong phòng, mặc dù anh ta đã mở cửa sổ.<br>
+-&gt; Sai nghĩa, cấu trúc <b>even though + S + V: mặc dù<br>
+=&gt; Do đó, ta chọn đáp án C.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions from 31 to 36.</b></p><p><div style="text-align: justify;">Traveling can be an exciting experience, but sometimes things do not go as planned. A bad travel experience can happen due to delays, lost luggage, bad weather, or poor service. These unexpected problems can make a trip stressful and frustrating, especially if travelers are unprepared.</div><div style="text-align: justify;">One common issue is flight delays or cancellations. Travelers may have to wait for hours at the airport or even miss important events. Another problem is lost luggage, which can leave travelers without their essential items. Inclement weather, such as heavy rain or thunderstorms, can disrupt outdoor plans, making sightseeing or activities impossible. Poor accommodations and bad customer service can also contribute to a negative travel experience. A hotel room might look nothing like the photos online, or hotel staff might be unhelpful or rude. Dirty facilities or noisy surroundings can make travelers feel unwelcome. These problems can make a trip disappointing instead of enjoyable.</div><div style="text-align: justify;">Despite these challenges, travelers can take steps to minimize problems. Packing essentials in a carry-on bag, checking weather forecasts, and reading hotel reviews before booking are strategies for coping with potential bad experiences. Having backup plans can also make a trip smoother. While bad experiences can happen, they often teach valuable lessons for future travels.</div></p>`,
+          media:``,
+          question: `What is the main topic of the passage? 
+        `,
+          options: [`The excitement of traveling`,`The best travel destinations in the world`,`How to plan a perfect vacation`,`Common travel problems and how to handle them`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Chủ đề chính của đoạn văn là gì?</b><br>
+A. Sự phấn khích khi đi du lịch<br>
+B. Những điểm đến du lịch tuyệt vời nhất trên thế giới<br>
+C. Làm thế nào để lên kế hoạch cho một kỳ nghỉ hoàn hảo<br>
+D. Những vấn đề thường gặp khi đi du lịch và cách xử lý chúng<br><b>
+Căn cứ vào thông tin: </b>Traveling can be an exciting experience, but sometimes things do not go as planned. A bad travel experience can happen due to delays, lost luggage, bad weather, or poor service.  <i>(Du lịch có thể là một trải nghiệm thú vị, nhưng đôi khi mọi thứ không diễn ra như kế hoạch. Một trải nghiệm du lịch tồi tệ có thể xảy ra do sự chậm trễ, hành lý bị thất lạc, thời tiết xấu hoặc dịch vụ kém.)</i><br>
+Despite these challenges, travelers can take steps to minimize problems. <i>(Bất chấp những thách thức này, du khách có thể thực hiện các bước để giảm thiểu các vấn đề.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which of the following is NOT true about travel problems?
+        `,
+          options: [`Bad weather can ruin outdoor activities.`,`Flight cancellations can cause travelers to miss events.`,`Every hotel always looks exactly as appears online. `,`Lost luggage can leave travelers without important items.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Câu nào sau đây KHÔNG đúng về các vấn đề khi đi du lịch?</b><br>
+A. Thời tiết xấu có thể phá hỏng các hoạt động ngoài trời.<br>
+B. Việc hủy chuyến bay có thể khiến du khách bỏ lỡ các sự kiện.<br>
+C. Mọi khách sạn luôn trông giống hệt như hình ảnh trực tuyến.<br>
+D. Hành lý bị thất lạc có thể khiến du khách không có những vật dụng quan trọng.<br><b>
+Căn cứ vào thông tin:</b> Inclement weather, such as heavy rain or thunderstorms, can disrupt outdoor plans, making sightseeing or activities impossible. <i>(Thời tiết khắc nghiệt, chẳng hạn như mưa lớn hoặc giông bão, có thể làm gián đoạn các kế hoạch ngoài trời, khiến việc tham quan hoặc các hoạt động trở nên bất khả thi.)</i><br><i>
+-&gt; đáp án A đúng</i><br>
+One common issue is flight delays or cancellations. Travelers may have to wait for hours at the airport or even miss important events. <i>(Một vấn đề phổ biến là chuyến bay bị hoãn hoặc hủy. Du khách có thể phải chờ hàng giờ tại sân bay hoặc thậm chí bỏ lỡ các sự kiện quan trọng.) -&gt; đáp án B đúng</i><br>
+A hotel room might look nothing like the photos online, or hotel staff might be unhelpful or rude. <i>(Phòng khách sạn có thể không giống với ảnh trực tuyến hoặc nhân viên khách sạn có thể không hữu ích hoặc thô lỗ.) -&gt; đáp án C không đúng</i><br>
+Another problem is lost luggage, which can leave travelers without their essential items. <i>(Một vấn đề khác là hành lý bị thất lạc, có thể khiến du khách không có những vật dụng cần thiết.) -&gt; đáp án D đúng</i><br>
+Do đó, C là đáp án phù hợp.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "minimize" in paragraph 3 is closest in meaning to __________.
+        `,
+          options: [`ignore`,`reduce`,`increase`,`delay`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "minimize" ở đoạn 3 có nghĩa gần nhất với ________.</b><br>
+A. ignore /ɪɡˈnɔː/ (v): phớt lờ<br>
+B. reduce /rɪˈdjuːs/ (v): giảm<br>
+C. increase /ɪnˈkriːs/ (v): tăng<br>
+D. delay /dɪˈleɪ/ (v): trì hoãn<br><b>
+Căn cứ vào thông tin: </b>Despite these challenges, travelers can take steps to minimize problems.  <i>(Bất chấp những thách thức này, du khách có thể thực hiện các bước để giảm thiểu các vấn đề.)<br>
+-&gt;minimize /'minimaiz/ (v): giảm đến mức tối thiểu ~ reduce</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What is one common issue travelers face at the airport?
+        `,
+          options: [`Hotels being fully booked`,`Getting lost in a new city`,`Flight delays or cancellations`,`Forgetting their passports`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Một vấn đề phổ biến mà du khách gặp phải tại sân bay là gì?</b><br>
+A. Khách sạn đã kín chỗ<br>
+B. Bị lạc ở một thành phố mới<br>
+C. Chuyến bay bị hoãn hoặc hủy<br>
+D. Quên hộ chiếu<br><b>
+Căn cứ vào thông tin: </b>One common issue is flight delays or cancellations. <i>(Một vấn đề phổ biến là chuyến bay bị hoãn hoặc hủy.)</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `How can travelers avoid hotel-related problems?
+        `,
+          options: [`Arriving without a reservation`,`Reading hotel reviews before booking`,`Booking the cheapest option available`,`Trusting only the pictures on the hotel's website `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Làm thế nào để du khách tránh được các vấn đề liên quan đến khách sạn?</b><br>
+A. Đến mà không đặt phòng<br>
+B. Đọc các đánh giá về khách sạn trước khi đặt phòng<br>
+C. Đặt phòng theo lựa chọn rẻ nhất có sẵn<br>
+D. Chỉ tin tưởng vào hình ảnh trên trang web của khách sạn<br><b>
+Căn cứ vào thông tin:</b> Packing essentials in a carry-on bag, checking weather forecasts, and reading hotel reviews before booking are strategies for coping with potential bad experiences. <i>(Đóng gói những vật dụng cần thiết trong túi xách xách tay, kiểm tra dự báo thời tiết và đọc các đánh giá về khách sạn trước khi đặt phòng là những chiến lược để đối phó với những trải nghiệm tồi tệ có thể xảy ra.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Why can a bad travel experience still be useful?
+        `,
+          options: [`It makes every future trip stress-free.`,`It allows travelers to spend more money on new plans.`,`It guarantees that the next trip will be perfect.`,`It helps travelers learn valuable lessons for future trips.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tại sao một trải nghiệm du lịch tồi tệ vẫn có thể hữu ích?</b><br>
+A. Nó giúp mọi chuyến đi trong tương lai không còn căng thẳng.<br>
+B. Nó cho phép du khách chi nhiều tiền hơn cho các kế hoạch mới.<br>
+C. Nó đảm bảo rằng chuyến đi tiếp theo sẽ hoàn hảo.<br>
+D. Nó giúp du khách học được những bài học giá trị cho các chuyến đi trong tương lai.<br><b>
+Căn cứ vào thông tin: </b>While bad experiences can happen, they often teach valuable lessons for future travels. <i>(Mặc dù có thể xảy ra những trải nghiệm tồi tệ, nhưng chúng thường mang lại những bài học quý giá cho những chuyến đi sau.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences to make a meaningful dialogue in each of the following questions.</b></p>`,
+          media:``,
+          question: `<div style="text-align: justify;">a. Anna: I just heard APT on Youtube, and it made my day!</div><div style="text-align: justify;">b. Anna: Exactly! Music has such a powerful way of lifting our spirits.</div><div style="text-align: justify;">c. Tom: That's awesome! I love listening too, it always puts me in a good mood.</div>
+        `,
+          options: [`a-b-c`,`c-a-b`,`c-b-a`,`a-c-b`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành hội thoại:</b><br>
+*Để tạo nên một đoạn hội thoại hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự nối tiếp về nội dung với câu trước.
+=&gt; Ta có cách sắp xếp hoàn chỉnh:<br>
+a. Anna: I just heard APT on Youtube, and it made my day! <i>(Anna: Tôi vừa nghe APT trên Youtube, và nó làm tôi vui cả ngày!)</i><br>
+c. Tom: That's awesome! I love listening too, it always puts me in a good mood. <i>(Tom: Tuyệt quá! Tôi cũng thích nghe, nó luôn khiến tôi vui vẻ.)</i><br>
+b. Anna: Exactly! Music has such a powerful way of lifting our spirits. <i>(Anna: Chính xác! Âm nhạc có sức mạnh nâng cao tinh thần của chúng ta.)</i><br>
+Vậy ta có thứ tự sắp xếp đúng là: <b>a-c-b</b><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<div style="text-align: justify;">a. That's true! Protecting ecosystems keeps nature balanced.</div><div style="text-align: justify;">b. Why is ecology so important?</div><div style="text-align: justify;">c. Exactly! We need to conserve resources and reduce pollution.</div><div style="text-align: justify;">d. It helps us understand how living things interact with the environment.</div>
+        `,
+          options: [`c-a-b-d`,`d-a-c-b`,`d-c-b-a`,`b-d-a-c`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành hội thoại:</b><br>
+*Để tạo nên một đoạn hội thoại hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự nối tiếp về nội dung với câu trước.<br>
+=&gt; Ta có cách sắp xếp hoàn chỉnh:<br>
+b. Why is ecology so important? <i>(Tại sao sinh thái học lại quan trọng như vậy?)</i><br>
+d. It helps us understand how living things interact with the environment.<i> (Nó giúp chúng ta hiểu cách các sinh vật tương tác với môi trường.)</i><br>
+a. That's true! Protecting ecosystems keeps nature balanced.<i> (Đúng vậy! Bảo vệ hệ sinh thái giúp cân bằng thiên nhiên.)</i><br>
+c. Exactly! We need to conserve resources and reduce pollution. <i>(Chính xác! Chúng ta cần bảo tồn tài nguyên và giảm ô nhiễm.)</i><br>
+Vậy ta có thứ tự sắp xếp đúng là: <b>b-d-a-c</b><br>
+Do đó, D là đáp án phù hợp.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<div style="text-align: justify;">a. Alice: Maybe we could go to the new shopping mall on Sunday?</div><div style="text-align: justify;">b. Mark: Sure! I've heard they have some great stores there.</div><div style="text-align: justify;">c. Alice: I'm planning to relax after finishing all my assignments.</div><div style="text-align: justify;">d. Mark: That sounds perfect after a busy week of studying.</div><div style="text-align: justify;">e. Alice: Do you want to join me?</div>
+        `,
+          options: [`d-b-a-e-c`,`c-b-a-e-d`,`c-d-e-b-a`,`d-e-a-b-c`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành hội thoại:</b><br>
+*Để tạo nên một đoạn hội thoại hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự nối tiếp về nội dung với câu trước.<br>
+=&gt; Ta có cách sắp xếp hoàn chỉnh:<br>
+c. Alice: I'm planning to relax after finishing all my assignments. <i>(Alice: Tôi định thư giãn sau khi hoàn thành hết bài tập.)</i><br>
+d. Mark: That sounds perfect after a busy week of studying. <i>(Mark: Nghe có vẻ hoàn hảo sau một tuần học tập bận rộn.)</i><br>
+e. Alice: Do you want to join me? <i>(Alice: Bạn có muốn đi cùng tôi không?)</i><br>
+b. Mark: Sure! I've heard they have some great stores there. <i>(Mark: Chắc chắn rồi! Tôi nghe nói ở đó có một số cửa hàng tuyệt vời.)</i><br>
+a. Alice: Maybe we could go to the new shopping mall on Sunday? <i>(Alice: Có lẽ chúng ta có thể đến trung tâm mua sắm mới vào Chủ Nhật?)</i><br>
+Vậy ta có thứ tự sắp xếp đúng là: <b>c-d-e-b-a</b><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct arrangement of the sentences to make a meaningful paragraph/letter in each of the following questions.</b></p>`,
+          media:``,
+          question: `<div style="text-align: justify;">a. Just 30 minutes of physical activity a day, whether it's brisk walking, yoga, or weightlifting, can lead to
+significant improvements in fitness.</div><div style="text-align: justify;">b. With many types of exercises to choose from, it's easy to find something enjoyable that suits your lifestyle.</div><div style="text-align: justify;">c. Regular exercise is one of the best habits for enhancing overall health, benefiting both your body and
+mind.</div><div style="text-align: justify;">d. In conclusion, staying active regularly is vital for achieving lasting physical and mental well-being.</div><div style="text-align: justify;">e. It boosts your mood, improves cardiovascular health, and aids in maintaining a healthy weight, reducing the risk of diseases.</div>
+        `,
+          options: [`b-a-c-e-d`,`a-e-c-b-d`,`e-a-b-c-d`,`c-e-a-b-d`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành đoạn văn:</b><br>
+*Để tạo nên một đoạn văn hoàn chỉnh, ta cần có luận điểm để mở đầu và các luận cứ để giải thích cho luận điểm đó. <br>
+=&gt; Ta có cách sắp xếp hoàn chỉnh:<br>
+c. Regular exercise is one of the best habits for enhancing overall health, benefitting both your body and mind. <i>(Tập thể dục thường xuyên là một trong những thói quen tốt nhất để tăng cường sức khỏe tổng thể, có lợi cho cả cơ thể và trí óc của bạn.)</i><br>
+e. It boosts your mood, improves cardiovascular health, and aids in maintaining a healthy weight, reducing the risk of diseases. <i>(Nó giúp cải thiện tâm trạng, sức khỏe tim mạch và hỗ trợ duy trì cân nặng khỏe mạnh, giảm nguy cơ mắc bệnh.)</i><br>
+a. Just 30 minutes of physical activity a day, whether it's brisk walking, yoga, or weightlifting, can lead to significant improvements in fitness. <i>(Chỉ cần 30 phút hoạt động thể chất mỗi ngày, dù là đi bộ nhanh, yoga hay cử tạ, có thể giúp cải thiện đáng kể thể lực.)</i><br>
+b. With many types of exercises to choose from, it's easy to find something enjoyable that suits your lifestyle. <i>(Với nhiều loại bài tập để lựa chọn, bạn có thể dễ dàng tìm thấy bài tập thú vị phù hợp với lối sống của mình.)</i><br>
+d. In conclusion, staying active regularly is vital for achieving lasting physical and mental well-being. <i>(Tóm lại, duy trì hoạt động thường xuyên là điều cần thiết để đạt được sức khỏe thể chất và tinh thần lâu dài.)</i><br>
+Vậy ta có thứ tự sắp xếp đúng là: <b>c-e-a-b-d</b><br>
+Do đó, D là đáp án phù hợp.
+`,
+        }, ],
+    },
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`<u>a</u>nxiety `,`<u>a</u>ssignment `,`<u>a</u>ccomplish `,`<u>a</u>dditional `,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm: <br>
+*Xét các đáp án: </b><br>
+A. <u>a</u>nxiety /<u>æ</u>ŋˈzaɪəti/<br>
+B. <u>a</u>ssignment /<u>ə</u>ˈsaɪnmənt/<br>
+C. <u>a</u>ccomplish /<u>ə</u>ˈkʌmplɪʃ/<br>
+D. <u>a</u>dditional /<u>ə</u>ˈdɪʃənl/<br>
+=&gt; Phần gạch chân ở câu A được phát âm là /æ/, còn lại được phát âm là /ə/.<br>
+=&gt; Do đó, ta chọn đáp án A.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`argu<u>ed</u>`,`introduc<u>ed</u>`,`answer<u>ed</u>`,`maintain<u>ed</u>`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<p><b>Kiến thức về phát âm: <br><br>*Xét các đáp án: </b><br><br>A. argu<u>ed</u> /ˈɑːɡjuːd/<br><br>B. introduc<u>ed</u> /ˌɪntrəˈdjuːst/<br><br>C. answer<u>ed</u> /ˈɑːnsəd/<br><br>D. maintain<u>ed</u>&nbsp;/mein'teind/<br><b><br>=&gt; Theo quy tắc phát âm đuôi -ed, ta có: </b><br><br>Đuôi /ed/ được phát âm là /t/: Khi động từ có phát âm kết thúc là /s/, /f/, /p/, /ʃ/, /tʃ/, /k/. <br><br>Đuôi /ed/ được phát âm là /id/: Khi động từ có phát âm kết thúc là /t/ hay /d/. <br><br>Đuôi /ed/ được phát âm là /d/ với những trường hợp còn lại.</p><p> =&gt; Phần gạch chân ở phương án B được phát âm là /t/, các phương án còn lại được phát âm là /d/</p><p>=&gt; Đáp án B</p>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best completes each of the following questions.</b></p>`,
+          media:``,
+          question: `I wondered where ________ my pre-paid train ticket.
+        `,
+          options: [`getting`,`got`,`get`,`to get`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ nguyên mẫu:<br>
+*Ta có:</b><br>
+Wh-word + to V: thể hiện một tình huống khó xử hoặc không chắc chắn<br><b>
+Tạm dịch:</b> Tôi tự hỏi không biết mua vé tàu trả trước ở đâu.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `If you want to be loved, you should always ________ other people.
+        `,
+          options: [`take after`,`look after`,`look for`,`take care`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ:<br>
+*Xét các đáp án:</b><br>
+A. take after: giống ai <br>
+B. look after: chăm sóc<br>
+C. look for: tìm kiếm<br>
+D. take care: chăm sóc<br><b>
+Tạm dịch:</b> Nếu bạn muốn được yêu thương, bạn phải luôn quan tâm đến người khác.<br>
+Căn cứ vào nghĩa, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `If we recycle bottles and cans, we ________  a lot of natural resources.
+        `,
+          options: [`would save `,`saved`,`will save`,`to save`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu điều kiện:<br>
+Tạm dịch: </b>Nếu chúng ta tái chế chai và lon, chúng ta sẽ tiết kiệm được rất nhiều tài nguyên thiên nhiên.<br>
+→ Căn cứ vào dịch nghĩa, ta thấy câu trên diễn tả về tình huống có thể xảy ra ở hiện tại hoặc tương lai → ta sử dụng câu điều kiện loại I.<br>
+*Cấu trúc câu điều kiện loại I:<b> If + S + V (hiện tại đơn), S + will/can/may/might/should…+  V(bare)<br>
+=&gt; Do đó, ta chọn đáp án C
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `At 6.00 a.m. yesterday, while my mother was making breakfast, my father ________ .
+        `,
+          options: [`read `,`reads`,`was reading`,`is reading`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thì động từ:<br>
+Tạm dịch: </b>Vào lúc 6 giờ sáng hôm qua, trong khi mẹ tôi đang chuẩn bị bữa sáng, bố tôi đang đọc sách.<br>
+→ Căn cứ vào dịch nghĩa, ta thấy câu trên diễn tả về một hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ do đó ta chia động từ ở thì quá khứ tiếp diễn.<br>
+*Cấu trúc thì quá khứ tiếp diễn: <b>S + was/were + V-ing<br>
+=&gt; Do đó, ta chọn đáp án C
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `I wish I _________ a car now. It would make my life much easier.
+        `,
+          options: [`will have `,`had`,`has`,`have`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu ước:<br>
+Tạm dịch:</b> Tôi ước gì mình có xe hơi ngay bây giờ. Nó sẽ khiến cuộc sống của tôi dễ dàng hơn nhiều.<br>
+→ Căn cứ vào dịch nghĩa, ta thấy câu trên diễn tả về một điều ước trái ngược với hiện tại.<br>
+*Cấu trúc câu ước ước một điều ngược với hiện tại: <b>S + wish + S + V (quá khứ đơn)<br>
+=&gt; Do đó, ta chọn đáp án B
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `He wanted to go away, but his friends persuaded him ________.
+        `,
+          options: [`to stay`,`to staying`,`staying`,`stay`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ nguyên mẫu:<br>
+*Ta có:</b><br><b>
+persuade sb to do sth:</b> thuyết phục ai đó làm gì<br><b>
+Tạm dịch:</b> Anh ấy muốn đi nhưng bạn bè anh ấy thuyết phục anh ấy ở lại.<br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `One of the attractions in my hometown is the traditional market ________ is open every Sunday.
+        `,
+          options: [`whose`,`whom`,`who`,`which`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b> Kiến thức về đại từ/trạng từ quan hệ<br>
+*Xét các đáp án:</b><br>
+A. <b>whose </b>là đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ. <br>
+B. <b>whom </b>là đại từ quan hệ thay thế cho danh từ chỉ người, đứng sau danh từ chỉ người để làm tân ngữ (object) cho động từ đứng sau nó. Theo sau whom là chủ ngữ.<br>
+C. <b>who </b>là đại từ quan hệ thay thế cho danh từ chỉ người, đóng vai trò làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ 	<br>
+D. <b>which </b>là đại từ quan hệ thay thế cho danh từ chỉ vật, sự vật, sự việc; đóng vai trò làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ<br><b>
+*Ta có:</b><br>
+- Cần đại từ quan hệ thay thế cho cụm danh từ chỉ vật “the traditional market” ở phía trước -&gt; chỉ dùng được “which”<br><b>
+Tạm dịch:</b> Một trong những điểm thu hút ở quê tôi là chợ truyền thống mở cửa vào mỗi Chủ Nhật.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `We will live a happier and healthier life ________ we keep our environment clean.
+        `,
+          options: [`however `,`if`,`although`,`unless`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ:<br>
+*Xét các đáp án:</b><br>
+A. however, S + V: tuy nhiên<br>
+B. if + S + V: nếu<br>
+C. although + S + V: mặc dù<br>
+D. unless + S + V: trừ khi<br><b>
+Tạm dịch</b>: Chúng ta sẽ sống hạnh phúc và khỏe mạnh hơn nếu giữ gìn môi trường sạch sẽ.<br>
+Căn cứ vào nghĩa, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The traditional family with three or four ________ living under one roof still remains in this region.
+        `,
+          options: [`anniversaries`,`performances`,`generations`,`customs`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng:<br>
+*Xét các đáp án:</b><br>
+A. anniversary /ˌænɪˈvɜːsəri/ (n): lễ kỷ niệm<br>
+B. performance /pəˈfɔːməns/ (n): buổi biểu diễn<br>
+C. generation /ˌdʒenəˈreɪʃən/ (n): thế hệ<br>
+D. custom /ˈkʌstəm/ (n): phong tục<br><b>
+Tạm dịch: </b>Những gia đình truyền thống với ba hoặc bốn thế hệ sống chung dưới một mái nhà vẫn còn tồn tại ở khu vực này.<br>
+Căn cứ vào nghĩa, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The local people are trying their best to protect the ________ beauty of their city.
+        `,
+          options: [`naturally`,`nature`,`naturalist`,`natural`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại:<br>
+*Xét các đáp án:</b><br>
+A. naturally /ˈnætʃrəli/ (adv): một cách tự nhiên<br>
+B. nature /ˈneɪtʃə/ (n): thiên nhiên<br>
+C. naturalist /ˈnætʃrəlɪst/ (n): nhà tự nhiên học<br>
+D. natural /ˈnætʃrəl/ (adj): tự nhiên<br><b>
+*Ta có:</b> Trước danh từ là tính từ -&gt; chỗ trống cần một tính từ<br><b>
+Tạm dịch:</b> Người dân địa phương đang cố gắng hết sức để bảo vệ vẻ đẹp tự nhiên của thành phố.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word(s) CLOSEST in meaning to the underlined word(s) in each of the following questions</b></p>`,
+          media:``,
+          question: `It is <b><u>urgent</u></b> that we take action to reduce plastic waste before it causes more damage to marine life.
+        `,
+          options: [`unimportant`,`gradual`,`unnecessary`,`immediate`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng- từ đồng nghĩa:<br>
+Tạm dịch:</b> Chúng ta cần phải hành động ngay để giảm thiểu rác thải nhựa trước khi nó gây thêm thiệt hại cho sinh vật biển.<br><b>
+=&gt; urgent /'ɜ:dʒənt/ (adj): khẩn cấp<br>
+*Xét các đáp án:</b><br>
+A. unimportant /ˌʌnɪmˈpɔːtənt/ (adj): không quan trọng<br>
+B. gradual /ˈɡrædʒuəl/ (adj): dần dần<br>
+C. unnecessary /ʌnˈnesəsəri/ (adj): không cần thiết<br>
+D. immediate /ɪˈmiːdiət/ (adj): ngay lập tức<br><b>
+=&gt; urgent ~ immediate</b><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The villagers are unhappy with the campers. Their tents seem to destroy the <b><u>landscape</u></b>.
+        `,
+          options: [`feature`,`scenery`,`coral`,`access`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng- từ đồng nghĩa:<br>
+Tạm dịch: </b>Dân làng không hài lòng với những người cắm trại. Lều trại của họ dường như phá hủy cảnh quan.<br><b>
+=&gt; landscape /'lændskeip/ (n): phong cảnh<br>
+*Xét các đáp án</b>:<br>
+A. feature /ˈfiːtʃə/ (n): đặc điểm<br>
+B. scenery /ˈsiːnəri/ (n): phong cảnh<br>
+C. coral /ˈkɒrəl/ (n): san hô<br>
+D. access /ˈækses/ (n): quyền truy cập, lối vào<br><b>
+=&gt; landscape ~ scenery</b><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word(s) OPPOSITE in meaning to the underlined word(s) in each of the following questions.</b></p>`,
+          media:``,
+          question: `The Great Pyramid of Giza is one of the famous <b><u>man-made</u></b> wonders of the world,
+        `,
+          options: [`modern`,`artificial`,`natural`,`eternal`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng- từ trái nghĩa:<br>
+Tạm dịch: </b>Kim tự tháp Giza vĩ đại là một trong những kỳ quan nhân tạo nổi tiếng thế giới,<br><b>
+=&gt; man-made /,mæn'meid/ (adj): nhân tạo<br>
+*Xét các đáp án:</b><br>
+A. modern /ˈmɒdən/ (adj): hiện đại<br>
+B. artificial /ˌɑːtɪˈfɪʃəl/ (adj): nhân tạo<br>
+C. natural /ˈnætʃrəl/ (adj): tự nhiên<br>
+D. eternal /ɪˈtɜːnəl/ (adj): vĩnh cửu<br><b>
+=&gt; man-made &gt;&lt; natural</b><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `We should reduce the electricity we use to <b><u>save</u></b> money and natural resources.
+        `,
+          options: [`use`,`waste`,`keep`,`earn`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng- từ trái nghĩa:<br>
+Tạm dịch:</b> Chúng ta nên giảm lượng điện sử dụng để tiết kiệm tiền và tài nguyên thiên nhiên.<br><b>
+=&gt; save /seiv/ (v): tiết kiệm<br>
+*Xét các đáp án</b>:<br>
+A. use /juːz/ (v): sử dụng<br>
+B. waste /weɪst/ (v): lãng phí<br>
+C. keep /kiːp/ (v): giữ<br>
+D. earn /ɜːn/ (v): kiếm được<br><b>
+=&gt; save &gt;&lt; waste</b><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks from 17 to 20.</b></p><p><div style="text-align: justify;">Most of the people (17) ________ like films are only interested in the leading actor or actress when they enjoy a film. It seems to them that only the actors or actresses have made the film successful. They always pay attention to their appearance,(18) ________ and fashion. There are many film viewers who have no awareness of the other people's work to make a film. A finished film is actually the result of the collaboration of many people, and the most important among (19) ________ are the scriptwriter, the cinematographer, the film editor, the actor and the director. Especially, in some thrilling scenes, the roles of stuntmen are very important. They are always in (20) ________ when they are acting some of them are even badly hurt or dead. But what a pity, many viewers rarely appreciate their work.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`whose`,`who`,`which`,`whom`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ quan hệ<br>
+*Xét các đáp án:</b><br>
+A. <b>whose </b>là đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br>
+B. <b>who</b> là đại từ quan hệ thay thế cho danh từ chỉ người, đóng vai trò làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ 		<br>
+C. <b>which </b>là đại từ quan hệ thay thế cho danh từ chỉ vật, sự vật, sự việc; đóng vai trò làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ	<br>	
+D. <b>whom </b>là đại từ quan hệ thay thế cho danh từ chỉ người, đứng sau danh từ chỉ người để làm tân ngữ cho động từ đứng sau nó. Theo sau whom là chủ ngữ.<br>
+*Ta có:<br>
+- Cần đại từ quan hệ thay thế cho cụm danh từ chỉ người “Most of the people” ở phía trước và đóng vai trò chủ ngữ-&gt; chỉ dùng được “who”<br><b>
+Tạm dịch:</b> Most of the people (17) ________ like films are only interested in the leading actor or actress when they enjoy a film. <i>(Hầu hết những người thích phim chỉ quan tâm đến nam hoặc nữ diễn viên chính khi họ thưởng thức một bộ phim.)</i><br>
+Do đó, B là đáp án phù hợp.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`procedure `,`performance`,`research`,`conflict`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. procedure /prəˈsiːdʒə/ (n): thủ tục<br>
+B. performance /pəˈfɔːməns/ (n): sự diễn, sự biểu diễn, sự trình diễn<br>
+C. research /rɪˈsɜːtʃ/ (n): nghiên cứu<br>
+D. conflict /ˈkɒnflɪkt/ (n): xung đột<br><b>
+Tạm dịch: </b>They always pay attention to their appearance,(18) ________ and fashion. <i>(Họ luôn chú ý đến ngoại hình, diễn xuất và thời trang của họ.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`them`,`him`,`it`,`they`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ nhân xưng<br>
+*Xét các đáp án: </b><br>
+A. them: họ (đại từ tân ngữ cho ngôi thứ 3 số nhiều)  <br>
+B. him: anh ấy (đại từ tân ngữ cho ngôi thứ 3 số ít nam)   <br>
+C. it: nó (vật/con vật) (đại từ chủ ngữ và tân ngữ cho ngôi thứ 3 số ít (vật/động vật))<br>
+D. they: họ  (đại từ chủ ngữ cho ngôi thứ 3 số nhiều)  <br><b>
+*Ta có: </b>many people là số nhiều và chỗ trống cần một tân ngữ -&gt; chọn A<br><b>
+Tạm dịch:</b> A finished film is actually, the result of the collaboration of many people, and the most important among (19) ________ are the scriptwriter, the cinematographer, the film editor, the actor and the director.<i> (Một bộ phim hoàn chỉnh thực chất là kết quả của sự hợp tác của nhiều người, trong đó quan trọng nhất là biên kịch, quay phim, biên tập phim, diễn viên và đạo diễn.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`endanger`,`endangering`,`danger`,`dangerous`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+*Xét các đáp án: </b><br>
+A. endanger /ɪnˈdeɪndʒə/ (v): gây nguy hiểm<br>
+B. endangering -  endanger /ɪnˈdeɪndʒə/ (v): gây nguy hiểm<br>
+C. danger /ˈdeɪndʒə/ (n): sự nguy hiểm<br>
+D. dangerous /ˈdeɪndʒərəs/ (adj): nguy hiểm<br><b>
+*Ta có:</b> Sau giới từ là danh từ<br><b>
+Tạm dịch: </b>They are always in (20) ________ when they are acting some of them are even badly hurt or dead. <i>(Họ luôn gặp nguy hiểm khi diễn xuất, một số người trong số họ thậm chí còn bị thương nặng hoặc tử vong.)</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks from 21 to 23. </b></p><p><div style="text-align: center;"><b>ANNOUNCEMENT: CAREER WORKSHOP</b></div><div style="text-align: justify;">Hello, everyone!</div><div style="text-align: justify;">We're happy to invite you to a special Career Workshop (21) ________ October 5th!</div><div style="text-align: justify;">Time: 2:00 PM - 4:00 PM</div><div style="text-align: justify;">Location: Community Center, 456 Main Street, District 3.</div><div style="text-align: justify;">Come to learn from (22) _________ professionals! They'll share tips on finding jobs, writing resumes, and succeeding in interviews.</div><div style="text-align: justify;">Don't miss this chance to (23) ________ great career advice.</div><div style="text-align: justify;">Sign up now at 123TTT.com</div><div style="text-align: justify;">See you there!</div><div style="text-align: justify;">The Workshop Team</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`to`,`on`,`in`,`at`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ<br>
+*Ta có: </b><br>
+- Giới từ on đi với ngày trong tháng/ năm<br><b>
+Tạm dịch: </b>We're happy to invite you to a special Career Workshop (21) ________ October 5th! <i>(Chúng tôi rất vui được mời bạn đến tham dự Hội thảo nghề nghiệp đặc biệt vào ngày 5 tháng 10!)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`memorable`,`thrilling`,`experienced`,`embarrassing`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. memorable /ˈmemərəbl/ (adj): đáng nhớ<br>
+B. thrilling /ˈθrɪlɪŋ/ (adj): ly kỳ<br>
+C. experienced /ɪkˈspɪəriənst/ (adj): giàu kinh nghiệm<br>
+D. embarrassing /ɪmˈbærəsɪŋ/ (adj): gây xấu hổ<br><b>
+Tạm dịch: </b>Come to learn from (22) _________ professionals! <i>(Hãy đến để học hỏi từ các chuyên gia giàu kinh nghiệm!)</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`do`,`get`,`put`,`catch`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Ta có:</b> get advice: có được lời khuyên <br><b>
+Tạm dịch: </b>Don't miss this chance to (23) ________ great career advice. <i>(Đừng bỏ lỡ cơ hội này để nhận được lời khuyên tuyệt vời về nghề nghiệp.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the questions from 24 to 28.</b></p><p><div style="text-align: justify;">Tourism is one of the fastest-growing industries in the world. <b><u>It</u></b> provides employment opportunities and boosts local economies. Many countries rely on tourism as a major source of income. However, tourism also has negative effects. It can lead to environmental damage, such as pollution and destruction of natural habitats. In some places, cultural heritage sites suffer from overcrowding, which reduces their historical value. Sustainable tourism is an approach that aims to balance economic benefits with environmental protection. It encourages responsible travel, where tourists respect local traditions and minimize their impact on nature. By making informed choices, travelers can help protect destinations for future generations. Sustainable tourism also includes supporting local businesses, reducing waste, and choosing eco-friendly accommodations. Governments and organizations are promoting policies that support this form of tourism to ensure that popular destinations remain attractive and undamaged. While tourism brings many advantages, it is important to recognize its challenges and take measures to reduce its negative impact. By being more conscious of their travel choices, tourists can enjoy exploring new places while ensuring that these destinations are preserved for others.</div></p>`,
+          media:``,
+          question: `What is the main idea of the passage?
+        `,
+          options: [`The benefits of working in tourism`,`The impact of tourism and sustainable travel`,`How to travel faster`,`The history of tourism`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Ý chính của đoạn văn là gì?</b><br>
+A. Lợi ích của việc làm trong ngành du lịch<br>
+B. Tác động của du lịch và du lịch bền vững<br>
+C. Làm thế nào để đi du lịch nhanh hơn<br>
+D. Lịch sử của du lịch<br><b>
+Căn cứ vào thông tin:</b> Tourism is one of the fastest-growing industries in the world. It provides employment opportunities and boosts local economies. Many countries rely on tourism as a major source of income. However, tourism also has negative effects. <i>(Du lịch là một trong những ngành công nghiệp phát triển nhanh nhất thế giới. Du lịch tạo ra cơ hội việc làm và thúc đẩy nền kinh tế địa phương. Nhiều quốc gia dựa vào du lịch như một nguồn thu nhập chính. Tuy nhiên, du lịch cũng có những tác động tiêu cực.)</i><br>
+Sustainable tourism is an approach that aims to balance economic benefits with environmental protection. <i>(Du lịch bền vững là một cách tiếp cận nhằm cân bằng lợi ích kinh tế với bảo vệ môi trường.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "<b>It</b>" in paragraph 1 refers to _________.
+        `,
+          options: [`employment`,`income`,`tourism`,`pollution`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "It" trong đoạn 1 ám chỉ _________.</b><br>
+A. việc làm<br>
+B. thu nhập<br>
+C. du lịch<br>
+D. ô nhiễm<br><b>
+Căn cứ vào thông tin:</b> Tourism is one of the fastest-growing industries in the world. It provides employment opportunities and boosts local economies. <i>(Du lịch là một trong những ngành công nghiệp phát triển nhanh nhất thế giới. Nó tạo ra cơ hội việc làm và thúc đẩy nền kinh tế địa phương.)<br>
+-&gt; It ~ tourism</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "<b>suffer</b>" in the passage is closest in meaning to:
+        `,
+          options: [`experience `,`increase`,`change`,`enjoy`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "suffer" trong đoạn văn có nghĩa gần nhất với:</b><br>
+A. experience /ɪkˈspɪəriəns/ (v): trải nghiệm<br>
+B. increase /ɪnˈkriːs/ (v): tăng lên<br>
+C. change /tʃeɪndʒ/ (v): thay đổi<br>
+D. enjoy /ɪnˈdʒɔɪ/ (v): thích<br><b>
+Căn cứ vào thông tin:</b> In some places, cultural heritage sites suffer from overcrowding, which reduces their historical value.<i> (Ở một số nơi, các di sản văn hóa phải chịu tình trạng quá tải, làm giảm giá trị lịch sử của chúng.)</i><br>
+-&gt;suffer /'sʌfə[r]/ (v): chịu bị ~ experience<br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `According to the passage, which of the following is a negative effect of tourism?
+        `,
+          options: [`Creating more job opportunities`,`Encouraging cultural exchange`,`Increasing pollution and habitat destruction`,`Helping the economy grow`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Theo đoạn văn, tác động nào sau đây là tiêu cực của du lịch?</b><br>
+A. Tạo ra nhiều cơ hội việc làm hơn<br>
+B. Khuyến khích trao đổi văn hóa<br>
+C. Tăng ô nhiễm và phá hủy môi trường sống<br>
+D. Giúp nền kinh tế tăng trưởng<br><b>
+Căn cứ vào thông tin: </b>It can lead to environmental damage, such as pollution and destruction of natural habitats.<i> (Du lịch có thể gây ra thiệt hại cho môi trường, chẳng hạn như ô nhiễm và phá hủy môi trường sống tự nhiên.)</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which of the following is NOT mentioned in the passage?
+        `,
+          options: [`All countries benefit equally from tourism.`,`Cultural sites can suffer from too many visitors.`,`Sustainable tourism balances economic and environmental concerns.`,`Tourists can help preserve nature by making responsible choices.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Câu nào sau đây KHÔNG được đề cập trong đoạn văn?</b><br>
+A. Tất cả các quốc gia đều được hưởng lợi như nhau từ du lịch.<br>
+B. Các di tích văn hóa có thể bị ảnh hưởng do quá nhiều du khách.<br>
+C. Du lịch bền vững cân bằng các mối quan tâm về kinh tế và môi trường.<br>
+D. Khách du lịch có thể giúp bảo tồn thiên nhiên bằng cách đưa ra những lựa chọn có trách nhiệm.<br><b>
+Căn cứ vào thông tin: </b><br>
+In some places, cultural heritage sites suffer from overcrowding, which reduces their historical value. <i>(Ở một số nơi, các di sản văn hóa phải chịu tình trạng quá tải, làm giảm giá trị lịch sử của chúng.) -&gt; đáp án B được đề cập</i><br>
+Sustainable tourism is an approach that aims to balance economic benefits with environmental protection.  <i>(Du lịch bền vững là một cách tiếp cận nhằm cân bằng lợi ích kinh tế với bảo vệ môi trường.) -&gt; đáp án C được đề cập</i><br>
+By being more conscious of their travel choices, tourists can enjoy exploring new places while ensuring that these destinations are preserved for others. <i>(Bằng cách ý thức hơn về các lựa chọn du lịch của mình, khách du lịch có thể tận hưởng việc khám phá những địa điểm mới trong khi đảm bảo rằng những điểm đến này được bảo tồn cho những người khác.) -&gt; đáp án D được đề cập</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the underlined part that needs correction in each of the following questions.</b></p>`,
+          media:``,
+          question: `She <u>studied</u> very <u>well</u> <u>although</u> her difficult living <u>conditions</u>.
+        `,
+          options: [`studied `,`well `,`although `,`conditions`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sửa lỗi sai-liên từ:</b><br>
+Ta có: <br>
+- Although + S + V: mặc dù<br>
+- Despite/ In spite of + N/V-ing: mặc dù<br>
+her difficult living conditions là cụm danh từ nên phải dùng despite/ in spite of<br>
+=&gt; đáp án C sai.<br>
+=&gt; Sửa:<b> although -&gt; despite/ in spite of<br>
+Tạm dịch: </b>Cô ấy học rất giỏi mặc dù điều kiện sống khó khăn.<br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<u>The bike</u> he has <u>just</u> bought <u>is</u> more expensive <u>as</u> mine.
+        `,
+          options: [`The bike`,`just `,`is `,`as `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sửa lỗi sai – so sánh:</b><br>
+Ta có:<br>
+Cấu trúc so sánh hơn:<br>
++ với tính từ và trạng từ ngắn: S + V + adj/ adv + er + than + ...<br>
++ với tính từ và trạng từ dài: S + V + more + adj/ adv + than + ...<br>
+=&gt; đáp án D sai.<br>
+=&gt; Sửa: <b>as -&gt; than<br>
+Tạm dịch: </b>Chiếc xe đạp anh ấy vừa mua đắt hơn xe của tôi.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The company <u>which</u> my father works for is expanding <u>its</u> product line, improving <u>customer service</u>, and <u>to increase</u> profits.
+        `,
+          options: [`which `,`its `,`customer service`,`to increase`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sửa lỗi sai-cấu trúc song song:</b><br>
+Ta có: <br>
+- And nối các thành phần có cùng chức năng ngữ pháp<br>
+- Trước and là danh động từ improving nên sau and cũng phải là danh động từ<br>
+=&gt; đáp án D sai.<br>
+=&gt; Sửa:<b> to increase -&gt;  increasing<br>
+Tạm dịch:</b> Công ty nơi bố tôi làm việc đang mở rộng dòng sản phẩm, cải thiện dịch vụ khách hàng và tăng lợi nhuận.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The more <u>expensive</u> the restaurant <u>is</u>, the <u>best</u> the food <u>tastes</u>.
+        `,
+          options: [`expensive `,`is`,`best `,`tastes`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sửa lỗi sai – câu so sánh:</b><br>
+Ta có:<br>
+Ta có công thức: <b>The + so sánh hơn + (adj/adv)+ S + V, the + so sánh hơn +  (adj/adv)+ S + V: càng…. thì càng  </b><br>
+ “good” là trường hợp ngoại lệ và công thức so sánh hơn của good là  “<b>better</b>”  <br>
+=&gt; đáp án C sai.<br>
+=&gt; Sửa: <b>best -&gt; better<br>
+Tạm dịch</b>: Nhà hàng càng đắt tiền thì đồ ăn càng ngon.<br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best combines each pair of sentences in the following questions.</b></p>`,
+          media:``,
+          question: `The church is over 500 years old. Our class visited it last summer.
+        `,
+          options: [`The church our class visit last summer is over 500 years old.`,`The church that our class visited it last summer is over 500 years old. `,`The church which our class visited last summer is over 500 years old. `,`The church which our class visited it last summer is over 500 years old.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- mệnh đề quan hệ<br>
+Tạm dịch câu gốc</b>: Nhà thờ này đã hơn 500 năm tuổi. Lớp chúng tôi đã đến thăm vào mùa hè năm ngoái.<br><b>
+*Ta có:</b><br>
+Ta thấy thành phần giống nhau giữa hai mệnh đề này là “The church” và “it”.<br>
+The church là danh từ chỉ vật nên ta dùng đại từ quan hệ which hoặc that và đặt ngay sau The church, sau đó ta viết mệnh đề thứ hai (bỏ it) xong quay lại viết phần còn lại của mệnh đề thứ nhất.<br><b>
+* Xét các đáp án:</b><br>
+A. Nhà thờ mà lớp chúng ta đến thăm vào mùa hè năm ngoái đã hơn 500 năm tuổi.<br>
+-&gt; Sai ngữ pháp, động từ visit phải chia ở thì quá khứ đơn<br>
+B. Nhà thờ mà lớp chúng ta đến thăm vào mùa hè năm ngoái đã hơn 500 năm tuổi.<br>
+-&gt; Sai ngữ pháp, thừa từ it<br>
+C. Nhà thờ mà lớp chúng ta đến thăm vào mùa hè năm ngoái đã hơn 500 năm tuổi.<br>
+-&gt; Đúng ngữ pháp và sát nghĩa với câu gốc, <b>which </b>là đại từ quan hệ thay thế cho danh từ chỉ vật, sự việc, có chức năng làm tân ngữ hoặc chủ ngữ trong mệnh đề quan hệ xác định và không xác định.    <br>
+D. Nhà thờ mà lớp chúng ta đến thăm vào mùa hè năm ngoái đã hơn 500 năm tuổi.<br>
+-&gt; Sai ngữ pháp, thừa từ it<br><b>
+=&gt; Do đó, ta chọn đáp án C.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `They studied hard. They passed the exam easily.
+        `,
+          options: [`They studied hard because they passed the exam easily. `,`They passed the exam easily, so they studied hard.`,`Although they studied hard, they passed the exam easily. `,`Because they studied hard, they passed the exam easily.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- liên từ<br>
+Tạm dịch câu gốc: </b>Họ học hành chăm chỉ. Họ đã vượt qua kỳ thi một cách dễ dàng.<br><b>
+* Xét các đáp án:</b><br>
+A. Họ học chăm chỉ vì họ vượt qua kỳ thi một cách dễ dàng.<br>
+-&gt; Sai nghĩa, cấu trúc <b>because + S + V: bởi vì</b><br>
+B. Họ vượt qua kỳ thi một cách dễ dàng, cho nên họ học chăm chỉ.<br>
+-&gt; Sai nghĩa, cấu trúc <b>so + S + V: cho nên</b><br>
+C. Mặc dù họ học chăm chỉ, họ vượt qua kỳ thi một cách dễ dàng.<br>
+-&gt; Sai nghĩa, cấu trúc <b>although + S + V: mặc dù</b><br>
+D. Vì họ học chăm chỉ, họ vượt qua kỳ thi một cách dễ dàng.<br>
+-&gt; Đúng ngữ pháp, sát nghĩa với câu gốc, cấu trúc<b> because + S + V: bởi vì</b><br><b>
+=&gt; Do đó, ta chọn đáp án D.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `My car can run 80 km/h. His can run 100 km/h. 
+        `,
+          options: [`His car can run 20 km/h faster than my car.`,`His car can run as fast as my car.`,`My car can run as fast as his car.`,`My car can run 20 km/h faster than his car.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- so sánh<br>
+Tạm dịch câu gốc: </b>Xe của tôi có thể chạy 80 km/h. Xe của anh ấy có thể chạy 100 km/h.<br><b>
+* Xét các đáp án:</b><br>
+A. Xe của anh ấy có thể chạy nhanh hơn xe của tôi 20 km/h.<br>
+-&gt; Đúng ngữ pháp, sát nghĩa với câu gốc, cấu trúc so sánh hơn:<br>
++ với tính từ và trạng từ ngắn: <b>S + V + adj/ adv + er + than + ...</b><br>
++ với tính từ và trạng từ dài: <b>S + V + more + adj/ adv + than + ...</b><br>
+- “fast” là trạng từ ngắn nên dạng so sánh hơn của “fast” là “faster”<br>
+B. Xe của anh ấy có thể chạy nhanh bằng xe của tôi.<br>
+-&gt; Sai nghĩa, cấu trúc so sánh bằng:<b> S1 + V + as+ adj/adv+ as + S2</b><br>
+C. Xe của tôi có thể chạy nhanh bằng xe của anh ấy.<br>
+-&gt; Sai nghĩa, cấu trúc so sánh bằng: <b>S1 + V + as+ adj/adv+ as + S2</b><br>
+D. Xe của tôi có thể chạy nhanh hơn xe của anh ấy 20 km/h.<br>
+-&gt; Sai nghĩa<br><b>
+=&gt; Do đó, ta chọn đáp án A.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to each of the following questions.</b></p>`,
+          media:``,
+          question: `"What are you going to do after school, Anne?", Kevin asked.
+        `,
+          options: [`Kevin asked Anne what was she going to do after school.`,`Kevin wanted to know what would Anne do after school.`,`Kevin asked Anne what she was going to do after school.`,`Kevin wanted to know what Anne could learn after school. `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- câu tường thuật<br>
+Tạm dịch câu gốc</b>: "Sau giờ học, Anne, bạn định làm gì?", Kevin hỏi.<br>
+→ Ta có: <br>
+Khi chuyển từ câu trực tiếp -&gt; gián tiếp ta phải lùi thì, thay đổi ngôi và các trạng từ chỉ thời gian- nơi chốn. <br>
+Cấu trúc câu tường thuật có từ để hỏi <b>S + asked + O + từ để hỏi + S + V (lùi 1 thì)</b><br>
+Trong câu này ta phải đổi như sau: <br>
+“are..going to” =&gt; “was going to”; “you” =&gt; “she”<br><b>
+* Xét các đáp án:</b><br>
+A. Kevin hỏi Anne rằng cô ấy sẽ làm gì sau giờ học.<br>
+-&gt; Sai ngữ pháp vì chưa đưa trật tự về câu kể<br>
+B. Kevin muốn biết Anne sẽ làm gì sau giờ học.<br>
+-&gt; Sai ngữ pháp vì chưa đưa trật tự về câu kể<br>
+C. Kevin hỏi Anne rằng cô ấy sẽ làm gì sau giờ học.<br>
+-&gt; Đúng ngữ pháp, sát nghĩa với câu gốc<br>
+D. Kevin muốn biết Anne có thể học được gì sau giờ học.<br>
+-&gt; Sai nghĩa<br><b>
+=&gt; Do đó, ta chọn đáp án C.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `I last met my grandparents five years ago.
+        `,
+          options: [`I often met my grandparents five years ago.`,`I didn't meet my grandparents in five years ago.`,`I haven't met my grandparents for five years. `,`I have met my grandparents for five years. `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- cấu trúc câu<br>
+Tạm dịch câu gốc: </b>Lần cuối cùng tôi gặp ông bà tôi là cách đây năm năm.<br>
+→ Ta có: <br><b>
+S + last V2/-ed + …<br>
+↔ S + have/has + NOT + V3/-ed + since/for … <br> 
+↔ The last time + S + V + was …  <br>
+↔  It is/ has been + [thời gian] + since + S + last V2/-ed + … <br>
+* Xét các đáp án:</b><br>
+A. Tôi thường gặp ông bà tôi cách đây năm năm.<br>
+-&gt; Sai nghĩa<br>
+B. Tôi đã không gặp ông bà tôi cách đây năm năm.<br>
+-&gt; Sai nghĩa<br>
+C. Tôi đã không gặp ông bà tôi trong năm năm.<br>
+-&gt; Đúng ngữ pháp, sát nghĩa với câu gốc<br>
+D. Tôi đã gặp ông bà tôi trong năm năm. <br>
+-&gt; Sai nghĩa<br><b>
+=&gt; Do đó, ta chọn đáp án C.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Make sufficient time for your schoolwork, or you may fall behind in your classes. 
+        `,
+          options: [`If you don't make sufficient time for your schoolwork, you may fall behind in your classes. `,`If you make sufficient time for your schoolwork, you may fall behind in your classes. `,`Since you make sufficient time for your schoolwork, you may fall behind in your classes. `,`You don't make sufficient time for your schoolwork, so you fall behind in your classes.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- câu điều kiện<br>
+Tạm dịch câu gốc: </b>Hãy dành đủ thời gian cho việc học tập, nếu không bạn có thể bị tụt lại so với các bạn cùng lớp.<br>
+→ Căn cứ vào dịch nghĩa, ta thấy câu trên diễn tả về tình huống có thể xảy ra ở hiện tại hoặc tương lai → ta sử dụng câu điều kiện loại I.<br>
+*Cấu trúc câu điều kiện loại I: <b>If + S + V (hiện tại đơn), S + will/can/may/might/should…+  V(bare)<br>
+* Xét các đáp án:</b><br>
+A. Nếu bạn không dành đủ thời gian cho việc học ở trường, bạn có thể bị tụt lại trong các lớp học.<br>
+-&gt; Đúng ngữ pháp, sát nghĩa với câu gốc<br>
+B. Nếu bạn dành đủ thời gian cho việc học ở trường, bạn có thể bị tụt hậu trong các lớp học.<br>
+-&gt; Sai nghĩa<br>
+C. Vì bạn dành đủ thời gian cho việc học ở trường, bạn có thể bị tụt hậu trong các lớp học.<br>
+-&gt; Sai nghĩa, cấu trúc <b>Since + S + V: bởi vì</b><br>
+D. Bạn không dành đủ thời gian cho việc học ở trường, vì vậy bạn bị tụt hậu trong các lớp học.<br>
+-&gt; Sai nghĩa<br><b>
+=&gt; Do đó, ta chọn đáp án A.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best completes each of the following exchanges.</b></p>`,
+          media:``,
+          question: `- <b>Daisy</b>: Can I go with you to the Folk Dance Festival?<br>
+		- <b>Linh</b>: " ________”
 
+        `,
+          options: [`No, never.`,`Sure. Let's go.`,`Certainly. You can't.`,`Yes. Why don't you?`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp<br>
+*Xét các đáp án: </b><br>
+A. Không, không bao giờ.<br>
+B. Chắc chắn rồi. Hãy đi thôi.<br>
+C. Chắc chắn rồi. Bạn không thể.<br>
+D. Vâng. Tại sao bạn không đi?<br><b>
+Tạm dịch:</b> - Daisy: Em có thể đi cùng anh đến Lễ hội múa dân gian không?<br>
+- Linh: "Chắc chắn rồi. Hãy đi thôi.”<br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct arrangement of the sentences to make a meaningful dialogue in each of the following questions.</b></p>`,
+          media:``,
+          question: `<div style="text-align: justify;">a. Maybe for some jobs, but not all. Creativity still needs people.</div><div style="text-align: justify;">b. As long as it doesn't take over my coffee machine, I'm fine!</div><div style="text-align: justify;">c. True, but AI is getting smarter every day.</div><div style="text-align: justify;">d. Do you think AI will ever replace humans at work?</div>
+        `,
+          options: [`a-d-c-b`,`c-d-a-b`,`b-d-c-a`,`d-a-c-b `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành hội thoại:</b><br>
+*Để tạo nên một đoạn hội thoại hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự nối tiếp về nội dung với câu trước.<br>
+=&gt; Ta có cách sắp xếp hoàn chỉnh:<br>
+d. Do you think AI will ever replace humans at work? <i>(Bạn có nghĩ AI sẽ thay thế con người trong công việc không?)</i><br>
+a. Maybe for some jobs, but not all. Creativity still needs people. <i>(Có thể đối với một số công việc, nhưng không phải tất cả. Sáng tạo vẫn cần con người.)</i><br>
+c. True, but AI is getting smarter every day. <i>(Đúng, nhưng AI đang trở nên thông minh hơn mỗi ngày.)</i><br>
+b. As long as it doesn't take over my coffee machine, I'm fine! <i>(Miễn là nó không chiếm lấy máy pha cà phê của tôi, tôi ổn!)</i><br>
+Vậy ta có thứ tự sắp xếp đúng là: <b>d-a-c-b</b><br>
+Do đó, D là đáp án phù hợp.
+`,
+        }, ],
+    },
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B ,C or D on your answer sheet to indicate the word whose underlined part differs from the others in pronunciation in each of the following question</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`p<u>a</u>rk `,`<u>a</u>dvice `,`f<u>a</u>cility `,`<u>a</u>round `,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. p<u>a</u>rk /p<u>ɑː</u>k/<br>
+B. <u>a</u>dvice /<u>ə</u>dˈvaɪs/<br>
+C. f<u>a</u>cility /f<u>ə</u>ˈsɪləti/<br>
+D. <u>a</u>round /<u>ə</u>ˈraʊnd/<br><b>
+=&gt; Phần gạch chân ở câu A được phát âm là /ɑː/, còn lại được phát âm là /ə/. <br>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`<u>e</u>lectrician `,`tick<u>e</u>t `,`<u>e</u>nvironment `,`ch<u>e</u>ck-up `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. <u>e</u>lectrician /<u>ɪ</u>ˌlekˈtrɪʃn/<br>
+B. tick<u>e</u>t /ˈt<u>ɪ</u>kɪt/<br>
+C. <u>e</u>nvironment /<u>ɪ</u>nˈvaɪrənmənt/<br>
+D. ch<u>e</u>ck-up /ˈtʃ<u>e</u>k ʌp/<br><b>
+=&gt; Phần gạch chân ở câu D được phát âm là /e/, còn lại được phát âm là /ɪ/. <br>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`widen<u>ed</u> `,`annoy<u>ed</u> `,`wound<u>ed</u> `,`play<u>ed</u> `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm đuôi -ed<br>
+* Xét các đáp án:</b><br>
+A. widen<u>ed</u> /ˈwaɪdən<u>d</u>/<br>
+B. annoy<u>ed</u> /əˈnɔɪ<u>d</u>/<br>
+C. wound<u>ed</u> /ˈwuːnd<u>ɪd</u>/<br>
+D. play<u>ed</u> /pleɪ<u>d</u>/<br><b>
+Ta có quy tắc phát âm đuôi -ed:</b><br>
+1.	Đuôi <b>-ed</b> được phát âm là <b>/ɪd/</b> khi động từ có phát âm cuối là /t/ hoặc /d/.<br>
+2.	Đuôi <b>-ed</b> được phát âm là <b>/t/</b> khi động từ có phát âm cuối là /s/, /f/, /p/, /ʃ/, /tʃ/, /k/, /θ/,…<br>
+3.	Đuôi <b>-ed </b>được phát âm là <b>/d/ </b>với các trường hợp còn lại.<br><b>
+=&gt; Phần gạch chân ở câu C được phát âm là /ɪd/, còn lại được phát âm là /d/. <br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`<u>ea</u>rn `,`<u>ea</u>rth `,`p<u>ea</u>r `,`<u>ea</u>rly `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. <u>ea</u>rn /<u>ɜː</u>n/<br>
+B. <u>ea</u>rth /<u>ɜː</u>θ/<br>
+C. p<u>ea</u>r /p<u>eə</u>(r)/<br>
+D. <u>ea</u>rly /ˈ<u>ɜː</u>li/<br><b>
+=&gt; Phần gạch chân ở câu C được phát âm là /eə/, còn lại được phát âm là /ɜː/. <br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`miss<u>es</u> `,`go<u>es</u> `,`watch<u>es</u> `,`chang<u>es</u> `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm đuôi -s/es<br>
+* Xét các đáp án:</b><br>
+A. miss<u>es</u> /ˈmɪsɪz/<br>
+B. go<u>es</u> /ɡoʊz/<br>
+C. watch<u>es</u> /ˈwɒtʃɪz/<br>
+D. chang<u>es</u> /ˈtʃeɪndʒɪz/<br><b>
+Ta có quy tắc phát âm đuôi -s/es:</b><br>
+1.	Đuôi <b>-s/es</b> được phát âm là <b>/s/</b> khi động từ có phát âm cuối là /p/, /t/, /k/, /f/, /θ/<br>
+2.	Đuôi <b>-s/es</b> được phát âm là <b>/iz/</b> khi động từ kết thúc bằng -s, -ss, -sh, -ce, -z, -ge, -ch, -x…<br>
+3.	Đuôi <b>-s/es</b> được phát âm là <b>/z/</b> với các trường hợp còn lại.<br><b>
+=&gt; Phần gạch chân ở câu B được phát âm là /z/, còn lại được phát âm là /ɪz/. <br>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B , C or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `If the weather is nice tomorrow, we _________ swimming.
+        `,
+          options: [`go`,`will go`,`are going `,`have gone`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu điều kiện</b><br>
+* Cấu trúc câu điều kiện loại I: <b>If + S + V (hiện tại đơn), S + will + V (nguyên mẫu)…</b><br>
+→ Dùng để diễn tả những tình huống có thể xảy ra ở hiện tại hoặc tương lai.<br><b>
+Tạm dịch:</b> Nếu ngày mai thời tiết đẹp, chúng tôi sẽ đi bơi.<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `They decided to buy the house _________ they didn't really have enough money. 
+        `,
+          options: [`in spite of`,`however`,`although `,`despite`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án:</b><br>
+A. in spite of + N/V-ing: mặc dù<br>
+B. however: tuy nhiên (đứng giữa câu, ngăn cách với mệnh đề trước và sau nó bởi dấu phẩy ",")<br>
+C. although + S + V: mặc dù <br>
+D. despite + N/V-ing: mặc dù<br>
+→ Ta thấy, sau chỗ trống là một mệnh đề hoàn chỉnh (S + V) và chỗ trống không được ngăn cách với mệnh đề trước và sau nó bởi dấu phẩy =&gt; loại A, B và D.<br><b>
+Tạm dịch: </b>Họ quyết định mua căn nhà mặc dù họ không thực sự có đủ tiền.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Cat Ba National Park _________ a wide range of underwater and inland biosystems.
+        `,
+          options: [`established`,`possesses`,`explores `,`owes`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. established – establish /ɪˈstæblɪʃ/ (v): lập, thành lập<br>
+B. possesses – possess /pəˈzes/ (v): sở hữu, có<br>
+C. explores – explore /ɪkˈsplɔː(r)/ (v): tìm hiểu; khám phá<br>
+D. owes – owe /oʊ/ (v): nợ<br><b>
+Tạm dịch: </b>Vườn quốc gia Cát Bà có nhiều hệ sinh thái đa dạng cả dưới nước và trên cạn.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Governments are working to _________ the use of fossil fuels.
+        `,
+          options: [`cut down on`,`come down with`,`look forward to`,`take care of`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ<br>
+* Xét các đáp án:</b><br>
+A. cut down on (ph.v): cắt giảm<br>
+B. come down with (ph.v): mắc bệnh gì (thường là không quá nghiêm trọng)<br>
+C. look forward to (ph.v): trông mong, mong đợi<br>
+D. take care of (ph.v): chăm sóc<br><b>
+Tạm dịch:</b> Các chính phủ đang nỗ lực cắt giảm việc sử dụng nhiên liệu hóa thạch.<br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Hurricane Andrew swept through southern Florida _________ 1992.
+        `,
+          options: [`for`,`on`,`at`,`in`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ<br>
+* Xét các đáp án:</b><br>
+A. for: dùng để chỉ một khoảng thời gian<br>
+B. on: dùng trước ngày trong tuần, ngày tháng cụ thể<br>
+C. at: dùng trước giờ cụ thể, các thời điểm trong ngày như noon, night, midnight…<br>
+D. in: dùng trước tháng, năm, mùa, thập kỷ, thế kỷ<br><b>
+Tạm dịch</b>: Bão Andrew càn quét qua miền nam Florida vào năm 1992.<br><b>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Tourists are impressed by the _________ of Ha Long Bay.
+        `,
+          options: [`beauty`,`beautify`,`beautiful `,`beautifully`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+* Xét các đáp án:</b><br>
+A. beauty /ˈbjuːti/ (n): sắc đẹp, vẻ đẹp<br>
+B. beautify /ˈbjuːtɪfaɪ/ (v): làm đẹp; tô điểm<br>
+C. beautiful /ˈbjuːtɪfl/ (adj): đẹp, xinh đẹp<br>
+D. beautifully /ˈbjuːtɪfli/ (adv): (một cách) đẹp đẽ, cuốn hút<br>
+→ Ta thấy, chỗ trống cần điền một danh từ đứng sau mạo từ "<b>the</b>".<br><b>
+Tạm dịch: </b>Du khách bị ấn tượng bởi vẻ đẹp của Vịnh Hạ Long.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Cohen, _________ short film won awards, was chosen to direct the movie.
+        `,
+          options: [`who `,`whose`,`whom`,`which`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề từ quan hệ<br>
+* Xét các đáp án:</b><br>
+A. <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br>
+B. <b>whose</b>: đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br>
+C. <b>whom</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm tân ngữ cho động từ đứng sau nó. Theo sau whom là chủ ngữ.<br>
+D. <b>which</b>: đại từ quan hệ chỉ vật, sự vật, sự việc làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.<br>
+→ Ta thấy, chỗ trống cần điền một đại từ quan hệ đứng trước cụm danh từ "<b>short film</b>" để chỉ sự sở hữu =&gt; dùng "<b>whose</b>" phù hợp. Ở đây, "<b>whose short film</b>" ám chỉ "<b>Cohen’s short film</b>".<br><b>
+Tạm dịch:</b> Cohen, mà bộ phim ngắn của ông ấy đã đoạt giải, đã được chọn để đạo diễn bộ phim điện ảnh.<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The people who live in _________ Scotland are called the Scots.
+        `,
+          options: [`x (no article)`,`an`,`a`,`the`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ<br>
+* Ta có quy tắc:</b> Không dùng mạo từ trước tên các Quốc gia (ngoại trừ The United States, The United Kingdom và The Philippines).<br><b>
+Tạm dịch: </b>Những người sống ở Scotland được gọi là người Scots.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Peter has decided _________ a course in art and design al his community college.
+        `,
+          options: [`take`,`taking `,`to take `,`takes`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ nguyên mẫu</b><br>
+* Ta có: <b>decide + to V (nguyên mẫu): quyết định làm gì đó<br>
+Tạm dịch: </b>Peter đã quyết định tham gia một khóa học về nghệ thuật và thiết kế tại trường cao đẳng cộng đồng của anh ấy.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `I was listening to the radio when I suddenly _________ a loud crash outside the window.
+        `,
+          options: [`was hearing`,`heard`,`had heard`,`have heard`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sự phối thì</b><br>
+* Ta có cấu trúc sự phối thì:<b> S + V (quá khứ tiếp diễn) + WHEN + S + V (quá khứ đơn) </b><br>
+→ Dùng để diễn tả một hành động đang xảy ra thì có hành động khác xen vào. Hành động xảy ra trước và đang xảy ra ta chia ở thì quá khứ tiếp diễn <b>(was/were + V-ing)</b>, hành động xen vào ta chia ở thì quá khứ đơn <b>(V2/Ved).</b><br>
+=&gt; Chỗ trống cần chia động từ ở thì quá khứ đơn.<br><b>
+Tạm dịch: </b>Tôi đang nghe đài thì đột nhiên tôi nghe thấy một tiếng đổ vỡ lớn bên ngoài cửa sổ.<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `We _________ four quizzes and five tests so far this semester.
+        `,
+          options: [`have had`,`are having`,`had `,`will have`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thì động từ</b><br>
+→ Ta thấy, câu trên có "<b>so far</b>" (cho đến nay) là dấu hiệu của thì hiện tại hoàn thành (diễn tả hành động xảy ra trong quá khứ, kéo dài tới hiện tại và vẫn còn khả năng sẽ tiếp diễn trong tương lại).<br>
+* Cấu trúc: <b>S + have/has + Vp2…<br>
+Tạm dịch: </b>Chúng tôi đã có bốn bài kiểm tra nhanh và năm bài kiểm tra cho đến nay trong học kỳ này.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `In _________ children didn't have smartphones and video games; they played outside together 
+        `,
+          options: [`the old good days`,`the old days good`,`the days good old`,`the good old days`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trật tự của tính từ</b><br>
+Ta có: <b>tính từ đứng trước danh từ</b> =&gt; loại B và C.<br>
+* Công thức <b>OSASCOMP </b>– Trật tự của tính từ: <i>Opinion (quan điểm, ý kiến) → Size (kích cỡ) → Age (tuổi) → Shape (hình dạng) → Color (màu sắc) → Origin (nguồn gốc) → Material (nguyên liệu) → Purpose (mục đích).</i><br>
+- good /ɡʊd/ (adj): tốt, đẹp =&gt; opinion<br>
+- old /oʊld/ (adj): già, cũ, cổ, xưa =&gt; age<br>
+=&gt; Trật tự đúng là:<b> the good old days</b><br><b>
+Tạm dịch: </b>Vào những ngày xưa tươi đẹp đó, trẻ em không có điện thoại thông minh và trò chơi điện tử; chúng chơi cùng nhau ở bên ngoài.<br><b>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `They _________ here last month when their daughter was born.
+        `,
+          options: [`have moved`,`moved`,`had moved`,`move`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thì động từ</b><br>
+→ Ta thấy, câu trên có "<b>last month</b>" (tháng trước) là dấu hiệu của thì quá khứ đơn (diễn tả hành động đã xảy ra và đã chấm dứt trong quá khứ, không còn liên quan tới hiện tại).<br>
+* Cấu trúc: <b>S + V2/Ved + …</b><br><b>
+Tạm dịch: </b>Họ đã chuyển đến đây vào tháng trước khi con gái họ chào đời.<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B  ,C or D on your answer sheet to indicate the underlined part that needs correction in each of the following questions.</b></p>`,
+          media:``,
+          question: `The <u>children</u> laughed <u>happy</u> while they <u>were playing</u> with their <u>toys</u>.
+        `,
+          options: [`children`,`happy`,`were playing`,`toys`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại</b><br>→ Ta thấy, sau động từ "<b>laughed</b>" cần một trạng từ để bổ nghĩa cho nó.<b>=&gt; Sai ở B. happy</b><br>Sửa: <b>happy =&gt; happily</b><br><b>Tạm dịch: </b>The children laughed <b>happily </b>while they were playing with their toys. <i>(Bọn trẻ cười một cách vui vẻ trong khi chúng đang chơi với đồ chơi của mình.)</i><br><b>Do đó, B là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `He didn't have <u>money enough</u> to buy <u>that</u> expensive laptop, so he <u>chose</u> a cheaper one <u>instead</u>.
+        `,
+          options: [`instead `,`that`,`money enough`,`chose `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc ngữ pháp</b><br>
+→ Ta có cấu trúc:<b> S + V + enough + noun + (for sb) + to V: đủ… (cho ai) để làm gì đó<br>
+=&gt; Sai ở C. money enough</b><br>
+Sửa: <b>money enough =&gt; enough money </b><br><b>
+Tạm dịch:</b> He didn't have <b>enough money</b> to buy that expensive laptop, so he chose a cheaper one instead. <i>(Anh ấy không có đủ tiền để mua chiếc máy tính xách tay đắt tiền đó, vì vậy thay vào đó anh ấy đã chọn một chiếc rẻ hơn.)</i><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `She <u>said</u> that she <u>will come</u> to the party if she <u>finished</u> work early <u>the following day</u>.&nbsp;
+        `,
+          options: [`said `,`will come`,`finished `,`the following day`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật</b><br>
+Ta có: Khi chuyển từ câu trực tiếp sang gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và lùi thì đối với câu chứa động từ tường thuật ở thì quá khứ.<br>
+→ Vì động từ tường thuật "<b>said</b>" ở thì quá khứ nên ta cần lùi thì động từ.<br><b>
+=&gt; Sai ở B. will come</b><br>
+Sửa: <b>will come =&gt; would come</b><br><b>
+Tạm dịch:</b> She said that she <b>would come</b> to the party if she finished work early the following day. <i>(Cô ấy nói rằng cô ấy sẽ đến bữa tiệc nếu cô ấy hoàn thành công việc sớm vào ngày hôm sau.)</i><br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A,B,C or D on your answer sheet to indicate the word(s) CLOSEST in meaning to the underlined word(s) in each of the following questions.</b></p>`,
+          media:``,
+          question: `Today students are under a lot of <b><u>pressure</u></b> due to the high expectations from their parents and teachers
+        `,
+          options: [`relaxation`,`nervousness`,`emotion`,`stress`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ đồng nghĩa<br>
+Tạm dịch: </b>Ngày nay học sinh phải chịu rất nhiều áp lực do sự kỳ vọng cao từ cha mẹ và thầy cô.<br><b>
+=&gt; pressure /ˈpreʃə(r)/ (n): áp lực, sự căng thẳng<br>
+* Xét các đáp án:</b><br>
+A. relaxation /ˌriːlækˈseɪʃn/ (n): sự thư giãn<br>
+B. nervousness /ˈnɜːvəsnəs/  (n): sự lo lắng, sự bồn chồn<br>
+C. emotion /ɪˈməʊʃn/ (n): sự xúc động; cảm xúc<br>
+D. stress /stres/ (n): sự căng thẳng, lo âu<br><b>
+=&gt; pressure ~ stress<br>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `We should <b><u>join hands</u></b> to protect our environment.
+        `,
+          options: [`work together`,`make friends`,`take time`,`raise money`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ đồng nghĩa<br>
+Tạm dịch:</b> Chúng ta nên chung tay để bảo vệ môi trường của chúng ta.<br><b>
+=&gt; join hands: chung tay, hợp tác, cùng nhau làm việc<br>
+* Xét các đáp án:</b><br>
+A. work together: làm việc cùng nhau<br>
+B. make friends: kết bạn<br>
+C. take time: dành thời gian<br>
+D. raise money: quyên góp tiền<br><b>
+=&gt; join hands ~ work together<br>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word(s) OPPOSITE in meaning to the underlined word(s) in each of the following questions.</b></p>`,
+          media:``,
+          question: `The library has a collection of <b><u>rare</u></b> books and manuscripts.
+        `,
+          options: [`unique`,`general`,`common `,`special`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ trái nghĩa<br>
+Tạm dịch:</b> Thư viện có một bộ sưu tập sách và bản thảo hiếm.<br><b>
+=&gt; rare /reə(r)/ (adj): hiếm, hiếm có, khó tìm<br>
+* Xét các đáp án:</b><br>
+A. unique /juˈniːk/ (adj): độc đáo, duy nhất<br>
+B. general /ˈdʒenrəl/ (adj): chung chung, tổng quát<br>
+C. common /ˈkɒmən/ (adj): phổ biến, thông thường, hay gặp<br>
+D. special /ˈspeʃl/ (adj): đặc biệt; chuyên dụng<br><b>
+=&gt; rare &gt;&lt; common<br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Everyone can <b><u>make a contribution</u></b> to protect the environment.
+        `,
+          options: [`take action`,`hesitate`,`do nothing`,`decide`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ trái nghĩa<br>
+Tạm dịch:</b> Mọi người đều có thể đóng góp vào việc bảo vệ môi trường.<br><b>
+=&gt; make a contribution: đóng góp, góp phần<br>
+* Xét các đáp án:</b><br>
+A. take action: hành động<br>
+B. hesitate /ˈhezɪteɪt/ (v): do dự, ngập ngừng, lưỡng lự<br>
+C. do nothing: không làm gì cả<br>
+D. decide /dɪˈsaɪd/ (v): quyết định<br><b>
+=&gt; make a contribution &gt;&lt; do nothing<br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the most suitable response to complete
+each of the following questions.
+</b></p>`,
+          media:``,
+          question: `<div style="text-align: justify;">Jimmy and Tony are talking about their plan.</div><div style="text-align: justify;"><b>Jimmy</b>: "What's your plan tonight?"</div><div style="text-align: justify;"><b>Tony</b>: “ ________”</div>
+        `,
+          options: [`There is a great movie.`,`I think I'll relax at home. `,`I really don't like the cinema.`,`Work was busy today.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp<br>
+Tạm dịch:</b> Jimmy và Tony đang nói về kế hoạch của họ. <br><b>
+Jimmy</b>: "Kế hoạch tối nay của cậu là gì?" <br><b>
+Tony</b>: " _______________"<br><b>
+* Xét các đáp án:</b><br>
+A. Có một bộ phim rất hay. <br>
+B. Mình nghĩ mình sẽ thư giãn ở nhà. <br>
+C. Mình thực sự không thích rạp chiếu phim. <br>
+D. Hôm nay công việc bận rộn quá.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<div style="text-align: justify;">John and Mary are talking about their reading habit.</div><div style="text-align: justify;"><b>John</b>: “ ________”</div><div style="text-align: justify;"><b>Marry</b>: "I read books almost every night before I go to bed."</div>
+        `,
+          options: [`How often do you read books?`,`How long does it take you to finish a book?`,`What can you learn from books?`,`Where do you read books?`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp<br>
+Tạm dịch: </b>John và Mary đang nói về thói quen đọc sách của họ. <br><b>
+John</b>: "________________"<br><b>
+Marry</b>: "Mình đọc sách hầu như mỗi tối trước khi đi ngủ."<br><b>
+* Xét các đáp án:</b><br>
+A. Bạn có thường đọc sách không? <br>
+B. Bạn mất bao lâu để đọc xong một cuốn sách? <br>
+C. Bạn có thể học được gì từ sách? <br>
+D. Bạn đọc sách ở đâu?<br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A,B,C or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks</b></p><p><div style="text-align: justify;">One electronic device that I find extremely (28) _________ in my daily life is my smartphone. It's an essential tool (29) _________ allows me to stay connected with friends, family, and colleagues. I use it to make phone calls, send text messages, and check my email on the go. it's also my primary camera for (30) _________ photos and recording videos. In addition to these basic functions, my smartphone is loaded with a variety of apps that help me (31) _________ everything from navigation to productivity. Whether I need to book a ride, order food, or check the weather, my smartphone is always there to help me get things done quickly and efficiently. I can't (32) _________  going a day without it!</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`useless`,`usefully`,`useful`,`use`,],
+          answer: ``,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+* Xét các đáp án:</b><br>
+A. useless /ˈjuːsləs/ (adj): vô ích, vô dụng<br>
+B. usefully /ˈjuːsfəli/ (adv): (một cách) hữu ích, có hiệu quả<br>
+C. useful /ˈjuːsfl/ (adj): hữu ích, có ích, có tác dụng<br>
+D. use /juːz/ (v): sử dụng, dùng<br>
+→ Ta có: <b>find + (sth) + adj: </b>thấy (cái gì) như thế nào =&gt; chỗ trống cần điền một tính từ (trạng từ "<b>extremely</b>" đứng trước bổ nghĩa cho tính từ đó).<br><b>
+Tạm dịch: </b>One electronic device that I find extremely (28) ________ in my daily life is my smartphone. <i>(Một thiết bị điện tử mà tôi thấy cực kỳ <b>hữu ích</b> trong cuộc sống hàng ngày là chiếc điện thoại thông minh của tôi.)</i><br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`who`,`which`,`where`,`what`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề quan hệ<br>
+* Xét các đáp án:</b><br>
+A. <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br>
+B. <b>which</b>: đại từ quan hệ chỉ vật, sự vật, sự việc làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.<br>
+C. <b>where</b>: trạng từ quan hệ chỉ nơi chốn, đứng sau danh từ chỉ nơi chốn, thay cho at/on/in + which, there.<br>
+D. <b>what = the thing(s) that:</b> cái mà, điều mà, những gì mà<br>
+→ Ta thấy, chỗ trống cần một đại từ quan hệ dùng để thay thế cho danh từ chỉ vật "<b>tool</b>" và làm chủ ngữ cho động từ "<b>allows</b>" sau nó =&gt; dùng "<b>which</b>" là phù hợp.<br><b>
+Tạm dịch</b>: It's an essential tool (29) ________ allows me to stay connected with friends, family, and colleagues. <i>(Đó là một công cụ thiết yếu mà cho phép tôi giữ kết nối với bạn bè, gia đình và đồng nghiệp.)</i><br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`showing`,`making`,`taking`,`catching`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ cố định<br>
+* Xét các đáp án:</b><br>
+A. showing – show /ʃoʊ/ (v): cho xem, trình bày, chỉ ra, thể hiện<br>
+B. making – make /meɪk/ (v): làm, chế tạo, tạo ra<br>
+C. taking – take /teɪk/ (v): lấy, cầm, nắm, mang, nhận<br>
+D. catching – catch /kætʃ/ (v): bắt, tóm, chộp, nắm<br>
+→ Ta có cụm từ cố định: <b>take photo: chụp ảnh, chụp hình<br>
+Tạm dịch:</b> It's also my primary camera for (30) ____________ photos and recording videos. <i>(Nó cũng là chiếc máy ảnh chính của tôi để chụp ảnh và quay video.)</i><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`with `,`for`,`on`,`of`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ</b><br>
+* Ta có cụm từ cố định:<b> help sb with sth: giúp ai đó với việc gì đó<br>
+Tạm dịch: </b>In addition to these basic functions, my smartphone is loaded with a variety of apps that help me (31) __________ everything from navigation to productivity.<i> (Ngoài những chức năng cơ bản này, điện thoại thông minh của tôi còn được cài đặt nhiều ứng dụng đa dạng giúp tôi với mọi việc, từ việc định vị cho đến hiệu suất làm việc.)</i><br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`guess`,`think`,`help`,`imagine`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. guess /ɡes/ (v): đoán, phỏng đoán<br>
+B. think /θɪŋk/ (v): nghĩ, suy nghĩ<br>
+C. help /help/ (v): giúp, giúp đỡ, cứu giúp<br>
+D. imagine /ɪˈmædʒɪn/ (v): tưởng tượng, hình dung<br><b>
+Tạm dịch:</b> I can't (32) __________ going a day without it! <i>(Tôi không thể <b>tưởng tượng</b> việc trải qua một ngày mà thiếu nó!)</i><br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions</b></p><p><div style="text-align: justify;">Dreaming of a Southeast Asian adventure? Look no further than Malaysia! This beautiful country offers something for everyone, from bustling cities to beautiful beaches and lush rainforests.</div><div style="text-align: justify;">Planning a trip to Malaysia is easy. Many tourist agencies offer packaged tours, <b>which </b>can take care of everything for you, including flights, a 5-day hotel stay, and even some activities. This is a great option, especially for first-time visitors.</div><div style="text-align: justify;">The best time to visit depends on what you want to experience. Peak season (July and August) brings hot, sunny weather, perfect for relaxing on the beach. If you prefer cooler temperatures and fewer crowds, aim for shoulder seasons (April, May, September, and October).</div><div style="text-align: justify;">Malaysia is a melting pot of cultures, with a strong Malay influence. Be sure to try the delicious cuisine - think fragrant curries, satay skewers, and fluffy roti bread. There are countless things to do in Malaysia. Hike through the world's oldest rainforest in Taman Negara National Park, climb Mount Kinabalu (the highest mountain in Southeast Asia!), or explore the historical city of Malacca. For some retail therapy, head to Kuala Lumpur's many shopping malls or browse the night markets for souvenirs.</div><div style="text-align: justify;">Getting around Malaysia is easy and <b>affordable</b>. Taxis, buses, and trains all connect major cities and towns. Prices can vary depending on the season and the type of experience you are looking for. But you can find excellent value for money, especially if you book your trip in advance using a travel agency brochure or website.</div><div style="text-align: justify;">So why wait? Start planning your Malaysian adventure today!</div><div style="text-align: right;"><i>(Adapted from Wander-Lust https://wander-lush.orglvisit-malaysia-travel-guide!)</i></div></p>`,
+          media:``,
+          question: `What is the best title for the reading passage?
+        `,
+          options: [`A Guide to Budget Travel in Malaysia in 5 days`,`Historical and Cultural Sites of Malaysia`,`Experience the Best of Malaysia in 5 days`,`Traveling by Public Transportation in Malaysia`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Đâu là tiêu đề phù hợp nhất cho đoạn văn? </b><br>
+A. Hướng dẫn du lịch Malaysia tiết kiệm trong 5 ngày <br>
+B. Các địa điểm lịch sử và văn hóa của Malaysia <br>
+C. Trải nghiệm những điều tuyệt vời nhất của Malaysia trong 5 ngày <br>
+D. Du lịch bằng phương tiện công cộng ở Malaysia<br><b>
+Căn cứ vào thông tin:</b><br>
+- "Look no further than Malaysia! This beautiful country offers something for everyone, from bustling cities to beautiful beaches and lush rainforests." <i>(Đừng tìm đâu xa ngoài Malaysia! Đất nước xinh đẹp này mang đến điều gì đó cho tất cả mọi người, từ những thành phố nhộn nhịp đến những bãi biển đẹp và rừng mưa nhiệt đới tươi tốt.)</i><br>
+- "The best time to visit depends on what you want to experience." <i>(Thời điểm tốt nhất để ghé thăm phụ thuộc vào những gì bạn muốn trải nghiệm.)</i><br>
+- "Be sure to try the delicious cuisine - think fragrant curries, satay skewers, and fluffy roti bread." <i>(Hãy chắc chắn thử các món ăn ngon - hãy nghĩ đến cà ri thơm lừng, xiên que satay và bánh mì roti xốp mềm.)</i><br>
+- "Hike through the world's oldest rainforest in Taman Negara National Park, climb Mount Kinabalu (the highest mountain in Southeast Asia!), or explore the historical city of Malacca." <i>(Đi bộ xuyên qua khu rừng mưa nhiệt đới lâu đời nhất thế giới tại Vườn quốc gia Taman Negara, leo núi Kinabalu (ngọn núi cao nhất Đông Nam Á!), hoặc khám phá thành phố lịch sử Malacca.)</i><br>
+- "For some retail therapy, head to Kuala Lumpur's many shopping malls or browse the night markets for souvenirs." <i>(Để mua sắm giải trí, hãy đến nhiều trung tâm thương mại của Kuala Lumpur hoặc dạo qua các khu chợ đêm để tìm quà lưu niệm.)</i><br><b>
+→ Bài đọc tập trung vào việc giới thiệu Malaysia như một điểm đến du lịch tuyệt vời, nơi du khách có thể trải nghiệm những điều tuyệt vời nhất thông qua nhiều hoạt động và địa điểm đa dạng.<br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "affordable" in paragraph 5 is closest in meaning to
+        `,
+          options: [`luxurious`,`cheap`,`expensive`,`reasonable`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "<u>affordable</u>" trong đoạn 5 gần nghĩa nhất với từ nào? </b><br>
+A. luxurious /lʌɡˈʒʊəriəs/ (adj): sang trọng, xa hoa<br>
+B. cheap /tʃiːp/ (adj): rẻ, rẻ tiền<br>
+C. expensive /ɪkˈspensɪv/ (adj): đắt tiền, mắc<br>
+D. reasonable /ˈriːznəbl/ (adj): (giá cả) hợp lý, không quá đắt<b><br>
+Căn cứ vào thông tin:</b> "Getting around Malaysia is easy and <u><b>affordable</b></u>." <i>(Việc đi lại quanh Malaysia rất dễ dàng và <b style="">giá cả phải chăng</b>.)</i><br><b>
+=&gt; affordable (adj): (giá cả) hợp lý, phải chăng ~ reasonable<br>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Packaged tours in Malaysia typically include _________
+        `,
+          options: [`flights and budget accommodation only`,`accommodation and pre-planned activities`,`local transportation and meals`,`shopping sprees at designer stores`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Các tour trọn gói ở Malaysia thường bao gồm ____________ </b><br>
+A. chỉ vé máy bay và chỗ ở giá rẻ <br>
+B. chỗ ở và các hoạt động được lên kế hoạch trước <br>
+C. phương tiện đi lại địa phương và các bữa ăn <br>
+D. các đợt mua sắm thỏa thích tại cửa hàng thiết kế<br><b>
+Căn cứ vào thông tin:</b> "Many tourist agencies offer packaged tours, which can take care of everything for you, including flights, a 5-day hotel stay, and even some activities." <i>(Nhiều công ty du lịch cung cấp các tour trọn gói, có thể lo liệu mọi thứ cho bạn, bao gồm vé máy bay, khách sạn 5 ngày và thậm chí một số hoạt động.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "which" in paragraph 2 refers to_________
+        `,
+          options: [`packaged tours`,`tourist agencies`,`flights`,`some activities`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "which" trong đoạn 2 đề cập đến_________ </b><br>
+A. packaged tours: các tour trọn gói <br>
+B. tourist agencies: các công ty du lịch <br>
+C. flights: vé máy bay <br>
+D. some activities: một số hoạt động<br><b>
+Căn cứ vào thông tin:</b> "Many tourist agencies offer packaged tours, <b><u>which</u></b> can take care of everything for you, including flights, a 5-day hotel stay, and even some activities." <i>(Nhiều công ty du lịch cung cấp các tour trọn gói, <b>mà </b>có thể lo liệu mọi thứ cho bạn, bao gồm vé máy bay, khách sạn 5 ngày và thậm chí một số hoạt động.)</i><br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which of the following is NOT mentioned in the passage?
+        `,
+          options: [`Climbing a mountain in Malaysia`,`Visiting modern shopping centers`,`Watching traditional puppet shows`,`Tasting Malaysian food`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Điều nào sau đây KHÔNG được đề cập trong đoạn văn? </b><br>A. Leo núi ở Malaysia <br>B. Tham quan các trung tâm mua sắm hiện đại <br>C. Xem biểu diễn múa rối truyền thống <br>D. Nếm thử đồ ăn Malaysia<br><b>Căn cứ vào thông tin:</b><br>- "… climb Mount Kinabalu (the highest mountain in Southeast Asia!)…" <i>(leo núi Kinabalu (ngọn núi cao nhất Đông Nam Á!))</i> <b>→ Đáp án A được đề cập.</b><br>- "For some retail therapy, head to Kuala Lumpur's many shopping malls or browse the night markets for souvenirs." <i>(Để mua sắm giải trí, hãy đến nhiều trung tâm thương mại của Kuala Lumpur hoặc dạo qua các khu chợ đêm để tìm quà lưu niệm.)</i> <b>→ Đáp án B được đề cập.</b><br>- "Be sure to try the delicious cuisine - think fragrant curries, satay skewers, and fluffy roti bread." <i>(Hãy chắc chắn thử các món ăn ngon - hãy nghĩ đến cà ri thơm lừng, xiên que satay và bánh mì roti xốp mềm.) </i><b>→ Đáp án D được đề cập.</b><br><b>Do đó, C là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original one in each of the following questions.</b></p>`,
+          media:``,
+          question: `Tom asked his classmate: "Are you joining us for the party this weekend?".
+        `,
+          options: [`Tom asked his classmate if he is joining them for the party that weekend.`,`Tom asked his classmate if was he joining them for the party that weekend.`,`Tom asked his classmate if he was joining them for the party that weekend. `,`Tom asked his classmate if is he joining them for the party that weekend. `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật<br>
+Tạm dịch câu gốc: </b>Tom hỏi bạn cùng lớp: "Cuối tuần này cậu có tham gia bữa tiệc với chúng tớ không?".<br>
+→ Cấu trúc câu tường thuật lại câu hỏi Yes/No: <b>S + asked + (O)/ wanted to know/ wondered + if/ whether + S + V</b><br>
+* Lưu ý: Khi chuyển từ câu trực tiếp sang gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và lùi thì đối với câu chứa động từ tường thuật ở thì quá khứ.<br><b>
+Ta có: </b><i>you =&gt; he, us =&gt; them<br>
+             this =&gt; that <br>
+             are joining =&gt; was joining</i><br><b>
+* Xét các đáp án:</b><br>
+A. Tom asked his classmate if he is joining them for the party that weekend. → Sai ngữ pháp (chưa lùi thì).<br>
+B. Tom asked his classmate if was he joining them for the party that weekend. → Sai ngữ pháp (vì đảo "was" nên trước chủ ngữ "he").<br>
+C. Tom asked his classmate if he was joining them for the party that weekend: Tom hỏi bạn cùng lớp liệu anh ấy có tham gia bữa tiệc với họ vào cuối tuần đó không. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br>
+D. Tom asked his classmate if is he joining them for the party that weekend. → Sai ngữ pháp.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Linda is more active on social media than any of her classmates. 
+        `,
+          options: [`None of Linda's classmates is as active on social media as she is.`,`All of Linda's classmates are more active on social media than she is.`,`Linda is the least active person on social media in her class.`,`Linda uses social media as much as her classmates do.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu so sánh</b><br><b>
+Tạm dịch câu gốc: </b>Linda hoạt động trên mạng xã hội tích cực hơn bất kỳ bạn cùng lớp nào của cô ấy.<br>
+Cấu trúc so sánh hơn (tính từ/ trạng từ dài): <b>S + V + more + adj/adv + than + …<br>
+* Xét các đáp án:</b><br>
+A. None of Linda's classmates is as active on social media as she is: Không ai trong số bạn cùng lớp của Linda hoạt động tích cực trên mạng xã hội bằng cô ấy. <b><i>→ Phù hợp về nghĩa. </i></b>Cấu trúc so sánh bằng: <b>S + V + as + adj/adv + as + …</b><br>
+B. All of Linda's classmates are more active on social media than she is. Tất cả bạn cùng lớp của Linda đều hoạt động tích cực hơn cô ấy trên mạng xã hội. → Không phù hợp về nghĩa.<br>
+C. Linda is the least active person on social media in her class: Linda là người hoạt động ít tích cực nhất trên mạng xã hội trong lớp cô ấy. → Không phù hợp về nghĩa. Cấu trúc so sánh nhất: <b>S + V + the + most/ least/ best… + adj/adv + (N) + …</b><br>
+D. Linda uses social media as much as her classmates do: Linda sử dụng mạng xã hội nhiều như các bạn cùng lớp của cô ấy. → Không phù hợp về nghĩa.<br><b>
+Do đó, A là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Developing communication skills to succeed in the modern world is very necessary.
+        `,
+          options: [`It is very necessary to develop communication skills to succeed in the modern world.`,`It is not very necessary to develop communication skills to succeed in the modern world. `,`It is very necessary to be developed communication skills to succeed in the modern world. `,`It is very necessary to developing communication skills to succeed in the modern world.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc ngữ pháp<br>
+Tạm dịch câu gốc:</b> Việc phát triển các kỹ năng giao tiếp để thành công trong thế giới hiện đại là rất cần thiết.<br>
+Cấu trúc:<b> It + be + adj + to V (nguyên mẫu)…: </b>Thật là như thế nào khi làm gì đó…<br><b>
+* Xét các đáp án:</b><br>
+A. It is very necessary to develop communication skills to succeed in the modern world: Thật là rất cần thiết khi phát triển các kỹ năng giao tiếp nhằm thành công trong thế giới hiện đại. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br>
+B. It is not very necessary to develop communication skills to succeed in the modern world: Thật là không cần thiết lắm khi phát triển các kỹ năng giao tiếp nhằm thành công trong thế giới hiện đại. → Không phù hợp về nghĩa.<br>
+C. It is very necessary to be developed communication skills to succeed in the modern world: Thật là rất cần thiết khi các kỹ năng giao tiếp được phát triển nhằm thành công trong thế giới hiện đại. → Không phù hợp về nghĩa (dùng dạng bị động "to be developed" không phù hợp với câu gốc).<br>
+D. It is very necessary to developing communication skills to succeed in the modern world. → Sai ngữ pháp.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        }, ],
+    },
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is best combined from the two given sentences.</b></p>`,
+          media:``,
+          question: `She was having lunch. The phone rang in the middle of her lunch.
+        `,
+          options: [`The phone was ringing while she was having lunch. `,`She was having lunch while the phone rang. `,`When she had lunch, the phone rang. `,`While she was having lunch, the phone rang. `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sự phối thì<br>
+Tạm dịch câu gốc:</b> Cô ấy đang ăn trưa. Điện thoại reo vào giữa bữa trưa của cô ấy.<br>
+Ta có cấu trúc sự phối thì: <b>WHILE + S + V (quá khứ tiếp diễn), S + V (quá khứ đơn) </b>
+→ Dùng để diễn tả một hành động đang xảy ra thì có hành động khác xen vào. Hành động xảy ra trước và đang xảy ra ta chia ở thì quá khứ tiếp diễn<b> (was/were + V-ing)</b>, hành động xen vào ta chia ở thì quá khứ đơn <b>(V2/Ved).</b><br><b>
+* Xét các đáp án:</b><br>
+A. The phone was ringing while she was having lunch. → Không phù hợp (dùng thì quá khứ tiếp diễn cho cả hai hành động diễn tả hai hành động cùng đang diễn ra song song).<br>
+B. She was having lunch while the phone rang. → Sai ngữ pháp.<br>
+C. When she had lunch, the phone rang. → Không phù hợp (dùng thì quá khứ đơn cho cả hai hành động diễn tả hai hành động xảy ra nối tiếp).<br>
+D. While she was having lunch, the phone rang: Trong khi cô ấy đang ăn trưa, điện thoại đã reo. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br><b>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The price of urban houses is high. Many people cannot afford one. 
+        `,
+          options: [`The price of urban houses is so high that many people cannot afford one. `,`The price of urban houses is high, so many that people can afford one. `,`The price of urban houses is high so that many people cannot afford one. `,`So high is the price of urban houses that it is many people cannot afford.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc ngữ pháp<br>
+Tạm dịch câu gốc:</b> Giá nhà ở thành thị thì cao. Nhiều người không đủ khả năng mua một căn.<br><b>
+* Xét các đáp án:</b><br>
+A. The price of urban houses is so high that many people cannot afford one: Giá nhà thành thị cao đến nỗi nhiều người không đủ khả năng mua một căn. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa. </i></b>Cấu trúc<b>: S + V + so + adj/adv + that + S + V </b>(quá… đến nỗi mà)<br>
+B. The price of urban houses is high, so many that people can afford one. → Sai ngữ pháp.<br>
+C. The price of urban houses is high so that many people cannot afford one: Giá nhà thành thị cao để mà nhiều người không đủ khả năng mua một căn. → Không phù hợp về nghĩa. Ta có: <b>so that + S + V: để, để mà</b><br>
+D. So high is the price of urban houses that it is many people cannot afford. → Sai ngữ pháp (thừa "<b>it is</b>" và thiếu tân ngữ cho "<b>afford</b>"). Cấu trúc<b> "so… that" </b>đảo ngữ: <b>So + adj + to be + S + that + S + V</b><br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The award went to the engineer. She developed a clean water filter.
+        `,
+          options: [`Developing a clean water filter earned the engineer the award which everyone admires.`,`A clean water filter wasn't developed by the engineer who received the award.`,`The award was given to the engineer who developed a clean water filter.`,`An engineer who didn't develop the clean water filter received the award.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ quan hệ<br>
+Tạm dịch câu gốc: </b>Giải thưởng đã thuộc về người kỹ sư. Cô ấy đã phát triển một bộ lọc nước sạch.<br><u>
+Ta có</u>:<br>
+- <b>which</b>: đại từ quan hệ chỉ vật, sự vật, sự việc làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.<br>
+- <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br><b>
+* Xét các đáp án:</b><br>
+A. Developing a clean water filter earned the engineer the award which everyone admires: Việc phát triển một bộ lọc nước sạch đã mang lại cho người kỹ sư giải thưởng mà mọi người ngưỡng mộ. → Không phù hợp về nghĩa.<br>
+B. A clean water filter wasn't developed by the engineer who received the award: Một bộ lọc nước sạch đã không được phát triển bởi người kỹ sư mà đã nhận giải thưởng. → Không phù hợp về nghĩa.<br>
+C. The award was given to the engineer who developed a clean water filter: Giải thưởng đã được trao cho người kỹ sư người mà đã phát triển một bộ lọc nước sạch. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br>
+D. An engineer who didn't develop the clean water filter received the award: Một kỹ sư người mà đã không phát triển bộ lọc nước sạch đã nhận giải thưởng. → Không phù hợp về nghĩa.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The Atacama Desert receives almost no rainfall each year. It's drier than the Sahara Desert. 
+        `,
+          options: [`The Atacama Desert is drier the Sahara Desert.`,`The Atacama Desert is the driest than the Sahara Desert.`,`The Atacama Desert is drier than the Sahara Desert.`,`The Atacama Desert is as dry as the Sahara Desert.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu so sánh<br>
+Tạm dịch câu gốc: </b>Sa mạc Atacama hầu như không nhận được lượng mưa nào mỗi năm. Nó khô hơn Sa mạc Sahara.<br><b>
+* Xét các đáp án:</b><br>
+A. The Atacama Desert is drier the Sahara Desert. → Sai ngữ pháp.<br>
+B. The Atacama Desert is the driest than the Sahara Desert. → Sai ngữ pháp.<br>
+C. The Atacama Desert is drier than the Sahara Desert: Sa mạc Atacama thì khô hơn Sa mạc Sahara. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b> Cấu trúc so sánh hơn (tính từ/ trạng từ ngắn): <b>S + V + adj-er/adv-er + than + …</b><br>
+D. The Atacama Desert is as dry as the Sahara Desert: Sa mạc Atacama thì khô như Sa mạc Sahara. → Không phù hợp về nghĩa. Cấu trúc so sánh bằng: <b>S + V + as + adj/adv + as + …</b><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions. </b></p>`,
+          media:``,
+          question: `The wind turbine on the hill _________ spins to create electricity provides power for nearby homes.
+        `,
+          options: [`whose`,`whom`,`which `,`who`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ quan hệ<br>
+* Xét các đáp án:</b><br>
+A. <b>whose</b>: đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br>
+B. <b>whom</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm tân ngữ cho động từ đứng sau nó. Theo sau whom là chủ ngữ.<br>
+C. <b>which</b>: đại từ quan hệ chỉ vật, sự vật, sự việc làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.<br>
+D. <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br>
+→ Ta thấy, chỗ trống cần điền một đại từ quan hệ chỉ vật, thay thế cho "<b>The wind turbine on the hill</b>" và làm chủ ngữ cho động từ "<b>spins</b>" sau nó.<br><b>
+Tạm dịch: </b>Tua bin gió trên đồi, cái mà quay để tạo ra điện, cung cấp năng lượng cho những ngôi nhà gần đó.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The government plans _________ more affordable apartments for low-income people in the city.
+        `,
+          options: [`build`,`to building`,`to build `,`building`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ nguyên mẫu</b><br>
+* Ta có: <b>plan + to V (nguyên mẫu): lên/ có kế hoạch làm gì đó<br>
+Tạm dịch:</b> Chính phủ có kế hoạch xây dựng thêm các căn hộ giá cả phải chăng cho người thu nhập thấp trong thành phố.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The price of hotel rooms in Hoa Lu City is slightly increasing. It is _________ than last year.
+        `,
+          options: [`expensive`,`as expensive`,`more expensive`,`less expensive`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu so sánh</b><br>
+→ Căn cứ vào từ "<b>than</b>" sau chỗ trống =&gt; đây là câu so sánh hơn/ kém hơn.<br><u>
+Ta có cấu trúc so sánh hơn:</u><br>
++) Với tính từ/ trạng từ ngắn:<b> S1 + V + adj-er/adv-er + than + S2</b><br>
++) Với tính từ/ trạng từ dài: <b>S1 + V + more + adj/adv + than + S2</b><br><u>
+Ta có cấu trúc so sánh kém hơn:</u><b> S1 + V + less + adj/adv + than + S2</b><br>
+=&gt; loại A và B (vì sai cấu trúc).<br><b>
+Tạm dịch: </b>Giá phòng khách sạn ở thành phố Hoa Lư đang tăng nhẹ. Nó <b>đắt hơn</b> so với năm ngoái.<br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The picnic area is set up _________ the bank of the river, making it a perfect spot for families to relax.
+        `,
+          options: [`in`,`under`,`at`,`on`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ</b><br>
+* Ta có: <b>on the bank of sth: trên bờ của (bờ sông, bờ hồ…)<br>
+Tạm dịch:</b> Khu vực dã ngoại được dựng lên trên bờ sông, biến nó thành một địa điểm hoàn hảo cho các gia đình thư giãn.<br><b>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `If you spend too much time on the computer, you _________ have problems with your eyesight.
+        `,
+          options: [`may`,`should`,`need`,`can`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ khuyết thiếu<br>
+* Xét các đáp án:</b><br>
+A. may: có thể (diễn tả về khả năng xảy ra nhưng ít chắc chắn hơn so với "can")<br>
+B. should: nên (dùng để đưa ra lời khuyên hoặc sự gợi ý)<br>
+C. need: cần (khi là modal verb thì dùng trong phủ định/câu hỏi; nếu là động từ thường thì đi với "to V").<br>
+D. can: có thể (diễn tả về về khả năng làm gì đó, hoặc kỹ năng có sẵn)<br><b>
+Tạm dịch: </b>Nếu bạn dành quá nhiều thời gian trên máy tính, bạn có thể sẽ gặp các vấn đề về thị lực.<br>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `I prefer using a digital dictionary _________ it has a larger definition bank.
+        `,
+          options: [`although`,`because`,`despite`,`so`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án:</b><br>
+A. although + S + V: mặc dù<br>
+B. because + S + V: bởi vì, do<br>
+C. despite + N/V-ing: mặc dù<br>
+D. so + S + V: do đó, vì vậy<br>
+→ Ta thấy, sau chỗ trống là một mệnh đề hoàn chỉnh =&gt; loại C.<br><b>
+Tạm dịch: </b>Tôi thích dùng từ điển điện tử hơn bởi vì nó có kho định nghĩa lớn hơn.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The teacher _________ the lesson when a student _________ a question.
+        `,
+          options: [`was explaining - was asking`,`were explaining - were asking`,`was explaining – asked`,`is explaining - asks`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sự phối thì</b><br>
+* Ta có cấu trúc sự phối thì: <b>S + V (quá khứ tiếp diễn) + WHEN + S + V (quá khứ đơn) </b><br>
+→ Dùng để diễn tả một hành động đang xảy ra thì có hành động khác xen vào. Hành động xảy ra trước và đang xảy ra ta chia ở thì quá khứ tiếp diễn <b>(was/were + V-ing)</b>, hành động xen vào ta chia ở thì quá khứ đơn<b> (V2/Ved).</b><br><b>
+Tạm dịch:</b> Giáo viên đang giải thích bài học thì một học sinh đã hỏi một câu hỏi.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Mia said that she _________ her brother a new fanny pack the following day.
+        `,
+          options: [`will buy `,`would buy`,`bought`,`is buying`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật</b><br>
+* Khi chuyển từ câu trực tiếp sang câu gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và lùi thì nếu động từ tường thuật ở thì quá khứ.<br>
+* Ta có: <b>the following day: ngày hôm sau →</b> dùng trong <b>câu gián tiếp</b> thay cho "<b>tomorrow</b>".<br>
+→ Động từ trong câu trực tiếp là "<b>will buy</b>" (thì tương lai đơn) Do đó, khi chuyển sang câu gián tiếp, động từ sẽ là "<b>would buy</b>".<br><b>
+Tạm dịch:</b> Mia đã nói rằng cô ấy sẽ mua cho anh trai mình một chiếc túi đeo hông mới vào ngày hôm sau.<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to each of the following questions.</b></p>`,
+          media:``,
+          question: `I don't have enough money to buy that handmade souvenir.
+        `,
+          options: [`I wish I didn't have to carry so much money when traveling.`,`I wish I had already bought that souvenir yesterday.`,`I wish I had enough money to buy that handmade souvenir.`,`I wish souvenirs were cheaper so I could buy many.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu ước<br>
+Tạm dịch câu gốc: </b>Tôi không có đủ tiền để mua món quà lưu niệm thủ công đó.<br>
+→ Căn cứ vào từ "<b>wish</b>" và ngữ cảnh của câu gốc ở hiện tại, ta sử dụng câu ước ở hiện tại (diễn tả mong ước về một điều gì đó không có thật ở hiện tại): <b>S + wish(es) + (that) + S + V (quá khứ đơn)…</b><br><b>
+* Xét các đáp án:</b><br>
+A. I wish I didn't have to carry so much money when traveling: Tôi ước tôi không phải mang nhiều tiền thế khi đi du lịch. → Không phù hợp về nghĩa.<br>
+B. I wish I had already bought that souvenir yesterday. Tôi ước tôi đã mua món quà lưu niệm đó ngày hôm qua rồi. → Không phù hợp. Đây là câu ước cho quá khứ: <b>S + wish(es) + (that) + S + V (quá khứ hoàn thành)…</b><br>
+C. I wish I had enough money to buy that handmade souvenir: Tôi ước tôi có đủ tiền để mua món quà lưu niệm thủ công đó. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br>
+D. I wish souvenirs were cheaper so I could buy many: Tôi ước quà lưu niệm rẻ hơn vì vậy tôi có thể mua nhiều. → Không phù hợp về nghĩa.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `If it doesn't rain, they will go to the open-air market. 
+        `,
+          options: [`Unless it doesn't rain, they won't go to the open-air market. `,`Unless it rains, they will go to the open-air market.`,`Unless it will rain, they won't go to the open-air market.`,`Unless it rains, they won't go to the open-air market.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu điều kiện</b><br><b>
+Tạm dịch câu gốc:</b> Nếu trời không mưa, họ sẽ đi chợ trời.<br>
+→ Câu điều kiện loại I (diễn tả về tình huống có thể xảy ra ở hiện tại hoặc tương lai.): <b>If + S + V (hiện tại đơn), S + will + V (nguyên mẫu)…</b><br>
+Ta có: <b>If … not = Unless:</b> Nếu… không; ngoại trừ (<b>Unless </b>luôn đi với mệnh đề khẳng định).<br><b>
+* Xét các đáp án:</b><br>
+A. Unless it doesn't rain, they won't go to the open-air market. → Sai ngữ pháp.<br>
+B. Unless it rains, they will go to the open-air market: Nếu trời không mưa, họ sẽ đi chợ trời.<b><i> → Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br>
+C. Unless it will rain, they won't go to the open-air market. → Sai ngữ pháp.<br>
+D. Unless it rains, they won't go to the open-air market: Nếu trời không mưa, họ sẽ không đi chợ trời. → Không phù hợp về nghĩa.<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Teenagers spent more time outdoors instead of using smartphones in the past. 
+        `,
+          options: [`Teenagers used to spend more time outdoors instead of using smartphones.`,`Teenagers used to spending more time outdoors instead of using smartphones. `,`Teenagers are used to spend more time outdoors instead of using smartphones. `,`Teenagers use to spend more time outdoors instead of using smartphones. `,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc ngữ pháp<br>
+Tạm dịch câu gốc:</b> Thanh thiếu niên đã dành nhiều thời gian ở ngoài trời hơn thay vì sử dụng điện thoại thông minh trong quá khứ.<br>
+Ta có:<br><b>
+- used to + V (nguyên mẫu):</b> đã từng làm gì đó (diễn tả thói quen trong quá khứ)<br><b>
+- be used to + Ving:</b> đã quen với việc làm gì đó<br><b>
+* Xét các đáp án:</b><br>
+A. Teenagers used to spend more time outdoors instead of using smartphones: Thanh thiếu niên đã từng dành nhiều thời gian ở ngoài trời hơn thay vì sử dụng điện thoại thông minh. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br>
+B. Teenagers used to spending more time outdoors instead of using smartphones. → Sai ngữ pháp.<br>
+C. Teenagers are used to spend more time outdoors instead of using smartphones. → Sai ngữ pháp.<br>
+D. Teenagers use to spend more time outdoors instead of using smartphones. → Sai ngữ pháp.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `David wants to know, "Are there any active volcanoes in Europe?" 
+        `,
+          options: [`David wondered if there are any active volcanoes in Europe.`,`David asked whether there were active volcanoes in Europe.`,`David asked me that there are active volcanoes in Europe.`,`David wants to know whether there were any active volcanoes in Europe.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật<br>
+Tạm dịch câu gốc:</b> David muốn biết, "Có núi lửa nào còn hoạt động ở Châu Âu không?"<br>
+→ Cấu trúc câu tường thuật lại câu hỏi Yes/No: <b>S + asked + (O)/ wanted to know/ wondered + if/ whether + S + V</b><br>
+* Lưu ý: Khi chuyển từ câu trực tiếp sang gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và lùi thì đối với câu chứa động từ tường thuật ở thì quá khứ.<br><b>
+* Xét các đáp án:</b><br>
+A. David wondered if there are any active volcanoes in Europe. → Sai ngữ pháp (chưa lùi thì).<br>
+B. David asked whether there were active volcanoes in Europe: David đã hỏi liệu có núi lửa nào còn hoạt động ở Châu Âu không. <b><i>→ Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br>
+C. David asked me that there are active volcanoes in Europe. → Sai ngữ pháp.<br>
+D. David wants to know whether there were any active volcanoes in Europe. → Sai ngữ pháp (động từ tường thuật ở hiện tại "<b>wants to know</b>" thì không cần lùi thì).<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the option that best completes each of the following exchanges. </b></p>`,
+          media:``,
+          question: `<b>Yoko</b>: "Can you recommend a good app to learn English?"	- <b>Jake</b>: “_______”
+        `,
+          options: [`Thank you!`,`Good luck!`,`No, thanks`,`Sure. It depends on your level.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp<br>
+Tạm dịch:</b> Yoko: "Bạn có thể giới thiệu một ứng dụng tốt để học tiếng Anh không?" – Jake: "_________________"<br><b>
+* Xét các đáp án:</b><br>
+A. Cảm ơn bạn!<br>
+B. Chúc may mắn!<br>
+C. Không, cảm ơn.<br>
+D. Chắc chắn rồi. Nó còn tùy thuộc vào trình độ của bạn.<br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Mary</b>: "I'm sorry for stepping on your pen because it dropped on the floor?" - <b>Helen</b>: "_______”
+        `,
+          options: [`Oh! That's so amazing `,`You bet`,`You don't mind`,`Never mind`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp<br>
+Tạm dịch: Mary:</b> "Tôi xin lỗi vì đã giẫm lên bút của bạn bởi vì nó bị rơi trên sàn?" – <b>Helen</b>: "_________________"<br><b>
+* Xét các đáp án:</b><br>
+A. Ồ! Thật đáng kinh ngạc.<br>
+B. Chắc chắn rồi.<br>
+C. Bạn không phiền.<br>
+D. Không sao đâu/ Đừng bận tâm.<br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions. </b></p>`,
+          media:``,
+          question: `_________ refers to a healthy relationship between living organisms and their non-living environment in an ecosystem. 
+        `,
+          options: [`Habitat loss`,`Climate change`,`Ecological balance `,`Nature reserve `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. Habitat loss: sự mất môi trường sống<br>
+B. Climate change: sự biến đổi khí hậu<br>
+C. Ecological balance: sự cân bằng sinh thái<br>
+D. Nature reserve: khu bảo tồn thiên nhiên<br><b>
+Tạm dịch:</b> Cân bằng sinh thái đề cập đến mối quan hệ lành mạnh giữa các sinh vật sống và môi trường không sống của chúng trong một hệ sinh thái.<br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `We need to _________ action now to protect the environment before it's too late. 
+        `,
+          options: [`take`,`make`,`do`,`get`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ cố định<br>
+* Xét các đáp án:</b><br>
+A. take /teɪk/ (v): nắm, túm, giữ lấy<br>
+B. make /meɪk/ (v): làm, chế tạo<br>
+C. do /duː/ (v): làm; thực hiện; biểu diễn<br>
+D. get /ɡet/ (v): có được; đạt được; lấy được<br>
+* Ta có cụm từ cố định: <b>take action: hành động<br>
+Tạm dịch:</b> Chúng ta cần hành động ngay bây giờ để bảo vệ môi trường trước khi quá muộn.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Taking an ________ English test can measure your progress and boost confidence.
+        `,
+          options: [`office`,`official `,`officer `,`officially`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+* Xét các đáp án:</b><br>
+A. office /ˈɒfɪs/ (n): phòng, ban<br>
+B. official /əˈfɪʃl/ (adj): chính thức, chính thống<br>
+C. officer /ˈɒfɪsə(r)/ (n): cảnh sát; sĩ quan; viên chức<br>
+D. officially /əˈfɪʃəli/ (adv): (một cách) chính thức<br>
+→ Ta thấy, chỗ trống cần điền một tính từ đứng trước cụm danh từ <b>"English test".<br>
+Tạm dịch:</b> Làm một bài kiểm tra tiếng Anh chính thức có thể đo lường sự tiến bộ và nâng cao sự tự tin của bạn.<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `He responded ________ when he heard the news, and it was clear he was deeply upset.
+        `,
+          options: [`gratefully`,`angrily `,`carefully`,`softly`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. gratefully /ˈɡreɪtfəli/ (adv): [một cách] biết ơn<br>
+B. angrily /ˈæŋɡrəli/ (adv): [một cách] tức giận<br>
+C. carefully /ˈkeəfəli/ (adv): [một cách] cẩn thận<br>
+D. softly /ˈsɒftli/ (adv): [một cách] nhẹ nhàng, khẽ khàng<br><b>
+Tạm dịch:</b> Anh ấy đã phản ứng một cách tức giận khi nghe tin, và rõ ràng là anh ấy đã vô cùng bực bội.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `When a group of colleagues effectively shares ideas and responsibilities at work, it demonstrates _________.
+        `,
+          options: [`competition `,`teamwork`,`leadership`,`pressure `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. competition /ˌkɒmpəˈtɪʃn/ (n): cuộc tranh tài; sự cạnh tranh<br>
+B. teamwork /ˈtiːmwɜːk/ (n): hoạt động nhóm, làm việc nhóm<br>
+C. leadership /ˈliːdəʃɪp/ (n): sự lãnh đạo; khả năng lãnh đạo<br>
+D. pressure /ˈpreʃə(r)/ (n): áp lực; sự căng thẳng<br><b>
+Tạm dịch:</b> Khi một nhóm đồng nghiệp chia sẻ hiệu quả ý tưởng và trách nhiệm trong công việc, điều đó thể hiện làm việc nhóm.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Tickets for popular destinations in Ninh Binh on public holidays tend to sell out quickly, so _______ your tickets in advance is recommended.
+        `,
+          options: [`preserving`,`packing`,`booking`,`ordering`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ cố định<br>
+* Xét các đáp án:</b><br>
+A. preserving – preserve /prɪˈzɜːv/ (v): bảo tồn, bảo vệ<br>
+B. packing – pack /pæk/ (v): sắp xếp (hành lý); tập hợp lại<br>
+C. booking – book /bʊk/ (v): đặt trước<br>
+D. ordering – order /ˈɔːdə(r)/ (v): gọi món, đặt hàng; ra lệnh<br>
+* Ta có cụm từ cố định: <b>book sth in advance: đặt trước cái gì đó từ sớm<br>
+Tạm dịch</b>: Vé đến các điểm đến nổi tiếng ở Ninh Bình vào các ngày lễ thường bán hết nhanh, vì vậy việc đặt vé trước được khuyến nghị.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `________, we will finish our project on time and get a good grade.
+        `,
+          options: [`Hopeful`,`Hopefully`,`Hope`,`Hopelessly`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ cố định<br>
+* Xét các đáp án:</b><br>
+A. Hopeful /ˈhəʊpfl/ (adj): có hy vọng, đầy hy vọng<br>
+B. Hopefully /ˈhəʊpfəli/ (adv): hy vọng rằng, mong là; [một cách] đầy hy vọng<br>
+C. Hope /həʊp/ (v): hy vọng, mong<br>
+D. Hopelessly /ˈhəʊpləsli/ (adv): [một cách] vô vọng, tuyệt vọng<br>
+→ Ta thấy, chỗ trống cần điền một trạng từ đứng đầu câu, ngăn cách với mệnh đề chính bởi dấu phẩy =&gt; loại A và C.<br><b>
+Tạm dịch: </b>Hy vọng rằng, chúng ta sẽ hoàn thành dự án đúng hạn và đạt điểm cao.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `After years of hard work, she finally got a ________ promotion.
+        `,
+          options: [`rewarding`,`boring `,`disappointing`,`stressful`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. rewarding /rɪˈwɔːdɪŋ/ (adj): xứng đáng, đáng làm<br>
+B. boring /ˈbɔːrɪŋ/ (adj): chán, tẻ nhạt<br>
+C. disappointing /ˌdɪsəˈpɔɪntɪŋ/ (adj): đáng thất vọng<br>
+D. stressful /ˈstresfl/ (adj): gây ra căng thẳng, tạo áp lực<br><b>
+Tạm dịch:</b> Sau nhiều năm làm việc chăm chỉ, cuối cùng cô ấy đã nhận được một sự thăng chức xứng đáng.<br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The teacher _________ some mistakes that students made in their essays.
+        `,
+          options: [`got over`,`made over `,`went over `,`took over`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ<br>
+* Xét các đáp án:</b><br>
+A. got over – get over (ph.v): vượt qua (khó khăn, bệnh tật); giải quyết, kiểm soát được<br>
+B. made over – make over (ph.v): chuyển nhượng tài sản; thay đổi diện mạo, làm lại<br>
+C. went over – go over (ph.v): ôn tập lại; kiểm tra, xem xét cẩn thận<br>
+D. took over – take over (ph.v): tiếp quản, đảm nhận (công việc, vị trí)<br><b>
+Tạm dịch: </b>Giáo viên đã xem xét cẩn thận một số lỗi mà học sinh mắc phải trong bài luận của họ.<br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `My dream is to succeed in climbing to the ________ of Mount Everest, which is about 8,848 meters above sea level.
+        `,
+          options: [`border`,`rainforest`,`outcrop`,`summit`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. border /ˈbɔːdə(r)/ (n): biên giới<br>
+B. rainforest /ˈreɪnfɒrɪst/ (n): rừng mưa, rừng rậm nhiệt đới<br>
+C. outcrop /ˈaʊtkrɒp/ (n): phần đá lộ thiên<br>
+D. summit /ˈsʌmɪt/ (n): đỉnh, chóp núi (điểm cao nhất của một ngọn núi)<br><b>
+Tạm dịch: </b>Ước mơ của tôi là leo thành công lên đỉnh của núi Everest, nơi có độ cao khoảng 8.848 mét so với mực nước biển.<br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Look at the sign or the notice. Choose the best answer (A, B, C, or D) for each of the following questions. </b></p>`,
+          media:``,
+          question: `What does the notice say?<br><img src="/learn/grand10/c4dd0a60-7c48-4d2c-9be9-a2862a0d91fd.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`There is no need to be careful on the floor. `,`The floor is always wet and slippery.`,`The floor is wet. Stand still and avoid moving. `,`The floor is wet. Be careful when walking to avoid slipping.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tạm dịch: Nội dung của thông báo là gì?<br>
+* Xét các đáp án:</b><br>
+A. Không cần phải cẩn thận trên sàn nhà. <br>
+B. Sàn nhà luôn luôn ướt và trơn trượt. <br>
+C. Sàn nhà đang ướt. Hãy đứng yên và tránh di chuyển. <br>
+D. Sàn nhà đang ướt. Hãy cẩn thận khi đi lại để tránh trượt ngã.<br><b>
+Căn cứ vào thông tin: "<u>Caution</u>: The floor is wet. Please walk carefully to avoid slipping"</b> <i>(Chú ý: Sàn nhà đang ướt. Vui lòng đi lại cẩn thận để tránh trượt ngã.)</i><br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does the sign say?<br><img src="/learn/grand10/15c5c294-2a5b-42e7-b18e-ba410b8489f4.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`The elevator is not working and you cannot use it. `,`The elevator is for special use only and not for everyone. `,`The elevator is being repaired and will work again soon. `,`The elevator is working well and you can use it.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tạm dịch: Nội dung của biển báo là gì?</b><br><img src="/learn/grand10/15c5c294-2a5b-42e7-b18e-ba410b8489f4.jpg" data-filename="" style="max-width: 600px; height: auto;"><br><b>
+* Xét các đáp án:</b><br>
+A. Thang máy đang hỏng và bạn không thể sử dụng nó. <br>
+B. Thang máy chỉ dành cho mục đích sử dụng đặc biệt và không dành cho tất cả mọi người. <br>
+C. Thang máy đang được sửa chữa và sẽ sớm hoạt động trở lại. <br>
+D. Thang máy đang hoạt động tốt và bạn có thể sử dụng nó.<br>
+→ Ta thấy biểu tượng thang máy bị gạch chéo (nghĩa là cấm hoặc không sử dụng được); kèm theo thông tin<b> "ELEVATOR – OUT OF ORDER"</b> <i>(Thang máy – bị hỏng).</i><br><b>
+Do đó, A là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful letter /paragraph in each of the following questions.</b></p>`,
+          media:``,
+          question: `<div style="text-align: justify;">Dear Ana,</div><div style="text-align: justify;">a. It's a religious holiday and we value it very much. Do you have a similar festival in your country?</div><div style="text-align: justify;">b. In India, we have a tradition called Diwali. It's in October or November. We celebrate the value of good over evil and light over darkness.</div><div style="text-align: justify;">c. Then, we give presents and eat special food. We also light candles and fireworks.</div><div style="text-align: justify;">d. To prepare for this, first, we clean our houses and wear new clothes.</div><div style="text-align: justify;">e. Thanks for your email. I'd love to tell you about a festival in my country.</div><div style="text-align: justify;">Best,</div><div style="text-align: justify;">Rahul</div>
+        `,
+          options: [`b-d-a-c-e`,`e-b-d-c-a`,`e-d-c-b-a`,`d-a-e-c-b`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành lá thư</b><br>
+* Ta có: Để tạo nên một lá thư hoàn chỉnh, mở đầu phải là lời chào cũng như giới thiệu chủ đề sắp nói đến bằng cách dùng <b>Dear/ Hi/ To + tên người nhận.</b> Ở phần thân lá thư, ta sắp xếp sao cho chúng phù hợp về ngữ nghĩa. Kết thúc lá thư sẽ là lời nhắn nhủ, gửi lời chúc đến người nhận bằng cụm <b>Best wishes/ Best regards/ Best/ Sincerely/ Write back soon/ With warm regards/ Yours faithfully… </b><br><b>
+=&gt; Ta có cách sắp xếp hoàn chỉnh:</b><br>
+Dear Ana, (Ana thân mến,)<br>
+e. Thanks for your email. I'd love to tell you about a festival in my country. <i>(Cảm ơn email của bạn. Mình rất muốn kể cho bạn nghe về một lễ hội ở đất nước mình.)</i><br>
+b. In India, we have a tradition called Diwali. It's in October or November. We celebrate the value of good over evil and light over darkness. <i>(Ở Ấn Độ, chúng mình có một lễ hội truyền thống gọi là Diwali. Nó diễn ra vào tháng Mười hoặc tháng Mười Một. Chúng mình kỷ niệm giá trị của cái thiện chiến thắng cái ác và ánh sáng chiến thắng bóng tối.)</i><br>
+d. To prepare for this, first, we clean our houses and wear new clothes. <i>(Để chuẩn bị cho lễ hội này, đầu tiên, chúng mình dọn dẹp nhà cửa và mặc quần áo mới.)</i><br>
+c. Then, we give presents and eat special food. We also light candles and fireworks. <i>(Sau đó, chúng mình tặng quà và ăn những món ăn đặc biệt. Chúng mình cũng thắp nến và đốt pháo hoa.)</i><br>
+a. It's a religious holiday and we value it very much. Do you have a similar festival in your country? <i>(Đó là một ngày lễ tôn giáo và chúng mình rất coi trọng nó. Ở đất nước bạn có lễ hội nào tương tự không?)</i><br>
+Best, <i>(Thân ái,)</i><br>
+Rahul<br>
+=&gt; Vì vậy, ta có thứ tự sắp xếp đúng là: <b>e-b-d-c-a<br>
+Do đó, B là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<div style="text-align: justify;">a. Finally, sharing housework can also help families work better and reduce family stress.</div><div style="text-align: justify;">b. Firstly, doing chores helps children learn about what they need to do to care for themselves, a home and a family.</div><div style="text-align: justify;">c. When children help out, chores get done sooner, and parents have less to do and this frees up time for the family to do fun things together.</div><div style="text-align: justify;">d. Secondly, being involved in chores also gives children experience of relationship skills like communicating clearly, negotiating, cooperating and working as a team.</div><div style="text-align: justify;">e. Children can learn a lot from doing household chores.</div>
+        `,
+          options: [`e-b-d-a-c`,`e-c-d-a-b`,`b-c-e-d-a`,`d-b-a-e-c`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp câu tạo thành đoạn văn</b><br>
+* Ta có: Để tạo nên một đoạn văn/ lời kể hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước. Để nêu lên ý đầu tiên, ta dùng <b>Firstly, First of all, At first…</b> Sau đó, để nêu ra các ý tiếp theo, ta dùng các liên từ, từ nối như<b> Secondly, Also, Furthermore, Additionally… Ý cuối cùng ta sử dụng Finally, Last but not least, Ultimately…</b><br><b>
+=&gt; Ta có cách sắp xếp hoàn chỉnh:</b><br>
+e. Children can learn a lot from doing household chores. <i>(Trẻ em có thể học được nhiều điều từ việc làm việc nhà.)</i><br>
+b. Firstly, doing chores helps children learn about what they need to do to care for themselves, a home and a family. <i>(Thứ nhất, làm việc nhà giúp trẻ học được những gì cần làm để tự chăm sóc bản thân, chăm sóc nhà cửa và gia đình.)</i><br>
+d. Secondly, being involved in chores also gives children experience of relationship skills like communicating clearly, negotiating, cooperating and working as a team.<i> (Thứ hai, tham gia vào công việc nhà cũng mang lại cho trẻ kinh nghiệm về các kỹ năng quan hệ như giao tiếp rõ ràng, thương lượng, hợp tác và làm việc nhóm.)</i><br>
+a. Finally, sharing housework can also help families work better and reduce family stress. <i>(Cuối cùng, việc chia sẻ công việc nhà cũng có thể giúp gia đình hoạt động tốt hơn và giảm bớt căng thẳng trong gia đình.)</i><br>
+c. When children help out, chores get done sooner, and parents have less to do and this frees up time for the family to do fun things together. <i>(Khi trẻ em giúp đỡ, công việc nhà sẽ được hoàn thành sớm hơn, cha mẹ có ít việc phải làm hơn và điều này giải phóng thời gian để gia đình cùng nhau làm những điều thú vị.)</i><br>
+=&gt; Vì vậy, ta có thứ tự sắp xếp đúng là:<b> e-b-d-a-c<br>
+Do đó, A là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions.</b></p><p><div style="text-align: justify;">There are various factors which may affect a person's choice of a job. Passion, family tradition, salary and work-life balance are just some of them.</div><div style="text-align: justify;">Many people pursue careers based on their interests and hobbies. For instance, someone with a love for animals may do a job in veterinary care, while art lovers might go for a job in the creative industry. Family tradition is another significant motivator. Some individuals would like to follow in the professional footsteps of their parents. <b>They </b>learn from the experience of the previous generation and keep a sense of continuity within their family.</div><div style="text-align: justify;">Other practical considerations guiding job choice are salary and work-life balance. While a large number of people <b>opt for</b> positions which offer competitive payment and benefits, many choose jobs which allow them to maintain a healthy balance between professional and personal life. Such a balance may come from a supportive work environment and flexible working schedules.</div><div style="text-align: justify;">Ultimately, people's job choices are shaped by a blend of personal interests, family influence, financial considerations, and the overall work environment. This complex interaction has resulted in diverse career paths for people in society.</div></p>`,
+          media:``,
+          question: `What is the best title for the passage?
+        `,
+          options: [`The best career path`,`Teenagers' career choice`,`Your passion, your job`,`How people choose their jobs`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tiêu đề nào phù hợp nhất cho đoạn văn? </b><br>
+A. Con đường sự nghiệp tốt nhất <br>
+B. Sự lựa chọn nghề nghiệp của thanh thiếu niên <br>
+C. Đam mê của bạn, công việc của bạn <br>
+D. Cách mọi người lựa chọn công việc của họ<br><b>
+Căn cứ vào thông tin:</b><br>
+- Many people pursue careers based on their interests and hobbies. <i>(Nhiều người theo đuổi sự nghiệp dựa trên sở thích và thú vui của họ.)</i><br>
+- "Some individuals would like to follow in the professional footsteps of their parents." <i>(Một số cá nhân muốn nối nghiệp cha mẹ của họ.)</i><br>
+- "Other practical considerations guiding job choice are salary and work-life balance." <i>(Những cân nhắc thực tế khác định hướng sự lựa chọn công việc là mức lương và sự cân bằng giữa công việc và cuộc sống.)</i><br>
+- "Ultimately, people's job choices are shaped by a blend of personal interests, family influence, financial considerations, and the overall work environment." <i>(Cuối cùng, sự lựa chọn công việc của mọi người được định hình bởi sự kết hợp giữa sở thích cá nhân, ảnh hưởng từ gia đình, những cân nhắc về tài chính và môi trường làm việc tổng thể.)</i><br><b>
+→ Bài đọc chủ yếu đề cập đến cách mọi người lựa chọn nghề nghiệp dựa trên nhiều yếu tố khác nhau.<br>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Why does the writer mention a job in "<i>veterinary care</i>" and "<i>creative industry</i>'?
+        `,
+          options: [`To explain why family tradition is important in choosing a job.`,`To describe the industries with well-paid jobs.`,`To give examples of how passion can affect job choice.`,`To point out some jobs which are popular.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tại sao tác giả đề cập đến công việc trong lĩnh vực "chăm sóc thú y" và "ngành sáng tạo"? </b><br>
+A. Để giải thích tại sao truyền thống gia đình lại quan trọng trong việc chọn nghề. <br>
+B. Để mô tả những ngành có công việc được trả lương cao. <br>
+C. Để đưa ra ví dụ về việc đam mê có thể ảnh hưởng đến lựa chọn công việc như thế nào. <br>
+D. Để chỉ ra một số công việc đang phổ biến.<br><b>
+Căn cứ vào thông tin: </b>"Many people pursue careers based on their interests and hobbies. For instance, someone with a love for animals may do a job in <b>veterinary care</b>, while art lovers might go for a job in the <b>creative industry</b>."<i> (Nhiều người theo đuổi sự nghiệp dựa trên đam mê và sở thích của họ. Ví dụ, một người yêu động vật có thể làm công việc trong lĩnh vực <b>chăm sóc thú y</b>, trong khi những người yêu nghệ thuật có thể hướng đến một công việc trong <b>ngành sáng tạo</b>.)</i><br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The phrase "<b>opt for</b>" in paragraph 3 is closest in meaning to _______.
+        `,
+          options: [`choose`,`like`,`object to`,`enjoy`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Cụm từ "<u>opt for</u>" trong đoạn 3 gần nghĩa nhất với _____________. </b><br>
+A. choose /tʃuːz/ (v): chọn, lựa chọn<br>
+B. like /laɪk/ (v): thích <br>
+C. object to: phản đối <br>
+D. enjoy /ɪnˈdʒɔɪ/ (v): tận hưởng; thích<br><b>
+Căn cứ vào thông tin:</b> "While a large number of people <b>opt for</b> positions which offer competitive payment and benefits…" <i>(Trong khi một số lượng lớn người <b>chọn </b>những vị trí mang lại mức lương và phúc lợi cạnh tranh…)</i><br>
+=&gt; opt for (ph.v): chọn, lựa chọn ~ choose<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which of the following conditions may contribute to a work-life balance? 
+        `,
+          options: [`Unfriendly colleagues at the office`,`A supportive environment at the workplace`,`Fixed working schedules`,`A competitive payment`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Điều kiện nào sau đây có thể góp phần vào sự cân bằng giữa công việc và cuộc sống? </b><br>
+A. Đồng nghiệp không thân thiện tại văn phòng <br>
+B. Một môi trường hỗ trợ tại nơi làm việc <br>
+C. Lịch trình làm việc cố định <br>
+D. Mức lương cạnh tranh<br><b>
+Căn cứ vào thông tin: </b>"… many choose jobs which allow them to maintain a healthy balance between professional and personal life. Such a balance may come from <b>a supportive work environment</b> and flexible working schedules."<i> (…nhiều người lại chọn những công việc cho phép họ duy trì sự cân bằng lành mạnh giữa sự nghiệp và cuộc sống cá nhân. Sự cân bằng như vậy có thể đến từ <b>một môi trường làm việc hỗ trợ</b> và lịch trình làm việc linh hoạt.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does the word "<b>they</b>" in paragraph 2 refer to ________?
+        `,
+          options: [`Careers based on hobbies`,`Individuals following their parents' profession `,`Family members`,`Creative industry workers`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "<u>they</u>" trong đoạn 2 đề cập đến _____________? </b><br>
+A. Careers based on hobbies: Những sự nghiệp dựa trên sở thích <br>
+B. Individuals following their parents' profession: Những cá nhân theo nghề của cha mẹ họ <br>
+C. Family members: Các thành viên trong gia đình <br>
+D. Creative industry workers: Những người làm trong ngành sáng tạo<br><b>
+Căn cứ vào thông tin:</b> "Some individuals would like to follow in the professional footsteps of their parents. <b><u>They</u></b> learn from the experience of the previous generation and keep a sense of continuity within their family." <i>(Một số cá nhân muốn nối nghiệp cha mẹ của họ. <b>Họ </b>học hỏi từ kinh nghiệm của thế hệ trước và duy trì ý thức về sự tiếp nối trong gia đình mình.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`ex<u>ch</u>ange `,`but<u>ch</u>er `,`stoma<u>ch</u> `,`<u>ch</u>ildren `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. ex<u>ch</u>ange /ɪksˈ<u>tʃ</u>eɪndʒ/ <br>
+B. but<u>ch</u>er /ˈbʊ<u>tʃ</u>ə(r)/ <br>
+C. stoma<u>ch</u> /ˈstʌmə<u>k</u>/ <br>
+D. <u>ch</u>ildren /ˈ<u>tʃ</u>ɪldrən/<br><b>
+=&gt; Phần gạch chân ở đáp án C được phát âm là /k/, các đáp án còn lại được phát âm là /tʃ/.<br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`bl<u>u</u>e `,`r<u>u</u>le `,`tr<u>u</u>th `,`b<u>u</u>sy `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. bl<u>u</u>e /bl<u>uː</u>/ <br>
+B. r<u>u</u>le /r<u>uː</u>l/ <br>
+C. tr<u>u</u>th /tr<u>uː</u>θ/ <br>
+D. b<u>u</u>sy /ˈb<u>ɪ</u>zi/<br><b>
+=&gt; Phần gạch chân ở đáp án D được phát âm là /ɪ/, các đáp án còn lại được phát âm là /uː/.<br>
+Do đó, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`relax<u>es</u> `,`locat<u>es</u> `,`finish<u>es</u> `,`research<u>es</u> `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm đuôi -s/es<br>
+* Xét các đáp án:</b><br>
+A. relax<u>es</u> /rɪˈlæks<u>ɪz</u>/ <br>
+B. locat<u>es</u> /ləʊˈkeɪt<u>s</u>/ <br>
+C. finish<u>es</u> /ˈfɪnɪʃ<u>ɪz</u>/ <br>
+D. research<u>es</u> /rɪˈsɜːtʃ<u>ɪz</u>/<br>
+Ta có quy tắc phát âm đuôi -s/es:<br>
+1.	Đuôi <b>-s/es</b> được phát âm là <b>/s/ </b>khi động từ có phát âm cuối là /p/, /t/, /k/, /f/, /θ/<br>
+2.	Đuôi <b>-s/es</b> được phát âm là <b>/iz/</b> khi động từ kết thúc bằng -s, -ss, -sh, -ce, -z, -ge, -ch, -x…<br>
+3.	Đuôi <b>-s/es </b>được phát âm là <b>/z/</b> với các trường hợp còn lại.<br><b>
+=&gt; Phần gạch chân ở câu B được phát âm là /s/, còn lại được phát âm là /ɪz/. <br>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`destroy`,`happen`,`forget`,`reply`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm<br>* Xét các đáp án: </b><br>A. destroy /dɪˈstrɔɪ/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm đôi /ɔɪ/.<br>B. happen /ˈhæpən/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm không rơi vào nguyên âm ngắn /ə/.<br>C. forget /fəˈɡet/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm không rơi vào nguyên âm ngắn /ə/.<br>D. reply /rɪˈplaɪ/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm ưu tiên rơi vào nguyên âm đôi /aɪ/.<br><b>=&gt; Đáp án B có trọng âm rơi vào âm tiết thứ nhất. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai. <br>Do đó, B là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`pollution`,`afternoon`,`unhappy`,`historic`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm<br>* Xét các đáp án: </b><br>A. pollution /pəˈluːʃn/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi <b>-ion</b> làm trọng âm rơi vào âm tiết ngay trước nó.<br>B. afternoon /ˌɑːftəˈnuːn/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, đuôi <b>-oon</b> làm trọng âm rơi vào chính âm tiết chứa nó.<br>C. unhappy /ʌnˈhæpi/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, tiền tố <b>un-</b> không làm ảnh hưởng đến trọng âm của từ gốc. Và từ happy /ˈhæpi/ có trọng âm rơi vào âm tiết thứ nhất.<br>D. historic /hɪˈstɒrɪk/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi <b>-ic</b> làm trọng âm rơi vào âm tiết ngay trước nó.<br><b>=&gt; Đáp án B có trọng âm rơi vào âm tiết thứ ba. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai. <br>Do đó, B là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcements and circle the letter A, B, C or D to indicate the correct option in each gap.</b></p><p><div style="text-align: center;"><b>LIBRARY RULES ANNOUNCEMENT</b></div><div style="text-align: justify;">In order to maintain a quiet and effective learning (43) _______, " all students are required to follow these library rules:</div><div style="text-align: justify;">* Upon entering the library, students must behave politely and respect (44) _______ shared study space of others.</div><div style="text-align: justify;">* Students should not speak loudly in the library as it may disturb others' concentration.</div><div style="text-align: justify;">* When using mobile phones in the library, students should set their phones to silent mode or turn them off.</div><div style="text-align: justify;">* All borrowed materials should be returned on time to allow others to use them. If you lose any books, please inform the library staff immediately.</div><div style="text-align: justify;">* Eating and drinking are not allowed in the library (45) ________ this behavior may affect the cleanliness and condition of library materials.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`climate`,`environment`,`situation`,`atmosphere`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>* Xét các đáp án:</b><br>A. climate /ˈklaɪmət/ (n): khí hậu<br>B. environment /ɪnˈvaɪrənmənt/ (n): môi truờng<br>C. situation /ˌsɪtʃuˈeɪʃn/ (n): tình huống, trường hợp<br>D. atmosphere /ˈætməsfɪə(r)/ (n): không khí; bầu không khí<br>* Ta có cụm từ: <b>learning environment: môi trường học tập<br>Tạm dịch: </b>In order to maintain a quiet and effective learning (43) _______, all students are required to follow these library rules <i>(Để duy trì một <b>môi trường</b> học tập yên tĩnh và hiệu quả, tất cả sinh viên được yêu cầu tuân theo các nội quy thư viện sau)</i><br><b>Do đó, B là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`a`,`no article`,`an`,`the`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ</b><br>
+* Ta có quy tắc: Mạo từ xác định "<b>the</b>" dùng đứng trước danh từ đã được xác định hoặc biết rõ trong ngữ cảnh.<br>
+→ Ta thấy, "<b>of others</b>" (của những người khác) làm cho "<b>shared study space</b>" trở nên xác định =&gt; ta dùng mạo từ "<b>the</b>" trước nó.<br><b>
+Tạm dịch: </b>Upon entering the library, students must behave politely and respect (44) __________ shared study space of others. <i>(Khi vào thư viện, sinh viên phải cư xử lịch sự và tôn trọng không gian học tập chung của người khác.)</i><br><b>
+Do đó, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`so`,`although`,`but`,`because`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án:</b><br>
+A. so: vì vậy, do đó (chỉ kết quả) <br>
+B. although: mặc dù (chỉ sự tương phản) <br>
+C. but: nhưng (chỉ sự tương phản) <br>
+D. because: bởi vì, do (chỉ nguyên nhân, lý do)<br><b>
+Tạm dịch: </b>Eating and drinking are not allowed in the library (45) ________ this behavior may affect the cleanliness and condition of library materials.<i> (Không được phép ăn uống trong thư viện <b>bởi vì</b> hành vi này có thể ảnh hưởng đến sự sạch sẽ và tình trạng của tài liệu thư viện.)</i><br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions.</b></p><p><div style="text-align: justify;">The Amazon rainforest is a vast and vibrant ecosystem teeming with life. It covers an area larger than most European countries and holds ten percent of the world's known species. This <b>biodiversity</b> makes it a prime destination for tourists seeking a unique and unforgettable experience. However, traditional tourism can have a negative impact on this delicate environment. Ecotourism offers a more sustainable alternative, focusing on responsible travel that benefits both the rainforest and local communities.</div><div style="text-align: justify;">Ecotourism trips typically involve small groups led by experienced guides who are knowledgeable about the rainforest's ecology. <b>They </b>prioritize activities that minimize environmental impact, like nature walks, wildlife observation, and boat trips on rivers. These tours educate visitors about the rainforest's importance and the threats it faces.</div><div style="text-align: justify;">Staying in eco-lodges built with local materials minimizes disruption to the ecosystem. These lodges often employ local people, providing them with income and fostering a sense of ownership over the rainforest's preservation. Ecotourism also supports local businesses that sell traditional crafts and products, promoting cultural exchange and economic growth.</div></p>`,
+          media:``,
+          question: `What is the main idea of the passage?
+        `,
+          options: [`The Amazon rainforest is in immediate danger of disappearing entirely.`,`Ecotourism offers a responsible way to explore the rainforest and support its preservation.`,`The Amazon rainforest is a popular destination for luxury vacations.`,`Traditional tourism is the best way to experience the Amazon rainforest.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Ý chính của đoạn văn là gì? </b><br>
+A. Rừng mưa Amazon đang đứng trước nguy cơ biến mất hoàn toàn ngay lập tức. <br>
+B. Du lịch sinh thái mang đến một cách có trách nhiệm để khám phá rừng mưa và hỗ trợ việc bảo tồn nó. <br>
+C. Rừng mưa Amazon là điểm đến phổ biến cho các kỳ nghỉ sang trọng. <br>
+D. Du lịch truyền thống là cách tốt nhất để trải nghiệm rừng mưa Amazon.<br><b>
+Căn cứ vào thông tin:</b><br>
+- "Ecotourism offers a more sustainable alternative, focusing on responsible travel that benefits both the rainforest and local communities." <i>(Du lịch sinh thái mang đến một giải pháp thay thế bền vững hơn, tập trung vào du lịch có trách nhiệm mang lại lợi ích cho cả rừng mưa và cộng đồng địa phương.)</i><br>
+- "These tours educate visitors about the rainforest's importance and the threats it faces." <i>(Những chuyến đi này giáo dục du khách về tầm quan trọng của rừng mưa và những mối đe dọa mà nó phải đối mặt.)</i><br>
+- "Staying in eco-lodges built with local materials minimizes disruption to the ecosystem." <i>(Việc lưu trú tại các nhà nghỉ sinh thái được xây dựng bằng vật liệu địa phương giúp giảm thiểu sự xáo trộn đối với hệ sinh thái.)</i><br><b>
+→ Bài đọc nhấn mạnh rằng du lịch sinh thái là giải pháp để bảo vệ rừng Amazon và hỗ trợ cộng đồng địa phương.<br>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What is the meaning of the word "<b>biodiversity</b>" in the first paragraph?
+        `,
+          options: [`The number of people visiting an area`,`The quality of tourism services`,`The height of the rainforest trees`,`The variety of plant and animal life`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Nghĩa của từ "<u>biodiversity</u>" trong đoạn đầu tiên là gì? </b><br>
+A. The number of people visiting an area: Số lượng người đến thăm một khu vực <br>
+B. The quality of tourism services: Chất lượng dịch vụ du lịch <br>
+C. The height of the rainforest trees: Chiều cao của cây trong rừng mưa <br>
+D. The variety of plant and animal life: Sự đa dạng của đời sống thực vật và động vật<br><b>
+Căn cứ vào thông tin:</b> "This <u><b>biodiversity</b></u> makes it a prime destination for tourists seeking a unique and unforgettable experience." <i>(<b>Sự đa dạng sinh học</b> này khiến nơi đây trở thành điểm đến hàng đầu cho du khách tìm kiếm trải nghiệm độc đáo và khó quên.)</i><br><b>
+=&gt; biodiversity /ˌbaɪəʊdaɪˈvɜːsəti/ (n): sự đa dạng sinh học</b><br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `How do ecotourism tours typically operate?
+        `,
+          options: [`Small groups led by knowledgeable guides who prioritize responsible travel `,`Independent exploration with minimal impact on the environment`,`Large groups following a set itinerary with minimal guidance`,`Luxurious cruises down the Amazon River with limited interaction with nature`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Các chuyến du lịch sinh thái thường hoạt động như thế nào? </b><br>
+A. Các nhóm nhỏ do hướng dẫn viên am hiểu dẫn dắt, ưu tiên du lịch có trách nhiệm <br>
+B. Khám phá độc lập với tác động tối thiểu đến môi trường <br>
+C. Các nhóm lớn theo lịch trình cố định với sự hướng dẫn tối thiểu <br>
+D. Các chuyến du thuyền sang trọng xuôi dòng sông Amazon với sự tương tác hạn chế với thiên nhiên<br><b>
+Căn cứ vào thông tin: </b>"Ecotourism trips typically involve small groups led by experienced guides who are knowledgeable about the rainforest's ecology. They prioritize activities that minimize environmental impact, like nature walks, wildlife observation, and boat trips on rivers." <i>(Các chuyến du lịch sinh thái thường bao gồm các nhóm nhỏ do hướng dẫn viên giàu kinh nghiệm, am hiểu về hệ sinh thái của rừng mưa dẫn dắt. Chúng ưu tiên các hoạt động giảm thiểu tác động môi trường, như đi bộ khám phá thiên nhiên, quan sát động vật hoang dã và đi thuyền trên sông.)</i><br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Why is ecotourism important for the Amazon rainforest?
+        `,
+          options: [`It allows tourists to take home souvenirs made from endangered species. `,`It educates visitors about the importance of rainforest conservation. `,`It encourages unsustainable development projects in the rainforest. `,`It disrupts the natural predator-prey balance in the ecosystem. `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tại sao du lịch sinh thái lại quan trọng đối với rừng mưa Amazon? </b><br>
+A. Nó cho phép du khách mang về những món quà lưu niệm làm từ các loài có nguy cơ tuyệt chủng. <br>
+B. Nó giáo dục du khách về tầm quan trọng của việc bảo tồn rừng mưa. <br>
+C. Nó khuyến khích các dự án phát triển không bền vững trong rừng mưa. <br>
+D. Nó phá vỡ sự cân bằng tự nhiên giữa kẻ săn mồi và con mồi trong hệ sinh thái.<br><b>
+Căn cứ vào thông tin:</b> "These tours educate visitors about the rainforest's importance and the threats it faces." <i>(Những chuyến đi này giáo dục du khách về tầm quan trọng của rừng mưa và những mối đe dọa mà nó phải đối mặt.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does the word "<b>they</b>" in paragraph 2 refer to _________?
+        `,
+          options: [`Tourists`,`Wildlife species`,`Ecotourism trips`,`Local communities`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "<u>they</u>" trong đoạn 2 đề cập đến ___________? </b><br>
+A. Tourists: Các du khách <br>
+B. Wildlife species: Các loài động vật hoang dã <br>
+C. Ecotourism trips: Các chuyến du lịch sinh thái <br>
+D. Local communities: Cộng đồng địa phương<br><b>
+Căn cứ vào thông tin:</b> "Ecotourism trips typically involve small groups led by experienced guides who are knowledgeable about the rainforest's ecology. <b><u>They</u></b> prioritize activities that minimize environmental impact…" <i>(Các chuyến du lịch sinh thái thường bao gồm các nhóm nhỏ do hướng dẫn viên giàu kinh nghiệm, am hiểu về hệ sinh thái của rừng mưa dẫn dắt. <b>Chúng </b>ưu tiên các hoạt động giảm thiểu tác động môi trường…)</i><br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        }, ],
+    },
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`sust<u>a</u>in `,`maint<u>a</u>in `,`cert<u>a</u>in`,`merm<u>a</u>id `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm nguyên âm<br>
+* Xét các đáp án:</b><br>
+A. sust<u>a</u>in /səˈst<u>eɪ</u>n/	<br>
+B. maint<u>a</u>in /meɪnˈt<u>eɪ</u>n/<br>	
+C. cert<u>a</u>in/ˈsɜːtn/<br>	
+D. merm<u>a</u>id /ˈmɜːm<u>eɪ</u>d/<br>
+=&gt; Phần gạch chân ở phương án C được phát âm là âm câm còn lại được phát âm là /eɪ/.<br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`annoy<u>ed</u> `,`repair<u>ed</u> `,`watch<u>ed</u> `,`remember<u>ed</u> `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm đuôi “-ed”<br>
+* Xét các đáp án:</b><br>
+A. annoy<u>ed</u> /əˈnɔɪd/	<br>
+B. repair<u>ed</u> /rɪˈpeə(r)d/	<br>
+C. watch<u>ed</u> /wɒtʃt/	<br>
+D. remember<u>ed</u> /rɪˈmembə(r)d/<br>
+=&gt; Phần gạch chân ở phương án C được phát âm là /t/ còn lại được phát âm là /d/.<br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`achieve `,`visit`,`contain`,`occur`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm <br>
+* Xét các đáp án:</b><br>
+A. achieve /əˈtʃiːv/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc trọng âm ưu tiên rơi vào nguyên âm dài và không rơi vào âm /ə/.<br>
+B. visit /ˈvɪzɪt/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc trọng âm nếu tất cả các âm mà ngắn hết thì trọng âm rơi vào âm tiết thứ nhất.<br>
+C. contain /kənˈteɪn/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc trọng âm ưu tiên rơi vào nguyên âm đôi và không rơi vào âm /ə/.<br>
+D. occur /əˈkɜː(r)/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc trọng âm ưu tiên rơi vào nguyên âm dài và không rơi vào âm /ə/.<br>
+=&gt; Ở phương án B trọng âm rơi vào âm tiết thứ nhất, các phương án còn lại trọng âm rơi vào âm tiết thứ hai.<br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`interviewee`,`vocational`,`technology`,`appreciate`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm <br>
+* Xét các đáp án:</b><br>
+A. interviewee /ˌɪntəvjuːˈiː/: từ này có trọng âm rơi vào âm tiết thứ tư. Vì theo quy tắc trọng âm, hậu tố/đuôi “-ee” nhận trọng âm.<br>
+B. vocational /vəʊˈkeɪʃənl/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc trọng âm ưu tiên rơi vào nguyên âm đôi và không rơi vào âm /ə/ và âm /əʊ/.<br>
+C. technology /tekˈnɒlədʒi/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc trọng âm, đuôi “-y” làm trọng âm dịch chuyển 3 âm tính từ cuối lên.<br>
+D. appreciate /əˈpriːʃieɪt/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc trọng âm, đuôi “-ate” làm trọng âm dịch chuyển 3 âm tính từ cuối lên.<br>
+=&gt; Ở phương án A trọng âm rơi vào âm tiết thứ tư, các phương án còn lại trọng âm rơi vào âm tiết thứ hai.<br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `Deforestation is a major threat to the natural _______ of many species.
+        `,
+          options: [`habitats`,`resources`,`disasters `,`causes`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng – nghĩa của từ<br>
+* Xét các đáp án: </b><br>
+A. habitat /ˈhæbɪtæt/ (n): môi trường sống, nơi sống	<br>
+B. resource /rɪˈsɔːs/ (n): tài nguyên		<br>
+C. disaster /dɪˈzɑːstə(r)/ (n): thảm hoạ	<br>	
+D. cause /kɔːz/ (n): nguyên nhân<br><b>
+Tạm dịch:</b> “Deforestation is a major threat to the natural________of many species.” <i>(Nạn phá rừng là mối đe dọa lớn đối với môi trường sống tự nhiên của nhiều loài. )</i><br>
+Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The more the students study for the test, _______ their scores will be.
+        `,
+          options: [`the highest`,`highest`,`the higher`,`higher`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về so sánh kép (so sánh đồng tiến)</b><br>
+Ta có cấu trúc: <br><b>
+THE + ADJ (so sánh hơn) + S + V, THE + ADJ (so sánh hơn) + S + V.<br>
+Tạm dịch:</b> “The more the students study for the test, _________their scores will be.” <i>(Học sinh càng học nhiều cho bài kiểm tra thì điểm số của họ sẽ càng cao. )</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `John sees Nam at a bookshop. <br>
+John: 'Hi, Nam. Hov/re you doing? - Nam: '________’
+        `,
+          options: [`Nice to see you.`,`I'm reading a book.`,`Thanks!`,`I'm great!`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp</b><br>
+John gặp Nam ở hiệu sách.<br>
+John: "Chào Nam. Bạn dạo này thế nào?"<br>
+Nam: '___'<br><b>
+* Xét các đáp án:</b><br>
+A. Rất vui khi gặp bạn.<br>
+B. Mình đang đọc sách.<br>
+C. Cảm ơn!<br>
+D. Mình rất ổn!<br>
+=&gt; Căn cứ vào nghĩa, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `_________ speaking Spanish was tough, we managed to talk to our partners from South America.
+        `,
+          options: [`Although`,`Because`,`After`,`Unless`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án:</b><br>
+A. Although: mặc dù	<br>
+B. Because: bởi vì<br>
+C. After: sau khi<br>
+D. Unless: trừ khi<br><b>
+Tạm dịch</b>: “________speaking Spanish was tough, we managed to talk to our partners from South America.” <i>(Mặc dù nói tiếng Tây Ban Nha rất khó, chúng tôi vẫn xoay xở để trò chuyện với các đối tác đến từ Nam Mỹ.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Find out how _________ your own Easter eggs on page 14.
+        `,
+          options: [`to decorate `,`decorate`,`decorated`,`decorating`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về danh động từ và động từ nguyên mẫu</b><br>
+Ta có cấu trúc: <b>how to do sth: làm cái gì như thế nào<br>
+Tạm dịch: </b>“Find out how_______your own Easter eggs on page 14.” <i>(Tìm hiểu cách trang trí trứng Phục Sinh của riêng bạn ở trang 14. )</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The old folktales were _________ down through generations, keeping traditions alive.
+        `,
+          options: [`put`,`passed`,`broken`,`cut`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ<br>
+* Xét các đáp án:</b><br>
+A. put down (ph.v): đặt xuống<br>	
+B. pass down (ph.v):	truyền lại<br>
+C. break down (ph.v): hỏng hóc<br>	
+D. cut down (ph.v): cắt giảm<br><b>
+Tạm dịch:</b> “The old folktales were________down through generations, keeping traditions alive.” <i>(Những câu chuyện dân gian xưa được truyền lại qua nhiều thế hệ, giúp duy trì các truyền thống. )</i><br>
+Căn cứ vào nghĩa, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Sa Pa, ________temperatures can drop significantly, offers stunning rice terrace views and a glimpse into the lives of ethnic minorities.
+        `,
+          options: [`that`,`which`,`where`,`what`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh từ quan hệ<br>
+* Xét các đáp án:</b><br>
+A. that: đại từ quan hệ thay thế cho danh từ chỉ người và vật, đóng vai trò làm chủ ngữ, tân ngữ trong mệnh đề quan hệ.<br>
+B. which: đại từ quan hệ thay thế cho danh từ chỉ vật, sự vật đóng vai trò làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó trong mệnh đề quan hệ.<br>
+C. where: trạng từ quan hệ chỉ nơi chốn<br>
+D. what: cái gì (từ để hỏi) <br>
+Ta thấy ở sau vị trí cần điền là mệnh đề =&gt; ta dùng “where” là chính xác nhất để thay thế cho danh từ chỉ nơi chốn ở phía trước: “Sa Pa”.<br><b>
+Tạm dịch:</b> “Sa Pa, 	temperatures can drop significantly, offers stunning rice terrace views and a glimpse into the lives of ethnic minorities.” <i>(Sa Pa, nơi mà nhiệt độ có thể giảm mạnh, mang đến khung cảnh ruộng bậc thang tuyệt đẹp và cái nhìn sâu sắc về cuộc sống của các dân tộc thiểu số.)</i><br>
+=&gt; Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Don't forget to take your medication ________ lunchtime.
+        `,
+          options: [`at`,`in`,`on`,`between`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ</b><br>
+Ta có:<b> at lunchtime: vào giờ ăn trưa<br>
+Tạm dịch:</b> “Don't forget to take your medication_________lunchtime.” <i>(Đừng quên uống thuốc vào giờ ăn trưa nhé. )</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following notice and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 13 to 16.</b></p><p><div style="text-align: center;"><b>What to Do During a School Trip to a Beach or Near Water</b></div><div style="text-align: justify;">1. Always stay with your group and do not go into the water alone.</div><div style="text-align: justify;">2. Listen to the lifeguard's (13) _______ and obey all warning flags/ signs.</div><div style="text-align: justify;">3. If caught in a rip current, swim parallel to the shore to escape, then swim back to the shore at (14) ______ angle.</div><div style="text-align: justify;">4. Stay away from dangerous areas, like rocks or piers, (15) _______ the waves can be strong.</div><div style="text-align: justify;">5. If you see someone in distress, do not attempt to rescue them (16) _______ for help from a lifeguard or an adult.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`voices`,`instructions`,`speeches `,`talks`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng – nghĩa của từ<br>
+* Xét các đáp án:</b><br>
+A. voice /vɔɪs/ (n): giọng nói<br>
+B. instruction	/ɪnˈstrʌkʃn/ (n): sự hướng dẫn	<br>
+C. speech /spiːtʃ/ (n): lời nói<br>		
+D. talk /tɔːk/ (n): cuộc trò chuyện, cuộc thảo luận	<br><b>
+Tạm dịch:</b> “Listen to the lifeguard's (13) ______and obey all warning flags/ signs.” <i>(Hãy lắng nghe hướng dẫn của nhân viên cứu hộ và tuân theo tất cả các biển báo hoặc cờ cảnh báo. )</i><br>
+Căn cứ vào nghĩa, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`an`,`a`,`the`,`Ø`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ</b><br>
+Ta có: “<b>An</b>” dùng trước những danh từ bắt đầu bằng một nguyên âm.<br>
+Ta thấy danh từ “angle” ở sau vị trí cần điền bắt đầu bằng nguyên âm “a”. Suy ra ở chỗ trống ta cần điền “an”.<br><b>
+Tạm dịch</b>: “If caught in a rip current, swim parallel to the shore to escape, then swim back to the shore at (14)______ angle.” <i>(Nếu bị cuốn vào dòng chảy xa bờ, hãy bơi song song với bờ để thoát ra, sau đó bơi trở lại bờ theo một góc nghiêng.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`when`,`which`,`that`,`where`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh từ quan hệ<br>
+* Xét các đáp án:</b><br>
+A. when: trạng từ quan hệ chỉ thời gian<br>
+B. which: đại từ quan hệ thay thế cho danh từ chỉ vật, sự vật đóng vai trò làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó trong mệnh đề quan hệ.<br>
+C. that: đại từ quan hệ thay thế cho danh từ chỉ người và vật, đóng vai trò làm chủ ngữ, tân ngữ trong mệnh đề quan hệ.<br>
+D. where: trạng từ quan hệ chỉ nơi chốn<br>
+Ta thấy ở sau vị trí cần điền là mệnh đề =&gt; ta dùng “where” là chính xác nhất để thay thế cho danh từ chỉ nơi chốn ở phía trước: “areas”.<br><b>
+Tạm dịch: </b>“Stay away from dangerous areas, like rocks or piers, (15) ______the waves can be strong.” <i>(Tránh xa những khu vực nguy hiểm như bãi đá hoặc cầu tàu, nơi sóng có thể rất mạnh.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`carry`,`hand`,`call`,`find`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ cố định</b><br>
+Ta có:<b> call for help: kêu gọi, yêu cầu sự giúp đỡ<br>
+Tạm dịch: </b>“If you see someone in distress, do not attempt to rescue them (16)______for help from a lifeguard or an adult.” <i>(Nếu thấy ai đó gặp nạn, đừng cố gắng tự cứu họ mà hãy kêu gọi sự giúp đỡ từ nhân viên cứu hộ hoặc người lớn đến giúp.)</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions from 17 to 18.</b></p>`,
+          media:``,
+          question: `<div style="text-align: justify;">I'll never forget the day we had our school camping trip. It didn't go exactly as planned, though. _________</div><div style="text-align: justify;">a. We were halfway to the campsite when one of the buses broke down.</div><div style="text-align: justify;">b. At first, we were all really excited about spending the weekend outdoors.</div><div style="text-align: justify;">c. After waiting for hours on the roadside, we had to return home, disappointed.</div>
+        `,
+          options: [`b-a-c`,`a-c-b`,`b-c-a`,`c-a-b`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Sắp xếp các câu (a-c) theo thứ tự đúng, sau đó điền vào chỗ trống để tạo thành đoạn văn hợp lý.</b><br>
+“I'll never forget the day we had our school camping trip. It didn't go exactly as planned, though.” <i>(Tôi sẽ không bao giờ quên ngày chúng tôi đi cắm trại cùng trường. Tuy nhiên, mọi chuyện đã không diễn ra đúng như kế hoạch.)</i><br>
+b. At first, we were all really excited about spending the weekend outdoors. <i>(Lúc đầu, tất cả chúng tôi đều rất hào hứng với việc dành cuối tuần ngoài trời.)</i><br>
+a. We were halfway to the campsite when one of the buses broke down. <i>(Chúng tôi đang đi được nửa đường đến khu cắm trại thì một trong các xe buýt bị hỏng.)</i><br>
+c. After waiting for hours on the roadside, we had to return home, disappointed. <i>(Sau khi chờ hàng giờ bên lề đường, chúng tôi phải quay về nhà trong sự thất vọng.)</i><br>
+Do đó, A là đáp án phù hợp.<br><br>
+<b>DỊCH BÀI</b><br>
+Tôi sẽ không bao giờ quên ngày chúng tôi đi cắm trại cùng trường. Tuy nhiên, mọi chuyện đã không diễn ra đúng như kế hoạch. Lúc đầu, tất cả chúng tôi đều rất hào hứng với việc dành cuối tuần ngoài trời. Chúng tôi đang đi được nửa đường đến khu cắm trại thì một trong các xe buýt bị hỏng. Sau khi chờ hàng giờ bên lề đường, chúng tôi phải quay về nhà trong sự thất vọng.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Choose the sentence that can end the text (in Question 17) most appropriately. 
+        `,
+          options: [`It turned out to be one of the happiest trips we've ever had.`,`Even though we didn't make it, the teachers promised to reschedule the trip.`,`We finally reached the campsite and had a great time by the fire.`,`The teachers made us stay at the campsite, which made things even worse. `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Chọn câu kết thúc phù hợp nhất cho đoạn văn (ở Câu 17):</b><br>
+A. Cuối cùng, đó lại trở thành một trong những chuyến đi vui nhất mà chúng tôi từng có.<br>
+=&gt; Không phù hợp vì chuyến đi đã không được như mong đợi.<br>
+B. Mặc dù không thể thực hiện được chuyến đi, các thầy cô đã hứa sẽ sắp xếp lại lịch.<br>
+=&gt; Phù hợp về nghĩa.<br>
+C. Cuối cùng chúng tôi cũng đến được khu cắm trại và có khoảng thời gian tuyệt vời bên đống lửa.<br>
+=&gt; Không phù hợp vì chuyến đi đã không được như mong đợi.<br>
+D. Các thầy cô bắt chúng tôi ở lại khu cắm trại, điều đó càng làm mọi chuyện tệ hơn.<br>
+=&gt; Không phù hợp vì chuyến đi đã bị hoãn lại do hỏng xe và phải quay về nhà.<br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks from 19 to 24. </b></p><p><div style="text-align: justify;">Rice is eaten by Vietnamese people every day. It often (19) _______ in tropical countries such as Vietnam, Thailand or Malaysia. The Chinese have also been growing rice for (20) _______. years. The seeds are planted in special beds to grow into young rice plants. Then they are taken to fields covered (21) _______ muddy water called paddies. The fields of rice look very (22) _______. After 3 or 5 months, the rice is ready (23)_________. People often drain away water before collecting rice. Eating rice is a special action in the world. They don't use spoons or forks to enjoy bowls of rice. (24) _______. they use two short sticks known as chopsticks to put rice into their mouths. China and Vietnam are the two countries in which people use chopsticks very well.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`plants `,`stays`,`grows `,`keeps`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng – nghĩa của từ<br>
+* Xét các đáp án:</b><br>
+A. plant /plɑːnt/ (v):	gieo<br>
+B. stay	 /steɪ/ (v): ở lai, lưu lại<br>
+C. grow /ɡrəʊ/ (v): phát triển, trồng <br>
+D. keep /kiːp/ (v): giữ<br><b>
+Tạm dịch:</b> “It often (19______in tropical countries such as Vietnam, Thailand or Malaysia.” <i>(Nó thường được trồng ở các nước nhiệt đới như Việt Nam, Thái Lan hoặc Malaysia. )</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`thousands `,`thousands of`,`thousand of`,`thousand `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về lượng từ</b><br>
+Ta có:<b> thousands of sth: hàng ngàn cái gì<br>
+Tạm dịch:</b> “The Chinese have also been growing rice for (20) _____years.” <i>(Người Trung Quốc cũng đã trồng lúa hàng ngàn năm nay.)
+</i>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`in`,`of`,`with`,`by`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc giới từ</b><br>
+Ta có: <b>be covered with sth: được bao phủ bởi cái gì<br>
+Tạm dịch</b>: “Then they are taken to fields covered (21)_______ muddy water called paddies.”<i> (Sau đó, chúng được đưa ra ruộng, nơi được ngập nước bùn, gọi là ruộng lúa nước. )</i><br>
+Do đó, C là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`beautify `,`beauty`,`beautifully`,`beautiful`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+* Xét các đáp án:</b><br>
+A. beautify /ˈbjuːtɪfaɪ/ (v): làm đẹp<br>
+B. beauty /ˈbjuːti/ (n): vẻ đẹp<br>
+C. beautifully /ˈbjuːtɪfli/ (adv): xinh đẹp<br>
+D. beautiful /ˈbjuːtɪfl/ (adj): xinh đẹp<br>
+Ta có:<b> look + Adj: trông như thế nào.</b><br>
+Suy ra ở chỗ trống ta cần điền một tính từ.<br><b>
+Tạm dịch</b>: “The fields of rice look very (22)______.” <i>(Những cánh đồng lúa trông rất đẹp.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`to pick `,`to be picked`,`being picked`,`picking `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về danh động từ và động từ nguyên mẫu</b><br>
+Ta có: <b>be ready to do sth: sẵn sàng làm gì</b><br><b>
+-&gt; Sth + be + ready to be Vp2. <br>
+Tạm dịch:</b> “After 3 or 5 months, the rice is ready (23)_____.” <i>(Sau 3 đến 5 tháng, lúa sẵn sàng để thu hoạch.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`However `,`Besides`,`Moreover`,`Instead`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án:</b><br>
+A. However: tuy nhiên<br>
+B. Besides: bên cạnh đó<br>
+C. Moreover: hơn thế nữa<br>
+D. Instead: thay vào đó, thay vì<br><b>
+Tạm dịch:</b> “They don't use spoons or forks to enjoy bowls of rice. (24) _______, they use two short sticks known as chopsticks to put rice into their mouths.” <i>(Họ không dùng thìa hay nĩa để thưởng thức bát cơm. Thay vào đó, họ dùng hai chiếc đũa ngắn, gọi là đũa, để gắp cơm đưa vào miệng.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in each of the following questions.</b></p>`,
+          media:``,
+          question: `Because of his hard work, he made a success of his business.
+        `,
+          options: [`Because his work was hard, he made a success of his business.`,`He was successful in his business as he worked very hard. `,`His business was successful though he worked very hard.`,`Because he made a success of his business, he worked hard. `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+Tạm dịch câu gốc:</b><br>
+ Because of his hard work, he made a success of his business. <i>(Vì làm việc chăm chỉ nên anh ấy đã thành công trong việc kinh doanh.)</i><br><b>
+* Xét các đáp án:</b><br>
+A. Vì công việc của anh ấy vất vả nên anh ấy đã thành công trong kinh doanh.<br>
+=&gt; Sai liên từ. Thay “because” -&gt; “although” thì câu mới giống nghĩa câu gốc<br>
+B. Anh ấy đã thành công trong việc kinh doanh vì anh ấy làm việc rất chăm chỉ.<br>
+=&gt; đúng ngữ pháp và phù hợp về nghĩa<br>
+C. Công việc kinh doanh của anh ấy thành công mặc dù anh ấy làm việc rất chăm chỉ.<br>
+=&gt; Không phù hợp về nghĩa<br>
+D. Vì anh ấy thành công trong việc kinh doanh nên anh ấy đã làm việc chăm chỉ.<br>
+=&gt; Không phù hợp về nghĩa<br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `She said to me: "Do you like Japanese food?"
+        `,
+          options: [`She wanted me to like Japanese food. `,`She told me she liked Japanese food. `,`She asked me if she liked Japanese food.`,`She asked me whether I liked Japanese food.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật với câu hỏi YES/NO</b><br>
+Ta có cấu trúc: <br><b>
+S + asked/wanted to know/ wondered + if/whether + S + V<br>
+Tạm dịch câu gốc: </b>“She said to me: “Do you like Japanese food?”” <i>(Cô ấy nói với tôi: “Bạn có thích đồ ăn Nhật không?” )</i><br><b>
+* Xét các đáp án:</b><br>
+A. Cô ấy muốn tôi thích đồ ăn Nhật.<br>
+=&gt; Không phù hợp về nghĩa<br>
+B. Cô ấy nói với tôi rằng cô ấy thích đồ ăn Nhật.<br>
+=&gt; Không phù hợp về nghĩa<br>
+C. Cô ấy hỏi tôi liệu cô ấy có thích đồ ăn Nhật không.<br>
+=&gt; Sai ngôi: “She” -&gt; “I”<br>
+D. Cô ấy hỏi tôi liệu tôi có thích đồ ăn Nhật không.<br>
+=&gt; đúng ngữ pháp và phù hợp về nghĩa<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is made from the given cues in each of the following questions.</b></p>`,
+          media:``,
+          question: `wish/have/enough/money/can spend/holiday / United Kingdom
+        `,
+          options: [`I wish I have enough money and I could spend my holiday in the United Kingdom. `,`I wish I had enough money to be spending my holiday in the United Kingdom. `,`I wish I had enough money so I can spend my holiday in the United Kingdom. `,`I wish I had enough money so that I could spend my holiday in the United Kingdom. `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu ước ở hiện tại</b><br>
+Ta có cấu trúc:<br><b>
+S + wish(es) + (that) + S + V (quá khứ đơn)<br>
+* Xét các đáp án:</b><br>
+A. Tôi ước gì tôi có đủ tiền và tôi có thể đi nghỉ ở Vương quốc Anh.<br>
+-&gt; Sai động từ “have” -&gt; “had”.<br>
+B. Tôi ước gì tôi có đủ tiền để đang đi nghỉ ở Vương quốc Anh.<br>
+-&gt; Sai cấu trúc ngữ pháp.<br>
+C. Tôi ước gì tôi có đủ tiền để tôi có thể đi nghỉ ở Vương quốc Anh.<br>
+-&gt; Sai động từ “can” -&gt; “could”.<br>
+D. Tôi ước gì tôi có đủ tiền để tôi có thể đi nghỉ ở Vương quốc Anh.<br>
+-&gt; đúng ngữ pháp và phù hợp về nghĩa.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `be/kind/you/invite/us/dinner/Saturday.
+        `,
+          options: [`It was kind for you to invite us to have dinner this Saturday. `,`It is very kind of you to invite us having dinner last Saturday. `,`It is very kind of you to invite us to have dinner this Saturday. `,`You are very kind if you invite us to have dinner on Saturday. `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc</b><br>
+Ta có cấu trúc:<b> be kind of sb to do sth: ai đó thật tốt khi làm gì</b><br><b>
+Kiến thức về động từ nguyên mẫu</b><br>
+Ta có cấu trúc: <b>invite sb to do sth: mời ai đó làm gì.</b><br>
+Ở đây đơn thuần chỉ là một câu diễn đạt bình thường nên ta chỉ cần ử dụng thi hiện tại đơn để diễn đạt.<br><b>
+* Xét các đáp án:</b><br>
+A. Thật tốt bụng khi bạn mời chúng tôi ăn tối vào thứ Bảy này.<br>
+-&gt; Sai thì “was” -&gt; “is”<br>
+B. Thật tốt bụng của bạn khi mời chúng tôi ăn tối vào thứ Bảy tuần trước.<br>
+-&gt; Sai thời gian “last Saturday” -&gt; “this Saturday”<br>
+C. Thật tốt bụng của bạn khi mời chúng tôi ăn tối vào thứ Bảy này.<br>
+-&gt; đúng ngữ pháp và phù hợp về nghĩa.<br>
+D. Bạn thật tốt bụng nếu bạn mời chúng tôi ăn tối vào thứ Bảy.<br>
+-&gt; Sai ngữ pháp và không phù hợp về nghĩa.<br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following sign or notice and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `What does this sign say?<br><img src="/learn/grand10/993d7a88-98e3-4fe8-9b37-ac235fd0e559.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`This is a reserved parking space only. `,`Parking is prohibited in this area.`,`Parking is available in that direction. `,`No parking beyond this point.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Biển báo nói gì?<br>
+Đỗ xe </b><br>
+←<br><b>
+* Xét các đáp án:</b><br>
+A. Đây là chỗ đậu xe đã được dành riêng.<br>
+-&gt; không phù hợp về nghĩa.<br>
+B. Cấm đậu xe trong khu vực này.<br>
+-&gt; không phù hợp về nghĩa.<br>
+C. Có chỗ đậu xe theo hướng này.<br>
+-&gt; phù hợp về nghĩa<br>
+D. Không được đậu xe sau điểm này.<br>
+-&gt; không phù hợp về nghĩa.<br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does the notice say?<br><img src="/learn/grand10/28c8d72b-0e39-417e-a680-505ebe0e29a0.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`You have 15 minutes to get your car.`,`You can pick up your car after 10 p.m.`,`You can stay in the mall until 10 p.m. if you walk home.`,`You have to spend 15 minutes to get your car.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Thông báo này nói gì?<br><div style="text-align: center;"><b>Chú ý!</b></div></b><div style="text-align: center;">Trung tâm mua sắm sẽ đóng cửa lúc 10 giờ tối.</div><div style="text-align: center;">Vui lòng lấy xe của bạn trước đó 15 phút.</div><b>
+* Xét các đáp án:</b><br>
+A. Bạn có 15 phút để lấy xe của mình.<br>
+-&gt; phù hợp về nghĩa<br>
+B. Bạn có thể lấy xe sau 10 giờ tối.<br>
+-&gt; không phù hợp về nghĩa.<br>
+C. Bạn có thể ở lại trung tâm mua sắm đến 10 giờ tối nếu bạn đi bộ về nhà.<br>
+-&gt; không phù hợp về nghĩa.<br>
+D. Bạn phải mất 15 phút để lấy xe của mình.<br>
+-&gt; không phù hợp về nghĩa.<br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.</b></p><p><div style="text-align: justify;">Imagine if everyone in your street suddenly came out onto the road one day and started singing together. Singing teacher Ruth Black believes it would make everyone so friendly that they would never walk past each other again without saying hello.</div><div style="text-align: justify;">Singing helps people live in peace together, she says. All over the world people have always sung together and in most places, they still do, but in England it is no longer traditional. Nowadays, says Ruth, people only sing together in churches and football grounds, although it could be done anywhere. Everyone is able to sing, she says, but most of us either think we can't or have forgotten what we learned as children. Moreover, some people become so shy when performing to the crowds. However, as with everything musical, you need to practice and the same applies to your voice. Ruth believes that singing itself brings other benefits. It encourages good breathing, for example. Through singing, people often become more confident and also learn to control stress. But more than anything, it brings people together.</div><div style="text-align: justify;">When Ruth first started singing, there was little opportunity to sing with others. Then, through a friend, she discovered an excellent singing class and became so <b>keen</b> that she started to <b>run </b>her own classes. These are held twice a month for all singers, whatever their level, and are now enormously successful.</div></p>`,
+          media:``,
+          question: `What is the writer trying to do in this article?
+        `,
+          options: [`Explain why singing has become less popular everywhere`,`Describe a teacher's ideas about the importance of singing `,`Advertise a teacher's singing classes `,`Encourage children to learn to sing `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Tác giả đang cố gắng làm gì trong bài viết này?</b><br>
+A. Giải thích tại sao việc ca hát đã trở nên kém phổ biến hơn ở khắp nơi<br>
+B. Miêu tả quan điểm của một giáo viên về tầm quan trọng của việc ca hát<br>
+C. Quảng bá cho các lớp học thanh nhạc của một giáo viên<br>
+D. Khuyến khích trẻ em học hát<br><b>
+Căn cứ vào thông tin:</b><br>
+“Imagine if everyone in your street suddenly came out onto the road one day and started singing together. Singing teacher Ruth Black believes it would make everyone so friendly that they would never walk past each other again without saying hello.” <i>(Hãy tưởng tượng nếu một ngày nào đó, tất cả mọi người trên con phố của bạn đột nhiên cùng nhau ra đường và bắt đầu hát. Giáo viên thanh nhạc Ruth Black tin rằng điều đó sẽ khiến mọi người trở nên thân thiện đến mức họ sẽ không bao giờ đi ngang qua nhau mà không chào hỏi nữa.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `According to the passage, where can people sing nowadays?
+        `,
+          options: [`traditional events`,`churches`,`sport events`,`everywhere`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Theo đoạn văn, ngày nay mọi người có thể hát ở đâu?</b><br>
+A. Các sự kiện truyền thống<br>
+B. Nhà thờ<br>
+C. Các sự kiện thể thao<br>
+D. Mọi nơi<br><b>
+Căn cứ vào thông tin:</b><br>
+“Nowadays, says Ruth, people only sing together in churches and football grounds, although it could be done anywhere.” <i>(Ngày nay, Ruth nói rằng mọi người chỉ hát cùng nhau ở nhà thờ và sân vận động bóng đá, mặc dù điều đó có thể được thực hiện ở bất cứ đâu. )</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Ruth believes the main benefit of singing with other people is that ________.
+        `,
+          options: [`you learn to breathe more easily `,`you can get to know other people`,`you can control your stress`,`you become a confident singer`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Ruth tin rằng lợi ích chính của việc hát cùng người khác là:</b><br>
+A. Bạn học cách thở dễ dàng hơn<br>
+B. Bạn có thể làm quen với người khác<br>
+C. Bạn có thể kiểm soát căng thẳng của mình<br>
+D. Bạn trở thành một ca sĩ tự tin<br><b>
+Căn cứ vào thông tin: </b><br>
+“Singing helps people live in peace together, she says.” <i>(Cô nói rằng ca hát giúp con người sống hòa thuận với nhau.  )</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "<b>run</b>" in the last paragraph is closest in meaning to ________.
+        `,
+          options: [`participate`,`move`,`apply`,`operate`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "run" trong đoạn cuối gần nghĩa nhất với:</b><br>
+A. participate /pɑːˈtɪsɪpeɪt/ (v): tham gia<br>
+B. move /muːv/ (v): di chuyển<br>
+C. apply /əˈplaɪ/ (v): nộp đơn<br>
+D. operate /ˈɒpəreɪt/ (v): điều hành, tổ chức<br><b>
+=&gt; run /rʌn/ (v): điều hành = operate.</b><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `According to the passage, people think they rarely sing because of some reasons EXCEPT _________.
+        `,
+          options: [`They do not believe in their ability`,`They cannot remember what they learned when they were young`,`They are not confident in front of groups of people`,`They don't think singing really brings benefits`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Theo đoạn văn, mọi người nghĩ họ hiếm khi hát vì những lý do SAU TRỪ:</b><br>
+A. Họ không tin vào khả năng của bản thân<br>
+B. Họ không thể nhớ những gì đã học khi còn nhỏ<br>
+C. Họ không tự tin khi đứng trước đám đông<br>
+D. Họ không nghĩ rằng ca hát thực sự mang lại lợi ích<br><b>
+Căn cứ vào thông tin:</b><br>
+“Everyone is able to sing, she says, but most of us either think we can't or have forgotten what we learned as children. Moreover, some people become so shy when performing to the crowds.” <i>(Ai cũng có thể hát, cô nói, nhưng phần lớn chúng ta hoặc nghĩ rằng mình không thể hoặc đã quên những gì mình từng học khi còn nhỏ. Hơn nữa, một số người trở nên rất ngại khi biểu diễn trước đám đông.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "<b>keen</b>" in the last paragraph is opposite in meaning to _________.
+        `,
+          options: [`interested `,`amazed`,`unpleasant`,`attractive`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "keen" trong đoạn cuối trái nghĩa với:</b><br>
+A. interested /ˈɪntrəstɪd/ (adj): quan tâm, hứng thú<br>
+B. amazed /əˈmeɪzd/ (adj): ngạc nhiên<br>
+C. unpleasant /ʌnˈpleznt/ (adj): khó chịu, không dễ chịu<br>
+D. attractive/əˈtræktɪv/ (adj): thu hút, hấp dẫn<br><b>
+=&gt; keen /kiːn/ (adj): say mê, thích thú &gt;&lt; unpleasant.</b><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Four phrases/ sentences have been removed from the text below. For each question, mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 37 to 40.</b></p><p><div style="text-align: justify;">In many families today, household chores are shared between men and women. (37) _______, Cleaning, cooking, and doing laundry are responsibilities for both genders. When both partners contribute, it makes home life more balanced and reduces stress.</div><div style="text-align: justify;">Men can help with tasks like washing dishes, vacuuming, and taking out the trash. (38) ________. It's important that everyone does their part, especially when both partners have jobs.</div><div style="text-align: justify;">Sharing chores also sets a good example for children. (39) ________. It shows them that keeping the house clean is a shared responsibility, not just something for one person to do.</div><div style="text-align: justify;">(40) __________. By working together, household chores become easier, and families are happier.</div><div style="text-align: justify;"><b>A.</b> Women can also help with things like fixing broken items or mowing the lawn.</div><div style="text-align: justify;"><b>B.</b> This teaches them the importance of teamwork and fairness.</div><div style="text-align: justify;"><b>C.</b> Everyone benefits when household work is shared.</div><div style="text-align: justify;"><b>D.</b> This is no longer just the role of women.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `D`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về nghĩa của câu<br>
+Xét các đáp án:</b><br>
+A. Phụ nữ cũng có thể giúp đỡ những việc như sửa chữa đồ đạc bị hỏng hoặc cắt cỏ.<br>
+B. Điều này dạy cho các em tầm quan trọng của làm việc nhóm và sự công bằng.<br>
+C. Ai cũng có lợi khi công việc nhà được chia sẻ.<br>
+D. Đây không còn là vai trò chỉ dành cho phụ nữ nữa.<br><b>
+Tạm dịch:</b> “In many families today, household chores are shared between men and women. (37)________ .Cleaning, cooking, and doing laundry are responsibilities for both genders..” <i>(Trong nhiều gia đình ngày nay, công việc nhà được chia sẻ giữa nam và nữ. Đây không còn chỉ là vai trò của phụ nữ nữa. Việc dọn dẹp, nấu ăn và giặt giũ là trách nhiệm của cả hai giới.)</i><br><b>
+Căn cứ vào nghĩa, D là đáp án phù hợp
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `A`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `Ta loại D do đã dùng ở câu trước đó.<br><b>
+Kiến thức về nghĩa của câu:</b><br>
+* Xét các câu sau: “Men can help with tasks like washing dishes, vacuuming, and taking out the trash. (38) _________.”<br>
+Ta thấy, ở câu trước đang liệt kê một số việc nhà mà người đàn ông có thể làm -&gt; Câu sau sẽ liệt kê các hành động người phụ nữ có thể làm. <br>
+=&gt; Ý A sẽ là phù hợp.<br>
+A. Women can also help with things like fixing broken items or mowing the lawn. <i>(Phụ nữ cũng có thể giúp đỡ những việc như sửa chữa đồ đạc bị hỏng hoặc cắt cỏ.)</i><br><b>
+Tạm dịch:</b> “Men can help with tasks like washing dishes, vacuuming, and taking out the trash. Women can also help with things like fixing broken items or mowing the lawn.” <i>(Đàn ông có thể giúp đỡ với các công việc như rửa bát, hút bụi và đổ rác. Phụ nữ cũng có thể giúp đỡ những việc như sửa chữa đồ đạc hỏng hoặc cắt cỏ.)</i><br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `B`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `Ta loại A và D do đã dùng ở câu trước đó<br><b>
+Kiến thức về nghĩa của câu:</b><br>
+Ta thấy ở câu trước có đề cập đến việc chia sẻ việc nhà sẽ làm gương tốt cho trẻ em noi theo. Vậy suy ra câu sau sẽ đề cập đến những tác dụng cụ thể của hành động này.<br>
+B. This teaches them the importance of teamwork and fairness. <i>(Điều này dạy cho các em tầm quan trọng của làm việc nhóm và sự công bằng.)</i><br><b>
+Tạm dịch:</b> “Sharing chores also sets a good example for children. (39) ________ . It shows them that keeping the house clean is a shared responsibility, not just something for one person to do.” <i>(Việc chia sẻ công việc nhà cũng là một tấm gương tốt cho con cái. Điều này dạy cho các em tầm quan trọng của làm việc nhóm và sự công bằng. Nó cho các em thấy rằng việc giữ cho ngôi nhà sạch sẽ là một trách nhiệm chung, không phải chỉ là việc của một người.)</i><br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `C`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về nghĩa của câu:</b><br>
+* Xét câu sau: “(40) _______. By working together, household chores become easier, and families are happier.” <i>(Ai cũng có lợi khi công việc nhà được chia sẻ. Bằng cách cùng nhau làm việc, các công việc nhà trở nên dễ dàng hơn và gia đình hạnh phúc hơn. )</i><br>
+=&gt; Ta còn đúng đáp án C.<br>
+C. Everyone benefits when household work is shared.<i> (Ai cũng có lợi khi công việc nhà được chia sẻ.)</i><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        }, ],
+    },
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the questions.</b></p><p><div style="text-align: justify;">Education is another area of social life in which information technology is changing the way we communicate. Today's college students may not simply sit in a lecture or a library to learn about their field. Through their computers and the wonders of virtual reality, they can participate in lifelike simulated experiences and consider the following scenario of the future of education made possible through developments in information technology.</div><div style="text-align: justify;">For children over the age of 10, daily attendance at school is not <b>compulsory</b>. Yet, some of the older children attend school only once or twice weekly to get tutorial support or instruction from a teacher. For the most part, pupils are encouraged to work online from home. Students must complete a minimum number of study hours per year; however, they may make up these hours by studying at home at times that suit their family schedule. They can log on early or late in the day and even join live classes in other countries. In order to ensure that each student is learning <b>adequately</b>, computer software will automatically monitor the number of hours a week each student studies online, as well as students' learning materials and assessment activities. Reports will be available for parents and teachers. The software can then identify the best learning activities and conditions for each individual student and generate similar activities. It can also identify areas of weak achievement and produce special programs adjusted to the students' needs.</div></p>`,
+          media:``,
+          question: `What is the topic of the passage?
+        `,
+          options: [`Computer software will make sure students learn at home.`,`Students can know about their weak aspects to focus.`,`The effects of information technology on education.`,`Students don't have to go to school anymore.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Chủ đề của đoạn văn là gì?</b><br>
+A. Phần mềm máy tính sẽ đảm bảo học sinh học ở nhà.<br>
+B. Học sinh có thể biết về những điểm yếu của mình để tập trung.<br>
+C. Tác động của công nghệ thông tin đến giáo dục.<br>
+D. Học sinh không phải đến trường nữa.<br><b>
+Căn cứ vào thông tin:</b> Education is another area of social life in which information technology is changing the way we communicate. <i>(Giáo dục là một lĩnh vực khác của đời sống xã hội mà công nghệ thông tin đang thay đổi cách chúng ta giao tiếp.)</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `How many times are children who are older than 10 required to go to school weekly?
+        `,
+          options: [`Four `,`No time`,`Three`,`Once or twice`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Trẻ em trên 10 tuổi phải đi học bao nhiêu lần một tuần?</b><br>
+A. Bốn lần <br>
+B. Không có thời gian <br>
+C. Ba lần <br>
+D. Một hoặc hai lần<br><b>
+Căn cứ vào thông tin:</b> Yet, some of the older children attend school only once or twice weekly to get tutorial support or instruction from a teacher. <i>(Tuy nhiên, một số trẻ lớn hơn chỉ đến trường một hoặc hai lần một tuần để được giáo viên hỗ trợ hoặc hướng dẫn.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "<b>adequately</b>" is <b>CLOSEST </b>in meaning to _________.
+        `,
+          options: [`unsatisfactory `,`considerately`,`sufficiently`,`not enough`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "adequately" có nghĩa GẦN NHẤT với _________.</b><br>
+A. unsatisfactory /ˌʌnsætɪsˈfæktəri/ (adj): không đạt yêu cầu<br>
+B. considerately /kənˈsɪdərətli/ (adv): một cách ân cần<br>
+C. sufficiently /səˈfɪʃəntli/ (adv): đủ<br>
+D. not enough: không đủ<br><b>
+Căn cứ vào thông tin:</b> In order to ensure that each student is learning adequately, computer software will automatically monitor the number of hours a week each student studies online as well as that students' learning materials and assessment activities.<i> (Để đảm bảo rằng mỗi học sinh đều học tập đầy đủ, phần mềm máy tính sẽ tự động theo dõi số giờ học trực tuyến mỗi tuần của mỗi học sinh cũng như tài liệu học tập và hoạt động đánh giá của học sinh.)<br>
+-&gt; adequately /'ædikwətli/ (adv): một cách đủ, đầy đủ ~ sufficiently</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word "<b>compulsory</b>" is <b>OPPOSITE </b>in meaning to _________.
+        `,
+          options: [`necessary`,`crucial`,`sustainable`,`optional`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "compulsory" trái nghĩa với _________.</b><br>
+A. necessary /ˈnesəsəri/ (adj): cần thiết<br>
+B. crucial /ˈkruːʃəl/ (adj): cốt yếu<br>
+C. sustainable /səˈsteɪnəbl/ (adj): bền vững<br>
+D. optional /ˈɒpʃənl/ (adj): tùy chọn<br><b>
+Căn cứ vào thông tin:</b> For children over the age of 10, daily attendance at schools is not compulsory. <i>(Đối với trẻ em trên 10 tuổi, việc đi học hàng ngày không phải là bắt buộc.)</i><br>
+-&gt; compulsory /kəm'pʌlsəri/ (adj): cưỡng bách, bắt buộc &gt;&lt; optional<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What is one of the primary functions of computer software in the future education system? 
+        `,
+          options: [`It monitors online study hours and tailors learning activities to each student's needs.`,`It replaces teachers by delivering all instruction virtually.`,`It restricts learning to fixed hours regardless of family schedules.`,`It schedules mandatory on-campus sessions for all students.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Một trong những chức năng chính của phần mềm máy tính trong hệ thống giáo dục tương lai là gì?</b><br>
+A. Nó theo dõi giờ học trực tuyến và điều chỉnh các hoạt động học tập theo nhu cầu của từng học sinh.<br>
+B. Nó thay thế giáo viên bằng cách cung cấp tất cả hướng dẫn trực tuyến.<br>
+C. Nó hạn chế việc học trong giờ cố định bất kể lịch trình của gia đình.<br>
+D. Nó lên lịch các buổi học bắt buộc tại trường cho tất cả học sinh.<br><b>
+Căn cứ vào thông tin:</b> In order to ensure that each student is learning adequately, computer software will automatically monitor the number of hours a week each student studies online as well as that students' learning materials and assessment activities. <i>(Để đảm bảo rằng mỗi học sinh đều học tập đầy đủ, phần mềm máy tính sẽ tự động theo dõi số giờ học trực tuyến mỗi tuần của mỗi học sinh cũng như tài liệu học tập và hoạt động đánh giá của học sinh.)</i><br>
+It can also identify areas of weak achievement and produce special programs adjusted to the students' needs. <i>(Nó cũng có thể xác định các lĩnh vực thành tích yếu kém và tạo ra các chương trình đặc biệt phù hợp với nhu cầu của học sinh.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What is NOT MENTIONED as a benefit of information technology to the students?
+        `,
+          options: [`All students don't have to go to school anymore.`,`Students can learn at times that suit their schedule.`,`Students' weak achievement can be identified.`,`Students' learning time won't be monitored.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>ĐIỀU GÌ KHÔNG ĐƯỢC ĐỀ CẬP đến như một lợi ích của công nghệ thông tin đối với học sinh?</b><br>
+A. Tất cả học sinh không phải đến trường nữa. <br>
+B. Học sinh có thể học vào thời gian phù hợp với lịch trình của mình.<br>
+C. Có thể xác định được thành tích yếu kém của học sinh.<br>
+D. Thời gian học của học sinh sẽ không được theo dõi.<br><b>
+Căn cứ vào thông tin: </b>For children over the age of 10, daily attendance at schools is not compulsory.<i>  (Đối với trẻ em trên 10 tuổi, việc đi học hàng ngày không phải là bắt buộc.) -&gt; đáp án A được đề cập</i><br>
+Students must complete a minimum number of study hours per year; however, they may make up these hours by studying at home at times that suit their family schedule.  <i>(Học sinh phải hoàn thành một số giờ học tối thiểu mỗi năm; tuy nhiên, các em có thể bù đắp những giờ này bằng cách học ở nhà vào những thời điểm phù hợp với lịch trình của gia đình.) -&gt; đáp án B được đề cập</i><br>
+It can also identify areas of weak achievement and produce special programs adjusted to the students' needs.<i> (Nó cũng có thể xác định các lĩnh vực thành tích yếu kém và tạo ra các chương trình đặc biệt phù hợp với nhu cầu của học sinh.) -&gt; đáp án C được đề cập</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`<u>s</u>ituate`,`man<u>s</u>ion`,`<u>s</u>ubmit`,`<u>s</u>ource`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm: <br><br>*Xét các đáp án: </b><br><br>A. <u>s</u>ituate&nbsp;<span style="color: rgb(51, 51, 51); font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&quot;; font-size: 16px;">/ˈsɪtʃueɪt/</span><br><br>B. man<u>s</u>ion /ˈmænʃn/<br><br>C. <u>s</u>ubmit /<u>s</u>əbˈmɪt/<br><br>D. <u>s</u>ource /<u>s</u>ɔːs/<br>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`r<u>e</u>peat `,`ess<u>e</u>ntial `,`d<u>e</u>stroy `,`pr<u>e</u>serve `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `Kiến thức về phát âm: <br>
+*Xét các đáp án: <br>
+A. r<u>e</u>peat /r<u>ɪ</u>ˈpiːt/<br>
+B. ess<u>e</u>ntial /ɪˈs<u>e</u>nʃl/<br>
+C. d<u>e</u>stroy /d<u>ɪ</u>ˈstrɔɪ/<br>
+D. pr<u>e</u>serve /pr<u>ɪ</u>ˈzɜːv/<br>
+=&gt; Phần gạch chân ở câu B được phát âm là /e/, còn lại được phát âm là /ɪ/.<br>
+=&gt; Do đó, ta chọn đáp án B.`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 9 to 12.</b></p><p><div style="text-align: justify;"><b>AIRPORT SECURITY CHECK</b></div><div style="text-align: justify;">To keep everyone safe, please follow these rules at the airport:</div><div style="text-align: justify;">• You must (9) _______  your bags through the X-ray machine before you go to the boarding area.</div><div style="text-align: justify;">• Liquids must be put (10) _______  a clear plastic bag and must not be more than 100 ml each.</div><div style="text-align: justify;">• If you have electronic devices, take them out from (11) ________ bag for separate checking</div><div style="text-align: justify;">• Always be (12) _________ and listen to the security staff.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`check`,`hold`,`order`,`keep`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. check /tʃek/ (v): kiểm tra<br>
+B. hold /həʊld/ (v): giữ<br>
+C. order /ˈɔːdə/ (v): đặt hàng<br>
+D. keep /kiːp/ (v): giữ<br><b>
+Tạm dịch: </b>You must (9) _______ your bags through the X-ray machine before you go to the boarding area.<i> (Bạn phải kiểm tra hành lý của mình qua máy X-quang trước khi đến khu vực lên máy bay.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`by`,`at`,`on`,`in`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ<br>
+*Xét các đáp án: </b><br>
+A. by: bằng <br>
+B. at: ở, tại <br>
+C. on: trên <br>
+D. in: trong<br><b>
+Tạm dịch:</b> Liquids must be put (10) _______ a clear plastic bag and must not be more than 100 ml each. <i>(Chất lỏng phải được đựng trong túi nhựa trong suốt và mỗi túi không được quá 100 ml.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`X`,`a`,`an`,`the`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ<br>
+*Ta có: </b><br>
+- Mạo từ xác định “the" dùng trước những danh từ đã được xác định<br><b>
+Tạm dịch:</b> If you have electronic devices, take them out from (11) ________ bag for separate checking. <i>(Nếu bạn có thiết bị điện tử, hãy lấy chúng ra khỏi túi để kiểm tra riêng.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`polite`,`noisy`,`rough`,`annoyed`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. polite /pəˈlaɪt/ (adj): lịch sự<br>
+B. noisy /ˈnɔɪzi/ (adj): ồn ào<br>
+C. rough /rʌf/ (adj): gồ ghề, khắc nghiệt<br>
+D. annoyed /əˈnɔɪd/ (adj): bực mình<br><b>
+Tạm dịch:</b> Always be (12) _________ and listen to the security staff. <i>(Luôn lịch sự và lắng nghe nhân viên an ninh.)</i><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions from 13 to 18.</b></p><p><div style="text-align: justify;">It's common knowledge that in the future the number of women going out to work will increase (13) __________ They will also have better education, more chances to choose which career to pursue, and of course, they will get (14) __________ jobs. However, when they are busy with their careers, they won't have much free time to do the housework, (15) __________  to take care of their children. It will be essential for them to relax or (16) __________ after working hours, but their time is limited. Therefore, various types of service will appear to meet women's (17) __________. The supermarkets will open later and have more options for convenience food. Tutoring centres will grow rapidly. Babysitters will become hot jobs. More beauty salons and health care services will become popular. Travel agents (18) __________ more package tours for busy customers.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`dramatical`,`dramatically`,`dramatic`,`drama`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+*Xét các đáp án: </b><br>
+A. dramatical: không có từ này<br>
+B. dramatically /drəˈmætɪkəli/ (adv): một cách đáng kể<br>
+C. dramatic /drəˈmætɪk/ (adj): kịch tính<br>
+D. drama /ˈdrɑːmə/ (n): kịch<br><b>
+*Ta có quy tắc: </b>Sau động từ là trạng từ -&gt; chỗ trống cần một trạng từ<br><b>
+Tạm dịch:</b> It's common knowledge that in the future the number of women going out to work will increase (13) __________. <i>(Ai cũng biết rằng trong tương lai, số lượng phụ nữ đi làm sẽ tăng mạnh.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`pay well `,`paid well`,`good-paid`,`well-paid`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Ta có: </b>well-paid /'wel'peid/ (adj): được trả lương hậu hĩnh <br><b>
+Tạm dịch:</b> They will also have better education, more chances to choose which career to pursue, and of course, they will get (14) __________ jobs. <i>(Họ cũng sẽ được giáo dục tốt hơn, có nhiều cơ hội hơn để lựa chọn nghề nghiệp theo đuổi và tất nhiên, họ sẽ có được những công việc được trả lương cao.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`but `,`however`,`and`,`or`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+*Xét các đáp án: </b><br>
+A. but: nhưng<br>
+B. however: tuy nhiên<br>
+C. and: và<br>
+D. or: hoặc<br><b>
+Tạm dịch: </b>However, when they are busy with their careers, they won't have much free time to do the housework, (15) __________ to take care of their children.  <i>(Tuy nhiên, khi họ bận rộn với sự nghiệp, họ sẽ không có nhiều thời gian rảnh để làm việc nhà hoặc chăm sóc con cái.)</i><br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`entertaining ourselves `,`entertain themselves`,`entertaining themselves`,`entertain ourselves`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ phản thân và cấu trúc song song<br>
+*Ta có:</b><br>
+- Or nối các thành phần có cùng chức năng ngữ pháp. Trước or là động từ nguyên  thể nên sau or cũng là động từ nguyên thể<br>
+- Đại từ phản thân của them là themselves<br><b>
+Tạm dịch:</b> It will be essential for them to relax or (16) __________ after working hours, but their time is limited.<i> (Họ sẽ cần phải thư giãn hoặc giải trí sau giờ làm việc, nhưng thời gian của họ lại có hạn.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`choices `,`demands`,`provision`,`participation`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+*Xét các đáp án: </b><br>
+A. choice /tʃɔɪs/ (n): sự lựa chọn<br>
+B. demand /dɪˈmɑːnd/ (n): nhu cầu<br>
+C. provision /prəˈvɪʒən/ (n): sự cung cấp<br>
+D. participation /pɑːˌtɪsɪˈpeɪʃən/ (n): sự tham gia<br><b>
+Tạm dịch: </b>Therefore, various types of service will appear to meet women's (17) __________. <i>(Do đó, nhiều loại hình dịch vụ sẽ xuất hiện để đáp ứng nhu cầu của phụ nữ.)</i><br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`will provide`,`provided`,`has provided`,`provide`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thì động từ<br>
+Tạm dịch: </b>Babysitters will become hot jobs. More beauty salons and health care services will become popular. Travel agents (18) __________ more package tours for busy customers. <i>(Người trông trẻ sẽ trở thành nghề hot. Nhiều tiệm làm đẹp và dịch vụ chăm sóc sức khỏe sẽ trở nên phổ biến. Các công ty lữ hành sẽ cung cấp nhiều tour du lịch trọn gói hơn cho những khách hàng bận rộn.)</i><br>
+Căn cứ vào dịch nghĩa, ta thấy câu trên diễn tả hành động sẽ xảy ra ở tương lai → ta chia động từ ở thì tương lai đơn<br>
+*Cấu trúc thì tương lai đơn: <b>S + will + Vbare </b><br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the original sentence in each of the following questions. </b></p>`,
+          media:``,
+          question: `Ha Giang province is well-known for its granite mountains. It attracts many domestic and foreign tourists.
+        `,
+          options: [`Ha Giang province, why attracts many domestic and foreign tourists is well-known for its granite mountains.`,`Ha Giang province, where attracts many domestic and foreign tourists is well-known for its granite mountains.`,`Ha Giang province, which attracts many domestic and foreign tourists is well-known for its granite mountains.`,`Ha Giang province, whose attracts many domestic and foreign tourists is well-known for its granite mountains.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- mệnh đề quan hệ<br>
+Tạm dịch câu gốc: </b>Tỉnh Hà Giang nổi tiếng với những dãy núi đá granit, thu hút nhiều du khách trong và ngoài nước.<br><b>
+*Ta có:</b><br>
+Ta thấy thành phần giống nhau giữa hai mệnh đề này là “Ha Giang province” và “it”.<br>
+ Ha Giang province là danh từ chỉ vật nên ta dùng đại từ quan hệ which đặt ngay sau  Ha Giang province, sau đó ta viết mệnh đề thứ hai (bỏ it) xong quay lại viết phần còn lại của mệnh đề thứ nhất.<br><b>
+* Xét các đáp án:</b><br>
+A. Tỉnh Hà Giang, tại sao thu hút nhiều khách du lịch trong và ngoài nước nổi tiếng với những ngọn núi đá granit.<br>
+-&gt; Sai ngữ pháp, <b>why </b>là trạng từ quan hệ thay thế cho trạng ngữ chỉ lí do<br>
+B. Tỉnh Hà Giang, nơi thu hút nhiều khách du lịch trong và ngoài nước nổi tiếng với những ngọn núi đá granit.<br>
+-&gt; Sai ngữ pháp, <b>where </b>là trạng từ quan hệ thay thế cho trạng ngữ chỉ nơi chốn<br>
+C. Tỉnh Hà Giang, cái thu hút nhiều khách du lịch trong và ngoài nước nổi tiếng với những ngọn núi đá granit.<br>
+-&gt; Đúng ngữ pháp và sát nghĩa với câu gốc, <b>which </b>là đại từ quan hệ thay thế cho danh từ chỉ vật, sự việc, có chức năng làm tân ngữ hoặc chủ ngữ trong mệnh đề quan hệ xác định và không xác định.    <br>
+D. Tỉnh Hà Giang, thu hút nhiều khách du lịch trong và ngoài nước nổi tiếng với những ngọn núi đá granit.<br>
+ -&gt; Sai ngữ pháp, <b>whose </b>là đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br><b>
+=&gt; Do đó, ta chọn đáp án C.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `They said that they were fascinating to study floral and fauna due to their beauty and significance to human life then.
+        `,
+          options: [`They said, "We were fascinating to study floral and fauna because their beauty and significance to human life now."`,`They said, "We are fascinating to study floral and fauna due to their beauty and significance to human life now.`,`They said, "They are fascinating to study floral and fauna due to their beauty and significance to human life then."`,`They said, "They were fascinating to study floral and fauna due to their beauty and significance to human life now."`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về chọn câu đồng nghĩa- cấu trúc<br>
+Tạm dịch câu gốc: </b>Họ cho biết việc nghiên cứu hệ thực vật và động vật rất hấp dẫn vì vẻ đẹp và ý nghĩa của chúng đối với đời sống con người thời bấy giờ.<br>
+→ Ta có: <br>
+Khi chuyển từ câu trực tiếp -&gt; gián tiếp ta phải lùi thì, thay đổi ngôi và các trạng từ chỉ thời gian- nơi chốn. <br>
+Cấu trúc câu tường thuật: <b>S + said + S + V (lùi 1 thì)</b><br>
+Trong câu này ta phải đổi như sau: <br>
+“we” =&gt; “they”; “are fascinating” =&gt; “were fascinating” ; “now” =&gt; “then”<br><b>
+* Xét các đáp án:</b><br>
+A. Họ nói, "Chúng tôi rất thích thú khi nghiên cứu về thực vật và động vật vì vẻ đẹp và ý nghĩa của chúng đối với cuộc sống con người hiện nay."<br>
+-&gt; Sai vì chưa đổi động từ<br>
+B. Họ nói, "Chúng tôi rất thích thú khi nghiên cứu về thực vật và động vật vì vẻ đẹp và ý nghĩa của chúng đối với cuộc sống con người hiện nay."<br>
+-&gt; Đúng ngữ pháp, sát nghĩa với câu gốc<br>
+C. Họ nói, "Họ rất thích thú khi nghiên cứu về thực vật và động vật vì vẻ đẹp và ý nghĩa của chúng đối với cuộc sống con người hiện nay."<br>
+-&gt; Sai vì chưa đổi chủ ngữ <br>
+D. Họ nói, " Họ rất thích thú khi nghiên cứu về thực vật và động vật vì vẻ đẹp và ý nghĩa của chúng đối với cuộc sống con người hiện nay."<br>
+-&gt; Sai vì chưa đổi chủ ngữ và động từ<br><b>
+ =&gt; Do đó, ta chọn đáp án B.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `What does this sign say?<br><img src="/learn/grand10/425d18ee-b0e9-4f38-93e9-42083685391a.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`You should use more water.`,`You shouldn't use water.`,`You should save water for future generations.`,`You should turn off the tap.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Biển báo nói gì?</b><br><img src="/learn/grand10/425d18ee-b0e9-4f38-93e9-42083685391a.jpg" data-filename="" style="max-width: 600px; height: auto;"><br><i>
+(Xin đừng lãng phí nước<br>
+Bảo vệ môi trường cho con em chúng ta)</i><br>
+A. You should use more water: Bạn nên sử dụng nhiều nước hơn.<br>
+B. You shouldn't use water: Bạn không nên sử dụng nước.<br>
+C. You should save water for future generations: Bạn nên tiết kiệm nước cho các thế hệ tương lai.<br>
+D. You should turn off the tap: Bạn nên tắt vòi nước.<br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What does the notice say?<br><img src="/learn/grand10/2ded7d9b-7d1c-4d34-874c-a4397984d067.jpg" data-filename="" style="max-width: 600px; height: auto;" class="max_width">
+        `,
+          options: [`Buy a ticket with cash before boarding.`,`Pay the fare with cash after boarding.`,`Request a ticket from the bus driver.`,`Use a card or pre-purchased ticket to board the bus.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Thông báo nói gì?</b><br>
+No cash payments accepted on this bus. Prepare your card or ticket in advance. <i>(Không chấp nhận thanh toán bằng tiền mặt trên xe buýt này. Hãy chuẩn bị thẻ hoặc vé trước.)</i><br>
+A. Buy a ticket with cash before boarding: Mua vé bằng tiền mặt trước khi lên xe.<br>
+B. Pay the fare with cash after boarding: Thanh toán tiền vé bằng tiền mặt sau khi lên xe.<br>
+C. Request a ticket from the bus driver: Yêu cầu tài xế xe buýt cấp vé.<br>
+D. Use a card or pre-purchased ticket to board the bus: Sử dụng thẻ hoặc vé đã mua trước để lên xe buýt.<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D to indicate the word that differs from the other three in the position of primary stress in each of the following questions.</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`organise`,`charity`,`recommend`,`festival`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm:<br>
+*Xét các đáp án:</b><br>
+A. organise /ˈɔːɡənaɪz/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, đuôi -ise làm trọng âm dịch chuyển ba âm tính từ cuối lên.  <br>
+B. charity /ˈtʃærəti/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, đuôi -ity làm trọng âm rơi vào trước âm đó.<br>
+C. recommend /ˌrekəˈmend/: từ này có trọng âm rơi vào âm tiết thứ ba. Vì theo quy tắc, trọng âm ưu tiên rơi vào âm cuối có nhiều hơn một phụ âm.<br>
+D. festival /ˈfestɪvl/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, nếu tất cả các âm mà ngắn hết thì trọng âm rơi vào âm đầu tiên.  <br>
+=&gt; Đáp án C có trọng âm rơi vào âm tiết thứ ba. Các đáp án còn lại trọng âm rơi vào âm tiết thứ nhất.<br>
+Do đó, ta chọn đáp án C.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`suspicious`,`sensible`,`numerous`,`decorate`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm:<br>
+*Xét các đáp án:</b><br>
+A. suspicious /səˈspɪʃəs/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, đuôi -ious làm trọng âm rơi vào trước âm đó.<br>
+B. sensible /ˈsensəbl/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, nếu tất cả các âm mà ngắn hết thì trọng âm rơi vào âm đầu tiên.  <br>
+C. numerous /ˈnjuːmərəs/ : từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, trọng âm không rơi vào âm /ə/.   <br>
+D. decorate /ˈdekəreɪt/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, đuôi -ate làm trọng âm dịch chuyển ba âm tính từ cuối lên.  <br>
+=&gt; Đáp án A có trọng âm rơi vào âm tiết thứ hai. Các đáp án còn lại trọng âm rơi vào âm tiết thứ nhất.<br>
+Do đó, ta chọn đáp án A.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is made from the given cues in each of the following questions.</b></p>`,
+          media:``,
+          question: `hard/he/practise/,/fluent/speak English//.
+        `,
+          options: [`The more hardly he practises, the more fluently he can speak English.`,`The harder he practises, the more fluently he can speak English.`,`The harder he practises, the most fluently he can speak English.`,`The harder he practises, the uently he can speak English.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về so sánh kép</b><br>
+* Ta có:<br>
+Ta có công thức:<b> The + so sánh hơn + (adj/adv)+ S + V, the + so sánh hơn +  (adj/adv)+ S + V: càng…. thì càng  </b><br>
++ Vì “hard” là trạng từ ngắn nên dựa vào công thức so sánh hơn của trạng từ ngắn <b>“trạng từ ngắn + er”  </b><br>
++ Vì “fluently” là trạng từ dài nên dựa vào công thức so sánh hơn của trạng từ dài  <b>“more + trạng từ dài”  </b><br>
+=&gt; Do đó, ta có thể hoàn thành câu như này: <b><i>“The harder he practises, the more fluently he can speak English.”</i></b><br><b>
+Tạm dịch: </b>Càng luyện tập chăm chỉ, anh ấy càng có thể nói tiếng Anh trôi chảy.<br><b>
+=&gt; Do đó, ta chọn đáp án B.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `I/borrow/books/city library/since/I join/ the reading challenge/ last month. 
+        `,
+          options: [`I has borrowed-books in the city library since I joined the reading challenge last month. `,`I have borrowed books at the city library since I joins the reading challenge last month.`,`I have borrowed books from the city library since I am joining the reading challenge last month.`,`I have borrowed books from the city library since I joined the reading challenge last month`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thì động từ - giới từ</b><br><b>
+* Ta có:</b><br>
+- S + have/has + VPII since + S + V-ed/V cột 2<br>
+- borrow something from something: mượn cái gì đó từ cái gì đó<br>
+=&gt; Do đó, ta có thể hoàn thành câu như này: <b><i>“I have borrowed books from the city library since I joined the reading challenge last month”</i></b><br><b>
+Tạm dịch: </b>Tôi đã mượn sách từ thư viện thành phố kể từ khi tôi tham gia thử thách đọc sách vào tháng trước.<br><b>
+=&gt; Do đó, ta chọn đáp án D.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `<div style="text-align: justify;"><b>Put the sentences (a-c) in the correct order, then fill in the blank to make a logical text.</b></div><div style="text-align: justify;">_________. To meet the needs of the event, volunteers prepared more than 200 tasty and nutritious meals to share with those in need. _________.</div><div style="text-align: justify;">a. The event took place in a warm and loving atmosphere, with many smiles and thank-you from the people receiving food.</div><div style="text-align: justify;">b. Everyone worked very hard, from cooking to packing and handing out the food.</div><div style="text-align: justify;">e. We hope that these meals will not only fill their stomachs but also bring joy and hope to their lives.</div>
+        `,
+          options: [`a-c-b `,`b-a-c`,`c-a-b`,`c-b-a `,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu tạo thành đoạn văn:</b><br>
+*Để tạo nên một đoạn văn/lời kể hoàn chỉnh, ta sắp xếp chúng sao cho phù hợp về mặt ngữ nghĩa, ngữ pháp, câu sau là sự tiếp nối về nội dung với câu trước.<br>
+=&gt; Ta có cách sắp xếp hoàn chỉnh:<br>
+To meet the needs of the event, volunteers prepared more than 200 tasty and nutritious meals to share with those in need. <i>(Để đáp ứng nhu cầu của sự kiện, các tình nguyện viên đã chuẩn bị hơn 200 bữa ăn ngon và bổ dưỡng để chia sẻ với những người cần giúp đỡ.)</i><br>
+b. Everyone worked very hard, from cooking to packing and handing out the food. <i>(Mọi người đều làm việc rất chăm chỉ, từ nấu ăn đến đóng gói và phát đồ ăn.)</i><br>
+a. The event took place in a warm and loving atmosphere, with many smiles and thank-you from the people receiving food. <i>(Sự kiện diễn ra trong bầu không khí ấm áp và yêu thương, với nhiều nụ cười và lời cảm ơn từ những người nhận đồ ăn.)</i><br>
+c. We hope that these meals will not only fill their stomachs but also bring joy and hope to their lives. <i>(Chúng tôi hy vọng rằng những bữa ăn này không chỉ lấp đầy dạ dày của họ mà còn mang lại niềm vui và hy vọng cho cuộc sống của họ.)</i><br>
+Vậy, ta có thứ tự sắp xếp đúng là: <b>b-a-c</b><br>
+Do đó, B là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Choose the sentence that best fits as the OPENING sentence for the above text. </b>
+        `,
+          options: [`The event had some issues but was finished successfully.`,`Volunteers received thank-you notes for their help after the event`,`Organizing a volunteer event to give food to homeless people is a practical action.`,`Organizing a charity event doesn't involve many steps and teamwork`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sắp xếp trật tự câu:</b><br>
+Chọn câu phù hợp nhất để làm câu MỞ ĐẦU cho đoạn văn trên.<br><b>
+*Xét các đáp án:</b><br>
+A. The event had some issues but was finished successfully: Sự kiện có một số vấn đề nhưng đã kết thúc thành công.<br>
+B. Volunteers received thank-you notes for their help after the event: Các tình nguyện viên đã nhận được lời cảm ơn vì sự giúp đỡ của họ sau sự kiện<br>
+C. Organizing a volunteer event to give food to homeless people is a practical action: Tổ chức một sự kiện tình nguyện để trao thức ăn cho người vô gia cư là một hành động thiết thực.<br>
+D. Organizing a charity event doesn't involve many steps and teamwork: Tổ chức một sự kiện từ thiện không liên quan đến nhiều bước và làm việc nhóm
+Để kết thúc đoạn văn, ta không thể dùng “First” hay “To begin with” vì
+nó dùng để đưa ra ý đầu tiên chứ không phải cuối cùng =&gt; loại A, B.<br>
+=&gt; Căn cứ vào nghĩa, C là đáp án phù hợp.`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `You have to fill out an ________ form for admission to the hospital at the front desk.
+        `,
+          options: [`applicable`,`applicant`,`application`,`apply`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại<br>
+*Xét các đáp án: </b><br>
+A. applicable /ˈæplɪkəbl/ (adj): có thể áp dụng được<br>
+B. applicant /ˈæplɪkənt/ (n): người nộp đơn<br>
+C. application /ˌæplɪˈkeɪʃən/ (n): đơn xin việc<br>
+D. apply /əˈplaɪ/ (v): nộp, áp dụng<br><b>
+*Ta có: </b>application form: mẫu đơn đăng ký<br><b>
+Tạm dịch:</b> Bạn phải điền vào mẫu đơn xin nhập viện tại quầy lễ tân.<br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Project-based learning provides wonderful opportunities for students __________.
+        `,
+          options: [`to develop their creatively`,`to develop their creativity `,`to developing their creativity`,`develop their creativity`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ nguyên mẫu và từ loại<br>
+*Ta có: </b><br>
+-opportunity for somebody to do something: cơ hội cho ai đó làm điều gì đó<br>
+-develop something: phát triển cái gì đó<br><b>
+Tạm dịch:</b> Học tập theo dự án mang đến cho học sinh những cơ hội tuyệt vời để phát triển khả năng sáng tạo của mình.<br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `My teacher told me to ________ my essay for grammar and spelling mistakes before I handed it into her.
+        `,
+          options: [`come down with`,`put up with`,`go over`,`set off`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ<br>
+*Xét các đáp án: </b><br>
+A. come down with: mắc bệnh<br>
+B. put up with: chịu đựng<br>
+C. go over: kiểm tra, xem xét<br>
+D. set off: khởi hành<br><b>
+Tạm dịch:</b> Cô giáo bảo tôi kiểm tra lại lỗi ngữ pháp và lỗi chính tả trước khi nộp bài.<br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `In the countryside in Viet Nam, families ________ extended, i.e., three or more generations lived together in the same house.
+        `,
+          options: [`used to being`,`used to be`,`used to`,`use to be`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ nguyên mẫu<br>
+*Ta có: </b><br>
+-used to do sth: đã từng làm gì trong quá khứ<br>
+-extended là tính từ nên cần động từ to be<br><b>
+Tạm dịch: </b>Ở vùng nông thôn Việt Nam, gia đình thường được mở rộng, tức là ba hoặc nhiều thế hệ cùng sống chung trong một ngôi nhà.<br>
+Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `When the war broke out, men were called up to fight for the country. ________, women became the breadwinners of their families.
+        `,
+          options: [`Therefore`,`In order that`,`However`,`In addition`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+*Xét các đáp án: </b><br>
+A. Therefore, S + V: do đó<br>
+B. In order that + S + V: để mà<br>
+C. However, S + V: tuy nhiên<br>
+D. In addition, S + V: thêm vào đó<br><b>
+Tạm dịch</b>: Khi chiến tranh nổ ra, đàn ông được gọi đi chiến đấu vì đất nước. Do đó, phụ nữ trở thành trụ cột gia đình.<br>
+Do đó, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Nguyen is reflecting on changes in Vietnamese education.</b><br><b>
+Nguyen</b>: "Education in Vietnam now emphasizes more on technology and modern teaching methods, whereas, in the past, it was more traditional and less interactive."<br><b>
+Hoa</b>:" ________”
+        `,
+          options: [`I prefer traditional education methods.`,`I don't see much difference.`,`I don't know much about educational changes.`,`That's true! Technology has transformed how we learn and teach.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp<br>
+*Xét các đáp án: </b><br>
+A. I prefer traditional education methods.: Tôi thích phương pháp giáo dục truyền thống.<br>
+B. I don't see much difference: Tôi không thấy nhiều sự khác biệt.<br>
+C. I don't know much about educational changes: Tôi không biết nhiều về những thay đổi trong giáo dục.<br>
+D. That's true! Technology has transformed how we learn and teach: Đúng vậy! Công nghệ đã thay đổi cách chúng ta học và dạy.<br><b>
+Tạm dịch: </b> Nguyên đang suy ngẫm về những thay đổi trong giáo dục Việt Nam.<br>
+Nguyên: "Giáo dục ở Việt Nam hiện nay chú trọng nhiều hơn vào công nghệ và phương pháp giảng dạy hiện đại, trong khi trước đây, giáo dục truyền thống hơn và ít tương tác hơn."<br>
+Hoa: "Đúng vậy! Công nghệ đã thay đổi cách chúng ta học và dạy.”<br>
+Do đó, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Luckily, I got ________ useful advice on how to make a presentation on 'For a better community" from my class teacher.
+        `,
+          options: [`a few`,`many`,`some `,`several`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về lượng từ<br>
+*Xét các đáp án: </b><br>
+A. a few + N đếm được số nhiều: một ít<br>
+B. many + N đếm được số nhiều: nhiều<br>
+C. some + N đếm được số nhiều/ N không đếm đước: một vài<br>
+D. several + N đếm được số nhiều: một số<br><b>
+*Ta có:</b><br>
+- Đằng sau là danh từ không đếm được “advice” -&gt; chỉ dùng được “some”<br><b>
+Tạm dịch:</b> May mắn thay, tôi đã nhận được một số lời khuyên hữu ích về cách thuyết trình về chủ đề "Vì một cộng đồng tốt đẹp hơn" từ giáo viên chủ nhiệm lớp tôi.<br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `It's well worth ________ to Ha Long Bay. It's very _________.
+        `,
+          options: [`to go/ delicious`,`go/enthusiastic`,`going/ picturesque`,`to go/embarrassed`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về danh động từ và từ vựng<br>
+*Ta có:</b><br>
+-worth doing something: đáng làm điều gì đó<br><b>
+*Xét các đáp án: </b><br>
+A. delicious /di'li∫əs/ (adj): thơm tho, ngon lành <br>
+B. enthusiastic /in,θu:zi'æstik/ (adj): đầy nhiệt tình<br>
+C. picturesque /,pikt∫ə'resk/ (adj): đẹp như tranh<br>
+D. embarrassed /im'bærəst/ (adj): lúng túng, bối rối; ngượng<br><b>
+Tạm dịch: </b>Thật đáng để đi Vịnh Hạ Long. Nơi đây rất đẹp như tranh vẽ.<br>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>Four phrases/sentences have been removed from the text below. For each question, mark the letter A, B, C or D on your answer sheet to indicate the correct option that fits each of the numbered blanks from 37 to 40 the most.</b></p><p><div style="text-align: justify;"><b>A. They also learn how to work under pressure</b></div><div style="text-align: justify;"><b>B. They can also avoid being bullied by feeling more confident in a group</b></div><div style="text-align: justify;"><b>C. By joining clubs</b></div><div style="text-align: justify;"><b>D. their parents' or teachers' expectations</b></div><div style="text-align: justify;">Many students today worry about their appearance or spend too much time on digital devices. Some check notifications all the time and find it hard to concentrate on their schoolwork. Others feel lonely or even get addicted to social media. These problems can make it harder for them to meet (37) _________. School clubs offer a great way to feel better. When students take part in clubs, they can make new friends and get on with people from different classes. (38) _________. In clubs, teenagers share problems with friends, get advice from teachers or leaders, and receive encouragement from people around them. (39) ________, solve problems, and build important life skills. (40) _________, students spend less time alone and more time doing fun and helpful activities. This can help them feel happier, concentrate better, and enjoy school life more.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `D`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc câu:<br>
+*Ta có:</b><br>
+Sau động từ "meet" (gặp, đáp ứng) → cần 1 tân ngữ (noun phrase) <b>-&gt; chọn D</b><br><b>
+Tạm dịch:</b> These problems can make it harder for them to meet (37) _________.  <i>(Những vấn đề này có thể khiến họ khó đáp ứng được kỳ vọng của cha mẹ hoặc giáo viên.).</i><br><b>
+Do đó, D là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `B`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề độc lập:</b><br>
+Căn cứ vào vị trí chỗ trống (giữa 2 dấu chấm) =&gt; vị trí chỗ trống cần một mệnh đề độc lập (S+V). Xét 2 mệnh đề độc lập có trong đề bài:<br>
+A. They also learn how to work under pressure: Họ cũng học cách làm việc dưới áp lực<br>
+B. They can also avoid being bullied by feeling more confident in a group: Họ cũng có thể tránh bị bắt nạt bằng cách cảm thấy tự tin hơn khi ở trong một nhóm.<br><b>
+Tạm dịch</b>: When students take part in clubs, they can make new friends and get on with people from different classes. (38) _________. In clubs, teenagers share problems with friends, get advice from teachers or leaders, and receive encouragement from people around them. <i>(Khi học sinh tham gia các câu lạc bộ, họ có thể kết bạn mới và hòa nhập với những người từ các lớp khác nhau. Họ cũng có thể tránh bị bắt nạt bằng cách cảm thấy tự tin hơn khi ở trong một nhóm. Trong các câu lạc bộ, thanh thiếu niên chia sẻ vấn đề với bạn bè, nhận lời khuyên từ giáo viên hoặc người lãnh đạo và nhận được sự động viên từ những người xung quanh.).</i><br><b>
+Căn cứ vào nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `A`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc song song:</b><br>
+Ta có: and nối các thành phần có cùng chức năng ngữ pháp với nhau. Sau and là động từ nguyên thể nên trước and cũng là động từ nguyên thể -&gt; chọn A<br><b>
+Tạm dịch:</b> (39) ________, solve problems, and build important life skills. <i>(Họ cũng học cách làm việc dưới áp lực, giải quyết vấn đề và xây dựng các kỹ năng sống quan trọng.).</i><br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [],
+          answer: `C`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề độc lập:</b><br>
+Căn cứ vào vị trí chỗ trống đứng đầu câu và ngăn cách với phần còn lại với câu bằng dấu phẩy -&gt; chỗ trống cần một mệnh đề phụ hoặc một cụm giới từ<b> -&gt; chọn C</b><br><b>
+Tạm dịch: </b>(40) _________, students spend less time alone and more time doing fun and helpful activities. <i>(Bằng cách tham gia các câu lạc bộ, học sinh sẽ dành ít thời gian ở một mình hơn và có nhiều thời gian hơn cho các hoạt động vui vẻ và hữu ích.).</i><br><b>
+Căn cứ vào nghĩa, C là đáp án phù hợp.
+</b>`,
+        }, ],
+    },
+
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the underlined part that needs correction in each of the following questions.</b></p>`,
+          media:``,
+          question: `The boss asked Jane if she <u>wants</u> a day <u>off</u> the next day because she <u>looked</u> so <u>tired</u>.
+        `,
+          options: [`looked `,`off`,`wants`,`tired`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật</b><br>
+* Ta có: Khi chuyển từ câu trực tiếp sang câu gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và <b>động từ phải lùi một thì</b> <i>(nếu động từ tường thuật ở thì quá khứ).</i><br><b>
+=&gt; Sai ở C. wants</b><br>
+Sửa: <b>wants =&gt; wanted</b><br><b>
+Tạm dịch:</b> The boss asked Jane if she wanted a day off the next day because she looked so tired. <i>(Sếp đã hỏi Jane liệu cô ấy có muốn nghỉ một ngày vào hôm sau không vì trông cô ấy rất mệt mỏi.)</i><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<u>Do</u> you know <u>Jim's brother</u> <u>who</u> house <u>is</u> in your neighbourhood?
+        `,
+          options: [`who`,`is`,`Jim's brother`,`Do`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ quan hệ</b><br>
+* Ta có: <br>
+- <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br>
+- <b>whose</b>: đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.<br>
+→ Ta thấy, câu trên cần đại từ quan hệ đứng trước danh từ "<b>house</b>" để chỉ sự sở hữu. <br><b>
+=&gt; Sai ở A. who</b><br>
+Sửa: <b>who =&gt; whose</b><br><b>
+Tạm dịch:</b> Do you know Jim's brother <b>whose </b>house is in your neighbourhood? <i>(Bạn có biết người anh trai của Jim người mà có nhà ở trong khu phố của bạn không?)</i><br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `I wish I <u>can</u> set foot <u>on</u> every corner <u>of</u> Vietnam when I <u>reach</u> 40.
+        `,
+          options: [`on `,`can`,`of`,`reach`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu ước</b><br>
+* Ta có cấu trúc câu ước ở tương lai: <b>S + wish(es) + (that) + S + would/ could + V</b><br>
+→ Diễn tả mong ước về khả năng có thể làm gì đó trong tương lai.<br><b>
+=&gt; Sai ở B. can</b><br>
+Sửa:<b> can =&gt; could</b><br><b>
+Tạm dịch</b>: I wish I <b>could </b>set foot on every corner of Vietnam when I reach 40. <i>(Tôi ước tôi có thể đặt chân lên mọi miền của Việt Nam khi tôi 40 tuổi.)</i><br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions</b></p><p><div style="text-align: justify;">Hot weather makes the heart pump harder. That is the reason why the majority of mountain rescue statistics are made up of summer walkers suffering heart attacks. So, how to walk safely in summer?</div><div style="text-align: justify;">The answer is to keep up the water intake. It is vital not to wait until a thirsty before stopping for a drink. Instead, keep drinking regularly from your water bottle.</div><div style="text-align: justify;">Given that evaporation is the body's way to cool itself, soaking a hat with water is a great way to cool the head. Walking in the heat increases the rate at which your feet swell, which can lead to <b><u>them</u></b> feeling tight in your boots. Cool water from a stream reduces any swelling and helps general foot comfort.</div><div style="text-align: justify;">As for what clothing you wear, this should be lightweight and reasonably loose-fitting. Tight clothing will feel uncomfortable and may even lead to an <b><u>irritating</u></b> rash on the skin. The answer, if this does develop, is to try and stay cool as much as possible. Do this by either keeping in the shade or washing the affected area with cold water, but without soap.</div><div style="text-align: justify;">It is understandable to want to remove some clothing when it is extremely hot, but it does not really make much sense to take off T-shirts. The sun's rays can be quite strong, and shoulders are always very sensitive to sunburn. This is the worst place to be red and sore when you are wearing a heavy rucksack on your back. Wearing shorts can also create problems for walkers, as the backs of the legs can catch the sun very easily.</div></p>`,
+          media:``,
+          question: `Which of the following can be the best title for the passage?
+        `,
+          options: [`Advice for Sunbathing on the Beach `,`Causes of Uncomfortable Swelling `,`Causes of Heart Attacks for Walkers `,`Advice for Walking in Summer `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Đâu là tiêu đề phù hợp nhất cho đoạn văn? </b><br>
+A. Lời khuyên khi tắm nắng trên bãi biển <br>
+B. Nguyên nhân gây sưng phù khó chịu <br>
+C. Nguyên nhân gây đau tim cho người đi bộ <br>
+D. Lời khuyên khi đi bộ vào mùa hè<br><b>
+Căn cứ vào thông tin:</b><br>
+- "So, how to walk safely in summer?" <i>(Vậy, làm thế nào để đi bộ an toàn vào mùa hè?)</i><br>
+- "The answer is to keep up the water intake." <i>(Câu trả lời là duy trì việc uống nước.)</i><br>
+- "Given that evaporation is the body's way to cool itself, soaking a hat with water is a great way to cool the head." <i>(Do bay hơi là cách cơ thể tự làm mát, làm ướt mũ bằng nước là một cách tuyệt vời để làm mát đầu.)</i><br>
+- "As for what clothing you wear, this should be lightweight and reasonably loose-fitting."<i> (Về quần áo bạn mặc, chúng nên nhẹ và tương đối rộng rãi.)…</i><br><b>
+→ Bài viết chủ yếu đưa ra lời khuyên cho những người đi bộ vào mùa hè: uống nước, mặc quần áo nhẹ, đội mũ ướt…<br>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word <b><u>them</u></b> in paragraph 3 refers to _________.
+        `,
+          options: [`feet`,`boots`,`legs`,`walkers`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "<u>them</u>" trong đoạn 3 đề cập đến ____________. </b><br>
+A. feet – foot /fʊt/ (n): bàn chân <br>
+B. boots – boot /buːt/ (n): giày <br>
+C. legs – leg /leɡ/ (n): chân <br>
+D. walkers – walker /ˈwɔːkə(r)/ (n): người đi bộ<br><b>
+Căn cứ vào thông tin: </b>"Walking in the heat increases the rate at which your feet swell, which can lead to <b>them </b>feeling tight in your boots." <i>(Đi bộ trong thời tiết nóng làm tăng tốc độ sưng phù của bàn chân, điều này có thể dẫn đến cảm giác <b>chúng </b>bị chật trong giày.)</i><br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The word <b><u>irritating</u></b> in paragraph 4 is closest in meaning to _________.
+        `,
+          options: [`annoying `,`comfortable`,`pleasant`,`appealing`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Từ "<u>irritating</u>" trong đoạn 4 gần nghĩa nhất với _________.</b><br>
+A. annoying (adj): gây khó chịu, phiền phức <br>
+B. comfortable (adj): thoải mái, dễ chịu <br>
+C. pleasant (adj): dễ chịu, thú vị <br>
+D. appealing (adj): hấp dẫn, lôi cuốn<br><b>
+Căn cứ vào thông tin: </b>"Tight clothing will feel uncomfortable and may even lead to an <b><u>irritating</u></b> rash on the skin." <i>(Quần áo chật sẽ gây cảm giác khó chịu và thậm chí có thể dẫn đến phát ban <b>gây khó chịu</b> trên da.)</i><br><b>
+=&gt; irritating /ˈɪrɪteɪtɪŋ/ (adj): gây khó chịu, làm bực mình ~ annoying<br>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `According to paragraph 5, wearing shorts _________.
+        `,
+          options: [`is good for walkers when it is too hot`,`can cause sunburn on walkers' legs`,`can protect walkers' feet perfectly`,`is advisable for strong walkers only`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Theo đoạn 5, việc mặc quần đùi _____________. </b><br>
+A. tốt cho người đi bộ khi trời quá nóng <br>
+B. có thể gây cháy nắng ở chân của người đi bộ <br>
+C. có thể bảo vệ chân của người đi bộ một cách hoàn hảo <br>
+D. chỉ được khuyên dùng cho những người đi bộ khỏe mạnh<br><b>
+Căn cứ vào thông tin:</b> "Wearing shorts can also create problems for walkers, as the backs of the legs can catch the sun very easily."<i> (Mặc quần đùi cũng có thể gây ra vấn đề cho người đi bộ, vì phía sau chân có thể bắt nắng rất dễ dàng.)</i><br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which of the following is <b>NOT </b>true according to the passage? 
+        `,
+          options: [`Summer walkers should avoid using soap to wash a rash on the skin.`,`Summer walkers had better not put on tight and heavy clothes.`,`Summer walkers should keep their head cool by wearing soaked hats. `,`Summer walkers had better drink only when they feel thirsty.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Điều nào sau đây KHÔNG đúng theo đoạn văn? </b><br>
+A. Người đi bộ mùa hè nên tránh dùng xà phòng để rửa vết phát ban trên da. <br>
+B. Người đi bộ mùa hè tốt hơn là không nên mặc quần áo chật và nặng. <br>
+C. Người đi bộ mùa hè nên giữ mát đầu bằng cách đội mũ ướt. <br>
+D. Người đi bộ mùa hè tốt hơn là chỉ nên uống nước khi cảm thấy khát.<br><b>
+Căn cứ vào thông tin:</b><br>
+- "Do this by either keeping in the shade, or washing the affected area with cold water, but without soap." <i>(Làm điều này bằng cách ở trong bóng râm, hoặc rửa vùng bị ảnh hưởng bằng nước lạnh, nhưng không dùng xà phòng.) </i><b>→ Đáp án A đúng.</b><br>
+- "As for what clothing you wear, this should be lightweight and reasonably loose-fitting. Tight clothing will feel uncomfortable and may even lead to an irritating rash on the skin." <i>(Về quần áo bạn mặc, chúng nên nhẹ và tương đối rộng rãi. Quần áo chật sẽ gây khó chịu và thậm chí có thể dẫn đến phát ban gây khó chịu trên da.) </i><b>→ Đáp án B đúng.</b><br>
+- "Given that evaporation is the body's way to cool itself, soaking a hat with water is a great way to cool the head." <i>(Do bay hơi là cách cơ thể tự làm mát, làm ướt mũ bằng nước là một cách tuyệt vời để làm mát đầu.)</i><b><i> </i>→ Đáp án C đúng.</b><br>
+- "It is vital not to wait until a thirst before stopping for a drink. Instead, keep drinking regularly from your water bottle."<i> (Điều quan trọng là không đợi đến khi khát mới dừng lại để uống. Thay vào đó, hãy uống nước đều đặn từ bình nước của bạn.)</i> <b>→ Đáp án D KHÔNG đúng.<br>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the appropriate answer to each of the following questions.</b></p>`,
+          media:``,
+          question: `Laura is _________ than any other student in my class.
+        `,
+          options: [`the most intelligent`,`more intelligent`,`the more intelligent `,`as intelligent`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu so sánh</b><br>
+→ Căn cứ vào từ "<b>than</b>" sau chỗ trống =&gt; đây là câu so sánh hơn.<br><u>
+Ta có cấu trúc so sánh hơn:</u><br>
++) Với tính từ/ trạng từ ngắn: <b>S1 + V + adj-er/adv-er + than + S2</b><br>
++) Với tính từ/ trạng từ dài: <b>S1 + V + more + adj/adv + than + S2</b><br>
+Do "<b>intelligent</b>" là tính từ dài, nên dạng so sánh hơn là "<b>more intelligent</b>".<br>
+=&gt; loại A, C và D (vì không phải dạng so sánh hơn).<br><b>
+Tạm dịch: </b>Laura thông minh hơn bất kỳ học sinh nào khác trong lớp tôi.<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `_________ his bad cold, he continued to work until late.
+        `,
+          options: [`Because`,`In spite of`,`Although`,`because of`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án:</b><br>
+A. Because + S + V: bởi vì, do<br>
+B. In spite of + N/V-ing: mặc dù<br>
+C. Although + S +V: mặc dù<br>
+D. Because of + N/V-ing: bởi vì, do<br>
+→ Ta thấy, sau chỗ trống là một cụm danh từ "<b>his bad cold</b>" =&gt; loại A và C.<br><b>
+Tạm dịch: </b>Mặc dù bị cảm lạnh nặng, anh ấy vẫn tiếp tục làm việc cho đến khuya.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The Pikes _________ their trip because of the bad weather.
+        `,
+          options: [`put out`,`put off`,`put up`,`put away`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ<br>
+* Xét các đáp án:</b><br>
+A. put out (ph.v): dập tắt (lửa, thuốc lá…); xuất bản, phát hành<br>
+B. put off (ph.v): trì hoãn, hoãn lại; làm ai đó mất hứng<br>
+C. put up (ph.v): dựng lên, xây lên (nhà, hàng rào…); cho ai đó ở nhờ<br>
+D. put away (ph.v): cất đi, dọn đi; để dành, tiết kiệm<br><b>
+Tạm dịch: </b>Gia đình Pike đã hoãn lại chuyến đi của họ vì thời tiết xấu.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The phone _________ suddenly while Joanna was doing the housework.
+        `,
+          options: [`had rung`,`rang`,`is ringing `,`was ringing`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về sự phối thì</b><br>
+* Ta có cấu trúc sự phối thì: <b>S + V (quá khứ đơn) + WHILE + S + V (quá khứ tiếp diễn) </b><br>
+→ Dùng để diễn tả một hành động đang xảy ra thì có hành động khác xen vào. Hành động xảy ra trước và đang xảy ra ta chia ở thì quá khứ tiếp diễn <b>(was/were + V-ing), </b>hành động xen vào ta chia ở thì quá khứ đơn<b> (V2/Ved).</b><br>
+=&gt; Chỗ trống cần chia động từ ở thì quá khứ đơn =&gt; loại A, C và D.<br><b>
+Tạm dịch:</b> Điện thoại reo đột ngột trong khi Joanna đang làm việc nhà.<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `They are going to leave London _________ June 15<sup>th</sup>
+        `,
+          options: [`at`,`for`,`on`,`in`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ<br>
+* Xét các đáp án:</b><br>
+A. at: dùng cho giờ cụ thể; các thời điểm trong ngày như noon, night, midnight…<br>
+B. for: dùng để chỉ khoảng thời gian<br>
+C. on: dùng trước ngày trong tuần, ngày tháng cụ thể<br>
+D. in: dùng cho tháng, năm, mùa, thế kỷ, khoảng thời gian dài<br>
+→ Ta thấy, "<b>June 15th</b>" là một ngày tháng cụ thể nên ta dùng giới từ "<b>on</b>".<br><b>
+Tạm dịch:</b> Họ sẽ rời Luân Đôn vào ngày 15 tháng 6.<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `All motorcyclists must wear helmets. It is _________ for them to wear helmets.
+        `,
+          options: [`compulsory`,`optional`,`separate`,`official`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm động từ<br>
+* Xét các đáp án:</b><br>
+A. compulsory /kəmˈpʌlsəri/ (adj): cưỡng bách, bắt buộc<br>
+B. optional /ˈɒpʃənl/ (adj): tùy chọn, không bắt buộc<br>
+C. separate /ˈseprət/ (adj): riêng biệt, tách biệt, khác biệt<br>
+D. official /əˈfɪʃl/ (adj): chính thức; (thuộc) chính quyền, công sở<br><b>
+Tạm dịch: </b>Tất cả người đi xe máy phải đội mũ bảo hiểm. Việc đội mũ bảo hiểm là bắt buộc đối với họ.<br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Sure, you can give me _________ hand if you want to.
+        `,
+          options: [`a`,`the`,`Ø`,`an`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mạo từ</b><br>
+* Ta có cụm từ cố định:<b> give sb a hand: giúp đỡ ai đó, giúp ai đó một tay<br>
+Tạm dịch:</b> Chắc chắn rồi, bạn có thể giúp tôi một tay nếu bạn muốn.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The second World War _________ in 1939.
+        `,
+          options: [`starts`,`start`,`has started`,`started`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thì động từ</b><br>
+→ Ta thấy, câu trên có "<b>in 1939</b>" (vào năm 1939) là dấu hiệu của thì quá khứ đơn (diễn tả hành động đã xảy ra và đã chấm dứt trong quá khứ, không còn liên quan tới hiện tại).<br>
+* Cấu trúc: <b>S + V2/Ved + …<br>
+Tạm dịch: </b>Chiến tranh thế giới thứ hai đã bắt đầu vào năm 1939.<br><b>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `If I _________ her, I would take a break.
+        `,
+          options: [`am `,`will be`,`be`,`were`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu điều kiện</b><br>
+* Cấu trúc câu điều kiện loại 2:<b> If + S + V (quá khứ đơn), S + would/ could/ might + V (nguyên mẫu)…</b><br>
+→ Dùng để diễn tả những giả định trái ngược với thực tế ở hiện tại.<br><b>
+Tạm dịch</b>: Nếu tôi là cô ấy, tôi sẽ nghỉ ngơi một lát.<br><b>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Jack insisted that he didn't need any help, _________ I helped him anyway.
+        `,
+          options: [`and`,`so `,`for`,`but`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án:</b><br>
+A. and: và (dùng để nối các ý tưởng tương đồng, bổ sung)<br>
+B. so: vì vậy, cho nên (dùng để chỉ kết quả)<br>
+C. for: vì (dùng để chỉ lý do)<br>
+D. but: nhưng (dùng để nối các ý tưởng tương phản, đối lập)<br><b>
+Tạm dịch:</b> Jack khăng khăng rằng anh ấy không cần sự giúp đỡ nào, nhưng tôi vẫn giúp anh ấy.<br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `You _________ go to bed late. It's not good for your health.
+        `,
+          options: [`won't`,`shouldn't `,`needn't`,`can't`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về động từ khuyết thiếu<br>
+* Xét các đáp án:</b><br>
+A. won't: sẽ không làm gì (diễn tả ý định trong tương lai)<br>
+B. shouldn't: không nên làm gì (dùng để đưa ra lời khuyên không nên làm gì)<br>
+C. needn't: không cần làm gì (diễn tả sự không cần thiết, không bắt buộc phải làm gì)<br>
+D. can't: không thể làm gì (diễn tả sự không có khả năng)<br><b>
+Tạm dịch: </b>Bạn không nên đi ngủ muộn. Nó không tốt cho sức khỏe của bạn.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `He _______ to New York three times this year.
+        `,
+          options: [`has been`,`had been`,`is`,`was`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thì động từ</b><br>
+→ Ta thấy, câu trên có cụm "<b>three times this year</b>" là dấu hiệu của thì hiện tại hoàn thành (diễn tả một hành động đã lặp đi lặp lại nhiều lần trong một khoảng thời gian tính từ quá khứ cho đến thời điểm hiện tại).<br>
+* Cấu trúc: <b>S + have/has + Vp2…<br>
+Tạm dịch:</b> Anh ấy đã đến New York ba lần trong năm nay.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `There is something wrong with them, _________?
+        `,
+          options: [`isn't it`,`aren't they`,`isn't there`,`aren't there`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu hỏi đuôi</b><br><b>
+* Nguyên tắc chung khi lập câu hỏi đuôi:</b><br>
+- Nếu mệnh đề trước dấu phẩy ở thể khẳng định, câu hỏi đuôi ở thể phủ định (dạng viết tắt).<br>
+- Nếu mệnh đề trước dấu phẩy ở thể phủ định, câu hỏi đuôi ở thể khẳng định.<br><b><u>
+* Ta có:</u></b><br>
++) Căn cứ vào mệnh đề trước dấu phẩy là khẳng định và có động từ chính chia ở thì hiện tại đơn là "<b>is</b>" =&gt; câu hỏi đuôi ở thể phủ định (dạng viết tắt) là "<b>isn’t</b>". <br>
++) Chủ ngữ là "<b>There</b>" =&gt; câu hỏi đuôi vẫn sẽ dùng "<b>there</b>". <br>
+=&gt; Phần đuôi là "<b><i>isn’t there</i></b>".<br><b>
+Tạm dịch:</b> Có điều gì đó không ổn với họ, phải không?<br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark letter A, B, C, or D to indicate the word OPPOSITE in meaning to the underlined word. </b></p>`,
+          media:``,
+          question: `Photography is strictly <b><u>forbidden</u></b> in the museum.
+        `,
+          options: [`depressed `,`affordable`,`allowable`,`favorable`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ trái nghĩa<br>
+Tạm dịch: </b>Việc chụp ảnh bị cấm nghiêm ngặt trong bảo tàng.<br><b>
+=&gt; forbidden /fəˈbɪdn/ (adj): bị cấm, không được phép<br>
+* Xét các đáp án:</b><br>
+A. depressed /dɪˈprest/ (adj): chán nản, buồn phiền, buồn<br>
+B. affordable /əˈfɔːdəbl/ (adj): (giá cả) hợp lý, phải chăng<br>
+C. allowable /əˈlaʊəbl/ (adj): được phép<br>
+D. favorable /ˈfeɪvərəbl/ (adj): thuận lợi, có thiện chí<br><b>
+=&gt; forbidden &gt;&lt; allowable<br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The Ministry of Health is carrying out a health project for the poor in mountainous regions and <b><u>rural</u></b> areas.
+        `,
+          options: [`urban`,`coastal`,`suburban`,`mountainous`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ trái nghĩa<br>
+Tạm dịch:</b> Bộ Y tế đang thực hiện một dự án y tế cho người nghèo ở các vùng miền núi và khu vực nông thôn.<br><b>
+=&gt; rural /ˈrʊərəl/ (adj): (thuộc) về nông thôn, miền quê<br>
+* Xét các đáp án:</b><br>
+A. urban /ˈɜːbən/ (adj): (thuộc) về đô thị, thành thị<br>
+B. coastal /ˈkəʊstl/ (adj): (thuộc) về bờ biển, ven biển<br>
+C. suburban /səˈbɜːbən/ (adj): (thuộc) về ngoại ô<br>
+D. mountainous /ˈmaʊntɪnəs/ (adj): (thuộc) miền núi, có nhiều núi<br><b>
+=&gt; rural &gt;&lt; urban <br>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the most suitable response to complete each of the following exchanges.</b></p>`,
+          media:``,
+          question: `<b>Alan</b>: "Do they like Mary?"<br><b>
+Peter</b>:" ________”
+        `,
+          options: [`No. They're not alike.`,`Sure, she's such a nice girl.`,`Yes, they like to see her.`,`Certainly. They're like her.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp<br>
+Tạm dịch:</b> Alan: "Họ có thích Mary không?"<br>
+Peter:" ___________________"<br><b>
+* Xét các đáp án:</b><br>
+A. Không. Họ không giống nhau.<br>
+B. Chắc chắn rồi, cô ấy là một cô gái rất tốt.<br>
+C. Có, họ thích gặp cô ấy.<br>
+D. Chắc chắn rồi. Họ giống cô ấy.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to each of the following questions.</b></p>`,
+          media:``,
+          question: `"Be careful! The paint is wet", she shouted.
+        `,
+          options: [`She told me to be careful because the paint was wet. `,`She asked me to be careful because the paint is wet.`,`She told me be careful because the paint was wet.`,`She said be careful because the paint was wet.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu tường thuật<br>
+Tạm dịch câu gốc:</b> "Cẩn thận! Sơn còn ướt", cô ấy hét lên.<br>
+→ Cấu trúc câu tường thuật lại mệnh lệnh/ yêu cầu:<b> S + told/asked + O + (not) + to V (nguyên mẫu)</b><br>
+Lưu ý: Khi chuyển từ câu trực tiếp sang gián tiếp, ta cần thay đổi về đại từ, trạng từ chỉ thời gian và nơi chốn, và lùi thì đối với câu chứa động từ tường thuật ở thì quá khứ.<br><b>
+* Xét các đáp án:</b><br>
+A. She told me to be careful because the paint was wet: Cô ấy bảo tôi phải cẩn thận vì sơn còn ướt. <i><b>→ Phù hợp về nghĩa, đúng ngữ pháp.</b></i><br>
+B. She asked me to be careful because the paint is wet. → Sai ngữ pháp (chưa lùi thì).<br>
+C. She told me be careful because the paint was wet. → Sai ngữ pháp.<br>
+D. She said be careful because the paint was wet. → Sai ngữ pháp.<br><b>
+Do đó, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `He smokes too much; perhaps that's why he can't get rid of his cough.
+        `,
+          options: [`If he didn't smoke so much, he may get rid of his cough.`,`If he smokes so much, he couldn't get rid of his cough.`,`If he smoked less, he could get rid of his cough.`,`If he does not smoke too much, he can get rid of his cough.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu điều kiện<br>
+Tạm dịch câu gốc: </b>Anh ấy hút thuốc quá nhiều; có lẽ đó là lý do tại sao anh ấy không thể hết ho được.<br>
+→ Ta dùng cấu trúc câu điều kiện loại 2 (diễn tả những giả định trái ngược với thực tế ở hiện tại): <b>If + S + V (quá khứ đơn), S + would/ could/ might + V (nguyên mẫu)…</b><br><b>
+* Xét các đáp án:</b><br>
+A. If he didn't smoke so much, he may get rid of his cough. → Sai ngữ pháp (không dùng "<b>may</b>" cho câu điều kiện loại 2).<br>
+B. If he smokes so much, he couldn't get rid of his cough. → Sai ngữ pháp.<br>
+C. If he smoked less, he could get rid of his cough: Nếu anh ấy hút thuốc ít hơn, anh ấy có thể hết ho. <b><i>→ Phù hợp về nghĩa, đúng ngữ pháp.</i></b><br>
+D. If he does not smoke too much, he can get rid of his cough: Nếu anh ấy không hút thuốc quá nhiều, anh ấy có thể hết ho. → Không phù hợp (vì đây là câu điều kiện loại 1 (diễn tả khả năng xảy ra): <b>If + S + V (hiện tại đơn), S + can + V (nguyên mẫu)…)</b><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Most of the people recovered quickly. They were injured in the crash.
+        `,
+          options: [`Most of the people who recovered quickly were injured in the crash.`,`Most of the people who were injured in the crash recovered quickly.`,`Most of the people recovered quickly after the crash.`,`The people who were injured in the crash, most of them recovered quickly.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ quan hệ<br>
+Tạm dịch câu gốc</b>: Hầu hết mọi người đã hồi phục nhanh chóng. Họ đã bị thương trong vụ tai nạn.<br>
+→ Ta có: <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau <b>who </b>là chủ ngữ hoặc là động từ.<br><b>
+* Xét các đáp án:</b><br>
+A. Most of the people who recovered quickly were injured in the crash: Hầu hết những người hồi phục nhanh chóng là những người bị thương trong vụ tai nạn. → Không phù hợp về nghĩa.<br>
+B. Most of the people who were injured in the crash recovered quickly: Hầu hết những người bị thương trong vụ tai nạn đã hồi phục nhanh chóng<b><i>. → Đúng ngữ pháp, phù hợp về nghĩa.</i></b><br>
+C. Most of the people recovered quickly after the crash: Hầu hết mọi người hồi phục nhanh chóng sau vụ tai nạn. → Không phù hợp về nghĩa.<br>
+D. The people who were injured in the crash, most of them recovered quickly. → Sai ngữ pháp.<br><b>
+Do đó, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C, or D on your answer sheet to indicate the most suitable response to complete each of the following exchanges.</b></p>`,
+          media:``,
+          question: `<b>Pete</b>: I think we should take part in the environmental club at school!<br><b>
+Anne</b>: " ________”
+        `,
+          options: [`Well done`,`That's a good idea`,`Break your leg`,`You're welcome`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp<br>
+Tạm dịch:</b> Pete: Tớ nghĩ chúng ta nên tham gia câu lạc bộ môi trường ở trường! <br>
+Anne: " _______________"<br><b>
+* Xét các đáp án:</b><br>
+A. Làm tốt lắm<br>
+B. Đó là một ý kiến hay.<br>
+C. Chúc may mắn.<br>
+D. Không có gì.<br><b>
+Căn cứ vào dịch nghĩa, B là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark letter A, B, C, or D to indicate the word CLOSEST in meaning to the underlined word. </b></p>`,
+          media:``,
+          question: `His school is <b><u>located</u></b> in the mountainous region.
+        `,
+          options: [`stood `,`lain`,`situated`,`stayed`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ đồng nghĩa<br>
+Tạm dịch:</b> Trường của anh ấy nằm ở vùng núi.<br><b>
+=&gt; located – locate /ləʊˈkeɪt/ (v): xây dựng, đặt (cái gì) ở đâu<br>
+* Xét các đáp án:</b><br>
+A. stood – stand /stænd/ (v): đứng<br>
+B. lain – lie /laɪ/ (v): nằm<br>
+C. situated – situate /ˈsɪtʃueɪt/ (v): đặt ở, xây dựng ở<br>
+D. stayed – stay /steɪ/ (v): ở, ở lại<br><b>
+=&gt; located ~ situated<br>
+Do đó, C là đáp án phù hợp.
+</b>
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `But for your support, our band couldn't have won the Grand Music <b><u>competition</u></b>. 
+        `,
+          options: [`tour `,`show `,`contest `,`quiz`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ đồng nghĩa<br>
+Tạm dịch:</b> Nếu không có sự hỗ trợ của bạn, ban nhạc của chúng tôi đã không thể thắng cuộc thi Grand Music.<br><b>
+=&gt; competition /ˌkɒmpəˈtɪʃn/ (n): cuộc tranh tài, cuộc thi đấu<br>
+* Xét các đáp án:</b><br>
+A. tour /tʊər/ (n): chuyến du lịch, chuyến đi tham quan<br>
+ B. show /ʃoʊ/ (n): buổi biểu diễn, chương trình (TV, radio); sự trưng bày <br>
+C. contest /ˈkɒntɛst/ (n): cuộc thi, cuộc tranh tài <br>
+D. quiz /kwɪz/ (n): cuộc thi đố vui, bài kiểm tra ngắn <br><b>
+=&gt; competition ~ contest	<br>
+Do đó, C là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions</b></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`n<u>a</u>tion `,`par<u>a</u>de `,`l<u>a</u>bel `,`c<u>a</u>mpus `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. n<u>a</u>tion /ˈn<u>eɪ</u>ʃən/<br>
+B. par<u>a</u>de /pəˈr<u>eɪ</u>d/<br>
+C. l<u>a</u>bel /ˈl<u>eɪ</u>bəl/<br>
+D. c<u>a</u>mpus /ˈk<u>æ</u>mpəs/<br><b>
+=&gt; Phần gạch chân ở câu D được phát âm là /æ/, còn lại được phát âm là /eɪ/. <br>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`plumber<u>s</u> `,`shower<u>s</u> `,`crack<u>s</u> `,`bill<u>s</u> `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm đuôi -s/es<br>
+* Xét các đáp án:</b><br>
+A. plumber<u>s</u> /ˈplʌmər<u>z</u>/<br>
+B. shower<u>s</u> /ˈʃaʊər<u>z</u>/<br>
+C. crack<u>s</u> /kræk<u>s</u>/<br>
+D. bill<u>s</u> /bɪl<u>z</u>/<br><b>
+Ta có quy tắc phát âm đuôi -s/es:</b><br>
+1.	Đuôi<b> -s/es</b> được phát âm là <b>/s/</b> khi động từ có phát âm cuối là /p/, /t/, /k/, /f/, /θ/<br>
+2.	Đuôi -<b>s/es</b> được phát âm là <b>/iz/</b> khi động từ kết thúc bằng -s, -ss, -sh, -ce, -z, -ge, -ch, -x…<br>
+3.	Đuôi <b>-s/es</b> được phát âm là<b> /z/</b> với các trường hợp còn lại.<br><b>
+=&gt; Phần gạch chân ở câu C được phát âm là /s/, còn lại được phát âm là /z/. </b><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`talk<u>ed</u> `,`lik<u>ed</u> `,`play<u>ed</u> `,`cook<u>ed</u> `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm đuôi -ed<br>
+* Xét các đáp án:</b><br>
+A. talk<u>ed</u> /tɔːk<u>t</u>/<br>
+B. lik<u>ed</u> /laɪk<u>t</u>/<br>
+C. play<u>ed</u> /pleɪ<u>d</u>/<br>
+D. cook<u>ed</u> /kʊk<u>t</u>/<br><b>
+Ta có quy tắc phát âm đuôi -ed:</b><br>
+1.	Đuôi <b>-ed</b> được phát âm là <b>/ɪd/</b> khi động từ có phát âm cuối là /t/ hoặc /d/.<br>
+2.	Đuôi <b>-ed</b> được phát âm là <b>/t/ </b>khi động từ có phát âm cuối là /s/, /f/, /p/, /ʃ/, /tʃ/, /k/, /θ/,…<br>
+3.	Đuôi <b>-ed </b>được phát âm là<b> /d/</b> với các trường hợp còn lại.<br><b>
+=&gt; Phần gạch chân ở câu C được phát âm là /d/, còn lại được phát âm là /t/. <br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`s<u>e</u>ttle `,`<u>e</u>lephant `,`r<u>e</u>cycle `,`sp<u>e</u>cial `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. s<u>e</u>ttle /ˈs<u>ɛ</u>təl/<br>
+B. <u>e</u>lephant /ˈ<u>ɛ</u>ləfənt/<br>
+C. r<u>e</u>cycle /ˌr<u>iː</u>ˈsaɪkəl/<br>
+D. sp<u>e</u>cial /ˈsp<u>ɛ</u>ʃəl/<br><b>
+=&gt; Phần gạch chân ở câu C được phát âm là /iː/, còn lại được phát âm là /ɛ/. <br>
+Do đó, C là đáp án phù hợp.</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`cat<u>ch</u> `,`<u>ch</u>ild `,`<u>ch</u>emistry `,`whi<u>ch</u> `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm<br>
+* Xét các đáp án: </b><br>
+A. cat<u>ch</u> /kæ<u>tʃ</u>/<br>
+B. <u>ch</u>ild /<u>tʃ</u>aɪld/<br>
+C. <u>ch</u>emistry /ˈ<u>k</u>ɛmɪstri/<br>
+D. whi<u>ch</u> /wɪ<u>tʃ</u>/<br><b>
+=&gt; Phần gạch chân ở câu C được phát âm là /k/, còn lại được phát âm là /tʃ/. <br>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>Read the following passage and mark the letter A, B, C or D on your answer sheet to choose the word or phrase that best fits each other numbered blanks.</b></p><p><div style="text-align: justify;">From the 20th to the 21st century, there have been (36) _______ significant changes in the majority of countries around the world. Substantial differences are evident between the way we live today (37) _______ the way we lived a century ago. Vietnam is no exception although there are some aspects of life in Vietnam that are similar to the way of life of the twentieth century.</div><div style="text-align: justify;">Living in Vietnam today differs greatly (38) _______ the lifestyle of 100 years ago. People in the past mainly worked in agriculture whereas today there are significantly fewer people working in this (39) _______ of the economy. These days, by comparison, people are more likely to be employed in manufacturing and tourism than in the rice fields. Moreover, Vietnam, (40) _______ was traditionally agricultural, is transforming into an entirely different country. While agriculture is still an important component of the Vietnamese economy, other enterprises are accounting for an increasing amount of economic activity.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`a few`,`much`,`many`,`little`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về lượng từ<br>
+* Xét các đáp án: </b><br>
+A. a few + N (đếm được số nhiều): một vài<br>
+B. much + N (không đếm được): nhiều<br>
+C. many + N (đếm được số nhiều): nhiều<br>
+D. little + N (không đếm được): rất ít, hầu như không<br>
+→ Ta thấy, sau chỗ trống là cụm danh từ đếm được số nhiều <b>"significant changes"</b> =&gt; loại B và D.<br><b>
+Tạm dịch: </b>From the 20th to the 21st century, there have been (36) __________ significant changes in the majority of countries around the world. <i>(Từ thế kỷ 20 đến thế kỷ 21, đã có <b>nhiều </b>thay đổi đáng kể ở phần lớn các quốc gia trên thế giới.)</i><br><b>
+Căn cứ vào dịch nghĩa, C là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`and`,`or`,`so`,`but`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ<br>
+* Xét các đáp án: </b><br>
+A. and: và (dùng để nối hai ý tương tự nhau, bổ sung thông tin)<br>
+B. or: hoặc, hay là (dùng để diễn tả sự lựa chọn)<br>
+C. so: do đó, vì vậy (dùng để nói về kết quả)<br>
+D. but: nhưng (dùng để nối hai ý trái ngược nhau)<br><b>
+Tạm dịch:</b> Substantial differences are evident between the way we live today (37) ____________ the way we lived a century ago. <i>(Những khác biệt đáng kể là rõ ràng giữa cách chúng ta sống ngày nay và cách chúng ta đã sống một thế kỷ trước.)</i><br><b>
+Căn cứ vào dịch nghĩa, A là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`by`,`for`,`with`,`from`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ</b><br>
+* Ta có: <b>differ from sb/ sth: khác biệt với ai/ cái gì<br>
+Tạm dịch:</b> Living in Vietnam today differs greatly (38) _____________ the lifestyle of 100 years ago. <i>(Cuộc sống ở Việt Nam ngày nay khác biệt rất nhiều so với lối sống cách đây 100 năm.)</i><br><b>
+Do đó, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`element`,`way`,`factor`,`sector `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng<br>
+* Xét các đáp án:</b><br>
+A. element /ˈɛləmənt/ (n): phần, yếu tố; nguyên tố<br>
+B. way /weɪ/ (n): cách, phương pháp; quãng đường<br>
+C. factor /ˈfæktər/ (n): nhân tố, yếu tố<br>
+D. sector /ˈsɛktər/ (n): lĩnh vực; khu vực (địa lý)<br><b>
+Tạm dịch: </b>People in the past mainly worked in agriculture whereas today there are significantly fewer people working in this (39) __________ of the economy. <i>(Người dân trong quá khứ chủ yếu làm nông nghiệp trong khi ngày nay số người làm việc trong <b>lĩnh vực</b> này của nền kinh tế ít hơn đáng kể.)</i><br><b>
+Căn cứ vào dịch nghĩa, D là đáp án phù hợp.
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`that`,`who`,`which`,`where`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về mệnh đề quan hệ<br>
+* Xét các đáp án:</b><br>
+A. <b>that</b>: đại từ quan hệ chỉ cả người lẫn vật, có thể được dùng thay cho who, whom, which trong mệnh đề quan hệ thuộc loại mệnh đề xác định.<br>
+B. <b>who</b>: đại từ quan hệ chỉ người, đứng sau danh từ chỉ người để làm chủ ngữ hoặc tân ngữ cho động từ đứng sau nó. Theo sau who là chủ ngữ hoặc là động từ.<br>
+C. <b>which</b>: đại từ quan hệ chỉ vật, sự vật, sự việc làm chủ ngữ hoặc tân ngữ cho động từ sau nó. Theo sau which có thể là một động từ hoặc một chủ ngữ.<br>
+D. <b>where</b>: trạng từ quan hệ chỉ nơi chốn, đứng sau danh từ chỉ nơi chốn, làm trạng ngữ trong mệnh đề quan hệ, thay cho at/on/in + which, there.<br>
+→ Ta thấy, chỗ trống cần điền một đại từ quan hệ thay thế cho "<b>Vietnam</b>" và làm chủ ngữ cho động từ "<b>was</b>" sau nó =&gt; dùng "<b>which</b>" phù hợp.<br><b>
+Tạm dịch:</b> Moreover, Vietnam, (40) _______________ was traditionally agricultural, is transforming into an entirely different country. <i>(Hơn nữa, Việt Nam, <b>một nước</b> vốn có truyền thống nông nghiệp, đang chuyển mình thành một quốc gia hoàn toàn khác.)</i><br><b>
+Do đó, C là đáp án phù hợp.
+</b>`,
+        }, ],
+    },
+
+    {
+      semester: 1,
+      grade: 10,
+      questions: [
+      {
+          id: 41,
+          extra: `<p><b>Choose the word/ phrase (A, B, C or D) that best fits the space in each sentence. (3.5 pts) </b></p>`,
+          media:``,
+          question: `Which word has the underlined part pronounced differently from that of the others? 
+        `,
+          options: [`maintain<u>ed</u>`,`follow<u>ed</u>	`,`promot<u>ed</u>`,`consider<u>ed</u>`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm: <br>
+*Xét các đáp án: </b><br>
+A. maintain<u>ed</u> /meɪnˈteɪn<u>d</u>/<br>
+B. follow<u>ed</u> /ˈfɒləʊ<u>d</u>/<br>
+C. promot<u>ed</u> /prəˈməʊt<u>ɪd</u>/<br>
+D. consider<u>ed</u> /kənˈsɪdə<u>d</u>/<br><b>
+=&gt; Theo quy tắc phát âm đuôi -ed, ta có: </b><br>
+Đuôi /ed/ được phát âm là /t/: Khi động từ có phát âm kết thúc là /s/, /f/, /p/, /ʃ/, /tʃ/, /k/. <br>
+Đuôi /ed/ được phát âm là /id/: Khi động từ có phát âm kết thúc là /t/ hay /d/. <br>
+Đuôi /ed/ được phát âm là /d/ với những trường hợp còn lại. <br>
+=&gt; Phần gạch chân ở câu C được phát âm là /ɪd/, còn lại được phát âm là /d/.<br>
+=&gt; Do đó, ta chọn đáp án C.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which word has the underlined part pronounced differently from that of the others?
+        `,
+          options: [`predict<u>s</u> `,`quarter<u>s</u>	`,`pipe<u>s</u>`,`picnic<u>s</u>`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về phát âm: <br>
+*Xét các đáp án: </b><br>
+A. predict<u>s</u> /prɪˈdɪkt<u>s</u>/<br>
+B. quarter<u>s</u> /ˈkwɔːtə<u>z</u>/<br>
+C. pipe<u>s</u>/paɪp<u>s</u>/<br>
+D. picnic<u>s</u> /ˈpɪknɪk<u>s</u>/<br><b>
+=&gt; Theo quy tắc phát âm đuôi -s, ta có:</b><br>
++ /s/: khi âm tận cùng trước nó là /p/, /k/, /f/, /θ/, /t/.<br>
++ /iz/: khi trước -s là: ch, sh, ss, x, ge.<br>
++ /z/: khi âm tận cùng trước nó là nguyên âm và các phụ âm còn lại.<br>
+=&gt; Phần gạch chân ở câu B được phát âm là /z/, còn lại được phát âm là /s/.<br>
+=&gt; Do đó, ta chọn đáp án B.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which word has a different stress pattern from that of the others?
+        `,
+          options: [`attract`,`direct`,`involve`,`struggle`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm:<br>
+*Xét các đáp án:</b><br>
+A. attract /əˈtrækt/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm thường không rơi vào nguyên âm /ə/.<br>
+B. direct /dəˈrekt/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm thường không rơi vào nguyên âm /ə/.<br>
+C. involve /ɪnˈvɒlv/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm thường ưu tiên rơi vào âm cuối kết thúc nhiều hơn một phụ âm.<br>
+D. struggle /ˈstrʌɡl/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, nếu tất cả các âm mà ngắn hết thì trọng âm rơi vào âm đầu tiên.<br>  
+=&gt; Đáp án D có trọng âm rơi vào âm tiết thứ nhất. Các đáp án còn lại trọng âm rơi vào âm tiết thứ hai.<br>
+Do đó, ta chọn đáp án D.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Which word has a different stress pattern from that of the others? 
+        `,
+          options: [`rainforest`,`atmosphere `,`adventure`,`holiday`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về trọng âm:<br>
+*Xét các đáp án:</b><br>
+A. rainforest /ˈreɪnˌfɒrɪst/: từ này có trọng âm rơi vào âm tiết thứ nhất. Vì theo quy tắc, với danh từ ghép trọng âm rơi vào âm tiết thứ nhất<br>
+B. atmosphere /ˈætməsfɪə/: từ này có trọng âm rơi vào âm tiết thứ nhất.<br>
+C. adventure /ədˈventʃə/: từ này có trọng âm rơi vào âm tiết thứ hai. Vì theo quy tắc, trọng âm thường không rơi vào nguyên âm /ə/.<br>
+D. holiday /ˈhɒlədeɪ/: từ này có trọng âm rơi vào âm tiết thứ nhất.
+=&gt; Đáp án C có trọng âm rơi vào âm tiết thứ hai. Các đáp án còn lại trọng âm rơi vào âm tiết thứ nhất.<br>
+Do đó, ta chọn đáp án C.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The strong emotions in the movie <b><i>"Địa Đạo - Mặt trời trong bóng tối"</i></b> are likely to ________ a lot of people to watch it.
+        `,
+          options: [`attract`,`refuse`,`bore`,`make`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng:<br>
+*Xét các đáp án:<br></b>
+A. attract /əˈtrækt/ (v): thu hút<br>
+B. refuse /rɪˈfjuːz/ (v): từ chối<br>
+C. bore /bɔːr/ (v): làm cho ai chán nản<br>
+D. make /meɪk/ (v): tạo ra, làm<br><b>
+Tạm dịch: </b>Những cảm xúc mãnh liệt trong bộ phim “Địa Đạo - Mặt trời trong bóng tối” chắc chắn sẽ thu hút rất nhiều người xem.<br>
+Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Even though the weather was bad at the beginning, the fireworks show at the end was truly ________.
+        `,
+          options: [`ordinary `,`acceptable`,`spectacular`,`excited `,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng:<br>
+*Xét các đáp án:</b><br>
+A. ordinary /ˈɔːdnri/ (adj): bình thường<br>
+B. acceptable /əkˈseptəbl/ (adj): chấp nhận được<br>
+C. spectacular /spekˈtækjələ(r)/ (adj): ngoạn mục<br>
+D. excited /ɪkˈsaɪtɪd/ (adj): hào hứng<br><b>
+Tạm dịch:</b> Mặc dù thời tiết lúc đầu không tốt nhưng màn bắn pháo hoa lúc cuối thực sự ngoạn mục.<br>
+Căn cứ vào nghĩa, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>A: </b>"Have you seen Sarah lately? She's always on her phone!" <br><b>
+B:</b> "I know. I think she's getting ________ to that new online game."
+        `,
+          options: [`eager`,`amused`,`excited `,`addicted `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng:<br>
+*Xét các đáp án:</b><br>
+A. eager /ˈiːɡə(r)/ (adj): háo hức<br>
+B. amused /əˈmjuːzd/ (adj): cảm thấy vui vẻ<br>
+C. excited /ɪkˈsaɪtɪd/ (adj): phấn khích<br>
+D. addicted /əˈdɪktɪd/ (adj): nghiện<br><b>
+Tạm dịch: </b>A: "Gần đây bạn có thấy Sarah không? Cô ấy lúc nào cũng dùng điện thoại!"<br>
+B: "Tôi biết. Tôi nghĩ cô ấy đang nghiện trò chơi trực tuyến mới đó."<br>
+Căn cứ vào nghĩa, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Toan:</b> "Why were you so late getting here from District 12?" <br><b>
+     Nam:</b> "I'm sorry. The roads were so ________because of the rush hour."
+        `,
+          options: [`full `,`heavy`,`congested`,`populated`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng:<br>
+*Xét các đáp án:</b><br>
+A. full /fʊl/ (adj): đầy<br>
+B. heavy /ˈhevi/ (adj): nặng<br>
+C. congested /kənˈdʒestɪd/ (adj): đông nghịt, tắc nghẽn<br>
+D. populated /ˈpɒpjuleɪtɪd/ (adj): có dân cư đông<br><b>
+Tạm dịch:</b> Toàn: "Sao anh từ Quận 12 đến đây muộn thế?"<br>
+Nam: "Xin lỗi. Đường sá tắc nghẽn vì giờ cao điểm."<br>
+Căn cứ vào nghĩa, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Hoa</b>: "We should start planning our vacation now." <b>Mary</b>: " ________”
+        `,
+          options: [`OK, let's do that.`,`I don't like picnics.`,`Picnics aren't the problem, though.`,`I hate them, too.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp:<br>
+*Xét các đáp án:</b><br>
+A. OK, hãy làm điều đó.<br>
+B. Tôi không thích đi dã ngoại.<br>
+C. Nhưng đi dã ngoại không phải là vấn đề.<br>
+D. Tôi cũng ghét chúng.<br><b>
+Tạm dịch:</b> Hoa: "Chúng ta nên bắt đầu lên kế hoạch cho kỳ nghỉ của mình ngay bây giờ." <br>
+Mary: "OK, hãy làm điều đó.”<br>
+Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Tuan</b>: "What are you going to do this weekend?" <b>Phong</b>: " _______”
+        `,
+          options: [`I don't like going out.`,`We plan to visit my grandparents.`,`I'm very tired.`,`It's a good idea.`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về tình huống giao tiếp:<br>
+*Xét các đáp án:</b><br>
+A. Tôi không thích ra ngoài.<br>
+B. Chúng tôi dự định đến thăm ông bà tôi.<br>
+C. Tôi rất mệt.<br>
+D. Đó là một ý kiến hay.<br><b>
+Tạm dịch:</b> Tuấn: "Cuối tuần này bạn định làm gì?" <br>
+Phong: “Chúng tôi dự định đến thăm ông bà tôi.”<br>
+Căn cứ vào nghĩa, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Boy:</b> "When did <b><i>HIEUTHUHAI</i></b> perform his new song?" <br><b>
+       Girl: </b>"Yeah, it was so cool! He did it live _______ <b><i>"Anh Trai Say Hi"</i></b> show.
+        `,
+          options: [`at`,`on`,`in`,`of`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ:</b><br><b>
+*Ta có: </b>Giới từ At thường được dùng khi muốn nói đến một nơi chốn, một điểm cụ thể<br><b>
+Tạm dịch: </b>Cậu bé: "HIEUTHUHAI biểu diễn bài hát mới của anh ấy khi nào vậy?"<br>
+Cô bé: "Ừ, hay lắm! Anh ấy đã biểu diễn trực tiếp trong chương trình "Anh Trai Say Hi".<br>
+Căn cứ vào nghĩa, A là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Peter</b>: "What is that building for, Mr. Jackson?" <b>Mr. Jackson:</b> "That's the dormitory ________ a majority of freshmen live."
+        `,
+          options: [`who `,`whose `,`which `,`where `,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về đại từ/trạng từ quan hệ<br>
+*Xét các đáp án:</b><br>
+A. <b>who </b>là đại từ quan hệ thay thế cho danh từ chỉ người, đóng vai trò làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ 	<br>	
+B. <b>whose </b>là đại từ quan hệ chỉ sở hữu. Whose đứng sau danh từ chỉ người hoặc vật và thay cho tính từ sở hữu trước danh từ. Whose luôn đi kèm với một danh từ.	<br>
+C. <b>which </b>là đại từ quan hệ thay thế cho danh từ chỉ vật, sự vật, sự việc; đóng vai trò làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ<br>
+D. <b>where </b>là trạng từ quan hệ thay thế cho trạng ngữ chỉ nơi chốn<br><b>
+*Ta có:</b><br>
+- Cần trạng từ quan hệ thay thế cho cụm danh từ chỉ địa điểm “the dormitory” ở phía trước -&gt; chỉ dùng được “where”<br><b>
+Tạm dịch:</b> Peter: "Tòa nhà đó dùng để làm gì vậy, thầy Jackson?" Thầy Jackson: "Đó là ký túc xá mà phần lớn sinh viên năm nhất sống."<br>
+Do đó, D là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Parker</b>: "Our parks are getting dirtier than in the past." <b>Emma</b>: "I don't mind _______ them if that can help the environment." 
+        `,
+          options: [`cleaned`,`cleaning `,`cleans `,`to clean`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về danh động từ<br>
+*Ta có:</b><br>
+- mind doing sth: phiền, ngại làm gì<br><b>
+Tạm dịch:</b> Parker: "Công viên của chúng ta đang trở nên bẩn hơn trước." Emma: "Tôi không ngại dọn dẹp chúng nếu điều đó có thể giúp ích cho môi trường."<br>
+Do đó, B là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `<b>Emily</b>: "Your hometown has changed a lot" <br><b>
+      Ken</b>: "Yes, it has. People have moved here from the city ________ its a peaceful life."
+
+        `,
+          options: [`however `,`in spite of `,`despite `,`because of`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về liên từ:<br>
+*Xét các đáp án:</b><br>
+A. however, S + V: tuy nhiên<br>
+B. in spite of + N/ V-ing: mặc dù <br>
+C. despite + N/ V-ing: mặc dù <br>
+D. because of + N/ V-ing: bởi vì<br><b>
+Tạm dịch: </b>Emily: "Quê hương của bạn đã thay đổi rất nhiều" Ken: "Ừ, đúng vậy. Mọi người từ thành phố chuyển đến đây vì cuộc sống yên bình ở đây."<br>
+Căn cứ vào nghĩa, D là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>II. Look at the sign/ picture. Choose the best answer (A, B, C or D) for each sign picture. (0.5 pt) </b></p>`,
+          media:``,
+          question: `What does this sign say?<br><img src="/learn/grand10/a91daa9f-2d96-446c-bde0-75e1adb9db8e.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`You must have permission to use the phone in this area.`,`You may not turn off your phone if you are not using it.`,`Cell phones are only for emergency use here.`,`Cell phones must be turned off or silenced in this area.`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Biển báo nói gì?</b><br>
+"No cell phones allowed in this area. Please turn off your phone or put it on silent."<br><i>
+(Không được phép sử dụng điện thoại di động ở khu vực này. Vui lòng tắt điện thoại hoặc để chế độ im lặng.)</i><br>
+A. Bạn phải được phép sử dụng điện thoại ở khu vực này.<br>
+B. Bạn không được tắt điện thoại nếu không sử dụng.<br>
+C. Điện thoại di động chỉ được sử dụng trong trường hợp khẩn cấp ở đây.<br>
+D. Điện thoại di động phải được tắt hoặc tắt tiếng ở khu vực này. <br>
+Do đó, D là đáp án phù hợp.`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `This sign says _________.<br><img src="/learn/grand10/9d8332c7-cacb-4347-a632-9cf0ffebdfc7.jpg" data-filename="" style="max-width: 600px; height: auto;">
+        `,
+          options: [`Beware of landslides.`,`The mountain cliff is on the right.`,`The work site is on the right.`,`Do not turn right.`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `Biển báo nói ____<br><img src="/learn/grand10/9d8332c7-cacb-4347-a632-9cf0ffebdfc7.jpg" data-filename="" style="max-width: 600px; height: auto;"><br>
+A. Cẩn thận lở đất<br>
+B. Vách núi ở bên phải<br>
+C. Công trường ở bên phải<br>
+D. Không rẽ phải <br>
+ Do đó, B là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>III. Choose the word/phrase (A, B, C or D) that best fits the blank space in the following passage. (1,5 pts) </b></p><p><div style="text-align: justify;">Living a healthy life involves making positive choices that benefit our physical and mental well-being. One important (17) _______ is maintaining a balanced diet. Eating plenty of fruits, vegetables, and whole grains provides our bodies with the necessary (18) _______ to function properly and stay energized throughout the day. Regular physical activity is also (19) _______ for good health. Whether it's playing sports, going for a walk, or simply moving around more, exercise helps to keep our bodies strong and, for good, our minds (20) _______ . Aiming for at least 30 minutes of moderate-intensity exercise most days of the week can make a significant difference. Furthermore, getting enough sleep is crucial. Our bodies cannot work well (21) _______ enough sleep. Most teenagers need around 8-10 hours of sleep each night to feel their best. Finally, managing stress is (22) ________ aspect of healthy living. Finding healthy ways to cope with stress, such as practicing relaxation techniques or spending time with loved ones, can improve our overall quality of life.</div></p>`,
+          media:``,
+          question: `
+        `,
+          options: [`habit`,`routine`,`decision`,`action`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng</b><br>
+A. habit /ˈhæbɪt/ (n): thói quen<br>
+B. routine /ruːˈtiːn/ (n): thói quen sinh hoạt thường ngày<br>
+C. decision /dɪˈsɪʒn/ (n): quyết định<br>
+D. action /ˈækʃn/ (n): hành động<br><b>
+Tạm dịch:</b> One important (17) _______ is maintaining a balanced diet. <i>(Một thói quen quan trọng là duy trì chế độ ăn uống cân bằng.)</i><br>
+Do đó, A là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`vitamins`,`nutrients`,`minerals`,`ingredients`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng</b><br>
+A. vitamin /ˈvɪtəmɪn/ (n): vitamin<br>
+B. nutrient /ˈnjuːtriənt/ (n): chất dinh dưỡng<br>
+C. mineral /ˈmɪnərəl/ (n): khoáng chất<br>
+D. ingredient /ɪnˈɡriːdiənt/ (n): nguyên liệu<br><b>
+Tạm dịch:</b> Eating plenty of fruits, vegetables, and whole grains provides our bodies with the necessary (18) _______ to function properly and stay energized throughout the day. <i>(Ăn nhiều trái cây, rau và ngũ cốc nguyên hạt cung cấp cho cơ thể chúng ta các chất dinh dưỡng cần thiết để hoạt động bình thường và duy trì năng lượng suốt cả ngày.)</i><br>
+Do đó, B là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`vital`,`strong`,`active`,`energetic`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng</b><br>
+A. vital /ˈvaɪtl/ (adj): thiết yếu, quan trọng<br>
+B. strong /strɒŋ/ (adj): mạnh mẽ<br>
+C. active /ˈæktɪv/ (adj): năng động<br>
+D. energetic /ˌenəˈdʒetɪk/ (adj): tràn đầy năng lượng<br><b>
+Tạm dịch: </b>Regular physical activity is also (19) _______ for good health. <i>(Hoạt động thể chất thường xuyên cũng rất quan trọng đối với sức khỏe tốt.)</i><br>
+Do đó, A là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`clean`,`bright`,`sharp`,`focused`,],
+          answer: `4`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ vựng</b><br>
+A. clean /kliːn/ (adj): sạch sẽ<br>
+B. bright /braɪt/ (adj): sáng<br>
+C. sharp /ʃɑːp/ (adj): sắc bén, nhạy bén<br>
+D. focused /ˈfəʊkəst/ (adj): tập trung<br><b>
+Tạm dịch</b>: Whether it's playing sports, going for a walk, or simply moving around more, exercise helps to keep our bodies strong and, for good, our minds (20) _______ . <i>(Cho dù đó là chơi thể thao, đi bộ hay chỉ đơn giản là di chuyển nhiều hơn, tập thể dục giúp cơ thể chúng ta khỏe mạnh và giúp trí óc chúng ta tập trung.)</i><br>
+Do đó, D là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`not`,`without`,`out at`,`through`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về giới từ</b><br><b>
+*Ta có:</b> without: không có, thiếu<br><b>
+Tạm dịch:</b> Our bodies cannot work well (21) _______ enough sleep. <i>(Cơ thể chúng ta không thể hoạt động tốt nếu không ngủ đủ giấc.)</i><br>
+Do đó, B là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `
+        `,
+          options: [`an important`,`the importance`,`importantly`,`importance`,],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại <br>
+*Ta có:</b> important /im'pɔ:tnt/ (adj): quan trọng<br>
+importance /im'pɔ:tns/ (n): sự quan trọng; tầm quan trọng<br>
+importantly /im'pɔ:tntli/ (adv): một cách quan trọng<br><b>
+*Ta có quy tắc:</b> Trước danh từ là tính từ -&gt; chỗ trống cần một tính từ<br><b>
+Tạm dịch:</b> Finally, managing stress is (22) ________ aspect of healthy living. <i>(Cuối cùng, quản lý căng thẳng là một khía cạnh quan trọng của cuộc sống lành mạnh.)</i><br>
+Do đó, A là đáp án phù hợp
+`,
+        },{
+          id: 41,
+          extra: `<p><b>IV. Read the following passage. Decide if the statements from 23 to 26 are True or False, and choose the correct answers (A, B, C or D) for questions 27 and 28, (1,5 pts)</b></p><p><div style="text-align: justify;">Many people who live in cities have tall buildings and busy streets with cars and people. There are buses and trains to help people move around the city. City life gives people many chances for jobs, schools, and fun things to do. But living in a city can also have some problems. Life in a city is usually fast. People often hurry to work or school. This can be exciting, but it can also make people feel stressed. Houses and apartments in cities can cost more money than in the countryside. There is often not much space. Many people live in apartments. But living close together means people from different backgrounds can meet. Cities can have problems like too many cars, dirty air, and sometimes more crime in some areas. People who plan the city and people who live there try to make these things better. City life has both good and bad things.</div></p>`,
+          media:``,
+          question: `Living in a city means you will always have a very quiet life.
+        `,
+          options: [`True`,`False`,],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Sống ở thành phố có nghĩa là bạn sẽ luôn có cuộc sống rất yên tĩnh.<br>
+Căn cứ vào thông tin: </b>Many people who live in cities have tall buildings and busy streets with cars and people. <i>(Nhiều người sống ở thành phố có những tòa nhà cao tầng và những con phố đông đúc với xe cộ và người qua lại.)</i><br>
+=&gt; Đáp án: <b>FALSE</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `If you want to travel around a city, public transport is helpful.
+        `,
+          options: [`True`,`False`],
+          answer: `1`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Nếu bạn muốn di chuyển quanh thành phố, phương tiện giao thông công cộng sẽ rất hữu ích.<br>
+Căn cứ vào thông tin: </b>There are buses and trains to help people move around the city. <i>(Có xe buýt và tàu hỏa giúp mọi người di chuyển quanh thành phố.)</i><br>
+=&gt; Đáp án: <b>TRUE
+
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `It usually costs less money to buy a house in a city than in the countryside.
+        `,
+          options: [`True`,`False`],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Thông thường, mua nhà ở thành phố sẽ tốn ít tiền hơn so với mua nhà ở nông thôn.<br>Căn cứ vào thông tin: </b>Houses and apartments in cities can cost more money than in the countryside. <i>(Nhà cửa và căn hộ ở thành phố có thể tốn kém hơn ở nông thôn.)</i><br>=&gt; Đáp án: <b>FALSE</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `People living in cities often have fewer chances to enjoy themselves than people living outside cities.
+        `,
+          options: [`True`,`False`],
+          answer: `2`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Những người sống ở thành phố thường có ít cơ hội tận hưởng cuộc sống hơn những người sống ở ngoại thành.<br>
+Căn cứ vào thông tin: </b>City life gives people many chances for jobs, schools, and fun things to do.<i> (Cuộc sống thành phố mang đến cho mọi người nhiều cơ hội việc làm, trường học và những điều thú vị để làm.)</i><br>
+=&gt; Đáp án: <b>FALSE</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The passage suggests that the speed of life in cities often causes people to feel ___________
+        `,
+          options: [`very bored with their daily routine. `,`like they have a lot of free time.`,`under pressure because of time.`,`very relaxed and without any worries.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Đoạn văn cho thấy rằng tốc độ sống ở các thành phố thường khiến mọi người cảm thấy ___________</b><br>
+A. rất chán với thói quen hàng ngày của họ.<br>
+B. Sống họ có nhiều thời gian rảnh.<br>
+C. chịu áp lực vì thời gian.<br>
+D. rất thoải mái và không có bất kỳ lo lắng nào.<br><b>
+Căn cứ vào thông tin:</b> Life in a city is usually fast. People often hurry to work or school. This can be exciting, but it can also make people feel stressed. <i>(Cuộc sống ở thành phố thường diễn ra nhanh chóng. Mọi người thường vội vã đi làm hoặc đi học. Điều này có thể thú vị, nhưng cũng có thể khiến mọi người cảm thấy căng thẳng.)</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `What can we understand about the people who organize and live in cities from the passage?
+        `,
+          options: [`They are happy with everything in the city.`,`They think the problems in the city cannot be solved.`,`They are trying to solve the problems associated with urban living. `,`They don't care about making city life better.`,],
+          answer: `3`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Chúng ta có thể hiểu gì về những người tổ chức và sống trong các thành phố từ đoạn văn?</b><br>
+A. Họ hài lòng với mọi thứ trong thành phố.<br>
+B. Họ nghĩ rằng các vấn đề trong thành phố không thể giải quyết được.<br>
+C. Họ đang cố gắng giải quyết các vấn đề liên quan đến cuộc sống đô thị.<br>
+D. Họ không quan tâm đến việc làm cho cuộc sống thành phố tốt đẹp hơn.<br><b>
+Căn cứ vào thông tin:</b> People who plan the city and people who live there try to make these things better. <i>(Những người quy hoạch thành phố và những người sống ở đó cố gắng làm cho những điều này tốt hơn.)</i><br>
+Do đó, C là đáp án phù hợp.
+`,
+        },{
+          id: 41,
+          extra: `<p><b>V. Supply the correct word form of the word given in each sentence. (1.5 pts) </b></p>`,
+          media:``,
+          question: `She was ______________ and had to put her child up for adoption.<b>(home)</b>
+        `,
+          options: [],
+          answer: `homeless`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại</b><br>
+home /həʊm/ (n): nhà, tổ ấm<br>
+homeless /ˈhəʊmləs/ (adj): vô gia cư<br>
+homelessness /ˈhəʊmləsnəs/ (n): tình trạng vô gia cư<br><b>
+Ta có quy tắc: </b>Sau động từ to be là tính từ<br><b>
+Tạm dịch:</b> Cô là người vô gia cư và phải gửi đứa con của mình làm con nuôi.<br><b>
+=&gt; Đáp án: homeless
+
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The rate of ____________ in our neighborhood dropped to 10 percent this year. 	<b>(criminal)</b>
+        `,
+          options: [],
+          answer: `crimes`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại</b><br>
+criminal /ˈkrɪmɪnl/ (n, adj): người phạm tội; (thuộc) tội phạm<br>
+crime /kraɪm/ (n): tội ác, tội phạm<br><b>
+Ta có quy tắc:</b> Sau giới từ là danh từ<br><b>
+Tạm dịch: </b>Tỷ lệ tội phạm ở khu vực của chúng tôi đã giảm xuống 10 phần trăm trong năm nay.<br>
+Căn cứ vào nghĩa, ta chọn từ “crimes”<br><b>
+=&gt; Đáp án: crimes</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `To improve your health, you should _________________ drinking sugary beverages. 	<b>(limitation)</b>
+        `,
+          options: [],
+          answer: `limit`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại</b><br>
+limitation /limi'tei∫n/ (n): sự hạn chế, sự giới hạn<br>
+limit /'limit/ (n,v): giới hạn<br>
+limited /'limitid/ (adj): hạn chế, có hạn<br>
+unlimited /,ʌn'limitid/ (adj): không giới hạn, vô tận, vô hạn<br><b>
+Ta có quy tắc</b>: Sau động từ khuyết thiếu là một động từ nguyên thể<br><b>
+Tạm dịch: </b>Để cải thiện sức khỏe, bạn nên hạn chế uống đồ uống có đường.<br><b>
+=&gt; Đáp án: limit
+</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `She follows a __________________ diet to stay fit and healthy. 				<b>(balance)</b>
+        `,
+          options: [],
+          answer: `balanced`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại</b><br>
+balance /ˈbæləns/ (n, v): sự cân bằng; làm cân bằng<br>
+imbalance /ɪmˈbæləns/ (n): sự mất cân bằng<br>
+balanced /ˈbælənst/ (adj): cân bằng, thăng bằng<br><b>
+Ta có quy tắc: </b>Trước danh từ là tính từ<br><b>
+Tạm dịch: </b>Cô ấy áp dụng chế độ ăn uống cân bằng để giữ gìn vóc dáng và sức khỏe.<br><b>
+=&gt; Đáp án: balanced</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Proper _____________ can prevent many diseases and improve overall well-being.<b> 	(nutritious) </b>
+        `,
+          options: [],
+          answer: `nutrition`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại</b><br>
+nutritious /njuˈtrɪʃəs/ (adj): bổ dưỡng<br>
+nutrition /njuˈtrɪʃn/ (n): sự dinh dưỡng<br>
+nutrient /ˈnjuːtriənt/ (n): chất dinh dưỡng<br><b>
+Ta có quy tắc:</b> Sau tính từ là danh từ<br><b>
+Tạm dịch:</b> Dinh dưỡng hợp lý có thể ngăn ngừa nhiều bệnh tật và cải thiện sức khỏe tổng thể.<br>
+Căn cứ vào nghĩa, chọn từ nutrition<br><b>
+=&gt; Đáp án: nutrition</b>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `The Great Barrier Reef looks like one big structure, but _________ it is made of thousands of small coral reefs. <b>(actual) </b>
+        `,
+          options: [],
+          answer: `actually`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về từ loại</b><br>
+actual /ˈæktʃuəl/ (adj): thực sự, thực tế<br>
+actually /ˈæktʃuəli/ (adv): thực sự, thực tế<br>
+actuality /ˌæktʃuˈæləti/ (n): thực tế<br>
+actualize /ˈæktʃuəlaɪz/ (v): hiện thực hóa<br><b>
+Ta có quy tắc:</b> Cần một trạng từ bổ nghĩa cho cả mệnh đề<br><b>
+Tạm dịch: </b>Rạn san hô Great Barrier trông giống như một cấu trúc lớn, nhưng thực chất nó được tạo thành từ hàng ngàn rạn san hô nhỏ.<br><b>
+=&gt; Đáp án: actually
+</b>`,
+        },{
+          id: 41,
+          extra: `<p><b>VI. Look at the entry of the word 'lifestyle' in a dictionary. Use what you can get from the entry to complete the sentences with two or three words. (0.5 pt)</b></p><p><img src="/learn/grand10/0b36d4ae-c1c2-4f08-b7e2-fc0cea095c91.jpg" data-filename="" style="width: 50%; max-width: 600px;"></p>`,
+          media:``,
+          question: `Many people are trying to maintain a _____________ to improve their health now. healthy lifestyle
+        `,
+          options: [],
+          answer: `healthy lifestyle`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>healthy lifestyle</b><br><b>
+Nhiều người đang cố gắng duy trì ________ để cải thiện sức khỏe của họ ngay bây giờ.</b><br><b>
+*Ta có:</b> healthy lifestyle: lối sống lành mạnh`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Moving from the city to the countryside required some major ________________.
+        `,
+          options: [],
+          answer: `lifestyle changes`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>lifestyle changes<br>
+Việc di chuyển từ thành phố đến vùng nông thôn đòi hỏi một số ________<br>
+*Ta có</b>: lifestyle changes: thay đổi lối sống`,
+        },{
+          id: 41,
+          extra: `<p><b>VII. Rewrite the following sentences so they have the same meaning as the first. (1 pt)</b></p>`,
+          media:``,
+          question: `She advised Peter to have a balanced diet to stay healthy.<br><b><i>
+→ She suggested Peter</i></b> ________________________________________________________________________________.
+        `,
+          options: [],
+          answer: `have a balanced diet to stay healthy`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về thức giả định</b><br><b>
+Tạm dịch câu gốc: </b>Cô khuyên Peter nên có chế độ ăn uống cân bằng để giữ gìn sức khỏe.<br><b>
+Ta có cấu trúc:</b> S + suggest (any tense) + that + S +  (should) + V bare: khuyên/gợi ý ai làm gì<br><b>
+=&gt; Đáp án: She suggested Peter (should) have a balanced diet to stay healthy.</b> <i>(Cô ấy gợi ý Peter nên có chế độ ăn uống cân bằng để giữ gìn sức khỏe.)</i>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `This homework is so difficult that it took me a long time to finish it.<br><b><i>→  This is such</i></b> _________________________________________________________________________________________.
+        `,
+          options: [],
+          answer: ``,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cấu trúc câu<br>Tạm dịch câu gốc:</b>&nbsp;Bài tập này khó đến nỗi tôi phải mất rất nhiều thời gian mới hoàn thành được.<br>Ta có: SO... THAT/SUCH... THAT có nghĩa là "... đến mức..., đến nỗi...", diễn tả mối quan hệ nhân quả.<br>Cấu trúc:<br>S+ tobe/ V + so + adj/adv + that + S + V<br>= S + tobe/ V + so + adj + a/an + N + that + S + V<br>= S + tobe + such + (a/an) + adj + N + that + S + V<br><b>=&gt; Đáp án: This is such difficult homework that it took me a long time to finish it.</b>&nbsp;<i>(Đây là bài tập khó đến nỗi tôi phải mất rất nhiều thời gian mới hoàn thành được.)</i>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `They like to participate in forest preservation.<br><b><i>→ They are </i></b>___________________________________________________________________________________________.
+        `,
+          options: [],
+          answer: `interested in /keen on/ fond of participating in the forest preservation.`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về cụm từ<br>
+Tạm dịch câu gốc: </b>Họ thích tham gia vào việc bảo tồn rừng.<br>
+Ta có: <br>
+-  interested in /keen on/ fond of doing sth: quan tâm thích thú làm gì<br><b>
+=&gt; Đáp án: They are interested in /keen on/ fond of participating in the forest preservation.</b> <i>(Họ quan tâm đến tham gia vào công tác bảo tồn rừng.)</i>`,
+        },{
+          id: 41,
+          extra: ``,
+          media:``,
+          question: `Many other caves are not as accessible as the Goa Pindul Cave.<br><b style="font-style: italic;">
+→ The Goa Pindul Cave is a bit</b> ____________________________________________________________________.
+        `,
+          options: [],
+          answer: `more accessible than many other caves`,
+          rewrite: ``,
+          lastwrite: ``,
+          explanation: `<b>Kiến thức về câu so sánh<br>
+Tạm dịch câu gốc:</b> Nhiều hang động khác không dễ tiếp cận như Hang Goa Pindul.<br>
+Ta có: <br>
+- Chuyển câu: not + so sánh bằng =&gt; so sánh hơn<br>
+- Cấu trúc so sánh hơn:<br>
++ với tính từ và trạng từ ngắn: S + V + adj/ adv + er + than + ...<br>
++ với tính từ và trạng từ dài: S + V + more + adj/ adv + than + ...<br>
+- “accessible” là tính từ dài nên dạng so sánh hơn của “accessible” là “more accessible”<br><b>
+=&gt; Đáp án: The Goa Pindul Cave is a bit more accessible than many other caves.</b> <i>(Hang động Goa Pindul dễ tiếp cận hơn nhiều hang động khác.)</i>`,
+        }, ],
+    },
   
    
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
-  {
-    semester: 1,
-    grade: 10,
-    questions: [
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-      `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-    `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-  `,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-      {
-        id: 41,
-        extra: ``,
-        question: `
-`,
-        options: [``,``,``,``],
-        answer: ``,
-        rewrite: ``,
-        lastwrite: ``,
-        explanation: ``,
-      },
-    ],
-  },
+//   {
+//     semester: 1,
+//     grade: 10,
+//     questions: [
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//       `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//     `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//     `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//     `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//   `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//   `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//   `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//   `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//   `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//   `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//   `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+//   `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//       {
+//         id: 41,
+//         extra: ``,
+//         question: `
+// `,
+//         options: [``,``,``,``],
+//         answer: ``,
+//         rewrite: ``,
+//         lastwrite: ``,
+//         explanation: ``,
+//       },
+//     ],
+//   },
+  
+ 
 ];
 export const eExamLength = eExam.length;

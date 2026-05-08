@@ -405,3 +405,6 @@ html {padding-right:0 !important}
   padding-left:14px
 }
 
+.question img.max_width{
+  max-width:600px !important;
+}
